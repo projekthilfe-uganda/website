@@ -1,5 +1,5 @@
 baseURL = "https://projekthilfe-uganda.de/"
 languageCode = "de-de"
 title = "Projekthilfe Uganda"
-theme = "phuganda"
+#theme = "phuganda"
 #theme = "ananke"
