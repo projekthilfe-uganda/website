@@ -1,1 +1,15 @@
-list page
+{{define "main"}}
+    <h1>
+        {{.Title}}
+    </h1>
+    {{range .Pages}}
+        <div>
+            <h3>
+                {{.Title}}
+            </h3>
+            <p>
+                {{.Content}}
+            </p>
+        </div>
+    {{end}}
+{{end}}

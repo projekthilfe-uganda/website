@@ -1,1 +1,16 @@
-this is the header
+<pre>
+Type:     list page (list.html)
+Content:  {{.Page.RelPermalink}}
+</pre>
+
+<h2>Menu</h2>
+<ul>
+    {{range .Site.Menus.main}}
+        <li>
+            {{if .Pre}}
+                <i class="fa {{.Pre}}"></i>
+            {{end}}
+            {{.Name}}
+        </li>
+    {{end}}
+</ul>
