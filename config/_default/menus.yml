@@ -1,0 +1,25 @@
+main:
+  - identifier: home
+    pre: fa-home
+    url: /
+    weight: 10
+  - identifier: verein
+    name: Unser Verein
+    url: /verein/
+    weight: 20
+  - identifier: projekte
+    name: Unsere Projekte
+    url: /projekte/
+    weight: 30
+  - identifier: helfen
+    name: So können Sie helfen
+    url: /helfen/
+    weight: 40
+  - identifier: news
+    name: Aktuelles
+    url: /news/
+    weight: 50
+  - identifier: menu
+    name: Menü
+    pre: fa-bars
+    weight: 50

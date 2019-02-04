@@ -3,17 +3,3 @@ languageCode: "de"
 title: "Projekthilfe Uganda"
 #theme: "phuganda"
 #theme: "ananke"
-
-menu:
-  main:
-    - identifier: home
-      name:
-      pre: fa-home
-      url: /
-    - identifier: about
-      name: about hugo
-      pre: fa-heart
-      url: /about/
-    - identifier: getting-started
-      name: getting started
-      url: /getting-started/
