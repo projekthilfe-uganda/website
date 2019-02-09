@@ -3,3 +3,5 @@ languageCode: "de"
 title: "Projekthilfe Uganda"
 #theme: "phuganda"
 #theme: "ananke"
+watch: false
+buildDrafts: false
