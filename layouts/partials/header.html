@@ -1,6 +1,25 @@
-<pre>
-Type:     list page (list.html)
-Content:  {{.Page.RelPermalink}}
-</pre>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm pt-2 pb-2">
+            <img src="/img/logo_name.svg" width="350" height="83" alt="logo" />
+        </div>
+        <div class="col-sm pt-2">
+            <div class="row">
+                <div class="col-sm">
+                    <p class="text-right">
+                        IBAN: DE57 6606 1724 0023 0108 01<br>
+                        BIC:  GENODE61WGA
+                    </p>
+                </div>
+                <div class="col-auto pt-2">
+                    <button type="button" class="btn btn-primary float-right">Spenden</button>
 
-{{partial "menu.html" .}}
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        {{partial "menu.html" .}}
+    </div>
+</div>
