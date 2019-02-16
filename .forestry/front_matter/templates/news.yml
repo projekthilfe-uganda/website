@@ -2,4 +2,16 @@
 label: news
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+  description: Date of creation.
+  config:
+    date_format: DD.MM.YYYY
+- type: text
+  name: subtitle
+  label: Subtitle
