@@ -1,4 +1,5 @@
 +++
+type = "article"
 date = ""
 draft = true
 title = "Mitarbeit"
