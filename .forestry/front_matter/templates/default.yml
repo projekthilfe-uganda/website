@@ -1,0 +1,11 @@
+---
+label: default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+  default: '{{ replace .Name "-" " " | title }}'
