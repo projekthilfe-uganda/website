@@ -19,5 +19,4 @@ Wir reagieren auf die Bedürfnisse durch
 
 **....machen Sie mit.**
 
-**  
-(aktuelle Termine finden Sie im Bereich Aktuelles)**
+(aktuelle Termine finden Sie im Bereich Aktuelles)

@@ -1,15 +1,10 @@
 {{define "main"}}
-    <h1>
-        {{.Title}}
-    </h1>
     {{range .Pages}}
-        <div>
-            <h3>
-                {{.Title}}
-            </h3>
-            <p>
-                {{.Content}}
-            </p>
-        </div>
+        {{if eq .Type "article"}}
+            {{- partial "article.html" . -}}
+        {{end}}
+        {{if eq .Type "news"}}
+            {{- partial "news.html" . -}}
+        {{end}}
     {{end}}
 {{end}}
