@@ -22,5 +22,5 @@ fields:
   label: Subtitle
 pages:
 - content/news/my-first-post.md
-- content/news/01-22-november-2016.md
 - content/news/november-2017.md
+- content/news/01-22-november-2016.md
