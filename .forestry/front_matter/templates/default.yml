@@ -8,7 +8,7 @@ fields:
   name: title
   config:
     required: true
-  default: '{{ replace .Name "-" " " | title }}'
+  default: ''
 - type: datetime
   name: date
   label: Date
