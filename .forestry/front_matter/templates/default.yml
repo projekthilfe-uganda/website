@@ -4,6 +4,12 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: type
+  label: Type
+  description: ''
+  hidden: true
+  default: article
+- type: text
   label: Title
   name: title
   config:
@@ -15,12 +21,6 @@ fields:
   description: Date of creation or last update.
   config:
     date_format: DD.MM.YYYY
-- type: text
-  name: type
-  label: Type
-  description: ''
-  hidden: true
-  default: article
 pages:
 - content/verein/index.md
 - content/helfen/mitarbeit.md
