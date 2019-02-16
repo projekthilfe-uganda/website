@@ -9,3 +9,19 @@ fields:
   config:
     required: true
   default: '{{ replace .Name "-" " " | title }}'
+- type: datetime
+  name: date
+  label: Date
+  description: Date of creation or last update.
+  config:
+    date_format: DD.MM.YYYY
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - article
+    - pic-teaser
+  label: Type
+  description: The type of content.
