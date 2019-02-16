@@ -1,0 +1,11 @@
+---
+label: carousel
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: image_gallery
+  name: pics
+  label: Pictures
