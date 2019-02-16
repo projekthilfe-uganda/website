@@ -3,7 +3,6 @@ type = "article"
 date = ""
 draft = true
 title = "Mitarbeit"
-type = "article"
 
 +++
 **So helfen wir:**
