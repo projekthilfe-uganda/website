@@ -11,3 +11,4 @@ fields:
   label: Pictures
 pages:
 - content/news/picture-carousel.md
+- content/verein/picture-carousel.md
