@@ -1,11 +1,11 @@
 ---
-title: "My First Post"
-date: 2019-02-03T13:02:44+01:00
-draft: true
+title: Aktuelles
+date: 2019-02-03 12:02:44 +0000
 menu:
   docs:
-    parent: 'news'
+    parent: news
     weight: 20
----
+draft: true
 
-First Post Content
+---
+Hier veröffentlichen wir was gerade so passiert.
