@@ -1,5 +1,5 @@
 ---
-label: page content
+label: article
 hide_body: false
 is_partial: false
 fields:
@@ -15,16 +15,12 @@ fields:
   description: Date of creation or last update.
   config:
     date_format: DD.MM.YYYY
-- type: select
+- type: text
   name: type
-  config:
-    source:
-      type: simple
-    options:
-    - article
-    - pic-teaser
   label: Type
-  description: The type of content.
+  description: ''
+  hidden: true
+  default: article
 pages:
 - content/verein/index.md
 - content/helfen/mitarbeit.md
