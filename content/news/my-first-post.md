@@ -1,7 +1,8 @@
 ---
-title: Aktuelles
-date: 2019-02-03 12:02:44 +0000
+title: 16. Oktober 2016
+date: 2016-10-15 22:00:00 +0000
 type: ''
+subtitle: Uganda-Fest
 menu:
   docs:
     parent: news
@@ -9,4 +10,4 @@ menu:
 draft: true
 
 ---
-Hier veröffentlichen wir was gerade so passiert.
+Pfarrzentrum Büchenau
