@@ -15,3 +15,5 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
+pages:
+- content/news/my-first-post.md
