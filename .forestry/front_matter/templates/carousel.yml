@@ -9,3 +9,5 @@ fields:
 - type: image_gallery
   name: pics
   label: Pictures
+pages:
+- content/news/picture-carousel.md
