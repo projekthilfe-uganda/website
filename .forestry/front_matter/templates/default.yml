@@ -27,3 +27,4 @@ fields:
   description: The type of content.
 pages:
 - content/verein/index.md
+- content/helfen/index.md
