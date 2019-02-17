@@ -5,7 +5,7 @@ title = "Teaser Block"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/africa-866602_1920.jpg"
-text = "<p>Wie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt. <a href=\"/verein\" title=\"Unser Verein\">Mehr über den Verein</a></p>"
+text = "Wie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt. [Mehr über den Verein](/verein \"Unser Verein\")"
 title = "Unser Verein"
 [[teaser]]
 picture = "/uploads/women-898757_1920.jpg"
