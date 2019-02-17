@@ -1,5 +1,5 @@
 ---
-label: picture teaser
+label: teaser block
 hide_body: false
 is_partial: false
 fields:
@@ -7,13 +7,31 @@ fields:
   name: type
   label: Type
   hidden: true
-  default: picteaser
+  default: teaserblock
 - type: text
   name: name
   label: Name
   description: Internal, not visible name.
-- type: file
-  name: picture
-  label: Picture
+- type: field_group_list
+  name: teaser
+  label: Teaser
+  description: Add teaser elements here.
   config:
-    maxSize: '5'
+    min: '2'
+    labelField: title
+  fields:
+  - type: text
+    name: title
+    label: Title
+    config:
+      required: true
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
+  - type: file
+    name: picture
+    label: Picture
