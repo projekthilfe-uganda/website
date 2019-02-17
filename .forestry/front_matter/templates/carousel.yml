@@ -1,5 +1,5 @@
 ---
-label: carousel
+label: picture slider
 hide_body: false
 is_partial: false
 fields:
@@ -7,7 +7,7 @@ fields:
   name: type
   label: Type
   hidden: true
-  default: carousel
+  default: picslider
 - type: text
   name: title
   label: Title
