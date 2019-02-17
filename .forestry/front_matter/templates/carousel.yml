@@ -18,7 +18,6 @@ fields:
     min: '1'
     max: '20'
   fields:
-  - type: text
   - type: file
     name: picture
     label: Picture
