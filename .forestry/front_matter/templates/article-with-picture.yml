@@ -21,12 +21,13 @@ fields:
       type: simple
     required: true
     options:
-    - 'Left: Landscape Picture'
-    - 'Left: Portrait Picture'
-    - 'Right: Landscape Picture'
-    - 'Right: Portrait Picture'
+    - right-portrait
+    - left-portrait
+    - right-landscape
+    - left-landscape
   label: Layout
   description: The layout to use for displaying on the website.
+  default: 'Left: Landscape Picture'
 pages:
 - content/home/picture-left-landscape.md
 - content/home/picture-right-portrait.md
