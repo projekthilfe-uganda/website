@@ -1,0 +1,22 @@
+{{ $slider := where .Pages "Type" "==" "picslider"}}
+{{ if gt (len $slider) 0 }}
+    <div id="picSliderFade" class="carousel slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner">
+            {{ range $i, $_ := $slider }}
+                {{ range $j, $_ := .Params.slides }}
+                    <div class="carousel-item {{ if and (eq $i 0) (eq $j 0) }}active{{ end }}">
+                        <img src="{{ .picture }}" class="d-block w-100" alt="...">
+                    </div>
+                {{ end }}
+            {{end}}
+        </div>
+        <a class="carousel-control-prev" href="#picSliderFade" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#picSliderFade" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+{{end}}
