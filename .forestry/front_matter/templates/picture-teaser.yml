@@ -9,7 +9,7 @@ fields:
   hidden: true
   default: teaserblock
 - type: text
-  name: name
+  name: title
   label: Name
   description: Internal, not visible name.
 - type: field_group_list
