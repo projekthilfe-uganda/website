@@ -30,8 +30,3 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
-pages:
-- content/verein/picture-carousel.md
-- content/news/picture-carousel.md
-- content/helfen/picture-carousel.md
-- content/projekte/picture-carousel.md
