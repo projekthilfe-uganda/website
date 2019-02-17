@@ -1,0 +1,8 @@
+---
+label: Picture
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: picture
+  label: Picture
