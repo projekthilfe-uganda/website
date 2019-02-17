@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin"
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: content
@@ -15,18 +15,18 @@ sections:
   create: documents
   match: "**/*"
   templates:
-    - article
-    - picture-teaser
-    - carousel
-    - article-with-picture
-    - picture
+  - article
+  - picture-teaser
+  - carousel
+  - article-with-picture
+  - picture
 - type: directory
   path: content/verein
   label: Unser Verein
   create: documents
   match: "**/*"
   templates:
-    - article
+  - article
   - picture-teaser
   - carousel
   - article-with-picture
@@ -37,7 +37,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-    - article
+  - article
   - picture-teaser
   - carousel
   - article-with-picture
@@ -48,7 +48,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-    - article
+  - article
   - picture-teaser
   - carousel
   - article-with-picture
