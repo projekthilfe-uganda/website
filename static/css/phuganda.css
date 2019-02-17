@@ -2,6 +2,13 @@ body {
     /*font-size: 125%;*/
 }
 
+.picture-cover {
+    object-fit: cover;
+    max-height: 100%;
+    margin-left: 50%;
+    transform: translateX(-50%)
+}
+
 /***************************
 *** article
 ***************************/
@@ -28,19 +35,7 @@ body {
     }
 
     .teaserblock .pic-block {
-        width: 100% !important;
-    }
-}
-
-@media (max-width: 575.98px) {
-    .teaserblock .pic-block {
-        height: 350px;
-    }
-}
-
-@media (min-width: 576px) and (max-width: 767.98px) {
-    .teaserblock .pic-block {
-        height: 450px;
+        width: 100%;
     }
 }
 
@@ -51,38 +46,51 @@ body {
     }
 
     .teaserblock .pic-block {
-        width: 50% !important;
+        width: 50%;
     }
 
 }
 
+@media (max-width: 575.98px) {
+    .teaserblock {
+        height: 350px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .teaserblock  {
+        height: 450px;
+    }
+}
+
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .teaserblock .pic-block {
+    .teaserblock {
         height: 350px;
     }
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-    .teaserblock .pic-block {
+    .teaserblock {
         height: 450px;
     }
 }
 
-@media (min-width: 1200px) {
-    .teaserblock .pic-block {
+@media (min-width: 1200px) and (max-width: 1499.98px) {
+    .teaserblock {
         height: 550px;
     }
 }
 
 @media (min-width: 1500px) {
-    .teaserblock .pic-block {
+    .teaserblock {
         height: 700px;
     }
 }
 
-.teaserblock .picture img {
-    object-fit: cover;
-    max-height: 100%;
-    margin-left: 50%;
-    transform: translateX(-50%)
+/***************************
+*** article with picture
+***************************/
+
+.picarticle {
+    height: 450px;
 }

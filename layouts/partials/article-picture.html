@@ -1,0 +1,13 @@
+<div  class="{{.Type}} container mt-5 mb-5 d-flex {{ if hasPrefix .Layout "Left" }}flex-row-reverse{{end}}">
+    <div class="w-50 bg-primary p-3">
+        <h3>
+            {{.Title}}
+        </h3>
+        <div class="content">
+            {{.Content}}
+        </div>
+    </div>
+    <div class="w-50 overflow-hidden">
+        <img class="picture-cover" src="{{ .Params.Picture }}" alt="{{ .Params.Picture }}"/>
+    </div>
+</div>

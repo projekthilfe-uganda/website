@@ -1,6 +1,9 @@
 {{if eq .Type "article"}}
     {{- partial "article.html" . -}}
 {{end}}
+{{if eq .Type "picarticle"}}
+    {{- partial "article-picture.html" . -}}
+{{end}}
 {{if eq .Type "teaserblock"}}
     {{- partial "teaser-block.html" . -}}
 {{end}}
