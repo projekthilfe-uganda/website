@@ -12,7 +12,6 @@ sections:
 - type: document
   path: home
   label: Home
-  match: "**/*"
 - type: directory
   path: content/verein
   label: Unser Verein
