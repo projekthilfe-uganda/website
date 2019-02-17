@@ -16,3 +16,18 @@ body {
         column-gap: 3rem;
     }
 }
+
+/***************************
+*** teaser block
+***************************/
+
+.teaserblock .pic-block {
+    height: 400px;
+}
+
+.teaserblock .picture img {
+    object-fit: cover;
+    max-height: 100%;
+    margin-left: 50%;
+    transform: translateX(-50%)
+}

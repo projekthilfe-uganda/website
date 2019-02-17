@@ -1,8 +1,7 @@
 +++
 date = "2019-02-17T15:20:37+00:00"
 draft = true
-name = "Teaser Block"
-title = ""
+title = "Teaser Block"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/africa-866602_1920.jpg"
