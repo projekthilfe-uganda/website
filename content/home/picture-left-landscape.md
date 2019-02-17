@@ -1,7 +1,7 @@
 +++
 date = "2019-02-17T17:48:26+00:00"
 draft = true
-layout = "Left: Landscape Picture"
+layout = "left-landscape"
 picture = "/uploads/child-251920_1920.jpg"
 title = "Picture Left Landscape"
 type = "picarticle"
