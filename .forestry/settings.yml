@@ -41,7 +41,7 @@ sections:
   - picture
 - type: directory
   path: content/news
-  label: News
+  label: Aktuelles
   create: documents
   match: "**/*"
   templates:
