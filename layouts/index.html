@@ -1,16 +1,7 @@
 {{define "main"}}
-    <h1>
-        {{.Title}}
-    </h1>
-
     {{range .Pages}}
-        <div>
-            <h3>
-                {{.Title}}
-            </h3>
-            <p>
-                {{.Content}}
-            </p>
-        </div>
+        {{ if hasPrefix .Path "home/" }}
+            {{- partial "types.html" . -}}
+        {{ end }}
     {{end}}
 {{end}}

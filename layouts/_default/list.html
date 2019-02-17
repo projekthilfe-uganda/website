@@ -1,10 +1,5 @@
 {{define "main"}}
     {{range .Pages}}
-        {{if eq .Type "article"}}
-            {{- partial "article.html" . -}}
-        {{end}}
-        {{if eq .Type "news"}}
-            {{- partial "news.html" . -}}
-        {{end}}
+        {{- partial "types.html" . -}}
     {{end}}
 {{end}}
