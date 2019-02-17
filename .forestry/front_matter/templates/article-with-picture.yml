@@ -2,4 +2,15 @@
 label: article with picture
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: type
+  label: Type
+  hidden: true
+  default: picarticle
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: picture
+  label: Picture
