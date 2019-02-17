@@ -11,24 +11,41 @@ sections:
   match: "*"
 - type: directory
   path: content/verein
-  label: Verein
-  create: all
+  label: Unser Verein
+  create: documents
   match: "**/*"
+  templates:
+  - picture-teaser
+  - carousel
+  - article-with-picture
+  - picture
 - type: directory
   path: content/projekte
-  label: Projekte
-  create: all
+  label: Unsere Projekte
+  create: documents
   match: "**/*"
+  templates:
+  - picture-teaser
+  - carousel
+  - article-with-picture
+  - picture
 - type: directory
   path: content/helfen
-  label: Helfen
-  create: all
+  label: So können Sie Helfen
+  create: documents
   match: "**/*"
+  templates:
+  - picture-teaser
+  - carousel
+  - article-with-picture
+  - picture
 - type: directory
   path: content/news
   label: News
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - news
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
