@@ -28,4 +28,5 @@ fields:
   label: Layout
   description: The layout to use for displaying on the website.
 pages:
+- content/home/picture-left-portrait.md
 - content/home/picture-left-landscape.md
