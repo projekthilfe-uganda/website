@@ -35,3 +35,5 @@ fields:
   - type: file
     name: picture
     label: Picture
+pages:
+- content/home/menu-teaser.md
