@@ -2,10 +2,11 @@
 date = "2019-02-17T15:20:37+00:00"
 draft = true
 name = "Teaser Block"
+title = ""
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/africa-866602_1920.jpg"
-text = "Wie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt.\n\n[Mehr über den Verein](/verein/ \"Unser Verein\")"
+text = "<p>Wie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt. <a href=\"/verein\" title=\"Unser Verein\">Mehr über den Verein</a></p>"
 title = "Unser Verein"
 [[teaser]]
 picture = "/uploads/women-898757_1920.jpg"
