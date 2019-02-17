@@ -11,9 +11,25 @@ fields:
 - type: text
   name: title
   label: Title
-- type: image_gallery
-  name: pics
-  label: Pictures
+- type: field_group_list
+  name: slides
+  label: Slides
+  config:
+    min: '1'
+    max: '20'
+  fields:
+  - type: text
+  - type: file
+    name: picture
+    label: Picture
+  - type: textarea
+    name: text
+    label: Text
+    description: Optional text to show on the slide.
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
 - content/verein/picture-carousel.md
 - content/news/picture-carousel.md
