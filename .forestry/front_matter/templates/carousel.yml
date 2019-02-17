@@ -1,6 +1,6 @@
 ---
 label: picture slider
-hide_body: false
+hide_body: true
 is_partial: false
 fields:
 - type: text
@@ -9,8 +9,9 @@ fields:
   hidden: true
   default: picslider
 - type: text
-  name: title
-  label: Title
+  name: name
+  label: Name
+  description: Not visible, internal name.
 - type: field_group_list
   name: slides
   label: Slides
