@@ -15,12 +15,6 @@ fields:
   config:
     required: true
   default: ''
-- type: datetime
-  name: date
-  label: Date
-  description: Date of creation or last update.
-  config:
-    date_format: DD.MM.YYYY
 pages:
 - content/verein/index.md
 - content/helfen/mitarbeit.md
