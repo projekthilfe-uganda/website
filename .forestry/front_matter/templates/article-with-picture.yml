@@ -14,3 +14,16 @@ fields:
 - type: file
   name: picture
   label: Picture
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - 'Left: Landscape Picture'
+    - 'Left: Portrait Picture'
+    - 'Right: Landscape Picture'
+    - 'Right: Portrait Picture'
+  label: Layout
+  description: The layout to use for displaying on the website.
