@@ -1,0 +1,17 @@
+---
+label: article
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: type
+  label: Type
+  description: ''
+  hidden: true
+  default: article
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+  default: ''
