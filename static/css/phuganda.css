@@ -9,6 +9,58 @@ body {
     transform: translateX(-50%)
 }
 
+.w-30 {
+    width: 30%;
+}
+
+.w-gold-s {
+    width: 38.2%;
+}
+
+.mt-10,
+.my-10 {
+    margin-top: 6rem !important;
+}
+
+.mb-10,
+.my-10 {
+    margin-bottom: 6rem !important;
+}
+
+.mr-10,
+.mx-10 {
+    margin-right: 6rem !important;
+}
+
+.ml-10,
+.mx-10 {
+    margin-left: 6rem !important;
+}
+
+.pl-gold-s {
+    padding-left: 38.2% !important;
+}
+
+.pr-gold-s {
+    padding-right: 38.2% !important;
+}
+
+.pr-25 {
+    padding-right: 25% !important;
+}
+
+.pr-30 {
+    padding-right: 30% !important;
+}
+
+.pr-33 {
+    padding-right: 33% !important;
+}
+
+.l-50 {
+    left: 50%;
+}
+
 /***************************
 *** article
 ***************************/
@@ -93,4 +145,37 @@ body {
 
 .picarticle {
     height: 450px;
+}
+
+/***************************
+*** parallax
+***************************/
+
+.parallax {
+    height: 100vh;
+    perspective-origin: 100% 50%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-perspective: 300px;
+    perspective: 300px;
+}
+
+.parallax-group {
+    position: relative;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    /*transform: translate3d(700px, 0, -800px) rotateY(30deg);*/
+}
+
+.parallax-layer {
+    transform-origin: 100% 50% 0;
+    position: absolute;
+}
+.parallax-layer.base {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+}
+.parallax-layer.back {
+    -webkit-transform: translateZ(-30px) scale(1.1);
+    transform: translateZ(-30px) scale(1.1);
 }

@@ -1,5 +1,5 @@
-<div  class="{{.Type}} container mt-5 mb-5 d-flex {{ if hasPrefix .Layout "Left" }}flex-row-reverse{{end}}">
-    <div class="w-50 bg-primary p-3">
+<div class="{{.Type}} {{.Layout}} parallax-group container mt-10 mb-10 {{ if hasPrefix .Layout "Left" }}flex-row-reverse{{end}}">
+    <div class="w-75 h-100 pr-33 p-3 mt-5 parallax-layer back bg-primary">
         <h3>
             {{.Title}}
         </h3>
@@ -7,7 +7,7 @@
             {{.Content}}
         </div>
     </div>
-    <div class="w-50 overflow-hidden">
+    <div class="w-gold-s h-100 l-50 parallax-layer base overflow-hidden">
         <img class="picture-cover" src="{{ .Params.Picture }}" alt="{{ .Params.Picture }}"/>
     </div>
 </div>
