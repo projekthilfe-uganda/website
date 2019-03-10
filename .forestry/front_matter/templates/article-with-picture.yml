@@ -20,13 +20,11 @@ fields:
       type: simple
     required: true
     options:
-    - right-portrait
-    - left-portrait
-    - right-landscape
-    - left-landscape
+    - pic-right
+    - pic-left
   label: Layout
   description: The layout to use for displaying on the website.
-  default: right-portrait
+  default: pic-right
 - type: number
   name: height
   label: height in pixel
