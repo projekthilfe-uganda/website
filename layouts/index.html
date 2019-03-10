@@ -1,7 +1,16 @@
 {{define "main"}}
-    {{range .Pages}}
-        {{ if hasPrefix .Path "home/" }}
-            {{- partial "types.html" . -}}
-        {{ end }}
-    {{end}}
+    {{$lastType := ""}}
+    <div class="overflow-hidden">
+        {{- range .Pages}}
+            {{- if hasPrefix .Path "home/" -}}
+                {{- if and (ne .Type $lastType) (ne $lastType "") -}}
+                    </div>
+                    <div class="overflow-hidden">
+                {{- end -}}
+
+                {{- partial "types.html" . -}}
+                {{$lastType = .Type}}
+            {{- end -}}
+        {{- end -}}
+    </div>
 {{end}}

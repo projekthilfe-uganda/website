@@ -104,37 +104,37 @@ body {
 }
 
 @media (max-width: 575.98px) {
-    .teaserblock {
+    .teaserblock .pic-block {
         height: 350px;
     }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
-    .teaserblock  {
+    .teaserblock .pic-block {
         height: 450px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .teaserblock {
+    .teaserblock .pic-block {
         height: 350px;
     }
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-    .teaserblock {
+    .teaserblock .pic-block {
         height: 450px;
     }
 }
 
 @media (min-width: 1200px) and (max-width: 1499.98px) {
-    .teaserblock {
+    .teaserblock .pic-block {
         height: 550px;
     }
 }
 
 @media (min-width: 1500px) {
-    .teaserblock {
+    .teaserblock .pic-block {
         height: 700px;
     }
 }

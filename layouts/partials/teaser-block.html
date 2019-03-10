@@ -1,6 +1,6 @@
 <div class="{{.Type}} container-fluid mt-5 mb-5 p-0 d-flex flex-wrap">
     {{ range $i, $_ := .Params.teaser }}
-        <div class="pic-block d-flex h-100 {{ if modBool (div $i 2) 2 }}reverse{{end}}">
+        <div class="pic-block d-flex {{ if modBool (div $i 2) 2 }}reverse{{end}}">
             <div class="w-50 overflow-hidden">
                 <img class="picture-cover" src="{{ .picture }}" alt="{{ .picture }}"/>
             </div>
