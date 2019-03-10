@@ -175,7 +175,11 @@ body {
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
 }
+.parallax-layer.front {
+    -webkit-transform: translateZ(30px) scale(0.91);
+    transform: translateZ(30px) scale(0.91);
+}
 .parallax-layer.back {
-    -webkit-transform: translateZ(-30px) scale(1.1);
-    transform: translateZ(-30px) scale(1.1);
+    -webkit-transform: translateZ(-30px) scale(1.11);
+    transform: translateZ(-30px) scale(1.11);
 }
