@@ -37,7 +37,7 @@ fields:
     required: true
   description: Adjust this to look good and show the entire text.
 pages:
+- content/home/picture-right-portrait.md
 - content/home/picture-left-landscape.md
 - content/home/picture-left-portrait.md
 - content/home/picture-right-landscape.md
-- content/home/picture-right-portrait.md
