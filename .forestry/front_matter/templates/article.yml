@@ -14,6 +14,12 @@ fields:
   config:
     required: true
   default: ''
+- type: number
+  name: order
+  label: order
+  description: Sort order on page
+  config:
+    step: '1'
 pages:
 - content/verein/das-ist-ein-test.md
 - content/helfen/mitarbeit.md
