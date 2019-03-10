@@ -3,6 +3,7 @@ date = "2019-02-17T17:48:26+00:00"
 draft = true
 height = 900
 layout = "pic-left"
+order = 10
 picture = "/uploads/child-251920_1920.jpg"
 title = "Picture Left"
 type = "picarticle"
