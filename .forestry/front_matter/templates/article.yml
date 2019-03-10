@@ -1,7 +1,6 @@
 ---
 label: article
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: type
@@ -16,5 +15,5 @@ fields:
     required: true
   default: ''
 pages:
-- content/helfen/mitarbeit.md
 - content/verein/das-ist-ein-test.md
+- content/helfen/mitarbeit.md

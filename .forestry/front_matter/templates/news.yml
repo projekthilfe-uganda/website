@@ -1,7 +1,6 @@
 ---
 label: news
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: type
@@ -21,5 +20,5 @@ fields:
   name: subtitle
   label: Subtitle
 pages:
-- content/news/01-22-november-2016.md
 - content/news/november-2017.md
+- content/news/01-22-november-2016.md
