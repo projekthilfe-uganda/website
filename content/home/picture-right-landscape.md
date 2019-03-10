@@ -2,9 +2,9 @@
 date = "2019-02-17T17:49:49+00:00"
 draft = true
 height = 450
-layout = "right-landscape"
+layout = "pic-right"
 picture = "/uploads/women-898757_1920.jpg"
-title = "Picture Right Landscape"
+title = "Picture Right"
 type = "picarticle"
 
 +++
