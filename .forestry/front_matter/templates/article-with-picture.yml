@@ -28,7 +28,7 @@ fields:
   description: The layout to use for displaying on the website.
   default: 'Left: Landscape Picture'
 pages:
+- content/home/picture-left-landscape.md
 - content/home/picture-left-portrait.md
 - content/home/picture-right-landscape.md
 - content/home/picture-right-portrait.md
-- content/home/picture-left-landscape.md
