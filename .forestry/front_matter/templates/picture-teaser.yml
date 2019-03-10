@@ -11,6 +11,12 @@ fields:
   name: title
   label: Name
   description: Internal, not visible name.
+- type: number
+  name: order
+  label: order
+  description: Sort order on page
+  config:
+    step: '1'
 - type: field_group_list
   name: teaser
   label: Teaser
