@@ -3,8 +3,11 @@ body {
 }
 
 .picture-cover {
+    /* fills the entire space with the pic while keeping ratio */
     object-fit: cover;
     max-height: 100%;
+    min-width: 100%;
+    /* centers the picture on x-axis */
     margin-left: 50%;
     transform: translateX(-50%)
 }
@@ -144,8 +147,32 @@ body {
 ***************************/
 
 .picarticle {
+    position: relative;
     min-height: 100px;
 }
+
+.picarticle.pic-right .content {
+    background: #0f7469;
+    left: -20px;
+    padding-right: 33% !important;
+}
+
+.picarticle.pic-right .picture {
+    position: absolute;
+    right: -3px;
+}
+
+.picarticle.pic-left .content {
+    background: #0f7469;
+    right: 33px;
+    padding-left: 33% !important;
+}
+
+.picarticle.pic-left .picture {
+    position: absolute;
+    left: 92px;
+}
+
 
 /***************************
 *** parallax

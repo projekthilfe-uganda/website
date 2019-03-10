@@ -1,7 +1,7 @@
 {{define "main"}}
     {{$lastType := ""}}
     <div class="overflow-hidden">
-        {{- range .Pages}}
+        {{- range sort .Pages "Params.order" -}}
             {{- if hasPrefix .Path "home/" -}}
                 {{- if and (ne .Type $lastType) (ne $lastType "") -}}
                     </div>
