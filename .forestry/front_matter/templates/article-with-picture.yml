@@ -26,7 +26,16 @@ fields:
     - left-landscape
   label: Layout
   description: The layout to use for displaying on the website.
-  default: 'Left: Landscape Picture'
+  default: right-portrait
+- type: number
+  name: height
+  label: height in pixel
+  config:
+    step: '25'
+    min: '100'
+    max: '5000'
+    required: true
+  description: Adjust this to look good and show the entire text.
 pages:
 - content/home/picture-left-landscape.md
 - content/home/picture-left-portrait.md
