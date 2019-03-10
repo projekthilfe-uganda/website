@@ -34,6 +34,12 @@ fields:
     max: '5000'
     required: true
   description: Adjust this to look good and show the entire text.
+- type: number
+  label: order
+  name: order
+  description: Higher numbers for order will be shown after.
+  config:
+    step: '1'
 pages:
 - content/home/picture-right-portrait.md
 - content/home/picture-left-landscape.md
