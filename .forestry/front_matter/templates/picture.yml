@@ -5,3 +5,9 @@ fields:
 - type: file
   name: picture
   label: Picture
+- type: number
+  name: order
+  label: order
+  description: Sort order on page
+  config:
+    step: '1'
