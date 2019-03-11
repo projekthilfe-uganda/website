@@ -152,7 +152,6 @@ body {
 }
 
 .picarticle.pic-right .content {
-    background: #0f7469;
     left: -20px;
     padding-right: 33% !important;
 }
@@ -163,7 +162,6 @@ body {
 }
 
 .picarticle.pic-left .content {
-    background: #0f7469;
     right: 33px;
     padding-left: 33% !important;
 }
