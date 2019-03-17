@@ -9,11 +9,11 @@ text = "#### Unser Verein\n\nWie sind eine Gruppe engagierter Menschen, die sich
 title = "Unser Verein"
 [[teaser]]
 picture = "/uploads/women-898757_1920.jpg"
-text = "Schulbildung, Berufsausbildungen, Patenschaften, landwirtschaftliche Projekte, caritative Projekte und mehr fördern wir in Uganda.\n\n[Mehr zu den Projekten](/projekte/ \"Unsere Projekte\")"
+text = "#### Unsere Projekte\n\nSchulbildung, Berufsausbildungen, Patenschaften, landwirtschaftliche Projekte, caritative Projekte und mehr fördern wir in Uganda.\n\n[Mehr zu den Projekten](/projekte/ \"Unsere Projekte\")"
 title = "Unsere Projekte"
 [[teaser]]
 picture = "/uploads/africa-866599_1920.jpg"
-text = "... durch Spenden für die Projekte in Uganda, durch Patenschaften für Schulkinder und Auszubildende, durch Ihr Engagement und sogar einfach über amazon-smile.\n\n[Mehr zum Thema Helfen](/helfen/ \"So können Sie helfen\")"
+text = "#### So können Sie helfen\n\n... durch Spenden für die Projekte in Uganda, durch Patenschaften für Schulkinder und Auszubildende, durch Ihr Engagement und sogar einfach über amazon-smile.\n\n[Mehr zum Thema Helfen](/helfen/ \"So können Sie helfen\")"
 title = "So können Sie helfen"
 [[teaser]]
 picture = "/uploads/africa-3936371_1920.jpg"
