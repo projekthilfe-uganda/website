@@ -1,11 +1,11 @@
 {{ $slider := where .Pages "Type" "==" "picslider"}}
 {{ if gt (len $slider) 0 }}
-    <div id="picSliderFade" class="carousel slide carousel-fade" data-ride="carousel">
-        <div class="carousel-inner">
+    <div id="picSliderFade" class="carousel slide carousel-fade h-75" data-ride="carousel">
+        <div class="carousel-inner h-100">
             {{ range $i, $_ := $slider }}
                 {{ range $j, $_ := .Params.slides }}
-                    <div class="carousel-item {{ if and (eq $i 0) (eq $j 0) }}active{{ end }}">
-                        <img src="{{ .picture }}" class="d-block w-100" alt="...">
+                    <div class="carousel-item h-100 {{ if and (eq $i 0) (eq $j 0) }}active{{ end }}">
+                        <img src="{{ .picture }}" class="d-block picture-cover" alt="...">
                     </div>
                 {{ end }}
             {{end}}
