@@ -8,6 +8,6 @@ picture = "/uploads/IMG_0917_bf.JPG"
 text = "Nachhaltige Entwicklung durch Agrar-Projekte"
 [[slides]]
 picture = "/uploads/IMG_0891_bf.JPG"
-text = "Nachhaltige Entwicklung durch Agrar-Hilfsprojekte"
+text = "Nachhaltige Entwicklung durch Agrar-Projekte"
 
 +++
