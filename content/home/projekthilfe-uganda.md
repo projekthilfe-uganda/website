@@ -1,7 +1,8 @@
 +++
 date = "2019-03-17T11:45:14+00:00"
 h1 = "Projekthilfe Uganda"
-h2 = "Langfristige Hilfe in der Region Kyambulibwa / Uganda"
+h2 = "Langfristige Hilfe in der Region Kyambulibwa in Uganda"
+h3 = ""
 order = 20
 title = "2 Artikel Projekthilfe Uganda"
 type = "article"
