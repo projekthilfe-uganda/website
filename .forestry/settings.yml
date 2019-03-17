@@ -34,7 +34,7 @@ sections:
 - type: directory
   path: content/projekte
   label: Unsere Projekte
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - article
