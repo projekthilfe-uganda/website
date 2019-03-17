@@ -21,5 +21,6 @@ fields:
   config:
     step: '1'
 pages:
+- content/home/projekthilfe-uganda.md
 - content/verein/das-ist-ein-test.md
 - content/helfen/mitarbeit.md
