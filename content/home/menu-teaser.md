@@ -13,7 +13,7 @@ text = "Schulbildung, Berufsausbildungen, Patenschaften, landwirtschaftliche Pro
 title = "Unsere Projekte"
 [[teaser]]
 picture = "/uploads/africa-866599_1920.jpg"
-text = "... durch Spenden für die Projekte in Uganga, durch Patenschaften für Schulkinder und Auszubildende, durch Ihr Engagement und sogar einfach über amazon-smile.\n\n[Mehr zum Thema Helfen](/helfen/ \"So können Sie helfen\")"
+text = "... durch Spenden für die Projekte in Uganda, durch Patenschaften für Schulkinder und Auszubildende, durch Ihr Engagement und sogar einfach über amazon-smile.\n\n[Mehr zum Thema Helfen](/helfen/ \"So können Sie helfen\")"
 title = "So können Sie helfen"
 [[teaser]]
 picture = "/uploads/africa-3936371_1920.jpg"
