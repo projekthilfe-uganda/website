@@ -1,7 +1,13 @@
 ---
 label: picture
 hide_body: false
+display_field: title
 fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
 - type: file
   name: picture
   label: Picture
