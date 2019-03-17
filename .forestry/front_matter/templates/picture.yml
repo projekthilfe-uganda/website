@@ -11,3 +11,5 @@ fields:
   description: Sort order on page
   config:
     step: '1'
+pages:
+- content/home/Schulprojekte.md
