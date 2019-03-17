@@ -1,11 +1,10 @@
 +++
 date = "2019-02-17T17:49:08+00:00"
-draft = true
 height = 450
 layout = "pic-left"
 order = 30
-picture = "/uploads/africa-3936371_1920.jpg"
-title = "Picture Left"
+picture = "/uploads/IMG_2296_bf.JPG"
+title = "Picture Left Armut begegnen"
 type = "picarticle"
 
 +++
