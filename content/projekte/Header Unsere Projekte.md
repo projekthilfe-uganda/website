@@ -8,6 +8,6 @@ picture = "/uploads/IMG_1870_bf.JPG"
 text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
 [[slides]]
 picture = "/uploads/IMG_1843_bf.JPG"
-text = "Unsere Hilfe besteht aus vielen Bausteinen"
+text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
 
 +++
