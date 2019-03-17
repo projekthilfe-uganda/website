@@ -4,5 +4,8 @@ name = "1 Header Caritas"
 order = ""
 type = "picslider"
 [[slides]]
+picture = "/uploads/IMG_2224_bf.JPG"
+text = "Hilfe in schwierigen Zeiten"
+[[slides]]
 
 +++
