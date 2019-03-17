@@ -35,6 +35,7 @@ fields:
       schema:
         format: markdown
 pages:
+- content/projekte/Caritas für die Ärmsten/Header Caritas.md
 - content/projekte/Berufsausbildungen/Header Berufsausbildungen.md
 - content/projekte/Header Unsere Projekte.md
 - content/projekte/Agrar-Hilfsprogramm für Kleinbauern/Header Agrar-Hilfsprogramm.md
