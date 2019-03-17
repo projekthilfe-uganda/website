@@ -8,6 +8,8 @@ type = "picslider"
 picture = "/uploads/IMG_1640_bf.JPG"
 text = "Nachhaltige Entwicklung in Uganda"
 [[slides]]
+picture = "/uploads/IMG_1829_bf.JPG"
+text = "Nachhaltige Entwicklung in Uganda durch Ausbildungen"
 [[slides]]
 [[slides]]
 
