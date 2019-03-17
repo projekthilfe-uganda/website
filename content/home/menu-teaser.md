@@ -1,7 +1,7 @@
 +++
 date = "2019-02-17T15:20:37+00:00"
 order = 20
-title = "Teaser Block"
+title = "2 Teaser Block"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/africa-866602_1920.jpg"
