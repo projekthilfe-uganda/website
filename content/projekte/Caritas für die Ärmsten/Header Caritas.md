@@ -7,5 +7,7 @@ type = "picslider"
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Hilfe in schwierigen Zeiten"
 [[slides]]
+picture = "/uploads/IMG_2301_bf.JPG"
+text = "Not erkennen und helfen"
 
 +++
