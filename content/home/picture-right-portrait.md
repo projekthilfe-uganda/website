@@ -1,10 +1,9 @@
 +++
 date = "2019-02-17T17:50:13+00:00"
-draft = true
 height = 450
 layout = "pic-right"
 order = 20
-picture = "/uploads/africa-866599_1920.jpg"
+picture = "/uploads/IMG_2312_bf.JPG"
 title = "Picture Right Gesundheitsversorgung"
 type = "picarticle"
 
