@@ -14,5 +14,7 @@ text = "Nachhaltige Entwicklung in Uganda durch Ausbildungen"
 picture = "/uploads/IMG_0901_bf.JPG"
 text = "Nachhaltige Enwicklung in Uganda durch Brunnenbau"
 [[slides]]
+picture = "/uploads/child-251920_1920.jpg"
+text = "Nachhaltige Entwicklung in Uganda"
 
 +++
