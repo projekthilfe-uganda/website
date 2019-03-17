@@ -41,6 +41,7 @@ fields:
   config:
     step: '1'
 pages:
+- content/home/picture-left-patenschaften.md
 - content/home/picture-right-portrait.md
 - content/home/picture-left-landscape.md
 - content/home/picture-left-portrait.md
