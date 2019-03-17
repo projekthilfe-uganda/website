@@ -1,6 +1,7 @@
 ---
 label: article with picture
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: type
@@ -10,6 +11,7 @@ fields:
 - type: text
   name: title
   label: Title
+  description: Internal Name
 - type: file
   name: picture
   label: Picture
