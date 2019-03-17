@@ -1,6 +1,7 @@
 +++
 date = "2019-03-17T12:55:37+00:00"
-name = "Nachhaltige Entwicklung in Uganda"
+height = ""
+name = "1 Nachhaltige Entwicklung in Uganda"
 order = 1
 type = "picslider"
 [[slides]]
