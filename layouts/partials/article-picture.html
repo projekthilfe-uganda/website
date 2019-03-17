@@ -1,6 +1,6 @@
 <div class="{{.Type}} {{.Layout}} parallax-group container mt-10 mb-10 {{ if hasPrefix .Layout "Left" }}flex-row-reverse{{end}}"
      style="height: {{.Params.Height}}px">
-    <div class="content w-75 p-3 parallax-layer back">
+    <div class="content w-75 p-3 border-primary border parallax-layer">
         {{.Content}}
     </div>
     <div class="picture w-50 h-100 parallax-layer front overflow-hidden">

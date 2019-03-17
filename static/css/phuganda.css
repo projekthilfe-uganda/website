@@ -152,23 +152,25 @@ body {
 }
 
 .picarticle.pic-right .content {
-    left: -20px;
+    left: 0px;
     padding-right: 33% !important;
 }
 
 .picarticle.pic-right .picture {
     position: absolute;
-    right: -3px;
+    right: 0px;
+    top: 40px;
 }
 
 .picarticle.pic-left .content {
-    right: 33px;
+    right: 0px;
     padding-left: 33% !important;
 }
 
 .picarticle.pic-left .picture {
     position: absolute;
-    left: 92px;
+    left: 0px;
+    top: -20px;
 }
 
 
@@ -178,7 +180,7 @@ body {
 
 .parallax {
     height: 100vh;
-    perspective-origin: 100% 50%;
+    /*perspective-origin: 100% 50%;*/
     overflow-x: hidden;
     overflow-y: auto;
     -webkit-perspective: 300px;
@@ -193,7 +195,7 @@ body {
 }
 
 .parallax-layer {
-    transform-origin: 100% 50% 0;
+    /*transform-origin: 100% 50% 0;*/
     position: absolute;
 }
 .parallax-layer.base {
