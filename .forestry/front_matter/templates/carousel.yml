@@ -12,6 +12,15 @@ fields:
   label: Name
   description: Not visible, internal name.
 - type: number
+  name: height
+  label: height in pixel
+  description: height of the slider in pixels
+  config:
+    min: '100'
+    max: '3000'
+    step: '50'
+    required: true
+- type: number
   name: order
   label: order
   description: Sort order on page

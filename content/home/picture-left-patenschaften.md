@@ -2,9 +2,9 @@
 date = "2019-03-17T13:17:15+00:00"
 height = 450
 layout = "pic-left"
-order = ""
+order = 60
 picture = "/uploads/IMG_1686_bf.JPG"
-title = "Picture left Patenschaften"
+title = "6 Picture left Patenschaften"
 type = "picarticle"
 
 +++
