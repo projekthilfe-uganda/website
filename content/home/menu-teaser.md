@@ -1,6 +1,6 @@
 +++
 date = "2019-02-17T15:20:37+00:00"
-order = 100
+order = 20
 title = "Teaser Block"
 type = "teaserblock"
 [[teaser]]
