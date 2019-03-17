@@ -1,6 +1,6 @@
 +++
 date = "2019-02-17T17:49:49+00:00"
-height = 450
+height = 600
 layout = "pic-right"
 order = 80
 picture = "/uploads/IMG_1624_bf.JPG"

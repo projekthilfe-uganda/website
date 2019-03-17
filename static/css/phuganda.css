@@ -151,6 +151,25 @@ body {
     min-height: 100px;
 }
 
+.picarticle h1 {
+    font-size: 2.4rem;
+}
+.picarticle h2 {
+    font-size: 2.1rem;
+}
+.picarticle h3 {
+    font-size: 1.8rem;
+}
+.picarticle h4 {
+    font-size: 1.5rem;
+}
+.picarticle h5 {
+    font-size: 1.2rem;
+}
+.picarticle h6 {
+    font-size: 1rem;
+}
+
 .picarticle.pic-right .content {
     left: 0px;
     padding-right: 33% !important;
