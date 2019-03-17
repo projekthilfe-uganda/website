@@ -17,7 +17,7 @@ text = "#### So können Sie helfen\n\n... durch Spenden für die Projekte in Uga
 title = "So können Sie helfen"
 [[teaser]]
 picture = "/uploads/africa-3936371_1920.jpg"
-text = "#### Aktuelles\n\nImmer wieder informieren wir in unseren News über aktuelle Entwicklungen unserer Projekte in Uganda und über Veranstaltungen & Initiativen in Deutschland."
+text = "#### Aktuelles\n\nImmer wieder informieren wir in unseren News über aktuelle Entwicklungen unserer Projekte in Uganda und über Veranstaltungen & Initiativen in Deutschland.\n\n[Zu den News]()"
 title = "Aktuelles"
 
 +++
