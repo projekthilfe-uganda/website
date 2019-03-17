@@ -2,7 +2,7 @@
 date = "2019-02-17T17:49:08+00:00"
 height = 450
 layout = "pic-left"
-order = 45
+order = 50
 picture = "/uploads/IMG_2296_bf.JPG"
 title = "5 Picture Left Armut begegnen"
 type = "picarticle"
