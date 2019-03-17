@@ -5,7 +5,7 @@ title = "Projekthilfe Uganda"
 type = "article"
 
 +++
-## **Langfristige Hilfe in der Region Kyambulibwa / Uganda**
+### Langfristige Hilfe in der Region Kyambulibwa / Uganda
 
 Projekthilfe, Entwicklungshilfe, Hilfe zur Selbsthilfe – wie auch immer Sie es nennen, viele Menschen in Uganda leben in großer Armut und sind auf Hilfe angewiesen. Kosten für Schulbildung, berufliche Ausbildung und Krankenversorgung sind für arme Familien oft nicht bezahlbar. Hinzu kommen Probleme wie Nahrungsmittel-Knappheit und unsauberes Wasser.
 
