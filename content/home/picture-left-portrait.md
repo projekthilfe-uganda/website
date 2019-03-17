@@ -9,4 +9,10 @@ title = "Picture Left"
 type = "picarticle"
 
 +++
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## **Armut begegnen**
+
+### **Lebensumstände verbessern**
+
+84 % der Ugander leben im Buschland und 40 % in bitterer Armut. In unserer Gegend haben fast ein Viertel der Jugendlichen Aids. Man lebt in sehr kleinen Häuschen, die mit alten Wellblechstücken oder Gras belegt sind. Fenster gibt es keine oder sie sind zugenagelt. Vielleicht gibt es 1-2 Bettgestelle, oft gibt es nichts, nicht einmal Wolldecken.
+
+[Wie wir konkret helfen]()
