@@ -1,6 +1,5 @@
 +++
 date = "2019-02-17T15:20:37+00:00"
-draft = true
 order = 100
 title = "Teaser Block"
 type = "teaserblock"
