@@ -35,5 +35,6 @@ fields:
       schema:
         format: markdown
 pages:
+- content/projekte/Header Unsere Projekte.md
 - content/projekte/Agrar-Hilfsprogramm für Kleinbauern/Header Agrar-Hilfsprogramm.md
 - content/home/Header Startseite.md
