@@ -1,4 +1,7 @@
 {{ $slider := where .Pages "Type" "==" "picslider"}}
+{{ if eq .Kind "home"}}
+    {{ $slider = where $slider "Section" "==" "home"}}
+{{ end }}
 {{ if gt (len $slider) 0 }}
     <div id="picSliderFade" class="carousel slide carousel-fade h-75" data-ride="carousel">
         <div class="carousel-inner h-100">
