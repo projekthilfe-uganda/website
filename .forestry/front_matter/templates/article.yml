@@ -16,6 +16,18 @@ fields:
     required: true
   default: ''
   description: Internal Name
+- type: text
+  name: h1
+  label: h1
+  description: H1 header. Only fill once per page.
+- type: text
+  name: h2
+  label: h2
+  description: H2 header
+- type: text
+  name: h3
+  label: h3
+  description: H3 header
 - type: number
   name: order
   label: order
