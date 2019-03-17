@@ -2,9 +2,9 @@
 date = "2019-02-17T17:50:13+00:00"
 height = 450
 layout = "pic-right"
-order = 70
+order = 60
 picture = "/uploads/IMG_2312_bf.JPG"
-title = "7 Picture Right Gesundheitsversorgung"
+title = "6 Picture Right Gesundheitsversorgung"
 type = "picarticle"
 
 +++
