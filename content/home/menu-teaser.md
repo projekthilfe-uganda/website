@@ -5,7 +5,7 @@ title = "Teaser Block"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/africa-866602_1920.jpg"
-text = "#### Unser Verein\n\nWie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt – und das seit über 35 Jahren. [Mehr über den Verein](/verein \"Unser Verein\")"
+text = "#### Unser Verein\n\nWie sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt – und das seit über 35 Jahren. \n\n[Mehr über den Verein](/verein \"Unser Verein\")"
 title = "Unser Verein"
 [[teaser]]
 picture = "/uploads/women-898757_1920.jpg"
