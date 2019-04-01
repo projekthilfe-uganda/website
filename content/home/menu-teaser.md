@@ -9,7 +9,7 @@ text = "#### Unser Verein\n\nWie sind eine Gruppe engagierter Menschen, die sich
 title = "Unser Verein"
 [[teaser]]
 picture = "/uploads/women-898757_1920.jpg"
-text = "#### Unsere Projekte\n\nSchulbildung, Berufsausbildungen, Patenschaften, landwirtschaftliche Projekte, caritative Projekte und mehr fördern wir in Uganda.\n\n[Mehr zu den Projekten](/projekte/ \"Unsere Projekte\")"
+text = "#### Unsere Projekte\n\nSchulbildung, Berufsausbildungen, Patenschaften, landwirtschaftliche Projekte, Gesundheitsprojekte, caritative Projekte und mehr fördern wir in Uganda.\n\n[Mehr zu den Projekten](/projekte/ \"Unsere Projekte\")"
 title = "Unsere Projekte"
 [[teaser]]
 picture = "/uploads/africa-866599_1920.jpg"
