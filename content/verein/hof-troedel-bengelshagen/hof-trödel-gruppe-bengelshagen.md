@@ -9,7 +9,9 @@ type = "article"
 +++
 In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in Nordrhein-Westfalen, verkauft der Hof-Trödel Bengelshagen in den Sommermonaten Trödel zu einem guten Zweck und veranstaltet zudem einen Weihnachtsbasar.
 
-Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach konnten schon viele Projekte in Uganda realisiert werden, u.a.:
+Die ehrenamtliche Gruppe um Initiator Bruno Steinbach unterstützt die Projekthilfe Uganda e.V. seit über 10 Jahren. 
+
+Aus den Erlösen und Spendeneinnahmen des Hof-Trödel Bengelshagen konnten schon viele Projekte in Uganda realisiert werden, u.a.:
 
 * ein Haus mit 10 Zimmern zur Aufnahme von hilfsbedürftigen Menschen
 * Förderung des St. Joseph Krankenhaus in Kyamulibawa
