@@ -42,4 +42,5 @@ fields:
     name: picture
     label: Picture
 pages:
+- content/verein/teaser-unser-verein.md
 - content/home/menu-teaser.md
