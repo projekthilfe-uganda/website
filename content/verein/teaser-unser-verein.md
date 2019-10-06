@@ -1,6 +1,6 @@
 +++
 draft = true
-order = 2
+order = 3
 title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
@@ -9,7 +9,7 @@ text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder 
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
-text = "Nehmen Sie gerne mit uns Kontakt auf. "
+text = "Nehmen Sie gerne mit uns Kontakt auf. [Zum Kontakt](verein/kontakt \"Kontakt\")"
 title = "Kontakt"
 [[teaser]]
 picture = "/uploads/IMG_1839_bf.JPG"
