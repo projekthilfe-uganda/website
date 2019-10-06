@@ -1,5 +1,4 @@
 +++
-draft = true
 name = "Header Unser Verein"
 order = 1
 type = "picslider"

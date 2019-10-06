@@ -1,5 +1,4 @@
 +++
-draft = true
 order = 3
 title = "Teaser Unser Verein"
 type = "teaserblock"

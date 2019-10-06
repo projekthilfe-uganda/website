@@ -1,5 +1,4 @@
 +++
-draft = true
 h1 = "Kontakt Projekthilfe Uganda"
 h2 = ""
 h3 = ""
