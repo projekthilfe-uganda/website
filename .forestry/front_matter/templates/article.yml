@@ -35,11 +35,11 @@ fields:
   config:
     step: '1'
 pages:
+- content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
 - content/verein/hof-troedel-bengelshagen/hof-trödel-gruppe-bengelshagen.md
 - content/verein/aktionen-buechenau/aktionen-rund-um-büchenau.md
 - content/verein/bilder-videos/bilder-videos.md
 - content/verein/verwaltungsstruktur-uganda/verwaltungsstruktur-in-uganda.md
-- content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
 - content/verein/kontakt/kontakt.md
 - content/home/wir-freuen-uns-über-ihre-hilfe.md
 - content/home/projekthilfe-uganda.md
