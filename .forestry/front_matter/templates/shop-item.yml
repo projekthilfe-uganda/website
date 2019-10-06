@@ -2,6 +2,13 @@
 label: shop item
 hide_body: false
 fields:
+- name: type
+  type: text
+  config:
+    required: true
+  label: Type
+  hidden: true
+  default: shopitem
 - name: title
   type: text
   config:
