@@ -35,6 +35,7 @@ fields:
   config:
     step: '1'
 pages:
+- content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
 - content/verein/kontakt/kontakt.md
 - content/home/wir-freuen-uns-über-ihre-hilfe.md
 - content/home/projekthilfe-uganda.md
