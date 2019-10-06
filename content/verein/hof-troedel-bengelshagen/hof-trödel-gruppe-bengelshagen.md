@@ -1,5 +1,4 @@
 +++
-draft = true
 h1 = "Hof-Trödel Bengelshagen"
 h2 = "Projekthilfe Uganda e.V. in Norddeutschland "
 h3 = ""
