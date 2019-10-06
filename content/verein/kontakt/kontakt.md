@@ -3,7 +3,7 @@ draft = true
 h1 = "Kontakt Projekthilfe Uganda"
 h2 = ""
 h3 = ""
-order = nil
+order = 1
 title = "Kontakt"
 type = "article"
 
