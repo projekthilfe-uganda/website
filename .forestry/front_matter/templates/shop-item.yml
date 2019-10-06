@@ -46,6 +46,7 @@ fields:
     min: 
     max: 
     step: 
+    required: false
 pages:
 - content/shop/items/tisch.md
 - content/shop/items/sitzbank.md
