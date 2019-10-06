@@ -15,3 +15,7 @@ Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach ko
 * Förderung des St. Joseph Krankenhaus in Kyamulibawa
 * Kauf eines Röntgengeräts
 * Kauf von 50 Holzbetten mit Moskitonetzen
+
+**Kontakt Hof-Trödel Bengelshagen**
+
+Bruno Steinbach, Tel. 02266 901 98 20
