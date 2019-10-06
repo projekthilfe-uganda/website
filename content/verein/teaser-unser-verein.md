@@ -4,13 +4,17 @@ order = 2
 title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
-picture = "/uploads/IMG_1839_bf.JPG"
-text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda. "
-title = "Auszeichnungen"
+picture = "/uploads/IMG_2312_bf.JPG"
+text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden. Spenden-Möglichkeiten"
+title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. "
 title = "Kontakt"
+[[teaser]]
+picture = "/uploads/IMG_1839_bf.JPG"
+text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda. "
+title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_0901_bf.JPG"
 text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch. "
