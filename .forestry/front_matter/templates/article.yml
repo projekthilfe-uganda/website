@@ -35,6 +35,7 @@ fields:
   config:
     step: '1'
 pages:
+- content/verein/aktionen-buechenau/aktionen-rund-um-büchenau.md
 - content/verein/bilder-videos/bilder-videos.md
 - content/verein/verwaltungsstruktur-uganda/verwaltungsstruktur-in-uganda.md
 - content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
