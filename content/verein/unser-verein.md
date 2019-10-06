@@ -12,8 +12,7 @@ Projektleiter ist Pfarrer Denis Ddamulira, Träger das Entwicklungsbüro der Dio
 
 Die Mitarbeiter arbeiten alle ehrenamtlich, Flüge werden privat finanziert. Es entstehen keinerlei Verwaltungskosten.
 
-**Unsere Ziele:**  
-Mit Hilfe zur Selbsthilfe versuchen wir, die Gesundheitsversorgung zu verbessern, einfache Berufsausbildung zu ermöglichen,  
+Unsere Ziele: Mit Hilfe zur Selbsthilfe versuchen wir, die Gesundheitsversorgung zu verbessern, einfache Berufsausbildung zu ermöglichen,  
 bessere Anbaumethoden zu unterstützen und die Projekte so zu gestalten, dass sie sich alle einmal selbst tragen.
 
 **_....das möchten wir langfristig ändern - mit Ihrer Hilfe._**
