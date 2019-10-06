@@ -47,6 +47,6 @@ fields:
     max: 
     step: 
 pages:
-- content/shop/items/folie-für-ein-wasserloch.md
 - content/shop/items/tisch.md
 - content/shop/items/sitzbank.md
+- content/shop/items/folie-für-ein-wasserloch.md

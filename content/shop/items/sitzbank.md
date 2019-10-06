@@ -1,5 +1,6 @@
 +++
 draft = true
+identifier = "sitzbank"
 order = 20
 picture = "/uploads/Tisch.jpg"
 price = 25

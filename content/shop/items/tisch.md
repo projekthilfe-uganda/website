@@ -1,5 +1,6 @@
 +++
 draft = true
+identifier = "tisch"
 order = 30
 picture = "/uploads/Tisch.jpg"
 price = 75
