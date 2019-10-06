@@ -7,7 +7,7 @@ title = "Hof-Trödel-Gruppe Bengelshagen"
 type = "article"
 
 +++
-In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in Nordrhein-Westfalen, verkauft der Hof-Trödel Bengelshagen in den Sommermonaten Trödel zu einem guten Zweck.
+In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in Nordrhein-Westfalen, verkauft der Hof-Trödel Bengelshagen in den Sommermonaten Trödel zu einem guten Zweck und veranstaltet zudem einen Weihnachtsbasar.
 
 Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach konnten schon viele Projekte in Uganda realisiert werden:
 
@@ -21,3 +21,5 @@ Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach ko
 Bruno Steinbach, Tel. 02266 901 98 20
 
 51688 Wipperfürth
+
+[Auf Facebook]()
