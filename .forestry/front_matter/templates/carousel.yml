@@ -35,7 +35,6 @@ fields:
       schema:
         format: markdown
 pages:
-- content/home/file.md
 - content/projekte/Caritas für die Ärmsten/Header Caritas.md
 - content/home/Header Startseite.md
 - content/projekte/Berufsausbildungen/Header Berufsausbildungen.md
