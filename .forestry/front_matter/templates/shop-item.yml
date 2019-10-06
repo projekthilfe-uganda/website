@@ -34,6 +34,7 @@ fields:
     min: '0'
     max: '10000'
     step: ''
+    required: true
   label: Price
 - name: order
   type: number
