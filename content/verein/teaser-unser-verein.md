@@ -4,9 +4,9 @@ order = 2
 title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
-picture = "/uploads/IMG_1887_bf.JPG"
-text = "Unterstützt wird unser Verein durch weitere Engagierte im norddeutschen Bengelshagen. "
-title = "Hoftrödelgruppe Bengelshagen"
+picture = "/uploads/IMG_1839_bf.JPG"
+text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda. "
+title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. "
@@ -27,5 +27,9 @@ title = "Bilder & Videos"
 picture = "/uploads/IMG_1128_bf.JPG"
 text = "Bei uns in Büchenau bei Bruchsal führen wir immer wieder Aktionen für die Projekthilfe in Uganda durch."
 title = "Aktionen rund um Büchenau"
+[[teaser]]
+picture = "/uploads/IMG_1887_bf.JPG"
+text = "Unterstützt wird unser Verein durch weitere Engagierte im norddeutschen Bengelshagen. "
+title = "Hoftrödelgruppe Bengelshagen"
 
 +++
