@@ -4,6 +4,10 @@ order = 2
 title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
+picture = "/uploads/IMG_1887_bf.JPG"
+text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet. "
+title = "Verwaltungsstruktur"
+[[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. "
 title = "Kontakt"
