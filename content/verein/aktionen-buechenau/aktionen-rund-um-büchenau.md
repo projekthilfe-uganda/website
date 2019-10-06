@@ -8,10 +8,13 @@ title = "Aktionen rund um Büchenau"
 type = "article"
 
 +++
+Bei vielen Gelegenheiten bringen wir uns in unserer Gemeinde und in der Umgebung ein und erzielen so Einnahmen, die wir dann für unsere Hilfsprojekte in Kyambulibwa / Uganda einsetzen können. 
 
-**Uganda-Fest  
-**Im Oktober feiern wir im Pfarrzentrum Büchenau unser Uganda-Fest
+**Uganda-Fest**  
+Im Oktober feiern wir im Pfarrzentrum Büchenau unser Uganda-Fest
 
 **Hobby- und Kunstausstellung  
 **Bürgerzentrum Bruchsal  
-Jedes Jahr wam 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusstellung in Bruchsal an einem Stand unsere Werke.****
+Jedes Jahr wam 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusstellung in Bruchsal an einem Stand unsere Werke.
+
+Unterstützt werden wir auch durch Aktionen der Missionsgruppe 
