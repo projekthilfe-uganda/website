@@ -1,5 +1,6 @@
 +++
 draft = true
+identifier = "folie_wasserloch"
 order = 10
 picture = "/uploads/Wasserreservoir.jpg"
 price = 30
