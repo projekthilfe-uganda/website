@@ -41,4 +41,5 @@ fields:
     max: 
     step: 
 pages:
+- content/shop/items/sitzbank.md
 - content/shop/items/folie-für-ein-wasserloch.md
