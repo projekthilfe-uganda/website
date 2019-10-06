@@ -3,10 +3,6 @@ order = 3
 title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
-picture = "/uploads/IMG_2312_bf.JPG"
-text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden. [Spenden-Möglichkeiten](shop \"Spenden\")"
-title = "Spenden"
-[[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. [Zum Kontakt](verein/kontakt \"Kontakt\")"
 title = "Kontakt"
@@ -14,6 +10,10 @@ title = "Kontakt"
 picture = "/uploads/IMG_1839_bf.JPG"
 text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda. "
 title = "Auszeichnungen"
+[[teaser]]
+picture = "/uploads/IMG_2312_bf.JPG"
+text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden. [Spenden-Möglichkeiten](shop \"Spenden\")"
+title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_0901_bf.JPG"
 text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch. "
@@ -32,7 +32,7 @@ text = "Bei uns in Büchenau bei Bruchsal führen wir immer wieder Aktionen für
 title = "Aktionen rund um Büchenau"
 [[teaser]]
 picture = "/uploads/IMG_1887_bf.JPG"
-text = "Unterstützt wird unser Verein durch weitere Engagierte im norddeutschen Bengelshagen. "
-title = "Hoftrödelgruppe Bengelshagen"
+text = "Unterstützt wird unser Verein durch weitere Engagierte in Bengelshagen im Regierungsbezirk Köln."
+title = "Hof-Trödel-Gruppe Bengelshagen"
 
 +++
