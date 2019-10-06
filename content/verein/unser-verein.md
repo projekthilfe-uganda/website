@@ -6,6 +6,14 @@ h1: Unser Verein Projekthilfe Uganda
 order: '2'
 
 ---
-84 % der Ugander leben im Buschland und 40 % in bitterer Armut. In unserer Gegend haben fast ein Viertel der Jugendlichen Aids. Man lebt in sehr kleinen Häuschen, die mit alten Wellblechstücken oder Gras belegt sind. Fenster gibt es keine oder sie sind zugenagelt. Vielleicht gibt es 1-2 Bett-gestelle, oft gibt es nichts, nicht einmal Wolldecken. Gekocht wird auf 3 Steinen und zwar das, was um das Haus herum wächst. Oft bleibt nichts zum Verkaufen und so ist dann weder Schulgeld da noch Geld für lebenswichtige Medizin. Todesursache Nr. 1 sind Infektionskrankheiten durch unhygienisches Tümpelwasser, Nr. 2 ist Malaria und Nr. 3 Aids. 6,9 % der unter 5- jährigen Kinder sterben. Viele sind unter- oder fehlernährt, was bei kleinen Kindern zu geistigen Defiziten führt. Auch die Müttersterblichkeit ist hoch. Im Schnitt bekommt eine Frau 8 Kinder. Braucht sie einen Kaiserschnitt, ist oft kein Geld dafür da. Sehr viele Kinder werden von den Omas versorgt, weil die Eltern gestorben sind. Tief im Busch gibt es keine richtigen Schulen, sodass kein ausgebildeter Lehrer dort hingeht. Oft werden sie nicht bezahlt, weswegen sie nur ab und zu unterrichten. So bleiben viele Kinder nach 4 Jahren zu Hause und können kaum schreiben. Die Jugendlichen sehen keine Chance und wandern ab in die Slums der Städte. Die Mädchen landen dann oft als Prostituierte und die Jungen in Diebesbanden.
+Projekthilfe Uganda e.V. ist ein eingetragener, gemeinnütziger Verein, der in Uganda ein Entwicklungsprojekt mit Schulen, Berufsausbildung und einem kleinen Krankenhaus aufbaut.   
+Unser Partner ist die Gemeine Kyamulibwa bei Masaka in Uganda / Ostafrika.  
+Projektleiter ist Pfarrer Denis Ddamulira, Träger das Entwicklungsbüro der Diozese Masaka.   
+  
+Die Mitarbeiter arbeiten alle ehrenamtlich, Flüge werden privat finanziert. Es entstehen keinerlei Verwaltungskosten.   
+  
+**Unsere Ziele:**  
+Mit Hilfe zur Selbsthilfe versuchen wir, die Gesundheitsversorgung zu verbessern, einfache Berufsausbildung zu ermöglichen,   
+bessere Anbaumethoden zu unterstützen und die Projekte so zu gestalten, dass sie sich alle einmal selbst tragen.
 
 **_....das möchten wir langfristig ändern - mit Ihrer Hilfe._**
