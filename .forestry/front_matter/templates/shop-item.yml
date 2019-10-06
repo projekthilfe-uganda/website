@@ -29,7 +29,6 @@ fields:
   type: number
   description: ''
   default: 0
-  required: true
   config:
     min: '0'
     max: '10000'
@@ -41,11 +40,11 @@ fields:
   label: order
   description: ''
   default: 0
-  required: true
   config:
     min: 
     max: 
     step: 
+    required: true
 pages:
 - content/shop/items/tisch.md
 - content/shop/items/sitzbank.md
