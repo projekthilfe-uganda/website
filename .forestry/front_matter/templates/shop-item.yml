@@ -14,6 +14,12 @@ fields:
   config:
     required: false
   label: Title
+- name: identifier
+  type: text
+  config:
+    required: true
+  label: Identifier
+  description: Identifier for item that should never be changed once in use.
 - name: picture
   type: file
   config:
