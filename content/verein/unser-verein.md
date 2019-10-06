@@ -17,4 +17,4 @@ bessere Anbaumethoden zu unterstützen und die Projekte so zu gestalten, dass si
 
 **_....das möchten wir langfristig ändern - mit Ihrer Hilfe._**
 
-[Unsere Satzung](uploads/SATZUNG-Projekthilfe-Uganda-e.V..pdf "Satzung")
+[Unsere Satzung](/uploads/SATZUNG-Projekthilfe-Uganda-e.V..pdf "Satzung")
