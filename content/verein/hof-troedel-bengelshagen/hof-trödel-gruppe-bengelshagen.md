@@ -19,3 +19,5 @@ Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach ko
 **Kontakt Hof-Trödel Bengelshagen**
 
 Bruno Steinbach, Tel. 02266 901 98 20
+
+51688 Wipperfürth
