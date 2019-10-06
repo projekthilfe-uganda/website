@@ -7,7 +7,7 @@ title = "Auszeichnungen"
 type = "article"
 
 +++
-Text
+Für die jahrzehntelange ehrenamtliche Arbeit wurden der gemeinnützige Verein Projekthilfe Uganda bereits mehrfach ausgezeichnet. 
 
 * 1987 – Urkunde und Medaille des Landes Baden- Württemberg als vorbildliche kommunale Bürgeraktion 
 * 2005 – Empfehlung unserer Projektarbeit durch die deutsche Botschaft in Kampala 
