@@ -12,3 +12,4 @@ In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in No
 Aus den Erlösen und Spendeneinnahmen der Gruppe um Initiator Bruno Steinbach konnten schon viele Projekte in Uganda realisiert werden: 
 
 * ein Haus mit 10 Zimmern zur Aufnahme von hilfsbedürftigen Menschen
+* Förderung des St. Joseph Krankenhaus in Kyamulibawa
