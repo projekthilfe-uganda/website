@@ -1,8 +1,11 @@
 +++
-draft = true
 order = 2
 title = "Teaserbox So können Sie helfen"
 type = "teaserblock"
+[[teaser]]
+picture = "/uploads/IMG_1855_bf.JPG"
+text = "Falls Sie sowieso bei Amazon einkaufen, dann unterstützen Sie uns - kostenfrei für Sie. "
+title = "AmazonSmile"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Jeder kann seine Stärken bei uns einbringen und bei unserem Verein mitarbeiten. Wir freuen uns über weitere engagierte Menschen. "
