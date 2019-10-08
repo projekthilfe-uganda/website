@@ -1,8 +1,11 @@
 +++
-type = "article"
 date = ""
-draft = true
+h1 = ""
+h2 = ""
+h3 = ""
+order = nil
 title = "Mitarbeit"
+type = "article"
 
 +++
 **So helfen wir:**
