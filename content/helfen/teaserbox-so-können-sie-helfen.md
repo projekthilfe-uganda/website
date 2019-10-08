@@ -4,6 +4,10 @@ order = 2
 title = "Teaserbox So können Sie helfen"
 type = "teaserblock"
 [[teaser]]
+picture = "/uploads/IMG_2224_bf.JPG"
+text = "Jeder kann seine Stärken bei uns einbringen und bei unserem Verein mitarbeiten. Wir freuen uns über weitere engagierte Menschen. "
+title = "Mitarbeit"
+[[teaser]]
 picture = "/uploads/Tisch.jpg"
 text = "Hunderte Paten ermöglichen Kindern und jungen Menschen den Schulbesuch und eine Ausbildung. Wollen Sie Pate werden?"
 title = "Patenschaft"
