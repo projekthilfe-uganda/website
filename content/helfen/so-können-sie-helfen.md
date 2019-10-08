@@ -9,3 +9,5 @@ type = "article"
 
 +++
 Es gibt viele Wege und Möglichkeiten, wie Sie die Projekthilfe Uganda unterstützen und damit den hilfsbedürftigen Menschen in Uganda helfen können. Spenden leiten wir als gemeinnütziger Verein direkt weiter, zweckgebundene Spenden werden entsprechend des gewünschten Zweckes eingesetzt. 
+
+Bei Patenschaften unterstützen Sie Schulkinder oder Auszubildende in Uganda durch Übernahme der Schul- und Ausbildungskosten regelmäßig über einen längeren Zeitraum - 2, 3 oder mehrere Jahre, je nach Dauer der Ausbildung.
