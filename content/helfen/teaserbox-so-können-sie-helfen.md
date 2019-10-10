@@ -12,7 +12,7 @@ text = "Jeder kann seine Stärken bei uns einbringen und bei unserem Verein mita
 title = "Mitarbeit"
 [[teaser]]
 picture = "/uploads/Tisch.jpg"
-text = "Hunderte Paten ermöglichen Kindern und jungen Menschen den Schulbesuch und eine Ausbildung. Wollen Sie Pate werden?"
+text = "Hunderte Paten ermöglichen Kindern und jungen Menschen den Schulbesuch und eine Ausbildung. Wollen Sie Pate werden?\n\n[Mehr zu Patenschaften](./patenschaft \"Link Patenschaft\")"
 title = "Patenschaft"
 [[teaser]]
 picture = "/uploads/IMG_0917_bf.JPG"
