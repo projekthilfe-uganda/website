@@ -21,6 +21,10 @@ menu:
       name: Aktionen in Büchenau
       url: /verein/aktionen-buechenau
       weight: 10
+    - parent: verein
+      name: Auszeichnungen
+      url: /verein/auszeichnungen
+      weight: 20
 
     - identifier: projekte
       name: Unsere Projekte

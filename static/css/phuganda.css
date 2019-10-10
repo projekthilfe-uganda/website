@@ -68,8 +68,17 @@ body {
 *** menu
 ***************************/
 
+ul.nav {
+    position: relative;
+    margin-bottom: 0;
+}
+
 ul.dropdown-menu {
     left: auto;
+    margin: 0;
+    border-top: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }
 
 ul.nav li:hover ul.dropdown-menu {

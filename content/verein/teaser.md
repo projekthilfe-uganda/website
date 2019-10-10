@@ -1,7 +1,7 @@
 +++
+type = "teaserblock"
 order = 3
 title = "Teaser Unser Verein"
-type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. [Zum Kontakt](verein/kontakt \"Kontakt\")"

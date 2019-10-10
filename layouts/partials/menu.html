@@ -1,7 +1,6 @@
 <ul class="nav justify-content-end">
     {{range .Site.Menus.main}}
         <li class="nav-item">
-            {{/*{{if .URL}}*/}}
             <a class="nav-link active" href="{{.URL}}">
                 {{if .Pre}}
                     <i class="fa {{.Pre}}">&nbsp;</i>
@@ -12,7 +11,9 @@
                 <ul class="dropdown-menu">
                     {{ range .Children }}
                         <li class="">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
+                            <a class="nav-link active" href="{{ .URL }}">
+                                {{ .Name }}
+                            </a>
                         </li>
                     {{ end }}
                 </ul>
