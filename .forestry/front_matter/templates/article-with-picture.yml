@@ -44,6 +44,7 @@ fields:
     step: '1'
     required: true
 pages:
+- content/verein/so-helfen-wir.md
 - content/home/picture-left-patenschaften.md
 - content/home/picture-right-portrait.md
 - content/home/picture-left-portrait.md
