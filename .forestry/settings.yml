@@ -45,7 +45,7 @@ sections:
 - type: directory
   path: content/helfen
   label: So können Sie Helfen
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - article
