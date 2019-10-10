@@ -2,7 +2,7 @@
 h1 = "Auszeichnungen für die Projekthilfe Uganda"
 h2 = "Vertrauen Sie auf unsere ehrenamtliche Arbeit"
 h3 = ""
-order = nil
+order = 0
 title = "Auszeichnungen"
 type = "article"
 

@@ -4,7 +4,7 @@ draft = true
 h1 = ""
 h2 = ""
 h3 = ""
-order = nil
+order = 0
 title = "Mitarbeit"
 type = "article"
 

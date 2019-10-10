@@ -2,7 +2,7 @@
 h1 = "Hilfseinsätze in Uganda"
 h2 = "Vergangene Aktionen unseres Vereins"
 h3 = ""
-order = nil
+order = 0
 title = "Hilfseinsätze vor Ort"
 type = "article"
 

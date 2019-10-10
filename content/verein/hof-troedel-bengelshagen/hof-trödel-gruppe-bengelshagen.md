@@ -2,7 +2,7 @@
 h1 = "Hof-Trödel Bengelshagen"
 h2 = "Projekthilfe Uganda e.V. in Norddeutschland "
 h3 = ""
-order = nil
+order = 0
 title = "Hof-Trödel-Gruppe Bengelshagen"
 type = "article"
 

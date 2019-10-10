@@ -65,6 +65,19 @@ body {
 }
 
 /***************************
+*** menu
+***************************/
+
+ul.dropdown-menu {
+    left: auto;
+}
+
+ul.nav li:hover ul.dropdown-menu {
+    display: block;
+    padding: 0.5rem 0.5rem;
+}
+
+/***************************
 *** article
 ***************************/
 

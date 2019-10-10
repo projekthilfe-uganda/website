@@ -3,7 +3,7 @@ draft = true
 h1 = "Aktionen rund um Büchenau bei Bruchsal"
 h2 = "Feste und Veranstaltungen unseres Vereins"
 h3 = ""
-order = nil
+order = 0
 title = "Aktionen rund um Büchenau"
 type = "article"
 
