@@ -4,7 +4,7 @@ title = "Teaserbox So können Sie helfen"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1855_bf.JPG"
-text = "Falls Sie sowieso bei Amazon einkaufen, dann unterstützen Sie uns - kostenfrei für Sie. "
+text = "Falls Sie sowieso bei Amazon einkaufen, dann unterstützen Sie uns - kostenfrei für Sie.\n\n[Zu AmazonSmile]( https://smile.amazon.de/ \"Link AmazonSmile\")"
 title = "AmazonSmile"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
