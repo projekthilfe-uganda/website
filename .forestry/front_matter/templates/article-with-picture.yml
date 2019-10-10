@@ -42,6 +42,7 @@ fields:
   description: Higher numbers for order will be shown after.
   config:
     step: '1'
+    required: true
 pages:
 - content/home/picture-left-patenschaften.md
 - content/home/picture-right-portrait.md

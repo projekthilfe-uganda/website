@@ -16,6 +16,8 @@ fields:
   name: order
   label: order
   description: Sort order on page
+  config:
+    required: true
 - type: field_group_list
   name: slides
   label: Slides

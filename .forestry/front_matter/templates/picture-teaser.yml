@@ -18,6 +18,7 @@ fields:
   description: Sort order on page
   config:
     step: '1'
+    required: true
 - type: field_group_list
   name: teaser
   label: Teaser

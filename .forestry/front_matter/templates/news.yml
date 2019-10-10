@@ -26,6 +26,7 @@ fields:
   description: Sort order on page
   config:
     step: '1'
+    required: true
 pages:
 - content/news/01-22-november-2016.md
 - content/news/november-2017.md
