@@ -36,8 +36,8 @@ fields:
     step: '1'
     required: true
 pages:
-- content/helfen/mitarbeit/mitarbeit.md
 - content/verein/aktionen-buechenau/aktionen-rund-um-büchenau.md
+- content/helfen/mitarbeit/mitarbeit.md
 - content/verein/hof-troedel-bengelshagen/hof-trödel-gruppe-bengelshagen.md
 - content/verein/kontakt/kontakt.md
 - content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
