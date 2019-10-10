@@ -8,7 +8,7 @@ text = "Falls Sie sowieso bei Amazon einkaufen, dann unterstützen Sie uns - kos
 title = "AmazonSmile"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
-text = "Jeder kann seine Stärken bei uns einbringen und bei unserem Verein mitarbeiten. Wir freuen uns über weitere engagierte Menschen. "
+text = "Jeder kann seine Stärken bei uns einbringen und bei unserem Verein mitarbeiten. Wir freuen uns über weitere engagierte Menschen.\n\n[Bei Projekthilfe Uganda mitarbeiten](./mitarbeit \"Link Mitarbeit\")"
 title = "Mitarbeit"
 [[teaser]]
 picture = "/uploads/Tisch.jpg"
