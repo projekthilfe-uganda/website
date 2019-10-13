@@ -10,8 +10,8 @@ type = "picarticle"
 **Uganda-Fest**  
 Im Oktober feiern wir im Pfarrzentrum Büchenau unser Uganda-Fest
 
-\**Kunst- und Hobbymarkt  
-\**Bürgerzentrum Bruchsal  
+**Kunst- und Hobbymarkt**  
+Bürgerzentrum Bruchsal  
 Jedes Jahr am 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusstellung in Bruchsal an einem Stand unsere Werke.
 
 Unterstützt werden wir auch durch Aktionen der Hof-Trödel-Gruppe Bengelshagen in Norddeutschland.
