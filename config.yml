@@ -25,6 +25,26 @@ menu:
       name: Auszeichnungen
       url: /verein/auszeichnungen
       weight: 20
+    - parent: verein
+      name: Bilder & Videos
+      url: /verein/bilder-videos
+      weight: 30
+    - parent: verein
+      name: Hilfseinsätze
+      url: /verein/hilfseinsaetze
+      weight: 40
+    - parent: verein
+      name: Hof-Trödel in Bengelshagen
+      url: /verein/hof-troedel-bengelshagen
+      weight: 50
+    - parent: verein
+      name: Kontakt
+      url: /verein/kontakt
+      weight: 60
+    - parent: verein
+      name: Verwaltungsstruktur Uganda
+      url: /verein/verwaltungsstruktur-uganda
+      weight: 70
 
     - identifier: projekte
       name: Unsere Projekte
