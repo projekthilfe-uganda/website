@@ -2,7 +2,7 @@
 height = 450
 layout = "pic-right"
 order = 3
-picture = ""
+picture = "/uploads/Tisch.jpg"
 title = "Ablauf Patenschaft"
 type = "picarticle"
 
