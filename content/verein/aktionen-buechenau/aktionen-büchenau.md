@@ -2,7 +2,7 @@
 height = 450
 layout = "pic-right"
 order = 2
-picture = ""
+picture = "/uploads/IMG_1900_bf.JPG"
 title = "Aktionen Büchenau"
 type = "picarticle"
 
