@@ -14,3 +14,5 @@ Für 13 € oder 25 € monatlich kann ein Kind eine Schul- und Berufsausbildung
 Über die Höhe der Patenschaftsgelder erhalten Sie jährlich eine Spendenquittung. Die Spende können Sie in der Steuererklärung angeben.
 
 Falls Sie Interesse an einer Patenschaft haben, können wir Ihnen gerne bis zu 10 Vorschläge für hilfsbedürftige Kinder bzw. Auszubildende per E-Mail zusenden. Besondere Wünsche (Alter, Geschlecht) werden wir gerne nach Möglichkeit berücksichtigen.
+
+[Kontakt]()
