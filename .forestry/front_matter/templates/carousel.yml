@@ -37,6 +37,7 @@ fields:
       schema:
         format: markdown
 pages:
+- content/helfen/Patenschaft/Spielmöglichkeit Vorschule.md
 - content/projekte/hilfsprogramm-kleinbauern/Header Agrar-Hilfsprogramm.md
 - content/projekte/berufsausbildungen/Header Berufsausbildungen.md
 - content/projekte/caritas/Header Caritas.md
