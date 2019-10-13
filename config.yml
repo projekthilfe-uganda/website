@@ -50,6 +50,34 @@ menu:
       name: Unsere Projekte
       url: /projekte/
       weight: 30
+    - parent: projekte
+      name: Agrar-Hilfsprogramm für Kleinbauern
+      url: /verein/hilfsprogramm-kleinbauern
+      weight: 10
+    - parent: projekte
+      name: Berufsausbildungen
+      url: /verein/berufsausbildungen
+      weight: 20
+    - parent: projekte
+      name: Caritas für die Ärmsten
+      url: /verein/caritas
+      weight: 30
+    - parent: projekte
+      name: Patenschaften
+      url: /verein/patenschaften
+      weight: 40
+    - parent: projekte
+      name: Schulprojekte
+      url: /verein/schulprojekte
+      weight: 50
+    - parent: projekte
+      name: Selbsthilfegruppen
+      url: /verein/selbsthilfegruppen
+      weight: 60
+    - parent: projekte
+      name: Uganda Lebenshausstiftung
+      url: /verein/uganda-lebenshaus-stiftung
+      weight: 70
 
     - identifier: helfen
       name: So können Sie helfen
