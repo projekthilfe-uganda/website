@@ -12,7 +12,6 @@ type = "picarticle"
 Wir reagieren auf die Bedürfnisse durch
 
 * gezielte Management-Beratung
-* senden von Sachwerten in Containern
 * Eigenarbeit vor Ort (Jeder zahlt die Flüge selbst.)
 * Geldspenden
 * Vermittlung von Patenschaften
