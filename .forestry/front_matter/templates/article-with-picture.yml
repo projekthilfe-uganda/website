@@ -44,6 +44,7 @@ fields:
     step: '1'
     required: true
 pages:
+- content/projekte/patenschaften/patenschaft-unter-dem-jahr.md
 - content/helfen/Patenschaft/ablauf-patenschaft.md
 - content/verein/aktionen-buechenau/aktionen-büchenau.md
 - content/verein/so-helfen-wir.md
