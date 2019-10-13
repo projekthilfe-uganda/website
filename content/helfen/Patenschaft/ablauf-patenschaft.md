@@ -9,7 +9,7 @@ type = "picarticle"
 +++
 **Mit  einem regelmäßigen Betrag helfen**
 
-Für 13 € oder 25 € monatlich kann ein Kind eine Schul- und Berufsausbildung bekommen. Durch Briefe, unseren jährlichen Besuch und eventuell einen Besuch des Paten kann eine enge Beziehung wachsen.
+Für 13 € oder 25 € monatlich kann ein Kind eine Schul- und Berufsausbildung bekommen. Durch Briefe, unseren jährlichen Besuch und eventuell einen Besuch des Paten in Uganda kann eine enge Beziehung wachsen.
 
 Über die Höhe der Patenschaftsgelder erhalten Sie jährlich eine Spendenquittung. Die Spende können Sie in der Steuererklärung angeben.
 
