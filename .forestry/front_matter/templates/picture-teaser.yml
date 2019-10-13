@@ -43,6 +43,6 @@ fields:
     name: picture
     label: Picture
 pages:
+- content/verein/teaser.md
 - content/helfen/teaserbox-so-können-sie-helfen.md
 - content/home/menu-teaser.md
-- content/verein/teaser.md
