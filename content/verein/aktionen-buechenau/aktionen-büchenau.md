@@ -20,6 +20,7 @@ Jedes Jahr am 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusste
 * Bewirtung an Fasnacht
 * Kommunionkreuze aus Holz anfertigen und bemalen
 * 10 Jahre Kunsthandwerksladen betrieben
+* Konzert zugunsten der Projekthilfe Uganda
 
 Unterstützt werden wir auch durch Aktionen der Hof-Trödel-Gruppe Bengelshagen in Norddeutschland.
 
