@@ -14,6 +14,13 @@ Im Oktober feiern wir im Pfarrzentrum Büchenau unser Uganda-Fest
 Bürgerzentrum Bruchsal  
 Jedes Jahr am 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusstellung in Bruchsal an einem Stand unsere Werke.
 
+**Frühere Aktionen**
+
+* Muttertagsfeste
+* Bewirtung an Fasnacht
+* Kommunionkreuze aus Holz anfertigen und bemalen
+* 10 Jahre Kunsthandwerksladen betrieben
+
 Unterstützt werden wir auch durch Aktionen der Hof-Trödel-Gruppe Bengelshagen in Norddeutschland.
 
 [Mehr zu Hof-Trödel Bengelshagen]()
