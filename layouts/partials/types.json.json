@@ -1,0 +1,8 @@
+{
+{{- if eq .Type "article" -}}
+    {{- partial "article.json.json" . -}}
+{{- end -}}
+{{- if eq .Type "shopitem" -}}
+    {{- partial "shopitem.json.json" . -}}
+{{- end -}}
+}

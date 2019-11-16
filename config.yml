@@ -6,6 +6,16 @@ title: "Projekthilfe Uganda"
 watch: false
 buildDrafts: false
 
+outputs:
+  page:
+    - html
+  home:
+    - html
+    - json
+  section:
+    - html
+    - json
+
 menu:
   main:
     - identifier: home

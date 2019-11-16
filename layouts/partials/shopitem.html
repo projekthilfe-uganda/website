@@ -1,12 +1,17 @@
-<div  class="{{.Type}} container mt-5 mb-5">
-    {{.Title}}
+<div class="{{.Type}} col-6">
+    <h3>{{.Title}}</h3>
     <div class="content">
         {{.Content}}
     </div>
     <div>
-        <img src="{{.Params.picture}}" width="400px"/>
+        <img src="{{.Params.picture}}" width="540px"/>
     </div>
-    <input class="amount" type="text" value="1"/>
-    <input class="price" type="hidden" value="{{.Params.price}}">
-    <button onclick="cart.Add({{.Params.identifier}}, {{.Title}});">Add</button>
+    {{/*    <input class="amount" type="text" value="1"/>*/}}
+{{/*    <input class="price" type="hidden" value="{{.Params.price}}">*/}}
+    <div class="float-right">
+        <span>Spende:</span><span class="d-inline-block text-right" style="width: 75px">{{.Params.price}}€</span>
+        <button @click="add('{{.Params.identifier}}', '{{.Title}}', 1, {{.Params.price}});"
+                class="btn btn-secondary pl-4 pr-4 m-4">Add
+        </button>
+    </div>
 </div>

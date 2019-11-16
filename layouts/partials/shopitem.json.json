@@ -1,0 +1,6 @@
+"type": {{.Type | jsonify}},
+"title": {{.Title | jsonify}},
+"content": {{.Content | jsonify}},
+"id": {{.Params.identifier | jsonify}},
+"picture": {{.Params.picture | jsonify}},
+"price": {{.Params.price | jsonify}}

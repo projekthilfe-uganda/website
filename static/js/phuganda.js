@@ -1,69 +1,115 @@
-const cart = {
-    items: [],
 
-    Init: function () {
-        cart.load();
-
-        const checkHTML = function () {
-            if (!document.getElementById("cart_content")) {
-                setTimeout(checkHTML, 100);
-                return
-            }
-            cart.render();
-        };
-        checkHTML();
+var cartItem = Vue.component('cart-item', {
+    template: '#cart-item',
+    delimiters: ['[[', ']]'],
+    props: {
+        type: {
+            type: String,
+            required: true,
+        },
+        caption: {
+            type: String,
+            required: true,
+        },
+        amount: {
+            type: Number,
+            default: 1,
+        },
     },
-
-    Add: function (shopitem, caption) {
-        const amount = 1;
-        const price = 12;
-        cart.add(shopitem, caption, amount, price);
-        cart.render();
-        cart.save();
-    },
-    Clear: function () {
-        cart.items = [];
-        cart.render();
-        cart.save();
-    },
-
-    add: function (shopitem, caption, amount, price) {
-        // check if item exists and increment if it does
-        for (let i = 0; i < cart.items.length; i++) {
-            const item = cart.items[i];
-            if (item.type === shopitem) {
-                item.amount += amount;
-                item.total = item.amount * item.price;
-                return;
-            }
+    data: function() {
+        return {
+            item: null,
         }
-
-        // add new item if item did not exist
-        cart.items.push({
-            type: shopitem,
-            caption: caption,
-            price: price,
-            amount: amount,
-            total: amount * price,
-        });
     },
-    render: function () {
-        let rows = [];
-        for (let i = 0; i < cart.items.length; i++) {
-            const item = cart.items[i];
-            const row = '<tr><td class="text-right pr-2">' + item.amount +
-                'x</td><td>' + item.caption + '</td><td class="text-right">' + item.total + '€</td></tr>';
-            rows.push(row)
+    methods: {
+        setItem: function (item) {
+            if (this.item) return;
+            this.item = item;
         }
-        document.getElementById("cart_content").innerHTML = rows.join("\n");
     },
-    save: function () {
-        localStorage.setItem("cart.items", JSON.stringify(cart.items));
-    },
-    load: function () {
-        const items = localStorage.getItem("cart.items");
-        if (items) cart.items = JSON.parse(items);
-    },
-};
+    computed: {
+        total: function () {
+            if (!this.item) return 0;
+            return  this.amount * this.item.price
+        }
+    }
+});
 
-cart.Init();
+let shop = new Vue({
+    el: '#shop',
+    delimiters: ['[[', ']]'],
+    data: {
+        cartItems: [],
+        shopItems: {},
+    },
+    created: function () {
+        this.cartItems = this.load();
+        jQuery.getJSON("/shop/index.json", this.fillShopItems)
+    },
+    updated: function() {
+        this.fillChildItems()
+    },
+    methods: {
+        add: function (shopitem, caption) {
+            // check if item exists and increment if it does
+            for (let i = 0; i < this.cartItems.length; i++) {
+                const cartItem = this.cartItems[i];
+                if (cartItem.type === shopitem) {
+                    cartItem.amount++;
+                    return;
+                }
+            }
+
+            // add new item if item did not exist
+            this.cartItems.push({
+                type: shopitem,
+                caption: caption,
+                amount: 1,
+            });
+        },
+        clear: function () {
+            this.cartItems = [];
+        },
+
+        fillShopItems: function (data) {
+            let items = {};
+            for (let i = 0; i < data.data.items.length; i++) {
+                const item = data.data.items[i];
+                if (item.type === "shopitem") items[item.id] = item;
+            }
+            this.shopItems = items;
+        },
+        fillChildItems: function() {
+            // spread items to the children
+            for (let i = 0; i < this.$children.length; i++) {
+                const child = this.$children[i];
+                child.setItem(this.shopItems[child.type])
+            }
+        },
+
+        save: function (items) {
+            localStorage.setItem("cart.items", JSON.stringify(items));
+        },
+        load: function () {
+            const items = localStorage.getItem("cart.items");
+            if (!items || items === "undefined") return [];
+
+            return JSON.parse(items);
+        },
+    },
+    computed: {
+        cartSum: function () {
+            let sum = 0;
+            for (let i = 0; i < this.cartItems.length; i++) {
+                const cartItem = this.cartItems[i];
+                const item = this.shopItems[cartItem.type];
+
+                if (typeof item === "undefined") continue;
+
+                sum += cartItem.amount * item.price;
+            }
+            this.save(this.cartItems);
+            return sum
+        }
+    }
+});
