@@ -1,5 +1,4 @@
 +++
-draft = true
 height = 450
 layout = "pic-right"
 order = 2
