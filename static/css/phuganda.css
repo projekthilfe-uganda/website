@@ -113,7 +113,7 @@ ul.nav li:hover ul.dropdown-menu {
 *** teaser block
 ***************************/
 
-@media (max-width: 767.98px) {
+@media (max-width: 991.98px) {
     .teaserblock .pic-block:nth-child(odd) {
         -ms-flex-direction: row-reverse !important;
         flex-direction: row-reverse !important;
@@ -124,7 +124,7 @@ ul.nav li:hover ul.dropdown-menu {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
     .teaserblock .pic-block.reverse {
         -ms-flex-direction: row-reverse !important;
         flex-direction: row-reverse !important;
@@ -138,37 +138,37 @@ ul.nav li:hover ul.dropdown-menu {
 
 @media (max-width: 575.98px) {
     .teaserblock .pic-block {
-        height: 350px;
+        height: 290px;
     }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     .teaserblock .pic-block {
-        height: 450px;
+        height: 390px;
     }
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     .teaserblock .pic-block {
-        height: 350px;
+        height: 495px;
     }
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
     .teaserblock .pic-block {
-        height: 450px;
+        height: 300px;
     }
 }
 
 @media (min-width: 1200px) and (max-width: 1499.98px) {
     .teaserblock .pic-block {
-        height: 550px;
+        height: 375px;
     }
 }
 
 @media (min-width: 1500px) {
     .teaserblock .pic-block {
-        height: 700px;
+        height: 500px;
     }
 }
 
