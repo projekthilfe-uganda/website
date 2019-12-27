@@ -38,9 +38,9 @@ fields:
         format: markdown
 pages:
 - content/helfen/Patenschaft/Spielmöglichkeit Vorschule.md
-- content/projekte/hilfsprogramm-kleinbauern/Header Agrar-Hilfsprogramm.md
+- content/home/Header Startseite.md
+- content/projekte/Header Unsere Projekte.md
 - content/projekte/berufsausbildungen/Header Berufsausbildungen.md
 - content/projekte/caritas/Header Caritas.md
+- content/projekte/hilfsprogramm-kleinbauern/Header Agrar-Hilfsprogramm.md
 - content/verein/header.md
-- content/projekte/Header Unsere Projekte.md
-- content/home/Header Startseite.md

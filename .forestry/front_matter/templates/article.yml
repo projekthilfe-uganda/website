@@ -36,14 +36,14 @@ fields:
     step: '1'
     required: true
 pages:
-- content/helfen/mitarbeit/mitarbeit.md
 - content/helfen/Patenschaft/patenschaft.md
+- content/helfen/mitarbeit/mitarbeit.md
+- content/helfen/so-können-sie-helfen.md
+- content/home/projekthilfe-uganda.md
+- content/home/wir-freuen-uns-über-ihre-hilfe.md
 - content/verein/aktionen-buechenau/aktionen-rund-um-büchenau.md
+- content/verein/bilder-videos/bilder-videos.md
+- content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
 - content/verein/hof-troedel-bengelshagen/hof-trödel-gruppe-bengelshagen.md
 - content/verein/kontakt/kontakt.md
-- content/verein/hilfseinsaetze/hilfseinsätze-vor-ort.md
 - content/verein/verwaltungsstruktur-uganda/verwaltungsstruktur-in-uganda.md
-- content/verein/bilder-videos/bilder-videos.md
-- content/helfen/so-können-sie-helfen.md
-- content/home/wir-freuen-uns-über-ihre-hilfe.md
-- content/home/projekthilfe-uganda.md
