@@ -1,5 +1,4 @@
 +++
-draft = true
 h1 = "Aktionen rund um Büchenau bei Bruchsal"
 h2 = "Feste und Veranstaltungen unseres Vereins"
 h3 = ""
