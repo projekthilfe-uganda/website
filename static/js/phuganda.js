@@ -1,5 +1,4 @@
-
-var cartItem = Vue.component('cart-item', {
+Vue.component('cart-item', {
     template: '#cart-item',
     delimiters: ['[[', ']]'],
     props: {
@@ -16,59 +15,107 @@ var cartItem = Vue.component('cart-item', {
             default: 1,
         },
     },
-    data: function() {
+    data: function () {
         return {
             item: null,
+            n: this.amount,
         }
     },
     methods: {
         setItem: function (item) {
             if (this.item) return;
             this.item = item;
+        },
+        onKeyPress: function (e) {
+            if (e.keyCode < 48 || 57 < e.keyCode) {
+                e.preventDefault();
+                return
+            }
+            if (2 < e.currentTarget.value.length &&
+                e.currentTarget.selectionStart === e.currentTarget.selectionEnd) {
+                e.preventDefault()
+            }
+        },
+        onKeyUp: function (e) {
+            this.$emit("amountchange", this.type, e.currentTarget.value * 1)
+        },
+        onChange: function (e) {
+            if (e.currentTarget.value * 1 === 0)
+                this.$emit('delete', this.type)
         }
     },
     computed: {
         total: function () {
             if (!this.item) return 0;
-            return  this.amount * this.item.price
+            return this.amount * this.item.price
         }
     }
 });
+
+Vue.component('btn', {
+    template: '#btn',
+    delimiters: ['[[', ']]'],
+    props: {
+        primary: {
+            type: Boolean,
+            default: false
+        },
+        cls: {
+            type: String,
+        }
+    },
+});
+
+// Vue.component('payment', {
+//     template: '#payment',
+//     delimiters: ['[[', ']]'],
+//     props: {
+//         sum: {
+//             type: Number,
+//             required: true,
+//         }
+//     },
+// });
+
 
 let shop = new Vue({
     el: '#shop',
     delimiters: ['[[', ']]'],
     data: {
-        cartItems: [],
+        cartItems: {},
         shopItems: {},
+        showPay: false,
     },
     created: function () {
         this.cartItems = this.load();
         jQuery.getJSON("/shop/index.json", this.fillShopItems)
     },
-    updated: function() {
+    updated: function () {
         this.fillChildItems()
     },
     methods: {
         add: function (shopitem, caption) {
             // check if item exists and increment if it does
-            for (let i = 0; i < this.cartItems.length; i++) {
-                const cartItem = this.cartItems[i];
-                if (cartItem.type === shopitem) {
-                    cartItem.amount++;
-                    return;
-                }
+            if (this.cartItems[shopitem]) {
+                // this.$set(this.cartItems[shopitem], 'amount', this.cartItems[shopitem].amount + 1);
+                this.cartItems[shopitem].amount++;
+                return;
             }
 
             // add new item if item did not exist
-            this.cartItems.push({
+            this.$set(this.cartItems, shopitem, {
                 type: shopitem,
                 caption: caption,
                 amount: 1,
             });
         },
         clear: function () {
-            this.cartItems = [];
+            this.cartItems = {};
+            this.showPay = false;
+            this.save()
+        },
+        pay: function () {
+            this.showPay = true;
         },
 
         fillShopItems: function (data) {
@@ -79,20 +126,29 @@ let shop = new Vue({
             }
             this.shopItems = items;
         },
-        fillChildItems: function() {
+        fillChildItems: function () {
             // spread items to the children
             for (let i = 0; i < this.$children.length; i++) {
                 const child = this.$children[i];
-                child.setItem(this.shopItems[child.type])
+                if (child.$options._componentTag === "cart-item")
+                    child.setItem(this.shopItems[child.type])
             }
         },
 
-        save: function (items) {
-            localStorage.setItem("cart.items", JSON.stringify(items));
+        onAmountChange: function (type, amount) {
+            this.cartItems[type].amount = amount;
+        },
+        onDelete: function (type) {
+            this.$delete(this.cartItems, type);
+            this.save()
+        },
+
+        save: function () {
+            localStorage.setItem("cart.items", JSON.stringify(Object.assign({}, this.cartItems)));
         },
         load: function () {
             const items = localStorage.getItem("cart.items");
-            if (!items || items === "undefined") return [];
+            if (!items || items === "undefined") return {};
 
             return JSON.parse(items);
         },
@@ -100,15 +156,17 @@ let shop = new Vue({
     computed: {
         cartSum: function () {
             let sum = 0;
-            for (let i = 0; i < this.cartItems.length; i++) {
-                const cartItem = this.cartItems[i];
+            for (let key in this.cartItems) {
+                if (!this.cartItems.hasOwnProperty(key)) continue;
+
+                const cartItem = this.cartItems[key];
                 const item = this.shopItems[cartItem.type];
 
                 if (typeof item === "undefined") continue;
 
                 sum += cartItem.amount * item.price;
             }
-            this.save(this.cartItems);
+            this.save();
             return sum
         }
     }

@@ -13,7 +13,7 @@
                 </div>
             </div>
 
-            <div v-if="cartItems.length" class="col-4 p">
+            <div v-if="Object.keys(cartItems).length" class="col-4 p">
                 <div id="cart" class="card">
                     <div class="card-body">
                         <h4 class="card-title text-right">Meine Auswahl</h4>
@@ -21,20 +21,37 @@
                     <div class="card-body">
                         <table class="w-100">
                             <tbody id="cart_content" class="align-text-top">
-                            <tr is="cart-item" v-for="item in cartItems" :key="item.type"
+                            <tr is="cart-item" v-for="(item, key) in cartItems" :key="item.type"
                                 :type="item.type"
                                 :caption="item.caption"
                                 :amount="item.amount"
-                            ></tr>
+                                @amountchange="onAmountChange"
+                                @delete="onDelete">
+                            </tr>
                             </tbody>
                         </table>
                     </div>
                     <div class="card-body text-right">
-                        <p class="mt-2">Summe: [[ cartSum ]]€</p>
-                        <button @click="clear" class="btn btn-secondary w-45 float-left">Leeren</button>
-                        <button class="btn btn-primary w-45">Spenden</button>
+                        <p class="mt-2">Summe:
+                            <span class="d-inline-block text-right" style="width: 100px">[[ cartSum ]]&nbsp;€</span>
+                        </p>
+                        <btn cls="w-45 float-left"
+                             @click="clear">Leeren
+                        </btn>
+                        <btn cls="w-45" primary
+                             @click="pay">Spenden
+                        </btn>
+                    </div>
+                    <div class="card-body" v-if="showPay">
+                        Bitte überweisen Sie den ausgewählten Betrag auf das folgende Konto:<br/>
+                        <br/>
+                        IBAN:<br/><span class="text-primary">DE57 6606 1724 0023 0108 01</span><br/>
+                            BIC:<br/><span class="text-primary">GENODE61WGA</span>
                     </div>
                 </div>
+{{/*                <payment v-if="showPay"*/}}
+{{/*                        :sum="cartSum">*/}}
+{{/*                </payment>*/}}
             </div>
         </div>
 
@@ -46,14 +63,39 @@
             {{end}}
         </div>
 
-
     </div>
 
+    <script type="text/x-template" id="btn">
+        <button class="btn" :class="[primary ? 'btn-primary' : 'btn-secondary', cls]"
+                @click="e => $emit('click', e)">
+            <slot></slot>
+        </button>
+    </script>
     <script type="text/x-template" id="cart-item">
         <tr>
-            <td class="text-right pr-2">[[ amount ]]x</td>
+            <td class="text-right pr-2 text-nowrap">
+                <input class="border-0 text-right" style="width: 40px"
+                       :value="amount"
+                       @keypress="onKeyPress"
+                       @keyup="onKeyUp"
+                       @change="onChange">x
+            </td>
             <td>[[ caption ]]</td>
-            <td class="text-right">[[ total ]]€</td>
+            <td class="text-right">[[ total ]]&nbsp;€</td>
         </tr>
     </script>
+{{/*    <script type="text/x-template" id="payment">*/}}
+{{/*        <div class="card">*/}}
+{{/*            <div class="card-body">*/}}
+{{/*                <div class="btn-group w-100" role="group" aria-label="Basic example">*/}}
+{{/*                    <button type="button" class="btn btn-secondary">Paypal</button>*/}}
+{{/*                    <button type="button" class="btn btn-secondary">Überweisen</button>*/}}
+{{/*                </div>*/}}
+{{/*            </div>*/}}
+{{/*            <div class="card-body">*/}}
+{{/*                <div ref="paypal"></div>*/}}
+{{/*            </div>*/}}
+{{/*        </div>*/}}
+{{/*    </script>*/}}
+{{/*    <script src="https://www.paypal.com/sdk/js?client-id=sb"></script>*/}}
 {{end}}

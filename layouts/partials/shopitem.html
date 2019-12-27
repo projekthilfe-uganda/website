@@ -9,9 +9,9 @@
     {{/*    <input class="amount" type="text" value="1"/>*/}}
 {{/*    <input class="price" type="hidden" value="{{.Params.price}}">*/}}
     <div class="text-right" style="max-width: 540px">
-        <span>Spende:</span><span class="d-inline-block text-right" style="width: 75px">{{.Params.price}}€</span>
+        Spende:<span class="d-inline-block text-right" style="width: 75px">{{.Params.price}}&nbsp;€</span>
         <button @click="add('{{.Params.identifier}}', '{{.Title}}', 1, {{.Params.price}});"
-                class="btn btn-secondary pl-4 pr-4 m-4">Add
+                class="btn btn-secondary pl-4 pr-4 m-4">Auswählen
         </button>
     </div>
 </div>
