@@ -1,7 +1,7 @@
 +++
-type = "teaserblock"
 order = 3
 title = "Teaser Unser Verein"
+type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
 text = "Nehmen Sie gerne mit uns Kontakt auf. [Zum Kontakt](verein/kontakt \"Kontakt\")"
@@ -19,7 +19,7 @@ picture = "/uploads/IMG_0901_bf.JPG"
 text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch. "
 title = "Hilfseinsätze vor Ort"
 [[teaser]]
-picture = "/uploads/IMG_1887_bf.JPG"
+picture = "/uploads/Verein_Sitzungen mit Verwaltungsrat der Schulen.JPG"
 text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet. "
 title = "Verwaltungsstruktur"
 [[teaser]]
