@@ -2,7 +2,7 @@
 h1 = "Aktionen rund um Büchenau bei Bruchsal"
 h2 = "Feste und Veranstaltungen unseres Vereins"
 h3 = ""
-order = 1
+order = 2
 title = "Aktionen rund um Büchenau"
 type = "article"
 
