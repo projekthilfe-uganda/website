@@ -3,7 +3,7 @@ name = "Header Aktionen um Büchenau"
 order = 1
 type = "picslider"
 [[slides]]
-picture = "/uploads/Bundesverdienstkreuz 2009.jpg"
+picture = "/uploads/Verein_Container laden_IMG_9106.JPG"
 text = ""
 
 +++
