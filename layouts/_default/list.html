@@ -1,5 +1,5 @@
 {{define "main"}}
-    {{range .Pages}}
+    {{range sort .Pages ".Params.order" "asc" }}
         {{- partial "types.html" . -}}
     {{end}}
 {{end}}

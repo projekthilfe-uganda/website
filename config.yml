@@ -28,32 +28,32 @@ menu:
       url: /verein/
       weight: 20
     - parent: verein
-      name: Aktionen in Büchenau
-      url: /verein/aktionen-buechenau
-      weight: 10
-    - parent: verein
-      name: Auszeichnungen
-      url: /verein/auszeichnungen
-      weight: 20
-    - parent: verein
-      name: Bilder & Videos
-      url: /verein/bilder-videos
-      weight: 30
-    - parent: verein
-      name: Hilfseinsätze
-      url: /verein/hilfseinsaetze
-      weight: 40
-    - parent: verein
-      name: Hof-Trödel in Bengelshagen
-      url: /verein/hof-troedel-bengelshagen
-      weight: 50
-    - parent: verein
       name: Kontakt
       url: /verein/kontakt
-      weight: 60
+      weight: 10
+    - parent: verein
+      name: Hilfseinsätze vor Ort
+      url: /verein/hilfseinsaetze
+      weight: 20
     - parent: verein
       name: Verwaltungsstruktur Uganda
       url: /verein/verwaltungsstruktur-uganda
+      weight: 30
+    - parent: verein
+      name: Bilder & Videos
+      url: /verein/bilder-videos
+      weight: 40
+    - parent: verein
+      name: Aktionen in Büchenau
+      url: /verein/aktionen-buechenau
+      weight: 50
+    - parent: verein
+      name: Hof-Trödel in Bengelshagen
+      url: /verein/hof-troedel-bengelshagen
+      weight: 60
+    - parent: verein
+      name: Auszeichnungen
+      url: /verein/auszeichnungen
       weight: 70
 
     - identifier: projekte
@@ -93,6 +93,18 @@ menu:
       name: So können Sie helfen
       url: /helfen/
       weight: 40
+    - parent: helfen
+      name: Patenschaft
+      url: /helfen/patenschaft
+      weight: 10
+    - parent: helfen
+      name: Spendenshop
+      url: /shop
+      weight: 20
+    - parent: helfen
+      name: Mitarbeit
+      url: /helfen/mitarbeit
+      weight: 30
 
     - identifier: news
       name: Aktuelles
