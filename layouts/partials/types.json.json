@@ -1,8 +1,15 @@
 {
-{{- if eq .Type "article" -}}
-    {{- partial "article.json.json" . -}}
-{{- end -}}
-{{- if eq .Type "shopitem" -}}
-    {{- partial "shopitem.json.json" . -}}
-{{- end -}}
+"UniqueID": {{ .UniqueID | jsonify}},
+"Lastmod": {{ .Lastmod | jsonify}},
+"PublishDate": {{ .PublishDate | jsonify}},
+"ExpiryDate": {{ .ExpiryDate | jsonify}},
+"Kind": {{.Kind | jsonify}},
+"Section": {{.Section | jsonify}},
+"Date": {{.Date | jsonify}},
+"URL": {{.URL | jsonify}},
+"Dir": {{ .Dir | jsonify}},
+"Path": {{.Path | jsonify}},
+"Content": {{.Content | jsonify}},
+"TableOfContents": {{.TableOfContents | jsonify}},
+"Params": {{.Params | jsonify}}
 }

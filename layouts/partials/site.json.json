@@ -1,0 +1,6 @@
+{
+"Title": {{ .Title | jsonify }},
+"LanguageCode": {{ .LanguageCode | jsonify }},
+"LastChange": {{ .LastChange | jsonify }},
+"Menus": {{ .Menus | jsonify }}
+}

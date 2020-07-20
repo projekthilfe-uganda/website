@@ -1,11 +1,14 @@
 {{- define "response" -}}
     {
+    "Site": {{- partial "site.json.json" .Site -}},
     {{ with .Section -}}
-        "section": "{{ . }}",
+        "Section": "{{ . }}",
+    {{- else -}}
+        "Section": "home",
     {{- end }}
-    "count": "{{ len .Data.Pages }}",
-    "items": [
-    {{- range $i, $e := .Data.Pages -}}
+    "Count": "{{ len .Pages }}",
+    "Pages": [
+    {{- range $i, $e := .Pages -}}
         {{- if $i }}, {{ end -}}{{- partial "types.json.json" . -}}
     {{- end -}}
     ]
