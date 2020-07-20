@@ -1,3 +1,3 @@
 # Projekthilfe Uganda
 
-[![Build Status](https://travis-ci.org/projekthilfe-uganda/website.svg?branch=master)](https://travis-ci.org/projekthilfe-uganda/website)
+![github pages](https://github.com/projekthilfe-uganda/website/workflows/github%20pages/badge.svg)
