@@ -1,4 +1,32 @@
 ---
 label: picture gallery
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Gallery Title
+- name: pictures
+  type: field_group_list
+  fields:
+  - name: picture
+    type: file
+    config:
+      maxSize: 64
+    label: Picture
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt Tag
+  config:
+    min: 1
+    max: 50
+    labelField: 
+  label: Pictures
