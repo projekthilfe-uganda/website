@@ -37,7 +37,6 @@ fields:
       schema:
         format: markdown
 pages:
-- content/helfen/Patenschaft/Spielmöglichkeit Vorschule.md
 - content/home/Header Startseite.md
 - content/projekte/Header Unsere Projekte.md
 - content/projekte/berufsausbildungen/Header Berufsausbildungen.md
