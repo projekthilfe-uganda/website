@@ -4,7 +4,7 @@ title = "Teaser Unser Verein"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
-text = "Nehmen Sie gerne mit uns Kontakt auf. [Zum Kontakt](verein/kontakt \"Kontakt\")"
+text = "Nehmen Sie gerne mit uns Kontakt auf.\n\n[Zum Kontakt](verein/kontakt \"Kontakt\")"
 title = "Kontakt"
 [[teaser]]
 picture = "/uploads/Bundesverdienstkreuz 2009.jpg"
@@ -12,7 +12,7 @@ text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit f
 title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_2312_bf.JPG"
-text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden. [Spenden-Möglichkeiten](shop \"Spenden\")"
+text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden.\n\n[Spenden-Möglichkeiten](shop \"Spenden\")"
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_0901_bf.JPG"

@@ -16,4 +16,4 @@ Tief im Busch gibt es keine richtigen Schulen, sodass kein ausgebildeter Lehrer 
 
 Die Jugendlichen sehen keine Chance und wandern ab in die Slums der Städte. Die Mädchen landen dann oft als Prostituierte und die Jungen in Diebesbanden.
 
-[Schulprojekte der Projekthilfe Uganda]()
+[Schulprojekte der Projekthilfe Uganda](/projekte/schulprojekte)

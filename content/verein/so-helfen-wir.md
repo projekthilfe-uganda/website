@@ -1,5 +1,5 @@
 +++
-height = 450
+height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/IMG_1870_bf.JPG"
@@ -18,8 +18,8 @@ Wir reagieren auf die Bedürfnisse durch
 * ausschließlich ehrenamtliche Arbeit mit Erarbeitung geringer Verwaltungskosten
 * eigene Aktionen (u. a. Feste, Basare) zur Finanzierung von Projekten
 
-[Machen Sie mit.](/helfen/mitarbeit "Link Mitarbeit")
+[Machen Sie mit.](/helfen/mitarbeit)
 
-[Aktionen rund um Büchenau bei Bruchsal. ](./aktionen-buechenau "Link Aktionen Büchenau")
+[Aktionen rund um Büchenau bei Bruchsal.](./aktionen-buechenau)
 
-Aktuelle Termine finden Sie im Bereich Aktuelles.
+[Aktuelle Termine finden Sie im Bereich Aktuelles.](/news)

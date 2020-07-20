@@ -1,5 +1,5 @@
 +++
-height = 450
+height = 650
 layout = "pic-right"
 order = 3
 picture = "/uploads/Verein_Stand 2015 Kunst & Hobbymarkt Bruchsal.jpg"
@@ -24,4 +24,4 @@ Jedes Jahr am 1. Adventswochenende verkaufen wir auf der Hobby- und Kunstatusste
 
 Unterstützt werden wir auch durch Aktionen der Hof-Trödel-Gruppe Bengelshagen in Norddeutschland.
 
-[Mehr zu Hof-Trödel Bengelshagen]()
+[Mehr zum Hof-Trödel Bengelshagen](/verein/hof-troedel-bengelshagen)

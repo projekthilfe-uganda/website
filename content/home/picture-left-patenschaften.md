@@ -14,4 +14,4 @@ type = "picarticle"
 
 Die Müttersterblichkeit in Uganda ist hoch. Im Schnitt bekommt eine Frau 8 Kinder. Braucht sie einen Kaiserschnitt, ist oft kein Geld dafür da. Sehr viele Kinder werden von den Omas versorgt, weil die Eltern gestorben sind.
 
-[Durch Patenschaften unterstützen]()
+[Durch Patenschaften unterstützen](/helfen/patenschaft)

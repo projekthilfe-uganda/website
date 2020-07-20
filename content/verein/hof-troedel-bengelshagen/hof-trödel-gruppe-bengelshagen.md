@@ -24,4 +24,4 @@ Bruno Steinbach, Tel. 02266 901 98 20
 
 51688 Wipperfürth
 
-[Auf Facebook]()
+<a target="_blank" href="https://www.facebook.com/Bengelshagen/">Auf Facebook</a>
