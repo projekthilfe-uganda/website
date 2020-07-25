@@ -2,11 +2,6 @@
 label: gallery
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Gallery Title
 - name: type
   type: text
   config:
@@ -14,6 +9,11 @@ fields:
   label: Type
   default: gallery
   hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Gallery Title
 - name: order
   type: number
   description: ''
