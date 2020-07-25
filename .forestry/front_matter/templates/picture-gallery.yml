@@ -30,3 +30,5 @@ fields:
     max: 50
     labelField: 
   label: Pictures
+pages:
+- content/projekte/testing-picture-gallery.md
