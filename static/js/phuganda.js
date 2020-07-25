@@ -1,3 +1,14 @@
+$(window).on('load', function() {
+    let modalPic = $('#gallery-modal-img')
+    $(".gallery_link").click(function (e) {
+        console.log("came there")
+        let img = $(e.currentTarget).children("img")
+        modalPic.attr('src', img.attr('src'))
+        modalPic.attr('alt', img.attr('alt'))
+        modalPic.attr('title', img.attr('title'))
+    })
+});
+
 Vue.component('cart-item', {
     template: '#cart-item',
     delimiters: ['[[', ']]'],

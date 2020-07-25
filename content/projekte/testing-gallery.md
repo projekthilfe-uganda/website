@@ -1,6 +1,7 @@
 +++
 draft = true
 order = 2
+type = "gallery"
 title = "Testing Picture Gallery"
 type = ""
 [[pictures]]
