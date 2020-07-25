@@ -3,7 +3,6 @@ draft = true
 order = 2
 type = "gallery"
 title = "Testing Picture Gallery"
-type = ""
 [[pictures]]
 alt = "Preisverleihung"
 picture = "/uploads/Echt Gut Preisverleihung im Stuttgarter Schloss.JPG"
