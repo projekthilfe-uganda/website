@@ -1,6 +1,12 @@
 +++
 draft = true
+order = 2
 title = "Testing Picture Gallery"
+type = ""
+[[pictures]]
+alt = "Preisverleihung"
+picture = "/uploads/Echt Gut Preisverleihung im Stuttgarter Schloss.JPG"
+title = "Preisverleihung"
 [[pictures]]
 alt = ""
 picture = "/uploads/IMG_1955_bf.JPG"
