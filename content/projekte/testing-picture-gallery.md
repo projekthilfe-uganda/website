@@ -3,6 +3,18 @@ draft = true
 title = "Testing Picture Gallery"
 [[pictures]]
 alt = ""
+picture = "/uploads/IMG_1955_bf.JPG"
+title = "Pepper"
+[[pictures]]
+alt = ""
+picture = "/uploads/sausage-tree-3936362_1920.jpg"
+title = "Blue clouds"
+[[pictures]]
+alt = ""
+picture = "/uploads/child-251920_1920.jpg"
+title = "Child with beautiful eyes"
+[[pictures]]
+alt = ""
 picture = "/uploads/IMG_1213_bf.JPG"
 title = "Steppe mit Bäumen"
 [[pictures]]
