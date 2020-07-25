@@ -4,9 +4,11 @@
 
     <div class="row text-center text-lg-left">
         {{ range $j, $_ := .Params.pictures }}
-        <div class="col-lg-3 col-md-4 col-6">
-            <a class="gallery_link" href="#" class="d-block mb-4 h-100" data-toggle="modal" data-target="#gallery-modal">
-                <img class="img-fluid img-thumbnail" src="{{ .picture }}" alt="{{ .alt }}" title="{{ .title }}">
+        <div class="col-lg-3 col-md-4 col-6 mb-4">
+            <a href="#" class="gallery_link img-thumbnail d-block" data-toggle="modal" data-target="#gallery-modal">
+                <div class="gallery_img img-fluid picture-cover w-100"
+                     style="background-image: url('{{ .picture }}')"
+                     src="{{ .picture }}" alt="{{ .alt }}" title="{{ .title }}"></div>
             </a>
         </div>
         {{ end }}
