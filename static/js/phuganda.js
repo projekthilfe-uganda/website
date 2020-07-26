@@ -1,10 +1,13 @@
 $(window).on('load', function() {
+
+    // **************
+    // Gallery
+    // **************
+
     let modalPic = $('#gallery-modal-img')
     let modalTitle = $('#gallery-modal-title')
     $(".gallery_link").click(function (e) {
-        console.log("came there")
         let img = $(e.currentTarget).children(".gallery_img")
-        console.log(img);
         modalPic.attr('src', img.attr('src'))
         modalPic.attr('alt', img.attr('alt'))
         modalTitle.text(img.attr('title'))

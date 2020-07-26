@@ -151,6 +151,94 @@ ul.nav li:hover ul.dropdown-menu {
 }
 
 /***************************
+*** menu side-bar
+***************************/
+
+#sideMenu-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    max-height: 100%;
+}
+.sidenav.open {
+    width: 300px;
+    max-width: calc(100% - 1rem);
+}
+
+.sidenav .nav {
+    display: block;
+}
+
+.sidenav ul {
+    padding: 0;
+}
+.sidenav li {
+    list-style-type:none;
+}
+
+.sidenav li.nav-item:nth-child(1) {
+    border-top: none;
+}
+.sidenav li.nav-item {
+    width: 95%;
+    border-top: #dd7628 1px solid;
+}
+
+.sidenav li.nav-item ul li a {
+    font-size: 0.9rem;
+    padding: 6px 16px;
+    color: #332b21;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav a {
+        font-size: 1.2rem;
+    }
+}
+
+.fadeInLeft {
+    transition: opacity 0.25s linear;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .fadeInLeft {
+        transition: none;
+    }
+}
+
+.fadeInLeft:not(.show) {
+    opacity: 0;
+}
+
+.modal.fadeInLeft .sidenav {
+    transition: transform 0.3s ease-out;
+    transform: translate(-150px, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .modal.fadeInLeft .sidenav {
+        transition: none;
+    }
+}
+
+.modal.show .sidenav {
+    transform: none;
+}
+
+/***************************
 *** article
 ***************************/
 
