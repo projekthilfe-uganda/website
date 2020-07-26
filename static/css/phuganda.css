@@ -119,6 +119,16 @@ body {
 }
 
 /***************************
+*** header
+***************************/
+
+@media (max-width: 870px) {
+    .header .account {
+        display: none;
+    }
+}
+
+/***************************
 *** menu
 ***************************/
 
@@ -350,10 +360,10 @@ ul.nav li:hover ul.dropdown-menu {
 ***************************/
 
 .modal-dialog {
-    max-width: 800px;
+    max-width: 80vw;
 }
 
 .modal-content img {
     max-height: 80vh;
-    max-width: 766px;
+    max-width: 78vw;
 }

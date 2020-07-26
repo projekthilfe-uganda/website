@@ -7,7 +7,6 @@ $(window).on('load', function() {
         console.log(img);
         modalPic.attr('src', img.attr('src'))
         modalPic.attr('alt', img.attr('alt'))
-        modalPic.attr('title', img.attr('title'))
         modalTitle.text(img.attr('title'))
     })
 });

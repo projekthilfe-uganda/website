@@ -6,9 +6,9 @@
         {{ range $j, $_ := .Params.pictures }}
         <div class="col-lg-3 col-md-4 col-6 mb-4">
             <a href="#" class="gallery_link img-thumbnail d-block" data-toggle="modal" data-target="#gallery-modal">
-                <div class="gallery_img img-fluid picture-cover w-100"
+                <img class="gallery_img img-fluid picture-cover w-100"
                      style="background-image: url('{{ .picture }}')"
-                     src="{{ .picture }}" alt="{{ .alt }}" title="{{ .title }}"></div>
+                     src="{{ .picture }}" alt="{{ .alt }}" title="{{ .title }}">
             </a>
         </div>
         {{ end }}

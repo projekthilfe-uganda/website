@@ -115,11 +115,7 @@ menu:
       url: /news/
       weight: 50
 
-    - identifier: shop
-      name: Shop
-      url: /shop/
-      weight: 60
-#  - identifier: menu
-#    name: Menü
-#    pre: fa-bars
-#    weight: 50
+#    - identifier: shop
+#      name: Shop
+#      url: /shop/
+#      weight: 60

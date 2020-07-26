@@ -1,25 +1,24 @@
-<div class="container-fluid">
+<div class="header container-fluid">
     <div class="row">
         <div class="col-auto pt-2 pb-2">
             <a href="/"><img src="/img/logo_name.svg" width="350" height="83" alt="logo" /></a>
         </div>
-        <div class="col-sm pt-2">
-            <div class="row">
+        <div class="col-sm pt-2 mt-3">
+            <div class="row position-relative">
                 <div class="col-sm">
-                    <p class="text-right mb-0">
+                    <p class="account text-right mb-0">
                         IBAN: DE57 6606 1724 0023 0108 01<br>
                         BIC:  GENODE61WGA
                     </p>
                 </div>
                 <div class="col-auto pt-2">
-                    <button type="button" class="btn btn-primary float-right">Spenden</button>
-
+                    <button type="button" class="btn btn-primary float-right" onclick="location.href='/shop';">Spenden</button>
                 </div>
 
             </div>
-            <div class="container-fluid">
-                {{partial "menu.html" .}}
-            </div>
+        </div>
+        <div class="container-fluid">
+            {{partial "menu.html" .}}
         </div>
     </div>
 </div>
