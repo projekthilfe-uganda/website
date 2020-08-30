@@ -132,6 +132,32 @@ body {
 *** menu
 ***************************/
 
+@media (max-width: 750px) {
+    div.header {
+        display: none;
+    }
+}
+@media (min-width: 751px) {
+    div.header-mobile {
+        display: none;
+    }
+}
+@media (max-width: 660px) {
+    div.header-mobile {
+        display: none;
+    }
+}
+@media (min-width: 661px) {
+    div.header-mobile-small {
+        display: none;
+    }
+}
+@media (max-width: 360px) {
+    div.header-mobile-small .logo {
+        display: none;
+    }
+}
+
 ul.nav {
     position: relative;
     margin-bottom: 0;
@@ -153,6 +179,10 @@ ul.nav li:hover ul.dropdown-menu {
 /***************************
 *** menu side-bar
 ***************************/
+
+#menu_burger {
+    width: 100px;
+}
 
 #sideMenu-modal {
     position: fixed;
