@@ -8,3 +8,9 @@ title = "4 Artikel Schlafhäuser"
 Aktuell gehen wir u.a. das Projekt "Schlafhäuser für schutzbedürftige Mädchen" an. Es gibt Waisen, die niemanden haben oder nur eine selbst Pflege bedürftige Oma. Sie werden in den Ferien an größere Bauern gegeben, wo sie arbeiten und dafür Essen kriegen. Ein Teil dieser Mädchen wird sehr ausgenutzt, erfährt Gewalt und einige werden sexuell missbraucht. Die Schulleiter haben sich nun bereiterklärt, diese Mädchen in der Schule zu lassen, wenn sie ein Schlafhaus bekommen könnten und eine geschulte Frau, die die Mädchen betreut. 
 
 Dies wollen wir nun für 4 Schulen bewerkstelligen. Wir möchten jeweils Platz für 100 Mädchen haben, sodass auch die Mädchen der Abschlussklassen dort schlafen können. So können sie – wie es alle guten Schulen anbieten – am extra Früh- und Spätunterricht teilnehmen, um gute Abschlüsse zu erreichen.
+
+Das Mädchenschlafhaus mit Waschplatz für St. John ist fertig. Das 2. Haus für die Prim.-Schule St. Leonard wurde gerade begonnen. Für das zweite Haus fehlt noch die Finanzierung der 50 Stockbetten (je 65,- €) und die Holzmöbel für den Aufenthaltsraum (1300,- €). Beides kann in unserer Gewerbeschule hergestellt werden.
+
+Und dann hoffen wir sehr auf die Unterstützung für die restlichen beiden Häuser, damit alle schutzbedürftigen Mädchen solange in Sicherheit sind, bis sie die Schulbildung oder Ausbildung beendet haben.
+
+Für diese Mädchen würden wir jeweils Paten suchen, um die Finanzierung sicherzustellen.
