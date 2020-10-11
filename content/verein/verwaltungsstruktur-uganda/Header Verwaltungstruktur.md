@@ -1,5 +1,5 @@
 +++
-name = "Header Verwaltungsstruktur"
+name = "1 Header Verwaltungsstruktur"
 order = 1
 type = "picslider"
 [[slides]]
