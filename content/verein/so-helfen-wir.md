@@ -3,7 +3,7 @@ height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/IMG_1870_bf.JPG"
-title = "So helfen wir"
+title = "3 So helfen wir"
 type = "picarticle"
 
 +++
