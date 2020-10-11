@@ -7,7 +7,7 @@ title = "Artikel Beispiel eines Hilfseinsatzes"
 type = "picarticle"
 
 +++
-## Beispiel von Aufgaben während eines Aufenthaltes von Projekthilfe Uganda
+## Beispiel-Agend eines Aufenthaltes von Projekthilfe Uganda
 
 * Besuch der Patenkinder & Kontrolle, ob alle Patenkinder noch zur Schule kommen und die Daten stimmen
 * Verteilen von Ferkeln, Küken, Saatgut und Folien für Wasserreservoirs an Eltern der Patenkinder, die dann im Landwirtschaftsprogramm in jeder Teilpfarrei in Gruppen kommen und beraten werden.
