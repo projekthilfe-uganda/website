@@ -10,3 +10,5 @@ type = "article"
 [Spenden](/shop "Spendenshop")
 
 [Wie Sie noch helfen können](/helfen)
+
+[Zum Kontakt](verein/kontakt "Kontakt")
