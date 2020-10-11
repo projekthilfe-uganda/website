@@ -3,7 +3,7 @@ height = 100
 layout = "pic-right"
 order = 3
 picture = "/uploads/img_0816_bf-1.JPG"
-title = "Beispiel eines Hilfseinsatzes"
+title = "Artikel Beispiel eines Hilfseinsatzes"
 type = "picarticle"
 
 +++
