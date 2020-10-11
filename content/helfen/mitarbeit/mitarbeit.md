@@ -7,7 +7,7 @@ title = "Mitarbeit"
 type = "article"
 
 +++
-Viele Hände meistern ehrenamtlich zusammen, was es bei uns zu tun gibt. Jeder nach seinen Fähigkeiten und Interessen. Ob es die Buchhaltung ist, die Erstellung von Rundbriefen, das Packen von Hilfslieferungen oder das Helfen bei Festen zugunsten der Projekthilfe Uganda. Und noch vieles mehr.
+Viele Hände meistern ehrenamtlich, was es bei uns zu tun gibt. Jeder nach seinen Fähigkeiten und Interessen. Ob Buchhaltung, die Erstellung von Rundbriefen, das Packen von Hilfslieferungen oder das Helfen bei Festen zugunsten der Projekthilfe Uganda. Und noch vieles mehr.
 
 Wir freuen uns, falls Sie Interesse haben, sich für die Menschen in Uganda zu engagieren und beim Verein Projekthilfe Uganda mitzumachen.
 
