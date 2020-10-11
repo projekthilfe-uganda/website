@@ -3,7 +3,7 @@ height = 100
 layout = "pic-left"
 order = 4
 picture = "/uploads/arbeitseinsatz-in-uganda-ausladen-eines-containers.JPG"
-title = "Artikel weitere Beispiele"
+title = "4 Artikel weitere Beispiele"
 type = "picarticle"
 
 +++
