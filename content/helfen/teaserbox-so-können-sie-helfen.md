@@ -1,6 +1,6 @@
 +++
-order = 2
-title = "Teaserbox So können Sie helfen"
+order = 3
+title = "3 Teaserbox So können Sie helfen"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1855_bf.JPG"
