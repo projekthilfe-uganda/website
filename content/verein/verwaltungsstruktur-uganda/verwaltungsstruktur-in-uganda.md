@@ -1,5 +1,5 @@
 +++
-h1 = "Verwaltungsstruktur unserer Projekthilfe in Uganda"
+h1 = "Verwaltungsstruktur der Projekthilfe in Uganda"
 h2 = "Kontrollstellen und Partner vor Ort"
 h3 = ""
 order = 2
