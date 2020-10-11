@@ -6,3 +6,5 @@ title = "3 Newsletter Aktuelles"
 
 +++
 PDF Newsletter
+
+Wollen Sie sich für künftige Newsletter anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen. 
