@@ -7,7 +7,9 @@ title = "Einleitung: Hilfseinsätze vor Ort"
 type = "article"
 
 +++
-Text
+# Hilfseinsätze vor Ort
+
+## Organisation & Arbeitseinsätze
 
 **21.02. - 21.03.16**  
 Kyamulibwa  
