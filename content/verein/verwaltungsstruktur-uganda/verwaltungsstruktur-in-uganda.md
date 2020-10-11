@@ -3,7 +3,7 @@ h1 = "Verwaltungsstruktur unserer Projekthilfe in Uganda"
 h2 = "Kontrollstellen und Partner vor Ort"
 h3 = ""
 order = 2
-title = "Verwaltungsstruktur in Uganda"
+title = "2 Einleitung Verwaltungsstruktur in Uganda"
 type = "article"
 
 +++
