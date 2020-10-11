@@ -1,5 +1,5 @@
 +++
-date = 2019-02-15T23:00:00Z
+date = ""
 order = 2
 subtitle = "... von der Projekthilfe Uganda e.V."
 title = "Aktuelles"
