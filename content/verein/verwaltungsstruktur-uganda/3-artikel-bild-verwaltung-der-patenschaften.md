@@ -1,5 +1,4 @@
 +++
-draft = true
 height = 100
 layout = "pic-right"
 order = 3
@@ -8,6 +7,8 @@ title = "3 Artikel/Bild Verwaltung der Patenschaften"
 type = "picarticle"
 
 +++
+## Verwaltung der Patenschaften
+
 Der Leiter des Entwicklungsbüros stellt ein:
 
 * Projektleiter/in
