@@ -9,7 +9,7 @@ type = "picarticle"
 +++
 ## Verwaltung der Projektarbeit
 
-Die Verwaltungsstruktur wurde 2020 neu geregelt! Ziel war Förderung der Eigenverantwortlichkeit der Institutionen, Transparenz, keine Möglichkeit von Korruption sowie mehrere Kontrollen.
+Die Verwaltungsstruktur wurde 2020 neu geregelt. Ziel war Förderung der Eigenverantwortlichkeit der Institutionen, Transparenz, keine Möglichkeit von Korruption sowie mehrere Kontrollen.
 
 Es gibt ein beschließendes Gremium (Verwaltungsrat) und ein Management-Komitee.
 
