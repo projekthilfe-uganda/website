@@ -2,8 +2,8 @@
 h1 = ""
 h2 = "Verwaltung in Deutschland"
 h3 = "Struktur von Projekthilfe Uganda e.V."
-order = 6
-title = "6 Artikel Verwaltungsstruktur Deutschland"
+order = 5
+title = "5 Artikel Verwaltungsstruktur Deutschland"
 type = "article"
 
 +++
