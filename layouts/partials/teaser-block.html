@@ -1,10 +1,10 @@
-<div class="{{.Type}} container-fluid mt-5 mb-5 p-0 d-flex flex-wrap">
+<div class="{{.Type}} d-flex flex-wrap">
     {{ range $i, $_ := .Params.teaser }}
-        <div class="pic-block d-flex {{ if modBool (div $i 2) 2 }}reverse{{end}}">
-            <div class="w-50 overflow-hidden">
-                <img class="picture-cover" src="{{ .picture }}" alt="{{ .picture }}"/>
+        <div class="item {{ if modBool (div $i 2) 2 }}reverse{{end}}">
+            <div class="picture picture-square">
+                <img class="pic" src="{{ .picture }}" alt="{{ .picture }}" />
             </div>
-            <div class="w-50 p-3 overflow-hidden">
+            <div class="text p-3">
                 {{ .text | markdownify }}
             </div>
         </div>
