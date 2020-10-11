@@ -11,7 +11,7 @@ type = "article"
 
 ## Organisation & Arbeitseinsätze
 
-  
-Kyamulibwa  
+Jeder Aufenthalt vor Ort in Kyamulibwa ist anders. Regelmäßig überschneiden sich Aufgaben 
+
 Arbeitseinsatz vor Ort:  
 Container aus dem Zoll holen, alles entladen, installieren, verteilen; Vorgespräche wegen Brillenherstellung und Optiker-Ausbildung, Gespräche wegen letzter großer Baumaßnahmen für das Krankenhaus, Sitzungen mit den Verwaltungsräten der Schulen.
