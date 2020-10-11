@@ -2,7 +2,7 @@
 height = 100
 layout = "pic-right"
 order = 3
-picture = ""
+picture = "/uploads/verein_sitzungen-mit-verwaltungsrat-der-schulen-1.JPG"
 title = "3 Artikel/Bild Verwaltung der Patenschaften"
 type = "picarticle"
 
