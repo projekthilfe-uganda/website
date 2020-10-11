@@ -1,5 +1,4 @@
 +++
-draft = true
 height = 100
 layout = "pic-right"
 order = 3
@@ -15,4 +14,4 @@ type = "picarticle"
 * Diskussion mit der NGO zum Landwirtschaftsprogramm (Mittelverwendung, weiteres Vorgehen).
 * Verwaltungsratssitzung mit einer Schule wegen Verbesserungen.
 * Verwaltungsratssitzung mit der Gewerbeschule wegen künftiger Projekte und Strukturverbesserungen.
-* Verwaltungsratssitzung mit dem Krankenhaus wegen Akzeptanz der Anträge zur Fertigstellung damals.
+* Verwaltungsratssitzung mit dem Krankenhaus wegen Akzeptanz der damaligen Anträge zur Fertigstellung.
