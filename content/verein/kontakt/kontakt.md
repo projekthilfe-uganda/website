@@ -10,16 +10,19 @@ type = "article"
 **Projekthilfe Uganda e.V.**  
 Albrecht-Dürer-Str. 4  
 74464 Bruchsal  
-E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)  
-  
-  
-**Christel Henecka**   
-1\. Vorsitzende   
-Tel.: 07257 1482   
-E-Mail: ChristelHenecka@gmx.de  
-   
-  
-**Helmut Rohling**  
-2\. Vorsitzender  
-Tel.: 06222 770 182  
-E-Mail: helmut.rohling@web.de
+E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)
+
+**Christel Henecka**  
+1\. Vorsitzende  
+Tel.: 07257 1482  
+E-Mail: ChristelHenecka@gmx.de
+
+**Constanze Sweeney und Richard Bender**
+
+2. Vorsitzende
+
+Tel. 07254 5850
+
+E-Mail: [augenoptic.sweeney@gmx.de](mailto:augenoptic.sweeney@gmx.de)
+
+E-Mail: [richardbender.19@gmail.com](mailto:richardbender.19@gmail.com)
