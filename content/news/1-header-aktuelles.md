@@ -1,7 +1,7 @@
 +++
 date = ""
 order = 3
-subtitle = ""
+subtitle = "Newsletter Projekthilfe Uganda"
 title = "3 Newsletter Aktuelles"
 
 +++
