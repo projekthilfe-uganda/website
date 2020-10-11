@@ -3,7 +3,7 @@ h1 = "Hilfseinsätze in Uganda"
 h2 = "Organisation & Arbeitseinsätze"
 h3 = ""
 order = 2
-title = "Einleitung: Hilfseinsätze vor Ort"
+title = "2 Einleitung: Hilfseinsätze vor Ort"
 type = "article"
 
 +++
