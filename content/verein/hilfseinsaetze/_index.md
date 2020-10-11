@@ -1,5 +1,4 @@
 +++
-draft = true
 h2 = "Beispiel eines Hilfseinsatzes"
 order = 3
 title = "Beispiel"
