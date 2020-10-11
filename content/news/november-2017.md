@@ -1,6 +1,5 @@
 +++
 date = 2016-10-31T23:00:00Z
-draft = true
 order = 3
 subtitle = "Hobby- und Kunstausstellung"
 title = "November 2017"
