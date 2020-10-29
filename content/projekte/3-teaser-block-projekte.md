@@ -3,7 +3,7 @@ order = 3
 title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
-picture = ""
+picture = "/uploads/IMG_0816_bf.JPG"
 text = "Das Krankenhaus und ein Optiker haben die gesundheitliche Versorgung vorangebracht"
 title = "Gesundheitsversorgung"
 [[teaser]]
