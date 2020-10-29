@@ -3,6 +3,10 @@ order = 3
 title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
+picture = "/uploads/IMG_1955_bf.JPG"
+text = "Landwirtschaft ermöglichen und Wissen stärken: So fördern wir Kleinbauern\n\n[Agrar-Hilfsprogramm](/projekte/hilfsprogramm-kleinbauern \"Agrar-Hilfsprogramm\")"
+title = "Agrar-Hilfsprogramm"
+[[teaser]]
 picture = "/uploads/IMG_0816_bf.JPG"
 text = "Das Krankenhaus und ein Optiker haben die gesundheitliche Versorgung vorangebracht"
 title = "Gesundheitsversorgung"
