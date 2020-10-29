@@ -8,6 +8,4 @@ title = "9 Artikel Wir freuen uns über Ihre Hilfe"
 type = "article"
 
 +++
-[Spenden](/shop "Spendenshop")
-
-[Wie Sie noch helfen können](/helfen)
+[Spenden](/shop "Spendenshop")   [Wie Sie noch helfen können](/helfen)
