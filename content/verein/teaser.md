@@ -20,7 +20,7 @@ text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir H
 title = "Hilfseinsätze vor Ort"
 [[teaser]]
 picture = "/uploads/Verein_Sitzungen mit Verwaltungsrat der Schulen.JPG"
-text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet. "
+text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet.\n\n[Verwaltungsstruktur](/verwaltungsstruktur-uganda \"Verwaltungsstruktur\")"
 title = "Verwaltungsstruktur"
 [[teaser]]
 picture = "/uploads/IMG_1686_bf.JPG"
