@@ -1,5 +1,5 @@
 +++
-name = "Header Auszeichnungen"
+name = "1 Header Auszeichnungen"
 order = 1
 type = "picslider"
 [[slides]]
