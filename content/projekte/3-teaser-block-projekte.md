@@ -12,7 +12,7 @@ text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehan
 title = "Caritas für die Ärmsten"
 [[teaser]]
 picture = "/uploads/IMG_1241_bf.JPG"
-text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen"
+text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen\n\n[Selbsthilfegruppen](/projekte/selbsthilfegruppen \"Selbsthilfegruppen\")"
 title = "Selbsthilfegruppen"
 [[teaser]]
 picture = "/uploads/IMG_1955_bf.JPG"
