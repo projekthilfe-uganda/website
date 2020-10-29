@@ -8,7 +8,7 @@ text = "Nehmen Sie gerne mit uns Kontakt auf.\n\n[Zum Kontakt](verein/kontakt \"
 title = "Kontakt"
 [[teaser]]
 picture = "/uploads/Bundesverdienstkreuz 2009.jpg"
-text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda. "
+text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda.\n\n[Auszeichnungen]()"
 title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_2312_bf.JPG"
