@@ -20,7 +20,7 @@ text = "Landwirtschaft ermöglichen und Wissen stärken: So fördern wir Kleinba
 title = "Agrar-Hilfsprogramm"
 [[teaser]]
 picture = "/uploads/IMG_0816_bf.JPG"
-text = "Das Krankenhaus und ein Optiker haben die gesundheitliche Versorgung vorangebracht"
+text = "Das Krankenhaus und ein Optiker haben die gesundheitliche Versorgung vorangebracht\n\n[Gesundheitsversorgung](/projekte/gesundheitsversorgung \"Gesundheitsversorgung\")"
 title = "Gesundheitsversorgung"
 [[teaser]]
 picture = "/uploads/IMG_1624_bf.JPG"
