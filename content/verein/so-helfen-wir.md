@@ -18,8 +18,8 @@ Wir reagieren auf die Bedürfnisse durch
 * ausschließlich ehrenamtliche Arbeit mit Erarbeitung geringer Verwaltungskosten
 * eigene Aktionen (u. a. Feste, Basare) zur Finanzierung von Projekten
 
-[Machen Sie mit.](/helfen/mitarbeit)
+[Machen Sie mit](/helfen/mitarbeit)
 
-[Aktionen rund um Büchenau bei Bruchsal.](./aktionen-buechenau)
+[Aktionen rund um Büchenau bei Bruchsal](./aktionen-buechenau)
 
-[Aktuelle Termine finden Sie im Bereich Aktuelles.](/news)
+[Aktuelle Termine im Bereich Aktuelles](/news)
