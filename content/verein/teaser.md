@@ -16,15 +16,15 @@ text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder 
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_0901_bf.JPG"
-text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch.\n\n[Hilfseinsätze]()"
+text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch.\n\n[Hilfseinsätze](/verein/hilfseinsaetze \"Hilfseinsätze\")"
 title = "Hilfseinsätze vor Ort"
 [[teaser]]
 picture = "/uploads/Verein_Sitzungen mit Verwaltungsrat der Schulen.JPG"
-text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet.\n\n[Verwaltungsstruktur](/verwaltungsstruktur-uganda \"Verwaltungsstruktur\")"
+text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur eingerichtet.\n\n[Verwaltungsstruktur](/verein/verwaltungsstruktur-uganda \"Verwaltungsstruktur\")"
 title = "Verwaltungsstruktur"
 [[teaser]]
 picture = "/uploads/IMG_1686_bf.JPG"
-text = "Unsere Bilder und Videos geben konkrete Einblicke in unsere Projekthilfe Uganda.\n\n[Bilder & Videos]()"
+text = "Unsere Bilder und Videos geben konkrete Einblicke in unsere Projekthilfe Uganda.\n\n[Bilder & ](/verein/bilder-videos \"Bilder & Videos\")[Videos]()"
 title = "Bilder & Videos"
 [[teaser]]
 picture = "/uploads/Verein_Waren beiholen für den Containerversand.JPG"
