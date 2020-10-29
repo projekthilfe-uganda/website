@@ -3,7 +3,7 @@ h1 = "Patenschaften in Uganda"
 h2 = "Helfen Sie Kindern und Auszubildenden mit einer Patenschaft"
 h3 = ""
 order = 2
-title = "Patenschaft"
+title = "2 Einleitung Patenschaft"
 type = "article"
 
 +++
