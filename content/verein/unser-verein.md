@@ -6,7 +6,7 @@ h1: Unser Verein Projekthilfe Uganda
 order: '2'
 
 ---
-Projekthilfe Uganda e.V. ist ein eingetragener, gemeinnütziger Verein, der in Uganda ein Entwicklungsprojekt mit Schulen, Berufsausbildung und einem kleinen Krankenhaus aufgebaut hat, diese Arbeit weiterentwickelt und neue Projekte anstößt.
+Projekthilfe Uganda e.V. ist ein eingetragener, gemeinnütziger Verein aus Büchenau bei Bruchsal, nahe Heidelberg und Karlsruhe. Die Projekthilfe Uganda hat in Uganda ein Entwicklungsprojekt mit Schulen, Berufsausbildung und einem kleinen Krankenhaus aufgebaut, entwickelt diese Arbeit weiter und stößt neue Projekte an.
 
 Unser Partner ist die Gemeinde Kyamulibwa bei Masaka in Uganda / Ostafrika. Projektleiter ist Pfarrer Denis Ddamulira, Träger das Entwicklungsbüro der Diozese Masaka.
 
