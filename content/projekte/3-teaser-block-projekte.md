@@ -3,6 +3,10 @@ order = 3
 title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
+picture = "/uploads/IMG_1241_bf.JPG"
+text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen"
+title = "Selbsthilfegruppen"
+[[teaser]]
 picture = "/uploads/IMG_1955_bf.JPG"
 text = "Landwirtschaft ermöglichen und Wissen stärken: So fördern wir Kleinbauern\n\n[Agrar-Hilfsprogramm](/projekte/hilfsprogramm-kleinbauern \"Agrar-Hilfsprogramm\")"
 title = "Agrar-Hilfsprogramm"
