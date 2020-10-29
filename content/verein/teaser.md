@@ -16,7 +16,7 @@ text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder 
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/IMG_0901_bf.JPG"
-text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch. "
+text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch.\n\n[Hilfseinsätze]()"
 title = "Hilfseinsätze vor Ort"
 [[teaser]]
 picture = "/uploads/Verein_Sitzungen mit Verwaltungsrat der Schulen.JPG"
