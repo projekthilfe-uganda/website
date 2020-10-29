@@ -4,7 +4,7 @@ title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1128_bf.JPG"
-text = "Eine Unterkunft für die alten Menschen. \n\nUganda-Lebenshaus"
+text = "Eine Unterkunft für die alten Menschen. \n\n[Uganda-Lebenshaus](/projekte/uganda-lebenshaus-stiftung \"Uganda-Lebenshaus-Stiftung\")"
 title = "Lebenshaus-Stiftung"
 [[teaser]]
 picture = "/uploads/IMG_1948_bf.JPG"
