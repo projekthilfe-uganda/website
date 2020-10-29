@@ -32,7 +32,7 @@ text = "Bei uns in Büchenau bei Bruchsal führen wir immer wieder Aktionen für
 title = "Aktionen rund um Büchenau"
 [[teaser]]
 picture = "/uploads/IMG_1887_bf.JPG"
-text = "Unterstützt wird unser Verein durch weitere Engagierte in Bengelshagen im Regierungsbezirk Köln."
+text = "Unterstützt wird unser Verein durch weitere Engagierte in Bengelshagen im Regierungsbezirk Köln.\n\n[Hof-Trödel]()"
 title = "Hof-Trödel-Gruppe Bengelshagen"
 
 +++
