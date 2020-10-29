@@ -1,5 +1,4 @@
 +++
-draft = true
 name = "1 Header-Bild"
 order = 1
 type = "picslider"
