@@ -44,6 +44,7 @@ fields:
     step: '1'
     required: true
 pages:
+- content/helfen/Patenschaft/4-anfrage-patenschaft.md
 - content/helfen/Patenschaft/ablauf-patenschaft.md
 - content/helfen/mitarbeit/4-text-freiwilligeneinsatz.md
 - content/helfen/mitarbeit/reisen-nach-uganda.md
