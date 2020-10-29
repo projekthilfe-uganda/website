@@ -3,6 +3,10 @@ order = 3
 title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
+picture = ""
+text = "Das Krankenhaus und ein Optiker haben die gesundheitliche Versorgung vorangebracht"
+title = "Gesundheitsversorgung"
+[[teaser]]
 picture = "/uploads/IMG_1624_bf.JPG"
 text = "Schon Hunderte von jungen Menschen haben durch die Unterstützung von Paten eine neue Perspektive erhalten\n\n[Patenschaftsprogramm](/unsere-projekte/patenschaften \"Patenschaften\")"
 title = "Patenschaftsprogramm"
