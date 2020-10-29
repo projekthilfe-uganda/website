@@ -1,6 +1,6 @@
 +++
 order = 4
-title = "4 Teaser-Galerie Unser Verein"
+title = "4 Teaser-Block Unser Verein"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"

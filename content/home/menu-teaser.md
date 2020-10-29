@@ -1,7 +1,7 @@
 +++
 date = "2019-02-17T15:20:37+00:00"
 order = 30
-title = "3 Teaser Block"
+title = "3 Teaser-Block Projekthilfe"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2301_bf.JPG"
