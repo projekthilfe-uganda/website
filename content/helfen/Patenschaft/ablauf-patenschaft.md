@@ -3,7 +3,7 @@ height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/Tisch.jpg"
-title = "Ablauf Patenschaft"
+title = "3 Text Ablauf Patenschaft"
 type = "picarticle"
 
 +++
