@@ -28,7 +28,7 @@ text = "Unsere Bilder und Videos geben konkrete Einblicke in unsere Projekthilfe
 title = "Bilder & Videos"
 [[teaser]]
 picture = "/uploads/Verein_Waren beiholen für den Containerversand.JPG"
-text = "Bei uns in Büchenau bei Bruchsal führen wir immer wieder Aktionen für die Projekthilfe in Uganda durch."
+text = "Bei uns in Büchenau bei Bruchsal führen wir immer wieder Aktionen für die Projekthilfe in Uganda durch.\n\n[Aktionen]()"
 title = "Aktionen rund um Büchenau"
 [[teaser]]
 picture = "/uploads/IMG_1887_bf.JPG"
