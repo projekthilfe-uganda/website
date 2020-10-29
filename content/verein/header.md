@@ -4,7 +4,7 @@ order = 1
 title = "Header Unser Verein"
 type = "picslider"
 [[slides]]
-picture = "/uploads/IMG_0871_bf.JPG"
+picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
 text = ""
 
 +++
