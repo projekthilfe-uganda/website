@@ -3,7 +3,7 @@ height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/IMG_1887_bf.JPG"
-title = "Reisen nach Uganda"
+title = "3 Text Reisen nach Uganda"
 type = "picarticle"
 
 +++
