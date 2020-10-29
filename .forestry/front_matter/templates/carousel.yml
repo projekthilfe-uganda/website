@@ -37,6 +37,7 @@ fields:
       schema:
         format: markdown
 pages:
+- content/helfen/Spielgeräte für die Schulen.md
 - content/helfen/mitarbeit/Adventsmarkt.md
 - content/home/Header Startseite.md
 - content/projekte/Header Unsere Projekte.md
