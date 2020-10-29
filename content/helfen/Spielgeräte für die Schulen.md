@@ -5,5 +5,8 @@ type = "picslider"
 [[slides]]
 picture = "/uploads/IMG_2239_bf.JPG"
 text = ""
+[[slides]]
+picture = "/uploads/IMG_1186_bf.JPG"
+text = ""
 
 +++

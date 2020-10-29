@@ -37,6 +37,7 @@ fields:
       schema:
         format: markdown
 pages:
+- content/helfen/Patenschaft/Kinder in Uganda.md
 - content/helfen/Spielgeräte für die Schulen.md
 - content/helfen/mitarbeit/Adventsmarkt.md
 - content/home/Header Startseite.md
