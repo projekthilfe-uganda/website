@@ -2,7 +2,7 @@
 date = ""
 order = 2
 subtitle = "... von der Projekthilfe Uganda e.V."
-title = "2 Einleitung Aktuelles"
+title = "Aktuelles"
 type = "article"
 
 +++
