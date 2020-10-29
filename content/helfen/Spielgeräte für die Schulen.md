@@ -1,5 +1,5 @@
 +++
-name = "1 Header-Galerie So können Si ehelfen"
+name = "1 Header-Galerie So können Sie helfen"
 order = 1
 type = "picslider"
 [[slides]]
