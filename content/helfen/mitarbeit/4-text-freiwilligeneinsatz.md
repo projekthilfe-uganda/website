@@ -1,9 +1,8 @@
 +++
-draft = true
 height = 500
 layout = "pic-left"
 order = 4
-picture = ""
+picture = "/uploads/img_1829_bf-1.JPG"
 title = "4 Text Freiwilligeneinsatz"
 type = "picarticle"
 
