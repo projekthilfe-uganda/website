@@ -1,6 +1,6 @@
 +++
 order = 4
-title = "4 Teaser Unser Verein"
+title = "4 Teaser-Galerie Unser Verein"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
@@ -8,7 +8,7 @@ text = "Nehmen Sie gerne mit uns Kontakt auf.\n\n[Zum Kontakt](verein/kontakt \"
 title = "Kontakt"
 [[teaser]]
 picture = "/uploads/Bundesverdienstkreuz 2009.jpg"
-text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda.\n\n[Auszeichnungen]()"
+text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit für die Menschen in Uganda.\n\n[Auszeichnungen](/verein/auszeichnungen \"Auszeichnungen\")"
 title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_2312_bf.JPG"
