@@ -1,5 +1,5 @@
 +++
-height = 100
+height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/st-kizito_img_2688-min.JPG"
