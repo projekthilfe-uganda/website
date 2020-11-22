@@ -1,4 +1,40 @@
 ---
-label: links
+label: linklist
 hide_body: true
-fields: []
+fields:
+- name: links
+  type: field_group_list
+  fields:
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+    description: The URL or relative path on this website
+  - name: text
+    type: text
+    config:
+      required: false
+    label: Text
+    description: The text to show on the link
+  - name: order
+    type: number
+    label: Order
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: type
+    type: text
+    config:
+      required: false
+    label: type
+    default: linklist
+    hidden: true
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links
