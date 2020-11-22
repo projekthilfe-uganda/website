@@ -7,20 +7,13 @@ title = "3 Ausbildungsberufe "
 type = "picarticle"
 
 +++
-Ausbildungsberufe am KVTC
+## Ausbildungsberufe am KVTC
 
-Schreiner
-
-Maurer
-
-Schlosser
-
-Schneiderinnen
-
-Köchinnen
-
-Frisörinnen
-
-Elektriker
-
-Buchhalter
+* Schreiner
+* Maurer
+* Schlosser
+* Schneiderinnen
+* Köchinnen
+* Frisörinnen
+* Elektriker
+* Buchhalter
