@@ -4,6 +4,9 @@ order = 1
 title = "Header Unser Verein"
 type = "picslider"
 [[slides]]
+picture = "/uploads/ugandafest-2017-im-pfarrzentrum-bruchsal-buchenau.JPG"
+text = ""
+[[slides]]
 picture = "/uploads/IMG_2281_bf.JPG"
 text = ""
 [[slides]]
