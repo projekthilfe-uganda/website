@@ -2,7 +2,7 @@
 height = 500
 layout = "pic-right"
 order = 3
-picture = ""
+picture = "/uploads/IMG_1857_bf.JPG"
 title = "3 Ausbildungsberufe "
 type = "picarticle"
 
