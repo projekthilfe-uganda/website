@@ -1,5 +1,5 @@
 +++
-h1 = "KVTC Berufsschule"
+h1 = "KVTC Gewerbeschule"
 h2 = "Fundierte Berufsausbildungen in Uganda"
 h3 = ""
 order = 3
