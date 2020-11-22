@@ -138,7 +138,9 @@ let shop = new Vue({
             let items = {};
             for (let i = 0; i < data.data.items.length; i++) {
                 const item = data.data.items[i];
-                if (item.type === "shopitem") items[item.id] = item;
+                if (!item.Params) continue;
+
+                if (item.Params.type === "shopitem") items[item.Params.identifier] = item.Params;
             }
             this.shopItems = items;
         },
