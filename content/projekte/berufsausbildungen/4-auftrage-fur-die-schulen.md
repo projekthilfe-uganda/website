@@ -9,6 +9,6 @@ type = "picarticle"
 +++
 ## Aufträge für die Schulen
 
-Gerade die Handwerker, die an der KVTC Berufschule ausgebildet werden, können Ihr Fertigkeiten für die Herstellung von Möbeln und beim Aufbau von neuen Gebäuden der Schulen zeigen. 
+Gerade die Handwerker, die an der KVTC Berufschule ausgebildet werden, können Ihr Fertigkeiten für die Herstellung von Möbeln und beim Aufbau von neuen Gebäuden der Schulen zeigen.
 
-So wurden z.B. neue Schränke für die St. John´s School gefertigt oder Tische und Bänke für die Schulkantinen und Unterkünfte geschreinert. 
+So wurden z.B. neue Schränke für die St. John School gefertigt sowie Tische und Bänke für diverse Schulkantinen und Unterkünfte geschreinert.
