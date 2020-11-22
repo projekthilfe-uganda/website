@@ -23,7 +23,7 @@ picture = "/uploads/IMG_1955_bf.JPG"
 text = "Landwirtschaft ermöglichen und Wissen stärken: So fördern wir Kleinbauern\n\n[Agrar-Hilfsprogramm](/projekte/hilfsprogramm-kleinbauern \"Agrar-Hilfsprogramm\")"
 title = "Agrar-Hilfsprogramm"
 [[teaser]]
-picture = "/uploads/IMG_1241_bf.JPG"
+picture = "/uploads/img_4497_baeckerwitwen-min.JPG"
 text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen\n\n[Selbsthilfegruppen](/projekte/selbsthilfegruppen \"Selbsthilfegruppen\")"
 title = "Selbsthilfegruppen"
 [[teaser]]
