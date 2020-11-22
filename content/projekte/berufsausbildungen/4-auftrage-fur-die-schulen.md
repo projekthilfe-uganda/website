@@ -2,7 +2,7 @@
 height = 500
 layout = "pic-left"
 order = 4
-picture = ""
+picture = "/uploads/st-john_herstellung-der-bucherschranke-in-der-gewerbeschule.jpg"
 title = "4 Aufträge für die Schulen"
 type = "picarticle"
 
