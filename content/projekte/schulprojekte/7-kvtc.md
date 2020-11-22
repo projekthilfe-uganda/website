@@ -9,8 +9,8 @@ type = "picarticle"
 +++
 KVTC
 
-In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren. 
+In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren.
 
-8 Berufsausbildungen werden angeboten. 
+8 Berufsausbildungen sind inzwischen möglich.
 
 [Mehr zu den Berufsausbildungen](/projekte/berufsausbildungen "Berufsausbildungen")
