@@ -1,5 +1,5 @@
 +++
-height = 100
+height = 550
 layout = "pic-left"
 order = 4
 picture = "/uploads/IMG_1272_bf.JPG"
