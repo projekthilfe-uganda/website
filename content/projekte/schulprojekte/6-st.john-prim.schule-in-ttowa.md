@@ -9,4 +9,8 @@ type = "picarticle"
 +++
 ## St. John Prim.-Schule in Ttowa
 
-Text
+St. John Prim.-Schule in Ttowa 
+
+mit Berufsausbildung in 8 Berufen
+
+10 Kilometer entfernt in Teilpfarrei
