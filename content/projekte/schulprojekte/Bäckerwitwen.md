@@ -6,7 +6,7 @@ type = "picslider"
 picture = "/uploads/teilansicht-min.jpg"
 text = ""
 [[slides]]
-picture = "/uploads/img_20190202_180257_baeckerwitwen-min.jpg"
+picture = "/uploads/nach-dem-zusammenbruch-der-wasserversorgung-muss-jeder-wasser-holen-min.jpg"
 text = ""
 
 +++
