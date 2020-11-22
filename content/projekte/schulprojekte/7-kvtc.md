@@ -9,4 +9,8 @@ type = "picarticle"
 +++
 KVTC
 
-Berufsausbildungen
+In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren. 
+
+8 Berufsausbildungen werden angeboten. 
+
+[Mehr zu den Berufsausbildungen](/projekte/berufsausbildungen "Berufsausbildungen")
