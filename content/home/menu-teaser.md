@@ -16,7 +16,7 @@ picture = "/uploads/africa-866599_1920.jpg"
 text = "#### So können Sie helfen\n\n... durch Spenden für die Projekte in Uganda, durch Patenschaften für Schulkinder und Auszubildende, durch Ihr Engagement, Mitarbeit vor Ort in Uganda und sogar einfach über amazon-smile.\n\n[Mehr zum Thema Helfen](/helfen/ \"So können Sie helfen\")"
 title = "So können Sie helfen"
 [[teaser]]
-picture = "/uploads/dscn3704corona_hilfe-patenkinder.JPG"
+picture = "/uploads/dscn3603_corona.JPG"
 text = "#### Aktuelles\n\nImmer wieder informieren wir in unseren News über aktuelle Entwicklungen unserer Projekte in Uganda und über Veranstaltungen & Initiativen in Deutschland.\n\n[Zu den News](/news)"
 title = "Aktuelles"
 
