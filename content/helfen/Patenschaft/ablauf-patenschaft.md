@@ -2,7 +2,7 @@
 height = 550
 layout = "pic-right"
 order = 3
-picture = "/uploads/Tisch.jpg"
+picture = "/uploads/freude-uber-die-schuhe-aus-dem-container.jpg"
 title = "3 Text Ablauf Patenschaft"
 type = "picarticle"
 
