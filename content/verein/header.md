@@ -4,7 +4,7 @@ order = 1
 title = "Header Unser Verein"
 type = "picslider"
 [[slides]]
-picture = "/uploads/Verein_Verhandlungen vor Ort - Christel Henecka, Vors. von Projekthilfe Uganda und Hon. Matia Kasaijja, Finanzminister von Uganda.jpg"
+picture = "/uploads/IMG_2281_bf.JPG"
 text = ""
 [[slides]]
 picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
