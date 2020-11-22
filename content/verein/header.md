@@ -7,7 +7,7 @@ type = "picslider"
 picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
 text = ""
 [[slides]]
-picture = "/uploads/ugandafest-2017-im-pfarrzentrum-bruchsal-buchenau.JPG"
+picture = "/uploads/verein_ugandafest-2017-im-pfarrzentrum-bruchsal-buchenau-1.JPG"
 text = ""
 [[slides]]
 picture = "/uploads/IMG_2281_bf.JPG"
