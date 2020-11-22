@@ -1,11 +1,11 @@
 <div  class="{{.Type}} container mt-5 mb-5">
-    {{if ne .Params.h1 "" }}
+    {{if .Params.h1 }}
         <h1>{{.Params.h1}}</h1>
     {{end}}
-    {{if ne .Params.h2 "" }}
+    {{if .Params.h2 }}
         <h2>{{.Params.h2}}</h2>
     {{end}}
-    {{if ne .Params.h3 "" }}
+    {{if .Params.h3 }}
         <h3>{{.Params.h3}}</h3>
     {{end}}
     <div class="content">

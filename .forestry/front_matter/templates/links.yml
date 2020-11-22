@@ -2,6 +2,24 @@
 label: linklist
 hide_body: true
 fields:
+- type: text
+  name: header
+  label: header
+  description: Header for the links section
+- type: number
+  name: order
+  label: order
+  description: Sort order on page
+  config:
+    step: '1'
+    required: true
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
+  default: linklist
+  hidden: true
 - name: links
   type: field_group_list
   fields:
@@ -26,15 +44,8 @@ fields:
       min: 
       max: 
       step: 
-  - name: type
-    type: text
-    config:
-      required: false
-    label: type
-    default: linklist
-    hidden: true
   config:
-    min: 
+    min: 1
     max: 
     labelField: 
   label: Links

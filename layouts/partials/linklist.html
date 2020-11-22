@@ -1,0 +1,10 @@
+<div  class="{{.Type}} container mt-5 mb-5">
+    {{if .Params.header }}
+        <h2>{{.Params.header}}</h2>
+    {{end}}
+    <div class="content">
+        {{ range sort .Params.links ".order" }}
+            <a href="{{ .link }}">{{ .text }}</a>
+        {{end}}
+    </div>
+</div>
