@@ -1,5 +1,5 @@
 +++
-name = "1 Header Unsere Projekte"
+name = "1 Header Schulprojekte"
 order = 1
 type = "picslider"
 [[slides]]
