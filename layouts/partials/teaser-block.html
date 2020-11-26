@@ -1,4 +1,4 @@
-<div class="{{.Type}} d-flex flex-wrap">
+<div class="{{.Type}} d-flex flex-wrap mt-5">
     {{ range $i, $_ := .Params.teaser }}
         <div class="item {{ if modBool (div $i 2) 2 }}reverse{{end}} color{{ add 1 (mod $i 3) }}">
             <div class="picture picture-square">
