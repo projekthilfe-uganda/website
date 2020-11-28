@@ -1,7 +1,7 @@
 +++
 draft = true
 h1 = "Schwerpunkte des Lebenshauses"
-h2 = ""
+h2 = "Mehr als ein Waisenhaus"
 h3 = ""
 order = 3
 title = "3 Text Schwerpunkte"
