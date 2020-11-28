@@ -19,6 +19,7 @@ sections:
   - article
   - links
   - picture-teaser
+  - picture-gallery
   - carousel
   - article-with-picture
 - type: directory
@@ -31,6 +32,7 @@ sections:
   - article
   - links
   - picture-teaser
+  - picture-gallery
   - carousel
   - article-with-picture
 - type: directory
@@ -43,6 +45,7 @@ sections:
   - article
   - links
   - picture-teaser
+  - picture-gallery
   - carousel
   - article-with-picture
 - type: directory
@@ -55,6 +58,7 @@ sections:
   - article
   - links
   - picture-teaser
+  - picture-gallery
   - carousel
   - article-with-picture
 - type: directory
