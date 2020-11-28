@@ -24,7 +24,7 @@ text = "Damit sich Familien besser selbst ernähren können oder Waren zum Verka
 title = "Agrar-Hilfsprogramm"
 [[teaser]]
 picture = "/uploads/img_4497_baeckerwitwen-min.JPG"
-text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen\n\n[Selbsthilfegruppen](/projekte/selbsthilfegruppen \"Selbsthilfegruppen\")"
+text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen und zusammen ein Geschäftsmodel aufzubauen. Wir bieten Unterstützung\n\n[Selbsthilfegruppen](/projekte/selbsthilfegruppen \"Selbsthilfegruppen\")"
 title = "Selbsthilfegruppen"
 [[teaser]]
 picture = "/uploads/IMG_1948_bf.JPG"
