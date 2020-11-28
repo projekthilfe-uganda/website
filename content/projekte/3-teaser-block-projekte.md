@@ -32,7 +32,7 @@ text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehan
 title = "Caritas für die Ärmsten"
 [[teaser]]
 picture = "/uploads/IMG_1128_bf.JPG"
-text = "Mit dem Lebenshaus wurde eine Unterkunft für die alten Menschen geschaffen, die sich nicht mehr selbst versorgen und keine Angehörigen haben, die sich um sie kümmern könnten.\n\n[Uganda-Lebenshaus](/projekte/uganda-lebenshaus-stiftung \"Uganda-Lebenshaus-Stiftung\")"
+text = "Im Außenbereich von Kyamulibwa haben verwaiste Kinder im Lebenshaus eine Anlaufstelle gefunden. Auf sich alleine gestellt, hätten die Kinder nur eine geringe Lebenschance in Uganda.\n\n[Uganda-Lebenshaus](/projekte/uganda-lebenshaus-stiftung \"Uganda-Lebenshaus-Stiftung\")"
 title = "Lebenshaus-Stiftung"
 
 +++
