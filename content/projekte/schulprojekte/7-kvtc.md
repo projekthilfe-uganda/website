@@ -6,7 +6,7 @@ title = "7 KVTC "
 type = "picarticle"
 
 +++
-KVTC
+## KVTC
 
 In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren.
 
