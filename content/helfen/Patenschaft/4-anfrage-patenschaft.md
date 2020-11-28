@@ -7,7 +7,7 @@ title = "4 Anfrage Patenschaft"
 type = "picarticle"
 
 +++
-**Patenschaft anfragen**
+## Patenschaft anfragen
 
 Falls Sie Interesse an einer Patenschaft haben, senden wir Ihnen gerne bis zu 10 Vorschläge für hilfsbedürftige Kinder bzw. Auszubildende per E-Mail zu. Besondere Wünsche (Alter, Geschlecht) werden wir gerne nach Möglichkeit berücksichtigen.
 
