@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 6
-picture = ""
+picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
 title = "6 Optiker-Ausbildung"
 type = "picarticle"
 
