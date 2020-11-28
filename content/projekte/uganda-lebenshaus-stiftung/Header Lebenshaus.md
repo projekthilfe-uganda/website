@@ -1,5 +1,5 @@
 +++
-name = "1 Header Bilderslider"
+name = "1 Header Bilderslider Uganda Lebenshausstiftung"
 order = 1
 type = "picslider"
 [[slides]]
