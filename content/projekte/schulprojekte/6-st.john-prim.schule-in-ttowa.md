@@ -8,8 +8,6 @@ type = "picarticle"
 +++
 ## St. John Prim.-Schule in Ttowa
 
-St. John Prim.-Schule in Ttowa 
+10 Kilometer entfernt in Teilpfarrei von Kyamulibwa liegt die St. John Primary School in Ttowa. 
 
 mit Berufsausbildung in 8 Berufen
-
-10 Kilometer entfernt in Teilpfarrei
