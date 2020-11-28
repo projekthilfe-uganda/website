@@ -7,8 +7,7 @@ title = "2 Einleitung Uganda Lebenshaus Projekthilfe"
 type = "article"
 
 +++
-Damit ganz hilflose, verwaiste Kinder draußen im Busch aufleben können statt dahinvegetieren, entstand das  
-**Lebenshaus St. Francis of the good sheperd** im Kalungu-Distrikt der Diozöse Masaka und wird nachhaltig weiter ausgebaut.
+Damit ganz hilflose, verwaiste Kinder draußen im Busch aufleben können statt dahinvegetieren zu müssen, entstand das **Lebenshaus St. Francis of the good sheperd** im Kalungu-Distrikt der Diozöse Masaka und wird nachhaltig weiter ausgebaut.
 
 **Betriebsträger** ist die einheimische Kongregation der Bannabikira-Daughters-of-Mary.
 
