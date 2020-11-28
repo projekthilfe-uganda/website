@@ -20,7 +20,7 @@ text = "Das Krankenhaus, ein Optiker und ein Zahnarzt haben die gesundheitliche 
 title = "Gesundheitsversorgung"
 [[teaser]]
 picture = "/uploads/IMG_1955_bf.JPG"
-text = "Landwirtschaft ermöglichen und Wissen stärken: So fördern wir Kleinbauern\n\n[Agrar-Hilfsprogramm](/projekte/hilfsprogramm-kleinbauern \"Agrar-Hilfsprogramm\")"
+text = "Damit sich Familien besser selbst ernähren können oder Waren zum Verkauf haben ermöglichen wir Landwirtschaft und stärken Wissen: So fördern wir Kleinbauern\n\n[Agrar-Hilfsprogramm](/projekte/hilfsprogramm-kleinbauern \"Agrar-Hilfsprogramm\")"
 title = "Agrar-Hilfsprogramm"
 [[teaser]]
 picture = "/uploads/img_4497_baeckerwitwen-min.JPG"
