@@ -4,7 +4,7 @@ title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1620_bf.JPG"
-text = "Vorschule, Grundschule und weiterführende Schulen haben wir gefördert\n\n[Schulprojekte](/unsere-projekte/schulprojekte \"Schulprojekte\")"
+text = "Wir fördern verschiedene Schulprojekte: Vorschule, Grundschule und weiterführende Schulen, um den jungen Menschen in Uganda bessere Chancen zu ermöglichen.\n\n[Schulprojekte](/unsere-projekte/schulprojekte \"Schulprojekte\")"
 title = "Schulprojekte"
 [[teaser]]
 picture = "/uploads/IMG_1858_bf.JPG"
