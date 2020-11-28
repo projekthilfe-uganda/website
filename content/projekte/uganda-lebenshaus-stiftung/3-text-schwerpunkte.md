@@ -1,7 +1,7 @@
 +++
-h1 = "Schwerpunkte des Lebenshauses"
-h2 = "Mehr als ein Waisenhaus"
-h3 = ""
+h1 = ""
+h2 = "Schwerpunkte des Lebenshauses"
+h3 = "Mehr als ein Waisenhaus"
 order = 3
 title = "3 Text Schwerpunkte"
 type = "article"
