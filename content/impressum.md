@@ -3,8 +3,6 @@
 +++
 # Impressum
 
-## This is a H2
-
 **Verantwortlich für Inhalt und Redaktion:**  
 Projekthilfe Uganda e.V.  
 Christel Henecka (1. Vors.)  
@@ -16,8 +14,10 @@ Tel. 07257 1482
 Steuer-Nr. 30073/18330  
 Vereinsregister-Nr. VR 1328 (Amtsgericht Bruchsal)  
   
-**Verantwortlich für Gestaltung:**  
-Gabriel Nelle  
+**Verantwortlich für Gestaltung:**
+
+Gabriel Nelle
+
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Gestaltung%20der%20Internetseite&body=)
 
 **Redaktion**
