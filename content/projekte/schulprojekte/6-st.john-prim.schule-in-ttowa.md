@@ -10,4 +10,4 @@ type = "picarticle"
 
 10 Kilometer entfernt in Teilpfarrei von Kyamulibwa liegt die St. John Primary School in Ttowa. 
 
-mit Berufsausbildung in 8 Berufen
+In der Schule sind Ausbildungen in 8 Berufen möglich.
