@@ -1,5 +1,5 @@
 +++
-layout = "pic-right"
+layout = "pic-left"
 order = 5
 picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
 title = "5 Optiker-Ausbildung"
