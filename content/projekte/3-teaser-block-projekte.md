@@ -28,7 +28,7 @@ text = "Kleine Gruppen finden zusammen, um gemeinsam neue Wege zu gehen und zusa
 title = "Selbsthilfegruppen"
 [[teaser]]
 picture = "/uploads/IMG_1948_bf.JPG"
-text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehandlung oder Kleidern. In Krisenzeiten geben wir auch Nahrungsmittel aus\n\n[Hilfsprojekte](/projekte/caritas/ \"Caritas für die Ärmsten\")"
+text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehandlung oder Kleidern. In Krisenzeiten geben wir auch Nahrungsmittel an die Ärmsten aus\n\n[Hilfsprojekte](/projekte/caritas/ \"Caritas für die Ärmsten\")"
 title = "Caritas für die Ärmsten"
 [[teaser]]
 picture = "/uploads/IMG_1128_bf.JPG"
