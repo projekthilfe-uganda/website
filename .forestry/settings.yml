@@ -21,7 +21,6 @@ sections:
   - picture-teaser
   - carousel
   - article-with-picture
-  - picture
 - type: directory
   path: content/verein
   label: Unser Verein
@@ -34,7 +33,6 @@ sections:
   - picture-teaser
   - carousel
   - article-with-picture
-  - picture
 - type: directory
   path: content/projekte
   label: Unsere Projekte
@@ -47,7 +45,6 @@ sections:
   - picture-teaser
   - carousel
   - article-with-picture
-  - picture
 - type: directory
   path: content/helfen
   label: So können Sie Helfen
@@ -60,7 +57,6 @@ sections:
   - picture-teaser
   - carousel
   - article-with-picture
-  - picture
 - type: directory
   path: content/news
   label: Aktuelles
