@@ -1,5 +1,4 @@
 +++
-draft = true
 h1 = "Schwerpunkte des Lebenshauses"
 h2 = "Mehr als ein Waisenhaus"
 h3 = ""
