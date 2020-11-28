@@ -7,12 +7,21 @@
 Projekthilfe Uganda e.V.  
 Christel Henecka (1. Vors.)  
 Albrecht-Dürer-Str. 4  
-74464 Bruchsal  
-E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)  
+74464 Bruchsal
+
+**Kontakt**
+
+E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)
+
 Tel. 07257 1482
 
-Steuer-Nr. 30073/18330  
+**Registereintrag:**
+
 Vereinsregister-Nr. VR 1328 (Amtsgericht Bruchsal)
+
+**Umsatzsteuer-ID:**
+
+Steuer-Nr. 30073/18330
 
 **Verantwortlich für Gestaltung:**
 
