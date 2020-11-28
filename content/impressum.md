@@ -21,7 +21,7 @@ Vereinsregister-Nr. VR 1328 (Amtsgericht Bruchsal)
 
 **Umsatzsteuer-ID:**
 
-Steuer-Nr. 30073/18330
+Steuer-Nr. 30073 / 18330
 
 **Verantwortlich für Gestaltung:**
 
@@ -36,7 +36,7 @@ Birgit Fritz
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Gestaltung%20der%20Internetseite&body=)
 
 **Haftungsausschluss**  
-Diese Website wurde mit größtmöglicher Sorgfalt zusammengestellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. 
+Diese Website wurde mit größtmöglicher Sorgfalt zusammengestellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 
 Wir sind nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
