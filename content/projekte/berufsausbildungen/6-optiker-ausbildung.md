@@ -8,4 +8,4 @@ type = "picarticle"
 +++
 ## Optiker-Ausbildung
 
-In unserem Optiker-Haus sind praktische Ausbildungen zum Optiker möglich. 
+In unserem Optiker-Haus sind praktische Ausbildungen zum Optiker möglich. Die ersten Lehrlinge wurden von deutschen Optikern ausgebildetet und haben Ihre Ausbildung bereits abgeschlossen. 
