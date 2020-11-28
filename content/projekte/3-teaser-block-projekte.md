@@ -8,7 +8,7 @@ text = "Wir fördern verschiedene Schulprojekte: Vorschule, Grundschule und weit
 title = "Schulprojekte"
 [[teaser]]
 picture = "/uploads/IMG_1858_bf.JPG"
-text = "Im Ausbildungszentrum in Uganda erhalten junge Menschen eine fundierte Ausbildung nach einem dualen System\n\n[Berufsausbildungen](/unsere-projekte/berufsausbildungen \"Berufsausbildungen\")"
+text = "Im Ausbildungszentrum in Uganda erhalten junge Menschen eine fundierte Ausbildung nach einem dualen System. Das verbessert Ihre Zukuntsperspektiven enorm.\n\n[Berufsausbildungen](/unsere-projekte/berufsausbildungen \"Berufsausbildungen\")"
 title = "Berufsausbildungen"
 [[teaser]]
 picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
