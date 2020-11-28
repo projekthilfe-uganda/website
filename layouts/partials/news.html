@@ -1,11 +1,7 @@
-<div class="{{.Type}}">
-    <h3>
-        {{.Title}}
-    </h3>
-    <p>
-        {{.Date}}
-    </p>
-    <p>
+<div class="{{.Type}} container mt-5 mb-5">
+    <h3>{{.Title}}</h3>
+    <h6>{{.Date.Format "2. Jan 2006"}}</h6>
+    <div class="content">
         {{.Content}}
-    </p>
+    </div>
 </div>

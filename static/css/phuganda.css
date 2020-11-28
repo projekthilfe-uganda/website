@@ -560,6 +560,21 @@ ul.nav li:hover ul.dropdown-menu {
 }
 
 /***************************
+*** news article
+***************************/
+
+@media (min-width: 768px) {
+    .news .content {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+        -webkit-column-gap: 3rem;
+        -moz-column-gap: 3rem;
+        column-gap: 3rem;
+    }
+}
+
+/***************************
 *** teaser block
 ***************************/
 
