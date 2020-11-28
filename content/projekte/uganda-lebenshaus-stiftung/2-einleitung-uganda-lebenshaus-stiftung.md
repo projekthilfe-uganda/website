@@ -7,3 +7,9 @@ title = "2 Einleitung Uganda Lebenshaus-Stiftung"
 type = "article"
 
 +++
+Damit ganz hilflose, verwaiste Kinder draußen im Busch aufleben können statt dahinvegetieren, entstand das   
+**LEBENSHAUS ST. FRANCIS OF THE GOOD SHEPHERD** im Außenbereich von Kyamulibwa, Kalungu-Distrikt, und wird nachhaltig weiter ausgebaut.  
+  
+**Betriebsträger** ist die einheimische Kongregation der Bannabikira-Daughters-of-Mary.  
+  
+**Gesamtverantwortlich** zeichnet sich ein Kuratorium, das unter Vorsitz von Pfarrer Günter Hirt paritätisch mit Mitgliedern von Uganda und Deutschland besetzt ist.
