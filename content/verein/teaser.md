@@ -24,7 +24,7 @@ text = "In Uganda haben wir mit der Diözese eine komplexe Verwaltungsstruktur e
 title = "Verwaltungsstruktur"
 [[teaser]]
 picture = "/uploads/IMG_1686_bf.JPG"
-text = "Unsere Bilder und Videos geben konkrete Einblicke in unsere Projekthilfe Uganda.\n\n[Bilder & Videos]()"
+text = "Unsere Bilder und Videos geben konkrete Einblicke in unsere Projekthilfe Uganda.\n\n[Bilder & Videos](/bilder)"
 title = "Bilder & Videos"
 [[teaser]]
 picture = "/uploads/Verein_Waren beiholen für den Containerversand.JPG"
