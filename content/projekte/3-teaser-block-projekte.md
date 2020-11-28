@@ -4,11 +4,11 @@ title = "3 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1620_bf.JPG"
-text = "Wir fördern verschiedene Schulprojekte: Vorschule, Grundschule und weiterführende Schulen, um den jungen Menschen in Uganda bessere Chancen zu ermöglichen.\n\n[Schulprojekte](/unsere-projekte/schulprojekte \"Schulprojekte\")"
+text = "Wir fördern verschiedene Schulprojekte: Vorschule, Grundschule und weiterführende Schulen, um den jungen Menschen in Uganda bessere Chancen zu ermöglichen\n\n[Schulprojekte](/unsere-projekte/schulprojekte \"Schulprojekte\")"
 title = "Schulprojekte"
 [[teaser]]
 picture = "/uploads/IMG_1858_bf.JPG"
-text = "Im Ausbildungszentrum in Uganda erhalten junge Menschen eine fundierte Ausbildung\n\n[Berufsausbildungen](/unsere-projekte/berufsausbildungen \"Berufsausbildungen\")"
+text = "Im Ausbildungszentrum in Uganda erhalten junge Menschen eine fundierte Ausbildung nach einem dualen System\n\n[Berufsausbildungen](/unsere-projekte/berufsausbildungen \"Berufsausbildungen\")"
 title = "Berufsausbildungen"
 [[teaser]]
 picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
