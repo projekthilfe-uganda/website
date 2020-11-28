@@ -8,7 +8,7 @@ type = "article"
 
 +++
 Damit ganz hilflose, verwaiste Kinder draußen im Busch aufleben können statt dahinvegetieren, entstand das  
-**Lebenshaus St. Francis of the good sheperd** im Außenbereich von Kyamulibwa, Kalungu-Distrikt, und wird nachhaltig weiter ausgebaut.
+**Lebenshaus St. Francis of the good sheperd** im Kalungu-Distrikt der Diozöse Masaka und wird nachhaltig weiter ausgebaut.
 
 **Betriebsträger** ist die einheimische Kongregation der Bannabikira-Daughters-of-Mary.
 
