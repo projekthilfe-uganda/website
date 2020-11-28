@@ -12,7 +12,7 @@ text = "Im Ausbildungszentrum in Uganda erhalten junge Menschen eine fundierte A
 title = "Berufsausbildungen"
 [[teaser]]
 picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
-text = "Schon Hunderte von jungen Menschen haben durch die Unterstützung von Paten eine neue Perspektive erhalten\n\n[Patenschaftsprogramm](/unsere-projekte/patenschaften \"Patenschaften\")"
+text = "Schon Hunderte von jungen Menschen haben durch die Unterstützung von Paten eine neue Perspektive erhalten und konnten eine Schule besuchen oder eine Ausbildung machen\n\n[Patenschaftsprogramm](/unsere-projekte/patenschaften \"Patenschaften\")"
 title = "Patenschaftsprogramm"
 [[teaser]]
 picture = "/uploads/IMG_0816_bf.JPG"
