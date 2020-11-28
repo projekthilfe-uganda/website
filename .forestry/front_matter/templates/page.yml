@@ -3,5 +3,5 @@ label: page
 hide_body: false
 fields: []
 pages:
-- content/Impressum.md
+- content/impressum.md
 - content/datenschutz.md
