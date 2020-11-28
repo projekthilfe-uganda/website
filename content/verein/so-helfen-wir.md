@@ -7,9 +7,9 @@ title = "3 So helfen wir"
 type = "picarticle"
 
 +++
-**So helfen wir:**
+## **So helfen wir**
 
-Wir reagieren auf die Bedürfnisse durch
+Wir reagieren auf die Bedürfnisse durch ...
 
 * gezielte Management-Beratung
 * Eigenarbeit vor Ort (Jeder zahlt die Flüge selbst.)
