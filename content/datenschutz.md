@@ -10,8 +10,8 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 Datenschutz-Hinweis von [Impressum Generator](https://www.impressum-generator.de)
 
-Newsletter bzw. Rundbriefe unseres Vereins versenden wir auf postalischem Weg, falls Sie einen wünschen, kontaktieren Sie uns per E-Mail. 
+Newsletter bzw. Rundbriefe unseres Vereins versenden wir auf postalischem Weg, falls Sie einen wünschen, kontaktieren Sie uns per E-Mail. Sollten Sie den Rundbrief nicht mehr wünschen, geben Sie uns bitte Bescheid. 
 
 Sollten Sie uns Spenden zukommen lassen und eine Spendenbescheinigung wünschen, kontaktieren Sie uns bitte ebenfalls per E-Mail. 
 
-Selbstverständlich gehen wir mit Ihren Daten vertraulich um. 
+Selbstverständlich gehen wir mit Ihren Daten vertraulich um und bewahren Sie sicher auf.  
