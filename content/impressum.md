@@ -36,4 +36,4 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für In
 
 * Fotos von Projkekthilfe Uganda e.V.
 * Fotos von Birgit Fritz
-* Fotos von Bilddatenbanken zur kostenfreien Verwendung
+* Fotos von Pixabay, einer Bilddatenbanken mit Bildern zur kostenfreien Verwendung
