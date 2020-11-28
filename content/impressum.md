@@ -27,18 +27,7 @@ Birgit Fritz
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Gestaltung%20der%20Internetseite&body=)  
   
 **Haftungsausschluss**  
-Diese Website wurde mit größtmöglicher Sorgfalt zusammengestellt. Trotzdem können wir für die Fehlerfreiheit und Genauigkeit der enthaltenen Informationen nicht garantieren. Wir schliessen jegliche Haftung für Schäden, die direkt oder indirekt aus der Benutzung dieser Website entsteht aus, soweit diese nicht auf Vorsatz oder grober Fahrlössigkeit beruhen.   
+Diese Website wurde mit größtmöglicher Sorgfalt zusammengestellt. Trotzdem können wir für die Fehlerfreiheit und Genauigkeit der enthaltenen Informationen nicht garantieren. Wir schließen jegliche Haftung für Schäden, die direkt oder indirekt aus der Benutzung dieser Website entsteht aus, soweit diese nicht auf Vorsatz oder grober Fahrlössigkeit beruhen.   
   
 **Externe Verweise und Links**  
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
-
-With some bullet points
-
-* Bullet point
-* Bullet point
-* Bullet point
-* Bullet point
-* Bullet point
-* Bullet point
-
-This is the lorem ipsum text. This is the lorem ipsum text. This is the lorem ipsum text. This is the lorem ipsum text. This is the lorem ipsum text. This is the lorem ipsum text. This is the lorem ipsum text.
