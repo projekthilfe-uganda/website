@@ -1,5 +1,4 @@
 +++
-height = 500
 layout = "pic-left"
 order = 8
 picture = "/uploads/aufenthaltsraum-mit-schrank-juli-20.jpg"

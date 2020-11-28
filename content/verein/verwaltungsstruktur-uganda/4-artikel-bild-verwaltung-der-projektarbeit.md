@@ -1,5 +1,4 @@
 +++
-height = 100
 layout = "pic-left"
 order = 4
 picture = "/uploads/verein_sitzungen-mit-verwaltungsrat-der-schulen-1.JPG"

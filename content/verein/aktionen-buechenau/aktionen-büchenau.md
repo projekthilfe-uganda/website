@@ -1,5 +1,4 @@
 +++
-height = 650
 layout = "pic-right"
 order = 3
 picture = "/uploads/Verein_Stand 2015 Kunst & Hobbymarkt Bruchsal.jpg"

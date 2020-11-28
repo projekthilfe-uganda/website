@@ -1,5 +1,4 @@
 +++
-height = 500
 layout = "pic-right"
 order = 5
 picture = "/uploads/teilansicht-min.jpg"

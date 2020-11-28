@@ -1,5 +1,4 @@
 +++
-height = 550
 layout = "pic-right"
 order = 3
 picture = "/uploads/freude-uber-die-schuhe-aus-dem-container-min.jpg"

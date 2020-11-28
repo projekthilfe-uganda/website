@@ -1,5 +1,4 @@
 +++
-height = 500
 layout = "pic-right"
 order = 4
 picture = "/uploads/st-john_herstellung-der-bucherschranke-in-der-gewerbeschule.jpg"

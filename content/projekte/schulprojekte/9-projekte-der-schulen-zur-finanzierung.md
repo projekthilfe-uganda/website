@@ -1,5 +1,4 @@
 +++
-height = 500
 layout = "pic-left"
 order = 9
 picture = "/uploads/der-1-gemusegarten-der-schule-2019-min.jpg"

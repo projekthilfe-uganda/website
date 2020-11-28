@@ -1,5 +1,4 @@
 +++
-height = 100
 layout = "pic-left"
 order = 4
 picture = "/uploads/arbeitseinsatz-in-uganda-ausladen-eines-containers.JPG"

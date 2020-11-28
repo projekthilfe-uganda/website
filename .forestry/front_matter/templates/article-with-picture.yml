@@ -28,15 +28,6 @@ fields:
   description: The layout to use for displaying on the website.
   default: pic-right
 - type: number
-  name: height
-  label: height in pixel
-  config:
-    step: '25'
-    min: '100'
-    max: '5000'
-    required: true
-  description: Adjust this to look good and show the entire text.
-- type: number
   label: order
   name: order
   description: Higher numbers for order will be shown after.

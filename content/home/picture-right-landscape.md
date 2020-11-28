@@ -1,6 +1,5 @@
 +++
 date = "2019-02-17T17:49:49+00:00"
-height = 550
 layout = "pic-right"
 order = 80
 picture = "/uploads/schuler-im-lesesaal.jpg"

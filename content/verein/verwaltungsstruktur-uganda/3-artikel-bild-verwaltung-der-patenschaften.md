@@ -1,5 +1,4 @@
 +++
-height = 100
 layout = "pic-right"
 order = 3
 picture = "/uploads/Tisch.jpg"

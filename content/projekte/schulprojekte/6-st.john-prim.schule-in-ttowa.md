@@ -1,5 +1,4 @@
 +++
-height = 500
 layout = "pic-left"
 order = 6
 picture = "/uploads/st-john_in-das-behelfsklassenzimmer-regnete-es-rein-2018.jpg"
