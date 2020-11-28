@@ -6,10 +6,8 @@ title = "3 St. Kizito Primary Schule"
 type = "picarticle"
 
 +++
-## St. Kizito Primary Schule
+## St. Kizito Primary School
 
-Vorschule und Grundschule mit Heim
+Die St. Kizito Schule ist eine Vorschule und Grundschule mit angegliedertem Heim für die Kinder, die einen Schlafplatz brauchen. 
 
-2 Vorschuljahre (baby-class und top-class)  
-Klasse 1 bis 7  
-Abschluss: Übergang in Gewerbeschule
+Unterrichtet werden 2 Vorschuljahre (baby-class und top-class) sowie die Klassen 1 bis 7. Mit dem Abschluss ist ein Übergang in die Gewerbeschule möglich. 
