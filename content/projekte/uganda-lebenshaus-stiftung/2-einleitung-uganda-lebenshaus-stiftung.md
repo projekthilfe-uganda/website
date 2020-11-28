@@ -12,4 +12,4 @@ Damit ganz hilflose, verwaiste Kinder draußen im Busch aufleben können statt d
 
 **Betriebsträger** ist die einheimische Kongregation der Bannabikira-Daughters-of-Mary.
 
-**Gesamtverantwortlich** zeichnete sich über Jahre ein Kuratorium, das unter Vorsitz von Pfarrer Günter Hirt aus Wiesental paritätisch mit Mitgliedern von Uganda und Deutschland besetzt war. Im Oktober 2020 wurde von den Engagierten ein eigener Verein gegründet, die "Uganda Lebenshaus Projekthlfe e.V.". Unser Verein "Projekthilfe Uganda" arbeitet weiterhin mit den Verantwortlichen des Lebenshauses zusammen.
+**Gesamtverantwortlich** zeichnete sich über Jahre ein Kuratorium, das unter Vorsitz von Pfarrer Günter Hirt aus Wiesental paritätisch mit Mitgliedern von Uganda und Deutschland besetzt war. Im Oktober 2020 wurde von den Engagierten ein eigener Verein gegründet, die "Uganda Lebenshaus Projekthlife e.V.". Unser Verein "Projekthilfe Uganda" arbeitet weiterhin mit den Verantwortlichen des Lebenshauses zusammen.
