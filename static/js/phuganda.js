@@ -104,7 +104,7 @@ let shop = new Vue({
     },
     created: function () {
         this.cartItems = this.load();
-        jQuery.getJSON("/shop/index.json", this.fillShopItems)
+        jQuery.getJSON("/spenden/index.json", this.fillShopItems)
     },
     updated: function () {
         this.fillChildItems()

@@ -71,7 +71,7 @@ sections:
   templates:
   - news
 - type: directory
-  path: content/shop/items
+  path: content/spenden/items
   label: Shop Items
   create: documents
   match: "*"

@@ -46,7 +46,7 @@ fields:
     step: 
     required: true
 pages:
-- content/shop/items/folie-für-ein-wasserloch.md
-- content/shop/items/kuh.md
-- content/shop/items/sitzbank.md
-- content/shop/items/tisch.md
+- content/spenden/items/folie-für-ein-wasserloch.md
+- content/spenden/items/kuh.md
+- content/spenden/items/sitzbank.md
+- content/spenden/items/tisch.md

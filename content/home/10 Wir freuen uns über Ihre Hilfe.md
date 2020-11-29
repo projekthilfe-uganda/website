@@ -7,7 +7,7 @@ link = "/helfen"
 open_in_new_tab = false
 text = "Wie Sie noch helfen können"
 [[links]]
-link = "/shop"
+link = "/spenden"
 open_in_new_tab = false
 text = "Spenden"
 

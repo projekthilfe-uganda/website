@@ -103,7 +103,7 @@ menu:
       weight: 10
     - parent: helfen
       name: Spendenshop
-      url: /shop
+      url: /spenden
       weight: 20
     - parent: helfen
       name: Mitarbeit
@@ -117,5 +117,5 @@ menu:
 
 #    - identifier: shop
 #      name: Shop
-#      url: /shop/
+#      url: /spenden/
 #      weight: 60
