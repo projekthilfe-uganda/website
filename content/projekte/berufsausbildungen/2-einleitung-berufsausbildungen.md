@@ -13,4 +13,4 @@ Im Laufe der Jahre wurden immer neue Gebäude benötigt, um der Nachfrage und de
 
 Seit 2019 sind auch praktische Ausbildungen im neuen Optiker-Haus möglich.
 
-Mit unseren fundierten beruflichen Ausbildungen haben sich die Chancen auf dem Arbeitsmarkt in Uganda erheblich verbessert. Es ist den Absolventen damit möglich, für Ihren Lebensunterhalt zu sorgen und zum Teil ihre Familien zu unterstützen.
+Mit unseren fundierten beruflichen Ausbildungen verbessern sich die Chancen auf dem Arbeitsmarkt in Uganda erheblich. Viele finden direkt nach dem Abschluss eine Arbeit. So können die Absolventen für Ihren Lebensunterhalt sorgen und zum Teil ihre Familien unterstützen.
