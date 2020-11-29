@@ -1,6 +1,6 @@
 +++
-h1 = "KVTC Gewerbeschule"
-h2 = "Fundierte Berufsausbildungen in Uganda"
+h1 = "Berufsausbildungen in Uganda"
+h2 = "KVTC Gewerbeschule & Optiker-Haus"
 h3 = ""
 order = 3
 title = "2 Einleitung Berufsausbildungen"
@@ -13,4 +13,4 @@ Im Laufe der Jahre wurden immer neue Gebäude benötigt, um der Nachfrage und de
 
 Seit 2019 sind auch praktische Ausbildungen im neuen Optiker-Haus möglich.
 
-Mit unseren beruflichen Ausbildungen haben sich die Chancen auf dem Arbeitsmarkt in Uganda erheblich verbessert. Es ist den Absolventen damit möglich, für Ihren Lebensunterhalt zu sorgen und zum Teil ihre Familien zu unterstützen.
+Mit unseren fundierten beruflichen Ausbildungen haben sich die Chancen auf dem Arbeitsmarkt in Uganda erheblich verbessert. Es ist den Absolventen damit möglich, für Ihren Lebensunterhalt zu sorgen und zum Teil ihre Familien zu unterstützen.
