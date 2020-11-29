@@ -7,7 +7,7 @@ title = "2 Einleitung Berufsausbildungen"
 type = "article"
 
 +++
-Für die Gewerbeschule in Kyambulibwa haben wir das renommierte System der dualen Ausbildung in Deutschland zum Vorbild genommen. Viele der Ausbildungsgeräte und Utensilien für dieses Ausbildungszentrum konnten wir durch Spenden sammeln  und mit Containern nach Uganda bringen. Herzlichen Dank nochmals auf diesem Weg an die zahlreichen Spender.
+Für die Gewerbeschule KVTC in Kyambulibwa haben wir das renommierte System der dualen Ausbildung in Deutschland zum Vorbild genommen. Viele der Ausbildungsgeräte und Utensilien für dieses Ausbildungszentrum konnten wir durch Spenden sammeln  und mit Containern nach Uganda bringen. Herzlichen Dank nochmals auf diesem Weg an die zahlreichen Spender.
 
 Im Laufe der Jahre wurden immer neue Gebäude benötigt, um der Nachfrage und den Ansprüchen an eine gute Gewerbeschule mit hohem praktischen Anteilen gerecht zu werden. 
 
