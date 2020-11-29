@@ -9,6 +9,6 @@ type = "article"
 +++
 Das Patenschaftsprogramm der Projekthilfe Uganda läuft schon seit vielen Jahren und ist stetig angewachsen. Dies zeigt zum einen die Hilfsbedürftigkeit der Menschen in Uganda, aber zugleich auch die Bereitschaft der Menschen in Deutschland, einem Kind in Afrika mit einer Ausbildung zu unterstützen.
 
-Die überwiegende Zahl der Patenkinder sind Halbwaisen und Waisen, deren Eltern an Aids gestorben sind und die bei einer Oma wohnen. Von solchen Familien nehmen wir ein Kind auf unsere Liste und vermitteln Paten, die bereit sind, Schule und Ausbildung zu finanzieren. 
+Die überwiegende Zahl der Patenkinder sind Halbwaisen und Waisen, deren Eltern an Aids gestorben sind und die bei einer Oma wohnen. Von solchen Familien nehmen unsere Vertrauensleute vor Ort Kinder auf unsere Liste für das Patenschaftprogramm. Hierfür suchen wir Paten, die bereit sind, Schule und Ausbildung zu finanzieren. 
 
 [Infos zum Patenschaftsprogramm](/helfen/patenschaft "Link Patenschaft")
