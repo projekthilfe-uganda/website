@@ -35,15 +35,6 @@ fields:
       required: false
     label: Text
     description: The text to show on the link
-  - name: order
-    type: number
-    label: Order
-    default: 0
-    required: true
-    config:
-      min: 
-      max: 
-      step: 
   - name: open_in_new_tab
     type: boolean
     label: open in new tab
