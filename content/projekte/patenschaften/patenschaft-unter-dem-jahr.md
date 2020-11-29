@@ -1,5 +1,4 @@
 +++
-draft = true
 layout = "pic-left"
 order = 4
 picture = "/uploads/IMG_1948_bf.JPG"
