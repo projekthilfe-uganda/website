@@ -1,16 +1,14 @@
 +++
 header = "Wir freuen uns über Ihre Hilfe"
-order = 9
-type = ""
+order = 100
+type = "linklist"
 [[links]]
 link = "/helfen"
 order = 20
 text = "Wie Sie noch helfen können"
-type = ""
 [[links]]
 link = "/shop"
 order = 10
 text = "Spenden"
-type = ""
 
 +++
