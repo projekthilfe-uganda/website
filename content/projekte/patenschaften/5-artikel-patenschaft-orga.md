@@ -14,4 +14,4 @@ Wenn ein Kind einen Schulabschluss erreicht, z.B. die Primary School abschließt
 
 Die Patenkinder schreiben Briefe an die Paten und es ist auch möglich, einem Patenkind einen Brief auf Englisch zukommen zu lassen.
 
-Bei unserem Vor-Ort-Besuch - in der Regel einmal im Jahr - erhalten Patenkinder ein sogenanntes Patengeschenk, z.B. Bettwäsche, neue Bekleidung oder Schulutensilien. So haben bekommen wir persönlichen Kontakt zu den Patenkindern. 
+Bei unserem Vor-Ort-Besuch - in der Regel einmal im Jahr - erhalten Patenkinder ein sogenanntes Patengeschenk, z.B. Bettwäsche, neue Bekleidung oder Schulutensilien. So bekommen wir persönlichen Kontakt zu den Patenkindern. 
