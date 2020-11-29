@@ -44,6 +44,9 @@ fields:
       min: 
       max: 
       step: 
+  - name: open_in_new_tab
+    type: boolean
+    label: open in new tab
   config:
     min: 1
     max: 
