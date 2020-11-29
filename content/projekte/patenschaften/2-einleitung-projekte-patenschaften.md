@@ -8,3 +8,5 @@ type = "article"
 
 +++
 Von solchen Familien nehmen wir ein Kind auf unsere Liste und vermitteln Paten, die bereit sind, Schule und Ausbildung zu finanzieren. Die überwiegende Zahl der Patenkinder sind Halbwaisen und Waisen, deren Eltern an Aids gestorben sind und die bei einer Oma wohnen.
+
+[Infos zum Patenschaftsprogramm](/helfen/patenschaft "Link Patenschaft")
