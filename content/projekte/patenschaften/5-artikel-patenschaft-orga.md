@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 5
-picture = ""
+picture = "/uploads/freude-uber-die-schuhe-aus-dem-container-min.jpg"
 title = "5 Artikel Patenschaft Orga"
 type = "picarticle"
 
