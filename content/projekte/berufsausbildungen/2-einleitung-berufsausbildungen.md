@@ -11,6 +11,6 @@ Für die Gewerbeschule in Kyambulibwa haben wir das renommierte System der duale
 
 Im Laufe der Jahre wurden immer neue Gebäude benötigt, um der Nachfrage und den Ansprüchen an eine gute Gewerbeschule mit hohem praktischen Anteilen gerecht zu werden. 
 
-Seit 2019 sind auch praktische Ausbildungen im neuen Optikerhaus möglich.
+Seit 2019 sind auch praktische Ausbildungen im neuen Optiker-Haus möglich.
 
 Mit unseren beruflichen Ausbildungen haben sich die Chancen auf dem Arbeitsmarkt in Uganda erheblich verbessert. Es ist den Absolventen damit möglich, für Ihren Lebensunterhalt zu sorgen und zum Teil ihre Familien zu unterstützen.
