@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 4
+order = 3
 picture = "/uploads/IMG_1948_bf.JPG"
-title = "Patenschaft unter dem Jahr"
+title = "3 Patenschaft unter dem Jahr"
 type = "picarticle"
 
 +++
