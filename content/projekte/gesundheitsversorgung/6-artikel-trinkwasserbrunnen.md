@@ -8,6 +8,6 @@ type = "picarticle"
 +++
 ## Trinkwasserbrunnen für sauberes Wasser
 
-Viele Menschen im Busch holen sich mit Kanistern ihr Wasser von irgendwelchen Wasserstellen, die voller Keime sein können. Oft fehlt das Wissen, dass dieses Wasser abgekocht werden sollte, bevor es getrunken oder für die Essenszubereitung verwendet wird.
+Viele Menschen im Busch holen sich mit Kanistern ihr Wasser aus Tümpeln, aus denen auch die Tiere trinken. Oft fehlt das Wissen, dass dieses Wasser voller Keime sein kann und abgekocht werden sollte, bevor es getrunken oder für die Essenszubereitung verwendet wird.
 
 Das unsaubere Wasser kann Krankheiten verursachen. Wir haben deshalb in den vergangenen Jahren mehrfach Spenden gesammelt für mehrere Trinkwasserbrunnen. Immer mehr Menschen in Kyamulibwa sollen Zugang zu sauberem Wasser erhalten.
