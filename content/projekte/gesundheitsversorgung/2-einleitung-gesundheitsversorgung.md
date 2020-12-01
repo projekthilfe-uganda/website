@@ -8,3 +8,5 @@ type = "article"
 
 +++
 Text
+
+Ultraschallgerät, Anästesthiegerät, Betten, Nachtschränke, Krankenwagen und viele andere wichtige Dinge wurden bereits für das Krankenhaus gespendet. 
