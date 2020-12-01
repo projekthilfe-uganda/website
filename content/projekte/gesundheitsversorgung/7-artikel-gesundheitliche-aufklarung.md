@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 7
-picture = ""
+picture = "/uploads/IMG_2296_bf.JPG"
 title = "7 Artikel Gesundheitliche Aufklärung"
 type = "picarticle"
 
