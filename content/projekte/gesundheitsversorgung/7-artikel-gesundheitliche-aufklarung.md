@@ -1,5 +1,5 @@
 +++
-layout = "pic-left"
+layout = "pic-right"
 order = 7
 picture = "/uploads/IMG_2296_bf.JPG"
 title = "7 Artikel Gesundheitliche Aufklärung"
