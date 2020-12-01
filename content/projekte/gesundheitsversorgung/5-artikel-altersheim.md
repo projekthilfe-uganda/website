@@ -9,3 +9,5 @@ type = "picarticle"
 ## Altersheim für die Ärmsten ohne Verwandte
 
 Mit dem Altersheim wurde eine Unterkunft für die alten Menschen geschaffen, die sich nicht mehr selbst versorgen und keine Angehörigen haben, die sich um sie kümmern könnten.
+
+Die 10 Bewohner, die zuvor nichts hatten, nicht einmal eine Matratze zum Schlafen, fühlen sich nun wie im Paradies. 
