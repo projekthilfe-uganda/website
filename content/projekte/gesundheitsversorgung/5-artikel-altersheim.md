@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 5
-picture = ""
+picture = "/uploads/IMG_1373_bf.JPG"
 title = "5 Artikel Altersheim"
 type = "picarticle"
 
