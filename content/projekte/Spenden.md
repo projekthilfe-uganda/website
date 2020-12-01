@@ -1,5 +1,4 @@
 +++
-draft = true
 header = "Unterstützen Sie unsere Projekte"
 order = 4
 type = "linklist"
