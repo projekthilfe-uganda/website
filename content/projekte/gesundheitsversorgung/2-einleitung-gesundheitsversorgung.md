@@ -11,6 +11,6 @@ Die Gegend Kyamulibwa erstreckt sich über ein Gebiet von 20 x 30 km. Über 40.0
 
 Das Krankenhaus in Kyamulibwa ist zu einer wichtigen Einrichtung geworden. Hier werden die Menschen bei offenen Wunden, Entbindungen bishin zu Malaria behandelt und es finden auch Operationen statt. In Massaka, der nächsten Stadt, ist zudem ein Zahnarzt verfügbar.
 
-Seit 2019 gibt es auch ein Optiker-Haus in Kyamulibwa, so dass bei Sehschwäche Hilfe durch eine Brille erzielt werden kann. Für ältere gebrechliche Menschen wude ein Altersheim aufgebaut. 
+Seit 2019 gibt es auch ein Optiker-Haus in Kyamulibwa, so dass bei Sehschwäche Hilfe durch eine Brille erzielt werden kann. Für ältere gebrechliche Menschen wude ein Altersheim aufgebaut.
 
-Wo möglich, sollen Krankehiten vermieden werden: Zugang zu sauberem Trinkwasser durch Trinkwasserbrunnen ist hier ein wichtiger Faktor.
+Wo möglich, sollen Krankheiten vermieden werden: Zugang zu sauberem Trinkwasser durch Trinkwasserbrunnen ist hier ein wichtiger Faktor.
