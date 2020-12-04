@@ -17,7 +17,7 @@ Projekthilfe Uganda e.V.
 - Sparkasse Kraichgau, IBAN: DE 36 6635 0036 0007 0487 48, BIC: BRUSDE 66 XXX
 - Volksbank Stutensee Hardt, IBAN: DE 57 6606 1724 0023 0108 01, BIC: GENODE 61 WGA
 
-###### Spenden per Paypal
+##### Spenden per Paypal
 
 **Spenden** setzen wir für nachhaltige Projekte ein, die am notwendigsten zu finanzieren sind sowie für vereinzelte Nothilfe-Aktionen in Afrika. Die Vereinsmitglieder arbeiten ehrenamtlich. [Unsere Projektarbeit](/projekte)
 
