@@ -15,7 +15,7 @@ picture = "/uploads/IMG_2312_bf.JPG"
 text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden.\n\n[Spenden-Möglichkeiten](spenden \"Spenden\")"
 title = "Spenden"
 [[teaser]]
-picture = "/uploads/IMG_0901_bf.JPG"
+picture = "/uploads/optikerhaus_constanze-mit-elektriker-george-bei-der-ausgestaltung-des-optikhauses.jpg"
 text = "Brunnenbau, Hausbau, medizinische Einsätze - immer wieder führen wir Hilfseinsätze vor Ort in Uganda durch.\n\n[Hilfseinsätze](/verein/hilfseinsaetze \"Hilfseinsätze\")"
 title = "Hilfseinsätze vor Ort"
 [[teaser]]
