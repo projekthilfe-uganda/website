@@ -8,6 +8,6 @@ type = "picarticle"
 +++
 ## Optiker-Haus in Uganda
 
-Wir haben das erste Optiker-Haus in Uganda eingerichtet. Es besteht aus einer Werkstatt und einem Laden. Hier können sich die Menschen professionelle Sehhilfen fertigen lassen zu einem erschwinglichen Preis von etwa 5 bis 7 Euro. Das ist für alle, die schlechte Augen haben ein wahrer Segen. Die Ausbildung der ersten Optiker in Kyamulibwa erfolgte durch deutsche Optiker vor Ort.
+Viele Kinder sehen schlecht und leiden auch aufgrund ihrer Fehlsichtigkeit unter Kopfschmerzen. Diese Kinder können mitunter nicht mehr am Schulunterricht teilnehmen oder müssen bei starker Fehlsichtigkeit gar die Schule verlassen. Erschwerend kommt hinzu, dass es keine flächendeckende Versorgung der Bevölkerung mit Brillen durch ausgebildete Augenoptiker gibt und keine Ausbildungsstandards für Augenoptiker bestehen. 
 
-Für die Kinder unseres Patenschaftsprogramms hat es eine Reihenuntersuchung gegeben, die von der Krankenversicherung, die wir für die Kinder abgeschlossen haben, übernommen wurde. So konnten wir sicherstellen, dass die Kinder, die eine Brille brauchen, auch eine erhalten.
+Um die Versorgung der Bevölkerung mit korrekt angepassten Brillen in Kyamulibwa und Umgebung zu gewährleisten, hat die Projekthilfe Uganda daher in den Jahren 2018/19 ein Optikhaus auf dem Krankenhausgelände gebaut. Das Optikhaus verfügt über eine Werkstatt und einen Verkaufsraum nebst Einrichtung und Geräten.
