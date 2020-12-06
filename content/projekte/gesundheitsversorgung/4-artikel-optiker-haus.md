@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 4
+order = 5
 picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
-title = "4 Artikel Optiker-Haus"
+title = "5 Artikel Optiker-Haus"
 type = "picarticle"
 
 +++
