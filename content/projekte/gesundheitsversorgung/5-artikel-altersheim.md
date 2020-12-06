@@ -8,6 +8,4 @@ type = "picarticle"
 +++
 ## Altenheim für die Ärmsten ohne Verwandte
 
-Mit dem Altenheim in Kyamulibwa wurde eine Unterkunft für die alten Menschen geschaffen, die sich nicht mehr selbst versorgen könnten und keine Angehörigen haben.
-
-Die 10 Bewohner, die zuvor nichts hatten, nicht einmal eine Matratze zum Schlafen, fühlen sich nun wie im Paradies. Um die laufenden Kosten kümmern sich die Katechisten mit ihren jeweiligen Dörfern. Eine Schwester der Good Samariten Sisters betreut die Menschen des Altenheims. 
+Für die vielen alten, völlig hilflosen Menschen, die keine Familienangehörigen und keinen Besitz haben, konnte die Projekthilfe Uganda Anfang 2019 mit einer Spende der Hoftrödelgruppe Bengelshagen in Höhe von 30.000 € den Umbau eines alten Hauses zu einem Altersheim fertigstellen. Seitdem leben in dem Altersheim die 10 Ärmsten der Alten, werden dort von einer Schwester des Ordens „Good Samaritan Sisters“ gepflegt - und können in Würde sterben.
