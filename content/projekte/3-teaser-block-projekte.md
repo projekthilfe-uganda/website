@@ -16,7 +16,7 @@ text = "Schon Hunderte von jungen Menschen haben durch die Unterstützung von Pa
 title = "Patenschaftsprogramm"
 [[teaser]]
 picture = "/uploads/krankenhaus_betten_img-20190309-wa0001.jpg"
-text = "Das Gesundheitszentrum, ein Optiker und ein Zahnarzt haben die gesundheitliche Versorgung in der Region Kyamulibwa vorangebracht. Der Ausbau zum Krankenhaus ist unser Ziel.\n\n[Gesundheitsversorgung](/projekte/gesundheitsversorgung \"Gesundheitsversorgung\")"
+text = "Das Gesundheitszentrum, ein Optiker-Haus und ein Zahnarzt haben die gesundheitliche Versorgung in der Region Kyamulibwa vorangebracht. Der Ausbau zum Krankenhaus ist unser Ziel.\n\n[Gesundheitsversorgung](/projekte/gesundheitsversorgung \"Gesundheitsversorgung\")"
 title = "Gesundheitsversorgung"
 [[teaser]]
 picture = "/uploads/IMG_1955_bf.JPG"
