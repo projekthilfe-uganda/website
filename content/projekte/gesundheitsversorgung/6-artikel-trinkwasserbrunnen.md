@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 6
+order = 7
 picture = "/uploads/brunnen_butatwa-namugera-spring-2-min.JPG"
-title = "6 Artikel Trinkwasserbrunnen"
+title = "7 Artikel Trinkwasserbrunnen"
 type = "picarticle"
 
 +++
