@@ -6,8 +6,8 @@ title = "3 Artikel Krankenhaus"
 type = "picarticle"
 
 +++
-## Das Krankenhaus
+## Das Gesundheitszentrum
 
-Wir in Deutschland können uns kaum vorstellen, unter welchen Bedingungen die Ärzte in Uganda vor ein paar Jahren gearbeitet haben. Selbst heute noch ist der Standard ein ganz anderer als bei uns, obwohl sich schon einiges getan hat. Das Krankenhaus in Kyamulibwa hat nun eine bessere Ausstattung: Ultraschallgerät, Anästesthiegerät, Betten, Nachtschränke, Krankenwagen und viele andere wichtige Dinge wurden für das Krankenhaus in Kyamulibwa gespendet.
+Da ein Mangel an medizinischen Fachkräften sowie an medizintechnischer Ausstattung besteht, können leider nur kleine Operationen und chirurgische Eingriffe wie z. B. der Kaiserschnitt durchgeführt werden. So können derzeit größere Operationen und chirurgische Eingriffe nur im 38km entfernten Krankenhaus in Masaka durchgeführt werden. Leider können sich viele Betroffene jedoch weder die Fahrt nach Masaka noch die dortige Krankenhaus-Behandlung leisten.
 
-Es soll weiter ausgebaut werden, um den Status eines Hospitals zu erhalten und so Mittel vom Staat zu bekommen. Das würde die Gesundheitsversorgung in der Region ein gutes Stück voranbringen.
+Die Projekthilfe Uganda verfolgt daher das Ziel, das Gesundheitszentrum in Kyamulibwa in den Status eines Krankenhauses zu überführen, um dadurch die Gesundheitsversorgung in der Region um Kyamulibwa deutlich zu verbessern und die nach wie vor hohe Sterblichkeit - vor allen Dingen bei Säuglingen, Kleinkindern sowie bei vielen Mütter, die bei oder kurz nach den Geburten sterben - zu reduzieren. Durch die bessere Ausstattung eines Krankenhauses und durch die zusätzlichen Förderungen seitens des Gesundheitsministeriums (u.a. mit Fachpersonal, Medikamenten, Unterhaltszuschüssen, etc.) könnten mehr Menschen vor Ort operiert und auch schwere Krankheiten behandelt werden.
