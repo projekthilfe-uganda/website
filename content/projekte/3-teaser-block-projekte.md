@@ -31,7 +31,7 @@ picture = "/uploads/IMG_1948_bf.JPG"
 text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehandlung oder Kleidern. In Krisenzeiten geben wir auch Nahrungsmittel an die Ärmsten aus.\n\n[Hilfsprojekte](/projekte/caritas/ \"Caritas für die Ärmsten\")"
 title = "Caritas für die Ärmsten"
 [[teaser]]
-picture = "/uploads/IMG_1128_bf.JPG"
+picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
 text = "Unsere Projekte verfolgen wir über Jahre und und bauen Sie weiter aus, damit die Region Kyamulibwa sich weiterentwickeln kann und die Menschen eine gute Infrastruktur erhalten.\n\n[Aktuelles]()"
 title = "Weiterentwicklung der Projekte"
 
