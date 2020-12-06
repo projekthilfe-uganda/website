@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 3
-picture = "/uploads/IMG_1870_bf.JPG"
+picture = "/uploads/brunnen_00321_schnappschuss.jpg"
 title = "3 So helfen wir"
 type = "picarticle"
 
