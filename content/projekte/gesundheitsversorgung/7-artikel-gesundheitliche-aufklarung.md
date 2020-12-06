@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 7
+order = 8
 picture = "/uploads/IMG_2296_bf.JPG"
-title = "7 Artikel Gesundheitliche Aufklärung"
+title = "8 Artikel Gesundheitliche Aufklärung"
 type = "picarticle"
 
 +++
