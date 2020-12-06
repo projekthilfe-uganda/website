@@ -8,8 +8,8 @@ type = "picarticle"
 +++
 ## Trinkwasserbrunnen für sauberes Wasser
 
-Viele Menschen im Busch holen sich mit Kanistern ihr Wasser aus Tümpeln, aus denen auch die Tiere trinken. Oft fehlt das Wissen, dass dieses Wasser voller Keime sein kann und abgekocht werden sollte, bevor es getrunken oder für die Essenszubereitung verwendet wird.
+Noch vor Malaria und Aids stellt kontaminiertes Wasser die Todesursache Nr. 1 in Uganda dar. Auch in der Umgebung von Kyamulibwa beziehen mitunter immer noch Menschen ihr Trinkwasser aus kontaminierten Teichen. 
 
-Das unsaubere Wasser in Kyamulibwa ist  Ursache für Cholerafälle und todbringende Infektionskrankheiten. Infektionskrankheiten sind bei Kindern die Todesursache Nummer 1, noch vor Malaria und Aids. Viele Kinder können im Krankheitsfall aus Geldmangel nicht medizinisch behandelt werden und sterben.
+Die Projekthilfe Uganda hat daher die Idee entwickelt, Schachtbrunnen zu bauen, bei denen sauberes und oberflächennahes Grundwasser in einer Tiefe bis zu ca. 10 Meter gewonnen wird. Der Finanzierungsaufwand zum Bau eines solchen Brunnens liegt im Schnitt bei 1.000 Euro. Bis heute wurden in Kyamulibwa und Umgebung mit Unterstützung der Projekthilfe Uganda bereits über 65 Brunnen gebaut. 
 
-Wir haben deshalb in den vergangenen Jahren mehrfach Spenden gesammelt für mehrere Trinkwasserbrunnen, die jeweils 2.000 Menschen versorgen. Unser Ziel ist es, in jeder der 23 Teilpfarreien einen Trinkwasserbrunnen zu errichten. Alle Menschen in Kyamulibwa sollen Zugang zu sauberem Wasser erhalten.
+Weitere Brunnen müssen noch gebaut werden, um die vorgegebenen Ziele zu erreichen, dass für jeweils ca. 2.000 Menschen ein Brunnen zur Verfügung steht und niemand mehr als 2 km zu einem Trinkwasserbrunnen gehen muss.
