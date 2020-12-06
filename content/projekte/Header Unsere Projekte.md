@@ -8,7 +8,7 @@ picture = "/uploads/st-kizito_img_2724-min.JPG"
 text = "Kinder durch Schulbildung fördern"
 [[slides]]
 picture = "/uploads/IMG_1870_bf.JPG"
-text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
+text = "Unsere Projekthilfe besteht aus vielen Bausteinen wie der berufliches Ausbildung"
 [[slides]]
 picture = "/uploads/IMG_1843_bf.JPG"
 text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
