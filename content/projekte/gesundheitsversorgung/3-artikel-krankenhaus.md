@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 3
-picture = "/uploads/IMG_0816_bf.JPG"
+picture = "/uploads/krankenhaus_wartebereich-im-opd-min.jpg"
 title = "3 Artikel Krankenhaus"
 type = "picarticle"
 
