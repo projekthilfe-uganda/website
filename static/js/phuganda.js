@@ -14,6 +14,56 @@ $(window).on('load', function() {
     })
 });
 
+function loadShopItems() {
+    const items = localStorage.getItem("shop.items");
+    if (!items || items === "undefined") return {};
+
+    return JSON.parse(items);
+}
+function loadCartItems() {
+    const items = localStorage.getItem("cart.items");
+    if (!items || items === "undefined") return {};
+
+    return JSON.parse(items);
+}
+
+function paypalItems(cartItems, shopItems) {
+    let items = [];
+    for (let key in cartItems) {
+        if (!cartItems.hasOwnProperty(key)) continue;
+
+        const cartItem = cartItems[key];
+        const item = shopItems[cartItem.type];
+
+        if (typeof item === "undefined") continue;
+
+        items.push({
+            name: cartItem.caption,
+            quantity: cartItem.amount,
+            unit_amount: {
+                currency_code: "EUR",
+                value: item.price,
+            },
+        })
+    }
+    return items;
+}
+
+function cartSum(cartItems, shopItems) {
+    let sum = 0;
+    for (let key in cartItems) {
+        if (!cartItems.hasOwnProperty(key)) continue;
+
+        const cartItem = cartItems[key];
+        const item = shopItems[cartItem.type];
+
+        if (typeof item === "undefined") continue;
+
+        sum += cartItem.amount * item.price;
+    }
+    return sum;
+}
+
 Vue.component('cart-item', {
     template: '#cart-item',
     delimiters: ['[[', ']]'],
@@ -143,6 +193,7 @@ let shop = new Vue({
                 if (item.Params.type === "shopitem") items[item.Params.identifier] = item.Params;
             }
             this.shopItems = items;
+            this.save()
         },
         fillChildItems: function () {
             // spread items to the children
@@ -163,27 +214,16 @@ let shop = new Vue({
 
         save: function () {
             localStorage.setItem("cart.items", JSON.stringify(Object.assign({}, this.cartItems)));
+            localStorage.setItem("shop.items", JSON.stringify(Object.assign({}, this.shopItems)));
         },
-        load: function () {
-            const items = localStorage.getItem("cart.items");
-            if (!items || items === "undefined") return {};
-
-            return JSON.parse(items);
-        },
+        load: loadCartItems,
     },
     computed: {
         cartSum: function () {
-            let sum = 0;
-            for (let key in this.cartItems) {
-                if (!this.cartItems.hasOwnProperty(key)) continue;
+            const cartItems = this.cartItems;
+            const shopItems = this.shopItems;
 
-                const cartItem = this.cartItems[key];
-                const item = this.shopItems[cartItem.type];
-
-                if (typeof item === "undefined") continue;
-
-                sum += cartItem.amount * item.price;
-            }
+            let sum = cartSum(cartItems, shopItems);
             this.save();
             return sum
         }
