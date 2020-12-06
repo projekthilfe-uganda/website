@@ -5,7 +5,7 @@ order = 1
 type = "picslider"
 [[slides]]
 picture = "/uploads/st-kizito_img_2724-min.JPG"
-text = ""
+text = "Kinder durch Schulbildung fördern"
 [[slides]]
 picture = "/uploads/IMG_1870_bf.JPG"
 text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
