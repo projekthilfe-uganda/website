@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 5
-picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
+picture = "/uploads/optikerhaus_untersuchung_img-20191126-wa0016.jpg"
 title = "5 Artikel Optiker-Haus"
 type = "picarticle"
 
