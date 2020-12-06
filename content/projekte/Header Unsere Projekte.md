@@ -11,6 +11,6 @@ picture = "/uploads/IMG_1870_bf.JPG"
 text = "Unsere Projekthilfe besteht aus vielen Bausteinen wie der berufliches Ausbildung"
 [[slides]]
 picture = "/uploads/IMG_1843_bf.JPG"
-text = "Unsere Projekthilfe besteht aus vielen Bausteinen"
+text = "Weiterentwicklung der Gewerbeschule"
 
 +++
