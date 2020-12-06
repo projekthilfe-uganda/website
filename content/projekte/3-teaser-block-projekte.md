@@ -15,7 +15,7 @@ picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
 text = "Schon Hunderte von jungen Menschen haben durch die Unterstützung von Paten eine neue Perspektive erhalten und konnten eine Schule besuchen oder eine Ausbildung machen.\n\n[Patenschaftsprogramm](/unsere-projekte/patenschaften \"Patenschaften\")"
 title = "Patenschaftsprogramm"
 [[teaser]]
-picture = "/uploads/IMG_0816_bf.JPG"
+picture = "/uploads/krankenhaus_betten_img-20190309-wa0001.jpg"
 text = "Das Gesundheitszentrum, ein Optiker und ein Zahnarzt haben die gesundheitliche Versorgung in der Region Kyamulibwa vorangebracht. Der Ausbau zum Krankenhaus ist unser Ziel.\n\n[Gesundheitsversorgung](/projekte/gesundheitsversorgung \"Gesundheitsversorgung\")"
 title = "Gesundheitsversorgung"
 [[teaser]]
