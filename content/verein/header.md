@@ -4,13 +4,13 @@ order = 1
 title = "Header Unser Verein"
 type = "picslider"
 [[slides]]
+picture = "/uploads/IMG_2281_bf.JPG"
+text = "Besuch bei mobilitätseingeschränkten Menschen"
+[[slides]]
 picture = "/uploads/Verein_Arbeit-vor-Ort---Einrichten-des-Optiker-Hauses.jpg"
 text = ""
 [[slides]]
 picture = "/uploads/verein_ugandafest-2017-im-pfarrzentrum-bruchsal-buchenau-1.JPG"
-text = ""
-[[slides]]
-picture = "/uploads/IMG_2281_bf.JPG"
 text = ""
 
 +++
