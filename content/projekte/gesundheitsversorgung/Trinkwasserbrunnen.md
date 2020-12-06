@@ -4,6 +4,6 @@ order = 1
 type = "picslider"
 [[slides]]
 picture = "/uploads/krankenhaus_kurs-zur-babybrei-herstellung-min.JPG"
-text = ""
+text = "Kurs zur Herstellung von Babybrei"
 
 +++
