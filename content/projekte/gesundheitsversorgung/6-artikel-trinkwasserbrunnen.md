@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 6
-picture = "/uploads/wasserstelle_img_1931-min.JPG"
+picture = "/uploads/brunnen_butatwa-namugera-spring-2-min.JPG"
 title = "6 Artikel Trinkwasserbrunnen"
 type = "picarticle"
 
