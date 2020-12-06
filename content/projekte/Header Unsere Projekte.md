@@ -4,6 +4,9 @@ name = "1 Header Unsere Projekte"
 order = 1
 type = "picslider"
 [[slides]]
+picture = "/uploads/nurse-josephin-scaning-a-pregnat-woman-with-a-ne-scan-machine-6.jpg"
+text = "Die Gesundheitsversorgung verbessern durch den Ausbau des Gesundheitszentrums"
+[[slides]]
 picture = "/uploads/st-kizito_img_2724-min.JPG"
 text = "Kinder durch Schulbildung fördern"
 [[slides]]
