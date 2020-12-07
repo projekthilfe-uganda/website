@@ -8,4 +8,4 @@ type = "picarticle"
 +++
 ## Freiwilligeneinsatz in Uganda
 
-Aber auch für längere Einsätze - ein paar Monate oder ein Jahr - hatten wir schon mehrere Freiwillige im Einsatz. So bildeten Handwerker aus Deutschland an der Gewerbeschule aus. Junge Menschen halfen im Patenschaftsprogramm. Deutsche Optiker unterrichteten im Optiker-Haus. 
+Aber auch für längere Einsätze - ein paar Monate oder ein Jahr - hatten wir schon mehrere Freiwillige im Einsatz. So gaben Handwerker aus Deutschland Kurse für Lehrer der Gewerbeschule. Junge Menschen halfen im Patenschaftsprogramm und unterstützten die Sozialarbeiterin vor Ort. Deutsche Optiker unterrichteten im Optiker-Haus. 
