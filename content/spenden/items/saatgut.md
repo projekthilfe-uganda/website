@@ -7,3 +7,4 @@ title = "Saatgut"
 type = "shopitem"
 
 +++
+TODO: Saatgut Beschreibung und Bild einfügen
