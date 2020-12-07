@@ -1,8 +1,7 @@
 +++
-draft = true
 layout = "pic-right"
 order = 4
-picture = ""
+picture = "/uploads/IMG_0896_bf.JPG"
 title = "4 Artikel Agrarzentrum"
 type = "picarticle"
 
