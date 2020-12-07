@@ -9,11 +9,10 @@
                 shape:   'rect',
             },
             createOrder: function(data, actions) {
-                const cartItems = loadCartItems()
-                const shopItems = loadShopItems()
-                const sum = cartSum(cartItems, shopItems)
-                const items = paypalItems(cartItems, shopItems)
-                console.log(items)
+                const cartItems = loadCartItems();
+                const shopItems = loadShopItems();
+                const sum = cartSum(cartItems, shopItems);
+                const items = paypalItems(cartItems, shopItems);
 
                 return actions.order.create({
                     purchase_units: [{
@@ -30,6 +29,12 @@
                         },
                         items: items,
                     }]
+                });
+            },
+            onApprove: function(data, actions) {
+                return actions.order.capture().then(function(details) {
+                    // details.payer.name.given_name
+                    alert('Vielen Dank für Ihre Spende!');
                 });
             }
         }).render('#paypal-button-container');
