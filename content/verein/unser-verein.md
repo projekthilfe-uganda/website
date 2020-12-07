@@ -9,7 +9,7 @@ h2: Langfristig in Ostafrika helfen
 ---
 Projekthilfe Uganda e.V. ist ein eingetragener, gemeinnütziger Verein aus Büchenau bei Bruchsal, nahe Heidelberg und Karlsruhe. Unser Verein hat in Uganda ein Entwicklungsprojekt mit Schulen, Berufsausbildung und einem kleinen Krankenhaus aufgebaut, entwickelt diese Arbeit weiter und stößt neue Projekte an.
 
-Unser Partner ist die Gemeinde Kyamulibwa bei Masaka in Uganda / Ostafrika. Projektleiter ist Pfarrer Denis Ddamulira, Träger das Entwicklungsbüro der Diozese Masaka.
+Unser Partner ist die Gemeinde Kyamulibwa bei Masaka in Uganda / Ostafrika. 
 
 Die Vereinsmitglieder arbeiten alle ehrenamtlich, Flüge werden privat finanziert. Es entstehen keinerlei Verwaltungskosten.
 
