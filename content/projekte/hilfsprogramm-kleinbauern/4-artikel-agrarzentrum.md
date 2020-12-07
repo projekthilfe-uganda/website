@@ -1,5 +1,5 @@
 +++
-layout = "pic-right"
+layout = "pic-left"
 order = 4
 picture = "/uploads/IMG_0896_bf.JPG"
 title = "4 Artikel Agrarzentrum"
