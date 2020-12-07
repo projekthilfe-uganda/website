@@ -2,8 +2,8 @@
 h1 = ""
 h2 = "Berufsausbildungen unterstützen"
 h3 = "Patenschaften für Auszubildende in Uganda"
-order = 7
-title = "7 Berufsausbildungen unterstützen"
+order = 6
+title = "6 Berufsausbildungen unterstützen"
 type = "article"
 
 +++
