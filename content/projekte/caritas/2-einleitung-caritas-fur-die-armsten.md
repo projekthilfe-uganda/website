@@ -7,4 +7,4 @@ title = "2 Einleitung Caritas für die Ärmsten"
 type = "article"
 
 +++
-Text
+Die Wohnhäuser in Kyamulibwa sind sehr klein, oft nur erbärmliche Lehmhütten und der hygienische Standard ist schlecht. Nach 30 Jahren Bürgerkrieg raffte die Krankheit Aids sehr viele Menschen dahin, was den hohen Anteil Kinder erklärt, die bei Omas aufwachsen oder überhaupt niemanden haben. Gute Schulen, in denen man auch einen Abschluss schaffen kann, gibt es nicht so viele. Es fehlt in großem Maße die Möglichkeit zu einer Berufsausbildung für praktische und technische Berufe.
