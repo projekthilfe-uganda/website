@@ -1,10 +1,10 @@
 +++
-identifier = "folie_wasserloch"
+identifier = "teichfolie"
 order = 10
-picture = "/uploads/Wasserreservoir.jpg"
-price = 30
-title = "Folie für ein Wasserloch"
+picture = "/uploads/screenshot-2020-12-07-at-22-03-35.png"
+price = 60
+title = "Teichfolie"
 type = "shopitem"
 
 +++
-... mit Anleitung. Sichert die Maisernte und damit die Ernährung, sichert das Schweinefutter.
+Die Teichfolie für ein Wasserreservoir ist die Voraussetzung für landwirtschaftliche Erfolge.
