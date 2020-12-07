@@ -1,5 +1,5 @@
 +++
-header = "Unterstützen Sie unsere Projektarbeit"
+header = "Unterstützen Sie unsere Projekte"
 order = 9
 type = "linklist"
 [[links]]
