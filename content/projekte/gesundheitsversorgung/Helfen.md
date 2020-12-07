@@ -1,6 +1,6 @@
 +++
 header = "Unterstützen Sie unsere Projektarbeit"
-order = 8
+order = 9
 type = "linklist"
 [[links]]
 link = "/spenden"
