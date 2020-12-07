@@ -88,10 +88,10 @@ menu:
       name: Caritas für die Ärmsten
       url: /projekte/caritas
       weight: 70
-    - parent: projekte
-      name: Uganda Lebenshausstiftung
-      url: /projekte/uganda-lebenshaus-stiftung
-      weight: 80
+#    - parent: projekte
+#      name: Uganda Lebenshausstiftung
+#      url: /projekte/uganda-lebenshaus-stiftung
+#      weight: 80
 
     - identifier: helfen
       name: So können Sie helfen
