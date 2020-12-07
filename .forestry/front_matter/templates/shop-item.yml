@@ -46,6 +46,7 @@ fields:
     step: 
     required: true
 pages:
+- content/spenden/items/200-liter-tank.md
 - content/spenden/items/5-junghuner.md
 - content/spenden/items/abdeckung.md
 - content/spenden/items/dachrinne.md
