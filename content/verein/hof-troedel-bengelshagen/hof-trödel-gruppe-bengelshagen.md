@@ -15,8 +15,7 @@ Aus den Erlösen und Spendeneinnahmen des Hof-Trödel Bengelshagen konnten schon
 
 * ein Haus mit 10 Zimmern zur Aufnahme von hilfsbedürftigen Menschen
 * Förderung des St. Joseph Krankenhaus in Kyamulibawa
-* Kauf eines Röntgengeräts
-* Kauf von 50 Holzbetten mit Moskitonetzen
+* Kauf von 100 Betten mit Matratzen und Wolldecken
 
 **Kontakt Hof-Trödel Bengelshagen**
 
