@@ -32,7 +32,7 @@ text = "Besonders Hilfsbedürftige unterstützen wir u.a. mit einer Krankenbehan
 title = "Caritas für die Ärmsten"
 [[teaser]]
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
-text = "Unsere Projekte verfolgen wir über Jahre und und bauen Sie weiter aus, damit die Region Kyamulibwa sich weiterentwickeln kann und die Menschen eine gute Infrastruktur erhalten.\n\n[Aktuelles]()"
+text = "Unsere Projekte verfolgen wir über Jahre und und bauen Sie weiter aus, damit die Region Kyamulibwa sich weiterentwickeln kann und die Menschen eine gute Infrastruktur erhalten.\n\n[Aktuelles](/news \"Aktuelles\")"
 title = "Weiterentwicklung der Projekte"
 
 +++
