@@ -23,7 +23,7 @@ Vereinsregister-Nr. VR 1328 (Amtsgericht Bruchsal)
 
 Steuer-Nr. 30073 / 18330
 
-**Verantwortlich für Gestaltung:**
+**Verantwortlich für Gestaltung / Programmierung**
 
 Gabriel Nelle
 
@@ -31,7 +31,7 @@ E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject
 
 **Redaktion**
 
-Birgit Fritz
+Birgit Fritz, Christel Henecka
 
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Gestaltung%20der%20Internetseite&body=)
 
