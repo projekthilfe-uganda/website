@@ -1,5 +1,4 @@
 +++
-draft = true
 identifier = "saatgut"
 order = 1
 picture = ""
