@@ -8,4 +8,4 @@ type = "picarticle"
 +++
 ## Freiwilligeneinsatz in Uganda
 
-Aber auch für längere Einsätze - ein paar Monate oder ein Jahr - hatten wir schon mehrere Freiwillige im Einsatz. So bildeten Handwerker aus Deutschland an der Gewerbeschule aus oder junge Menschen unterrichteten an einer unserer Schulen. 2019 war ein Optiker aus Hamburg mehrere Monate in Kyamulibwa.
+Aber auch für längere Einsätze - ein paar Monate oder ein Jahr - hatten wir schon mehrere Freiwillige im Einsatz. So bildeten Handwerker aus Deutschland an der Gewerbeschule aus oder junge Menschen unterrichteten an einer unserer Schulen. Deutsche Optiker unterrichteten im Optiker-Haus. Junge Menschen halfen im Patenschaftsprogramm. 
