@@ -2,12 +2,12 @@
 h1 = "Hof-Trödel Bengelshagen"
 h2 = "Projekthilfe Uganda e.V. in Norddeutschland "
 h3 = ""
-order = 0
+order = 1
 title = "Hof-Trödel-Gruppe Bengelshagen"
 type = "article"
 
 +++
-In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in Nordrhein-Westfalen, verkauft der Hof-Trödel Bengelshagen von April bis Oktober in einer Scheune Trödel zu einem guten Zweck und veranstaltet zudem einen Weihnachtsbasar.
+In Bengelshagen, zwischen Wipperfürth und Gimborn im Oberbergischen Kreis in Nordrhein-Westfalen, verkauft der Hof-Trödel Bengelshagen von April bis Oktober in einem stillgelegten Betriebsgelände Trödel zu einem guten Zweck und veranstaltet zudem einen Weihnachtsbasar.
 
 Die ehrenamtliche Gruppe um Initiator Bruno Steinbach unterstützt die Projekthilfe Uganda e.V. seit über 10 Jahren.
 
