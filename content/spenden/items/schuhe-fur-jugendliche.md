@@ -1,7 +1,7 @@
 +++
 identifier = "jugendschuhe"
 order = 0
-picture = ""
+picture = "/uploads/screenshot-2020-12-07-at-21-48-58.png"
 price = 15
 title = "Schuhe für Jugendliche"
 type = "shopitem"
