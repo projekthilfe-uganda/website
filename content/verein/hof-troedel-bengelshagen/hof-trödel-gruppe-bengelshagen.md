@@ -14,8 +14,8 @@ Die ehrenamtliche Gruppe um Initiator Bruno Steinbach unterstützt die Projekthi
 Aus den Erlösen und Spendeneinnahmen des Hof-Trödel Bengelshagen konnten schon viele Projekte in Uganda realisiert werden, u.a.:
 
 * ein Haus mit 10 Zimmern zur Aufnahme von hilfsbedürftigen Menschen
-* Förderung des St. Joseph Krankenhauses in Kyamulibawa, u.a. Renovierung eines Schwesternwohnhauses für 6 Schwestern, Bau eines Kochhauses, Renovierung des OP-Gebäudes, Bau eines Arzthauses
-* Kauf von 100 Betten mit Matratzen und Wolldecken
+* Förderung des St. Joseph Krankenhauses in Kyamulibawa, u.a. Renovierung eines Schwesternwohnhauses für 6 Schwestern, Bau eines Kochhauses, Renovierung des OP-Gebäudes, Bau eines Arzthauses und ein Großteil für den Neubau des Patientengebäudes nebst Einrichtung
+* Kauf von 100 Betten mit Matratzen und Wolldecken für die Ärmsten im Busch
 
 **Kontakt Hof-Trödel Bengelshagen**
 
