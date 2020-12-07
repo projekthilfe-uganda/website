@@ -1,7 +1,7 @@
 +++
 identifier = "saatgut"
 order = 1
-picture = ""
+picture = "/uploads/screenshot-2020-12-07-at-21-48-58.png"
 price = 30
 title = "Saatgut"
 type = "shopitem"
