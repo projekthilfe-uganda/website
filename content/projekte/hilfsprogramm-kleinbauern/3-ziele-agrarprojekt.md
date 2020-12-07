@@ -2,7 +2,7 @@
 draft = true
 layout = "pic-right"
 order = 3
-picture = ""
+picture = "/uploads/IMG_1955_bf.JPG"
 title = "3 Ziele Agrarprojekt"
 type = "picarticle"
 
