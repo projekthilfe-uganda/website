@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 6
-picture = ""
+picture = "/uploads/uganda-2014-056.jpg"
 title = "6 Weitere Hilfe"
 type = "picarticle"
 
