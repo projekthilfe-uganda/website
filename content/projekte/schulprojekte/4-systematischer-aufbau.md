@@ -6,7 +6,7 @@ title = "5 Systematischer Aufbau"
 type = "picarticle"
 
 +++
-## Systematisch Schulen aufbauen
+### Systematisch Schulen aufbauen
 
 Schulen in Uganda bauen wir systematisch auf und führen sie langsam zur Selbständigkeit.
 
