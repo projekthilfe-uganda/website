@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 9
+order = 10
 picture = "/uploads/st-kizito_img_2688-min.JPG"
-title = "9 St. Kizito Primary Schule"
+title = "10 St. Kizito Primary Schule"
 type = "picarticle"
 
 +++
