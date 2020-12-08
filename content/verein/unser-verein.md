@@ -13,6 +13,6 @@ Unser Partner ist die **Gemeinde Kyamulibwa** im Distrikt Kalungu bei Masaka. Ky
 
 Zur guten **Koordination** haben wir in Kyamulibwa einen ugandischen Vertreter. ER nimmt Fragen auf, organisiert Treffen aller Leiter der verschiedenen Institutionen und Gruppen, ist Sprachrohr bei Diskussionen, organisiert verschiedene Aktionen und hat eine erste Kontrollfunktion bei der Durchführung der von uns unterstützten Projekte.
 
-Die Vereinsmitglieder in Deutschland arbeiten alle ehrenamtlich, Flüge werden privat finanziert. Es entstehen keinerlei Verwaltungskosten.
+Die Vereinsmitglieder in Deutschland arbeiten alle **ehrenamtlich**, Flüge werden privat finanziert. Es entstehen keinerlei Verwaltungskosten.
 
 [Unsere Satzung](/uploads/SATZUNG-Projekthilfe-Uganda-e.V..pdf "Satzung")
