@@ -9,10 +9,7 @@ text = "Klassenzimmer"
 picture = "/uploads/wp_001917.jpg"
 text = "Klassenzimmer ältere Schüler"
 [[slides]]
-picture = "/uploads/teilansicht-min.jpg"
-text = ""
-[[slides]]
 picture = "/uploads/nach-dem-zusammenbruch-der-wasserversorgung-muss-jeder-wasser-holen-min.jpg"
-text = ""
+text = "Schüler mit Kanister"
 
 +++
