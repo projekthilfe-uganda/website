@@ -4,10 +4,10 @@ name = "1 Header Agrar-Hilfsprojekte"
 order = 1
 type = "picslider"
 [[slides]]
-picture = "/uploads/IMG_0917_bf.JPG"
+picture = "/uploads/IMG_0891_bf.JPG"
 text = "Nachhaltige Entwicklung durch Agrar-Projekte"
 [[slides]]
-picture = "/uploads/IMG_0891_bf.JPG"
+picture = "/uploads/IMG_0917_bf.JPG"
 text = "Nachhaltige Entwicklung durch Agrar-Projekte"
 
 +++
