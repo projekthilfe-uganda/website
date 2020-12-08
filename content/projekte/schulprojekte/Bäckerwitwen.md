@@ -4,7 +4,7 @@ order = 1
 type = "picslider"
 [[slides]]
 picture = "/uploads/st-kizito_img_2706-min.JPG"
-text = ""
+text = "Klassenzimmer"
 [[slides]]
 picture = "/uploads/wp_001917.jpg"
 text = ""
