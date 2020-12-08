@@ -6,9 +6,6 @@ type = "picslider"
 picture = "/uploads/st-kizito_img_2706-min.JPG"
 text = "Klassenzimmer"
 [[slides]]
-picture = "/uploads/wp_001917.jpg"
-text = "Klassenzimmer ältere Schüler"
-[[slides]]
 picture = "/uploads/nach-dem-zusammenbruch-der-wasserversorgung-muss-jeder-wasser-holen-min.jpg"
 text = "Schüler mit Kanister"
 
