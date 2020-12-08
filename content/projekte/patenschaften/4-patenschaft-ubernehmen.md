@@ -2,8 +2,8 @@
 h1 = ""
 h2 = "Patenschaft in Uganda übernehmen"
 h3 = ""
-order = 6
-title = "6 Patenschaft übernehmen"
+order = 7
+title = "7 Patenschaft übernehmen"
 type = "article"
 
 +++
