@@ -1,5 +1,5 @@
 +++
-layout = "pic-left"
+layout = "pic-right"
 order = 16
 picture = "/uploads/der-1-gemusegarten-der-schule-2019-min.jpg"
 title = "16 Projekte der Schulen zur Finanzierung"
