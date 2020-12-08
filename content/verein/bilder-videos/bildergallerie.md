@@ -3,6 +3,10 @@ order = 20
 title = "Bildergallerie"
 type = "gallery"
 [[pictures]]
+alt = "Nothilfe während Corona in Uganda"
+picture = "/uploads/dscn3603_corona.JPG"
+title = "Lebensmittelspenden als Nothilfe während Corona"
+[[pictures]]
 alt = "Trinkwasserbrunnen in Kyambulibwa, Uganda"
 picture = "/uploads/brunnen_butatwa-namugera-spring-2-min.JPG"
 title = "Trinkwasserbrunnen in Kyambulibwa"
