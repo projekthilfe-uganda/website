@@ -3,6 +3,10 @@ order = 20
 title = "Bildergallerie"
 type = "gallery"
 [[pictures]]
+alt = "Das erste Optiker-Haus in Uganda in Kyamulibwa"
+picture = "/uploads/optikerhaus_untersuchung_img-20191126-wa0016.jpg"
+title = "Optiker-Haus in Kyamulibwa"
+[[pictures]]
 alt = "Nothilfe während Corona in Uganda"
 picture = "/uploads/dscn3603_corona.JPG"
 title = "Lebensmittelspenden als Nothilfe während Corona"
