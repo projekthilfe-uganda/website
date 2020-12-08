@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 4
+order = 5
 picture = "/uploads/physikunterricht-min.jpg"
-title = "4 Systematischer Aufbau"
+title = "5 Systematischer Aufbau"
 type = "picarticle"
 
 +++

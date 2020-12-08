@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 5
+order = 6
 picture = "/uploads/img_7733.JPG"
-title = "5 Engagement von Schule & Eltern"
+title = "6 Engagement von Schule & Eltern"
 type = "picarticle"
 
 +++
