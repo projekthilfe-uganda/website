@@ -1,6 +1,6 @@
 +++
-order = 3
-title = "3 Teaser-Block Projekte"
+order = 4
+title = "4 Teaser-Block Projekte"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_1620_bf.JPG"
