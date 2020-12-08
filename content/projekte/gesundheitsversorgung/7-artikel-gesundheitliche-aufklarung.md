@@ -10,4 +10,4 @@ type = "picarticle"
 
 Es sind manchmal schon ganz einfache Dinge, durch die Krankheiten vermieden und Hygiene verbessert werden kann. Präventives Handeln und die Aufmerksamkeit für Ursachen von Krankheiten müssen jedoch erst vermittelt werden.
 
-Deshalb haben wir schon mehrfach engagierte Menschen mit zu unseren Besuchen in Uganda genommen, die  Vorträge bzw. Workshops zu Gesundheitsthemen gehalten haben. Beispielsweise, wie wichtig es ist, das Geschirr mit sauberem Wasser zu reinigen und nicht im Schmutz, sondern an sauberen Stellen oder einem Regal abzustellen.
+Deshalb klären Krankenschwestern bei ihren regelmäßigen Besuchen in den beiden kleineren Gesundheitszentren die Bevölkerung auf, halten dort Vorträge über die Wichtigkeit, Geschirr auf Gestellen zu trocknen anstatt auf dem Boden, fordern zum Abkochen des Wassers auf und zeigen z. B. wie man Abdeckungen für die Latrinen selbst macht.
