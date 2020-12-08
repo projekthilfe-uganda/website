@@ -2,7 +2,7 @@
 layout = "pic-right"
 order = 3
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
-title = "3 Ziel"
+title = "3 Ziele"
 type = "picarticle"
 
 +++
@@ -17,3 +17,5 @@ Nachhaltige Entwicklung für die Region Kyamulibwa durch ...
 Die Projekte werden alle so gestaltet, dass sie sich einmal selbst tragen und die Region eine nachhaltige Entwicklung erfährt.
 
 **_Das möchten wir langfristig erreichen_** – **_mit Ihrer Hilfe._**
+
+[Spenden]()
