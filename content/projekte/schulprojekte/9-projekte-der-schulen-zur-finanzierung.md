@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 15
+order = 16
 picture = "/uploads/der-1-gemusegarten-der-schule-2019-min.jpg"
-title = "15 Projekte der Schulen zur Finanzierung"
+title = "16 Projekte der Schulen zur Finanzierung"
 type = "picarticle"
 
 +++
