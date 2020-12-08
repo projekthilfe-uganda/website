@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 11
+order = 12
 picture = "/uploads/teilansicht-min.jpg"
-title = "11  Hl. Family Secondary Schule"
+title = "12  Hl. Family Secondary Schule"
 type = "picarticle"
 
 +++

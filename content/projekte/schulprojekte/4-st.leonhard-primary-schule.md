@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 10
+order = 11
 picture = "/uploads/IMG_1272_bf.JPG"
-title = "10 St. Leonhard Primary Schule"
+title = "11 St. Leonhard Primary Schule"
 type = "picarticle"
 
 +++
