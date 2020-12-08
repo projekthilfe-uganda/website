@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 3
-picture = ""
+picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
 title = "3 Ziele"
 type = "picarticle"
 
