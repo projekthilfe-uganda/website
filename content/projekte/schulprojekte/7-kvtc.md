@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 7
+order = 13
 picture = "/uploads/IMG_1829_bf.JPG"
-title = "7 KVTC "
+title = "13 KVTC "
 type = "picarticle"
 
 +++
