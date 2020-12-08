@@ -7,7 +7,7 @@ picture = "/uploads/st-kizito_img_2706-min.JPG"
 text = "Klassenzimmer"
 [[slides]]
 picture = "/uploads/wp_001917.jpg"
-text = ""
+text = "Klassenzimmer ältere Schüler"
 [[slides]]
 picture = "/uploads/teilansicht-min.jpg"
 text = ""
