@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 6
+order = 12
 picture = "/uploads/st-john_in-das-behelfsklassenzimmer-regnete-es-rein-2018.jpg"
-title = "6 St. John Prim.-Schule in Ttowa"
+title = "12 St. John Prim.-Schule in Ttowa"
 type = "picarticle"
 
 +++

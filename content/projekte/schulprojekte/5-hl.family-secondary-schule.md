@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 5
+order = 11
 picture = "/uploads/teilansicht-min.jpg"
-title = "5  Hl. Family Secondary Schule"
+title = "11  Hl. Family Secondary Schule"
 type = "picarticle"
 
 +++
@@ -12,4 +12,4 @@ Holy Family ist eine weiterführende Schule, in der Schüler von Klasse 8 bis 13
 
 Nach der 11. Klasse ist die Mittlere Reife (O-Level) möglich Mit Abschluss der 13. Klasse erreichen die Schüler das Abitur (A-Level). 
 
-Nach der Hl. Family Secondary School können Schüler eine gehobene Berufsausbildung in der Gewerbeschule beginnen. Natürlich wäre mit dem Abitur auch ein Studium an einer Universität möglich, aber dafür fehlen in der Regel die finanziellen Mittel in den Familien. 
+Nach der Hl. Family Secondary School können Schüler eine gehobene Berufsausbildung in der Gewerbeschule beginnen. Natürlich wäre mit dem Abitur auch ein Studium an einer Universität möglich, aber dafür fehlen in der Regel die finanziellen Mittel in den Familien.
