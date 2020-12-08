@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 3
+order = 4
 picture = "/uploads/brunnen_00321_schnappschuss.jpg"
-title = "3 So helfen wir"
+title = "4 So helfen wir"
 type = "picarticle"
 
 +++
