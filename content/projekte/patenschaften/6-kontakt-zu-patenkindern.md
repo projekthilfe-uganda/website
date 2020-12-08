@@ -1,5 +1,5 @@
 +++
-layout = "pic-right"
+layout = "pic-left"
 order = 6
 picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
 title = "6 Kontakt zu Patenkindern"
