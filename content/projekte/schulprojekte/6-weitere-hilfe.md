@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 6
+order = 7
 picture = "/uploads/uganda-2014-056.jpg"
-title = "6 Auf Engagement folgt weitere Hilfe"
+title = "7 Auf Engagement folgt weitere Hilfe"
 type = "picarticle"
 
 +++
