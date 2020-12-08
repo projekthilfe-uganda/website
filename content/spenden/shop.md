@@ -26,4 +26,8 @@ Falls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit
 Falls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: info@projekthilfe-uganda.de
 
 Sie suchen ein größeres Spenden-Projekt oder würden gerne in Ihrem Umfeld eine Spendenaktion durchführen? Fragen Sie direkt bei uns an. info@projekthilfe-uganda.de
-Beispielsweise spendeten in der Vergangenheit Kommunionkinder damit Spielgeräte für Vorschulkinder angeschafft werden konnten. Jubilare und Firmen spendeten für Ausstattungen in den Schulen oder einzelne Gebäudeteile.
+
+Beispielsweise spendeten in der Vergangenheit Kommunionkinder damit Spielgeräte für Vorschulkinder angeschafft werden konnten.
+Jubilare und Firmen spendeten für Ausstattungen in den Schulen oder einzelne Gebäudeteile.
+
+Sie können uns auch bei Bestattungen, runden Geburtstagen oder in ihrem Testament berücksichtigen.
