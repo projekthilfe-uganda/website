@@ -19,6 +19,6 @@ Wir reagieren auf die Bedürfnisse durch ...
 
 [Machen Sie mit](/helfen/mitarbeit)
 
-[Aktionen rund um Büchenau bei Bruchsal](./aktionen-buechenau)
+[Aktionen rund um Büchenau](./aktionen-buechenau)
 
 [Aktuelle Termine im Bereich Aktuelles](/news)
