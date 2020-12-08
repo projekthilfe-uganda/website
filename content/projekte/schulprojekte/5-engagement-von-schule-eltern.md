@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 5
-picture = "/uploads/bevor-der-speisesaal-gebaut-wurde.JPG"
+picture = "/uploads/img_7733.JPG"
 title = "5 Engagement von Schule & Eltern"
 type = "picarticle"
 
