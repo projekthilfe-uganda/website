@@ -1,6 +1,6 @@
 +++
 h1 = "Bilder & Videos "
-h2 = "Eindrücke unserer ehrenamtlichen Arbeit in Uganda"
+h2 = "Eindrücke unserer Arbeit in Uganda"
 h3 = ""
 order = 1
 title = "1 Einleitung Bilder & Videos"
