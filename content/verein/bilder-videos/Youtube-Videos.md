@@ -1,5 +1,5 @@
 +++
-header = "Videos auf Youtube"
+header = "Videos auf unserem YouTube-Kanal "
 order = 3
 type = "linklist"
 [[links]]
