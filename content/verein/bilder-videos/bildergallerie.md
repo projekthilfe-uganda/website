@@ -1,6 +1,6 @@
 +++
 order = 20
-title = "Bildergallerie"
+title = "Bildergalerie"
 type = "gallery"
 [[pictures]]
 alt = "Das erste Optiker-Haus in Uganda in Kyamulibwa"
