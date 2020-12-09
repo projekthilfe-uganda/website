@@ -92,6 +92,10 @@ menu:
 #      name: Uganda Lebenshausstiftung
 #      url: /projekte/uganda-lebenshaus-stiftung
 #      weight: 80
+    - parent: projekte
+      name: Glockenturm
+      url: /projekte/glockenturm
+      weight: 90
 
     - identifier: helfen
       name: So können Sie helfen
