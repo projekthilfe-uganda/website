@@ -16,3 +16,4 @@ type = "picarticle"
 * Frisörinnen
 * Elektriker
 * Buchhalter
+* Sekretärin
