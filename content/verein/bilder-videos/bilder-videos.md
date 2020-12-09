@@ -2,8 +2,8 @@
 h1 = "Bilder & Videos "
 h2 = "Eindrücke unserer ehrenamtlichen Arbeit in Uganda"
 h3 = ""
-order = 0
-title = "Bilder & Videos"
+order = 1
+title = "1 Einleitung Bilder & Videos"
 type = "article"
 
 +++
