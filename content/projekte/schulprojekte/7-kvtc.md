@@ -2,11 +2,11 @@
 layout = "pic-right"
 order = 14
 picture = "/uploads/IMG_1829_bf.JPG"
-title = "14 KVTC "
+title = "14 KTI"
 type = "picarticle"
 
 +++
-## KVTC
+## KTI
 
 In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren.
 
