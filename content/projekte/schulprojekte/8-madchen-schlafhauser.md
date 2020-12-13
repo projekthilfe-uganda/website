@@ -1,8 +1,8 @@
 +++
 layout = "pic-left"
-order = 15
+order = 16
 picture = "/uploads/aufenthaltsraum-mit-schrank-juli-20.jpg"
-title = "15 Mädchen-Schlafhäuser"
+title = "16 Mädchen-Schlafhäuser"
 type = "picarticle"
 
 +++
