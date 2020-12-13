@@ -7,7 +7,9 @@ title = "2 Einleitung Glockenturm"
 type = "article"
 
 +++
-Manchmal passiert etwas Außergewöhnliches. In der Hoffnung, irgendwann einmal eine kleinere Glocke zu finden kam es dazu, dass wir von Lörrach-Stetten mit der Erlaubnis der Erzdiözese Freiburg 3 Kirchenglocken aus Bronze mit einem Gesamtgewicht von 1,3 t geschenkt bekamen. Mit Neid schauten in Kyamulibwa die 70% Christen auf die 15% Moslem, für die der Muezzin ruft und so wünschten sie sich so sehr Glocken wie die Europäer sie haben. Und so bauten wir nach dieser Gelegenheit mit ehrenamtlichen Helfern ein 17 m hohes Stahlgestell als Glockenturm.
+Manchmal passiert etwas Außergewöhnliches. Wir hatten die  Hoffnung, irgendwann einmal eine kleinere Glocke für Kyamulibwa in Uganda zu finden. Dann kam es, dass wir von Lörrach-Stetten mit der Erlaubnis der Erzdiözese Freiburg 3 Kirchenglocken aus Bronze mit einem Gesamtgewicht von 1,3 t geschenkt bekamen.
+
+In der Vergangenheit schauten in Kyamulibwa die 70% Christen neidvoll auf die 15% Moslem, für die der Muezzin ruft und so wünschten sie sich so sehr Glocken wie die Europäer sie haben. Und so bauten wir nach dieser Gelegenheit mit ehrenamtlichen Helfern ein 17 m hohes Stahlgestell als Glockenturm.
 
 Möglich machte es uns die Firma Bergmaier Präzision in Bruchsal- Büchenau mit ihrem großzügigen Angebot, ihre neue Halle wie auch den 32 t Kran und die nötigen Maschinen umsonst benutzen zu dürfen. Wir danken ganz herzlich dafür.
 
