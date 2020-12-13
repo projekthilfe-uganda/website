@@ -1,6 +1,6 @@
 +++
 identifier = "kinderschuhe"
-order = 10
+order = -33
 picture = "/uploads/schuhe-fur-kleine-kinder.jpg"
 price = 10
 title = "Kinderschuhe"
