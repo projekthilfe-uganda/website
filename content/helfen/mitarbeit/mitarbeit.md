@@ -15,4 +15,4 @@ Die Projekthilfe Uganda e.V. hat seinen Sitz in Büchenau bei Bruchsal. Aber auc
 
 Melden Sie sich gerne bei uns.
 
-[Kontakt](unser-verein/kontakt "Kontaktinformationen")
+[Kontakt](verein/kontakt "Kontaktinformationen")
