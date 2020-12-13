@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 40
-picture = ""
+picture = "/uploads/Verein_Waren beiholen für den Containerversand.JPG"
 title = "40 Richtfest und Transport"
 type = "picarticle"
 
