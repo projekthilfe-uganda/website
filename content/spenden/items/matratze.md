@@ -1,7 +1,7 @@
 +++
 identifier = "matratze"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-22-23-28.png"
+order = -30
+picture = "/uploads/matratzenausgabe.jpg"
 price = 20
 title = "Matratze"
 type = "shopitem"
