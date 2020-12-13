@@ -1,7 +1,7 @@
 +++
 identifier = "wolldecke"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-22-23-17.png"
+order = -30
+picture = "/uploads/ausgaben-wolldecke.jpg"
 price = 12
 title = "Wolldecke"
 type = "shopitem"
