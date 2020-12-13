@@ -1,7 +1,7 @@
 +++
 identifier = "schwein"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-21-51-06.png"
+order = -10
+picture = "/uploads/ausgabe-von-schweinen.jpg"
 price = 30
 title = "Schwein"
 type = "shopitem"
