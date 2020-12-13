@@ -8,4 +8,6 @@ type = "picarticle"
 +++
 ## Ehrenamtlich mitarbeiten in Büchenau und Deutschland
 
-Möchten Sie sich engagieren und wissen nicht wie? Fragen Sie bei uns an. Wir sind dankbar für Unterstützung. 
+Möchten Sie sich engagieren und wissen nicht wie? Fragen Sie bei uns an. Wir sind dankbar für Unterstützung.
+
+[Kontakt](verein/kontakt "Kontaktinformationen")
