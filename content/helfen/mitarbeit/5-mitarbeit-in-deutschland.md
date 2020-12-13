@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 5
-picture = ""
+picture = "/uploads/kinderbriefe-eintueten_20201212_111148-min.jpg"
 title = "5 Mitarbeit in Deutschland"
 type = "picarticle"
 
