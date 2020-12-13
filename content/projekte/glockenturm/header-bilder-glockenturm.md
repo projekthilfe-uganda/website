@@ -1,6 +1,5 @@
 +++
-draft = false
-name = "1 Header Bilder"
+name = "1 Header Bilder Glockenturm"
 order = 1
 type = "picslider"
 [[slides]]
