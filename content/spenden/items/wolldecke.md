@@ -1,6 +1,6 @@
 +++
 identifier = "wolldecke"
-order = -30
+order = -25
 picture = "/uploads/ausgaben-wolldecke.jpg"
 price = 12
 title = "Wolldecke"

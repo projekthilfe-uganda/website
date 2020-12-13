@@ -1,6 +1,6 @@
 +++
 identifier = "matratze"
-order = -30
+order = -20
 picture = "/uploads/matratzenausgabe.jpg"
 price = 20
 title = "Matratze"
