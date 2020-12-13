@@ -1,7 +1,7 @@
 +++
 identifier = "duenger"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-21-48-58.png"
+order = 20
+picture = "/uploads/huhnerdung-ausgabe-ausgabe.jpg"
 price = 20
 title = "Dünger"
 type = "shopitem"
