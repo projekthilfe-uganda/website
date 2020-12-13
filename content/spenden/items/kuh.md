@@ -1,6 +1,6 @@
 +++
 identifier = "ziege"
-order = -30
+order = -45
 picture = "/uploads/ziegen-ausgabe.jpg"
 price = 45
 title = "Ziege"
