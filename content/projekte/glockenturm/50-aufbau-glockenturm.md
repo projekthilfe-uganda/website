@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 50
-picture = ""
+picture = "/uploads/glockenturm_img_20190130_114216-min.jpg"
 title = "50 Aufbau Glockenturm"
 type = "picarticle"
 
