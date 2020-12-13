@@ -1,6 +1,6 @@
 +++
 identifier = "dachrinne"
-order = 80
+order = 50
 picture = "/uploads/ausgabe-von-dachrinnen.jpg"
 price = 35
 title = "Dachrinne"

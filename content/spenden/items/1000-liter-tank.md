@@ -1,6 +1,6 @@
 +++
 identifier = "tank1000"
-order = 100
+order = 60
 picture = "/uploads/ausgabe-grosse-tanks.jpg"
 price = 80
 title = "1000 Liter Tank"
