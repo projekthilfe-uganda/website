@@ -1,6 +1,6 @@
 +++
 identifier = "schwein"
-order = -10
+order = -47
 picture = "/uploads/ausgabe-von-schweinen.jpg"
 price = 30
 title = "Schwein"
