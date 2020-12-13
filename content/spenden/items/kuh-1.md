@@ -1,7 +1,7 @@
 +++
 identifier = "kuh"
 order = -40
-picture = "/uploads/screenshot-2020-12-07-at-22-17-47.png"
+picture = "/uploads/kuh.jpg"
 price = 240
 title = "Kuh"
 type = "shopitem"
