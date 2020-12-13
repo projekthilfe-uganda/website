@@ -6,7 +6,7 @@ title = "3 Ausbildungsberufe "
 type = "picarticle"
 
 +++
-## Ausbildungsberufe am KVTC
+## Ausbildungsberufe am KTI
 
 * Schreiner
 * Maurer
