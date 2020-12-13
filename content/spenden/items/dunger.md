@@ -1,6 +1,6 @@
 +++
 identifier = "duenger"
-order = 20
+order = 25
 picture = "/uploads/huhnerdung-ausgabe-ausgabe.jpg"
 price = 20
 title = "Dünger"
