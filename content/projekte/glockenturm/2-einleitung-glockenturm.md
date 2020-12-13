@@ -11,14 +11,6 @@ Manchmal passiert etwas Außergewöhnliches. In der Vergangenheit schauten in Ky
 
 Wir hatten die  Hoffnung, irgendwann einmal eine kleinere Glocke für Kyamulibwa in Uganda zu finden. Dann kam es, dass wir von Lörrach-Stetten mit der Erlaubnis der Erzdiözese Freiburg 3 Kirchenglocken aus Bronze mit einem Gesamtgewicht von 1,3 t geschenkt bekamen. 
 
-## Bau eines Turms in Bruchsal
-
-Wir bauten nach dieser Gelegenheit mit ehrenamtlichen Helfern ein 17 m hohes Stahlgestell als Glockenturm für die 3 Glocken.
-
-Möglich machte es uns die Firma Bergmaier Präzision in Bruchsal-Büchenau mit ihrem großzügigen Angebot, ihre neue Halle wie auch den 32 t Kran und die nötigen Maschinen umsonst benutzen zu dürfen. Wir danken ganz herzlich dafür.
-
-Unser Dank gilt aber auch allen Spendern, die dieses Vorhaben finanzierten, dem Glockensachverständigen der Erzdiözese und der Ingenieurgruppe Bauen in Mannheim.
-
 ## Richtfest in Deutschland, dann Transport nach Uganda
 
 Nachdem der Turm liegend fertig montiert war, wurde das obere Drittel abgetrennt und aufgestellt. Bei einem Richtfest, das ein Team der SWR für die Landesschau filmte, wurden die Glocken eingehängt und von Pfr. Müller gesegnet. Die wieder zerlegten Einzelteile brachten wir in die Verzinkerei Bruchsal und verschifften sie wenig später in einem Container.
