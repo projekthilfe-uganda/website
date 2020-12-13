@@ -1,7 +1,7 @@
 +++
 identifier = "junghuener"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-22-00-32.png"
+order = -50
+picture = "/uploads/huhnerausgabe.jpg"
 price = 15
 title = "5 Junghühner"
 type = "shopitem"
