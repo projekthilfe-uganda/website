@@ -1,8 +1,8 @@
 +++
 layout = "pic-right"
-order = 14
+order = 15
 picture = "/uploads/IMG_1829_bf.JPG"
-title = "14 KTI"
+title = "15 KTI"
 type = "picarticle"
 
 +++
