@@ -1,6 +1,6 @@
 +++
 identifier = "teichfolie"
-order = 10
+order = 0
 picture = "/uploads/screenshot-2020-12-07-at-22-03-35.png"
 price = 60
 title = "Teichfolie"
