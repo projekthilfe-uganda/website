@@ -1,5 +1,5 @@
 +++
-date = 2020-12-14T23:00:00Z
+date = 2020-12-12T23:00:00Z
 order = 3
 subtitle = ""
 title = "Rundbrief Dezember 2020"
