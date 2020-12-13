@@ -1,6 +1,6 @@
 +++
 identifier = "abdeckung"
-order = 30
+order = 5
 picture = "/uploads/abdeckung-fur-wasserreservoir-1.jpg"
 price = 45
 title = "Abdeckung"
