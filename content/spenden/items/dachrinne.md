@@ -1,7 +1,7 @@
 +++
 identifier = "dachrinne"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-22-21-15.png"
+order = 80
+picture = "/uploads/ausgabe-von-dachrinnen.jpg"
 price = 35
 title = "Dachrinne"
 type = "shopitem"
