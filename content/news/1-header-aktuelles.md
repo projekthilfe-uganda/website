@@ -1,11 +1,13 @@
 +++
-date = ""
+date = 2020-12-14T23:00:00Z
 order = 3
-subtitle = "Rundbrief Projekthilfe Uganda"
-title = "Rundbrief Projekthilfe Uganda"
+subtitle = ""
+title = "Rundbrief Dezember 2020"
 type = ""
 
 +++
-PDF Rundbrief
+[PDF Rundbrief Dez. 2020]()
 
 Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen.
+
+[Kontakt](verein/kontakt "Kontaktinformationen")
