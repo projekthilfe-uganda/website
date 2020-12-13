@@ -1,7 +1,7 @@
 +++
 identifier = "abdeckung"
-order = 0
-picture = "/uploads/screenshot-2020-12-07-at-22-16-31.png"
+order = 30
+picture = "/uploads/abdeckung-fur-wasserreservoir-1.jpg"
 price = 45
 title = "Abdeckung"
 type = "shopitem"
