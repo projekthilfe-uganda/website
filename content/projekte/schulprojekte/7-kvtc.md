@@ -10,6 +10,6 @@ type = "picarticle"
 
 In der Berufsschule oben auf dem Hügel beim Ortszentrum werden Berufsausbildungen angeboten, die praktische und schulische Einheiten kombinieren.
 
-8 Berufsausbildungen sind inzwischen möglich.
+9 Berufsausbildungen sind inzwischen möglich.
 
 [Mehr zu den Berufsausbildungen](/projekte/berufsausbildungen "Berufsausbildungen")
