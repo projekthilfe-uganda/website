@@ -1,10 +1,11 @@
 +++
 date = ""
 order = 3
-subtitle = "Newsletter Projekthilfe Uganda"
-title = "Newsletter Projekthilfe Uganda"
+subtitle = "Rundbrief Projekthilfe Uganda"
+title = "Rundbrief Projekthilfe Uganda"
+type = ""
 
 +++
-PDF Newsletter
+PDF Rundbrief
 
-Wollen Sie sich für künftige Newsletter anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen. 
+Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen.
