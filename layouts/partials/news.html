@@ -1,5 +1,8 @@
 <div class="{{.Type}} container mt-5 mb-5">
     <h3>{{.Title}}</h3>
+    {{ if .Params.subtitle }}
+        <h5>{{.Params.subtitle}}</h5>
+    {{ end }}
     <h6>{{.Date.Format "2. Jan 2006"}}</h6>
     <div class="content">
         {{.Content}}
