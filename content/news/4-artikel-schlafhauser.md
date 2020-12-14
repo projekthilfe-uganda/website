@@ -1,16 +1,21 @@
 +++
 date = ""
 order = 4
-subtitle = "Schlafhäuser für Mädchen"
-title = "Schlafhäuser für Mädchen"
+subtitle = "Ein Projekt, das Kinder schützt und für gute Abschlüsse sorgt."
+title = "Schlafhäuser"
+type = ""
 
 +++
-Aktuell gehen wir u.a. das Projekt "Schlafhäuser für schutzbedürftige Mädchen" an. Es gibt Waisen, die niemanden haben oder nur eine selbst Pflege bedürftige Oma. Sie werden in den Ferien an größere Bauern gegeben, wo sie arbeiten und dafür Essen kriegen. Ein Teil dieser Mädchen wird sehr ausgenutzt, erfährt Gewalt und einige werden sexuell missbraucht. Die Schulleiter haben sich nun bereiterklärt, diese Mädchen in der Schule zu lassen, wenn sie ein Schlafhaus bekommen könnten und eine geschulte Frau, die die Mädchen betreut. 
+Viele Kinder haben niemanden mehr und werden zu Tanten oder fremden Leuten gegeben. Sie müssen für ihr Essen arbeiten und bleiben deshalb oft der Schule fern. Das betrifft auch Kinder, deren Väter aus Hoffnungslosigkeit der Trunksucht verfallen sind und gewalttätig werden. Da ihnen niemand Schutz bietet, werden sie ausgenutzt, werden geschlagen und Mädchen laufen Gefahr, sexuell missbraucht zu werden.
 
-Dies wollen wir nun für 4 Schulen bewerkstelligen. Wir möchten jeweils Platz für 100 Mädchen haben, sodass auch die Mädchen der Abschlussklassen dort schlafen können. So können sie – wie es alle guten Schulen anbieten – am extra Früh- und Spätunterricht teilnehmen, um gute Abschlüsse zu erreichen.
+Die Rektoren wünschten sich deshalb, diese Kinder in Schlafhäusern unterzubringen und auch in den Ferien in der Schule behalten zu können. Krankenschwestern halten zwar Vorträge zur Entstehung von Aids aber einige Männer glauben den Medizinfrauen der alten Naturreligion, dass Sex mit einer Jungfrau Aids zum Verschwinden bringe. Aber nicht nur diese besonders gefährdeten Kinder, von denen jede Schule 20 – 30 hat, sollten in der Schule bleiben können. Es betrifft auch alle Kinder der Abschlussjahrgänge. Die Schulwege sind oft 8 km lang, oft auch länger, gehen auf kleinen Pfaden durch Äcker und Sümpfe und sind bei Nacht ganz ohne Beleuchtung gefährlich. Viele Kinder bleiben aus Angst lieber zuhause, als dass sie am angebotenen Früh- und Spätunterricht teilnehmen. Jede gute Schule bietet das an, damit möglichst viele Schüler hervorragend abschließen zu können. Das nützt dann nicht nur den Kindern, sondern auch den Schulen, die damit mehr Ansehen bekommen und als Folge davon auch mehr Kinder reicherer Eltern. So ein Schlafhaus entscheidet aber vor allem über den Schutz der Kinder und ermöglicht bessere Prüfungsergebnisse und damit bessere Berufsaussichten. Die Rektoren haben bereits Frauen bestimmt und auf eine Schulung geschickt, wo sie lernen, mit traumatisierten Kindern umzugehen, mit ihnen auf dem Feld und in der Küche zu arbeiten und ihnen Handarbeit und das traditionelle Kunsthandwerk zu lehren.
 
-Das Mädchenschlafhaus mit Waschplatz für St. John ist fertig. Das 2. Haus für die Prim.-Schule St. Leonard wurde gerade begonnen. Für das zweite Haus fehlt noch die Finanzierung der 50 Stockbetten (je 65,- €) und die Holzmöbel für den Aufenthaltsraum (1300,- €). Beides kann in unserer Gewerbeschule hergestellt werden.
+Durch großzügige Spenden konnte schon viel erreicht werden aber das Projekt braucht noch Unterstützung!
 
-Und dann hoffen wir sehr auf die Unterstützung für die restlichen beiden Häuser, damit alle schutzbedürftigen Mädchen solange in Sicherheit sind, bis sie die Schulbildung oder Ausbildung beendet haben.
+Und so weit sind wir:
 
-Für diese Mädchen würden wir jeweils Paten suchen, um die Finanzierung sicherzustellen.
+* Das Mädchenschlafhaus für die St. John Prim.- School ist fertig und das Schlafhaus für Jungs ist finanziert.
+* Das Mädchenschlafhaus für die St. Leonard Prim.-School ist fertig und das für Jungs ist finanziert und wird jetzt begonnen.
+* Die Hl. Family Sec,- School braucht nur ein Mädchenschlafhaus, das finanziert ist und gerade begonnen wird.
+* Die St. Charles Prim.-School braucht noch Hilfe. Hier können alte Gebäude als Schlafhaus für Mädchen und Jungen renoviert und umgebaut werden. Es fehlen noch 10000.- €.
+* Auch die St. Kizito Prim.-School braucht noch ein Schlafhaus.
