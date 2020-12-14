@@ -3,6 +3,10 @@ order = 20
 title = "Bildergalerie"
 type = "gallery"
 [[pictures]]
+alt = "Projekthilfe Uganda Christel Henecka Patenschaften"
+picture = "/uploads/kinderbriefe-eintueten_20201212_111148-min.jpg"
+title = "Kinderbriefe an die Paten versenden"
+[[pictures]]
 alt = "Das erste Optiker-Haus in Uganda in Kyamulibwa"
 picture = "/uploads/optikerhaus_untersuchung_img-20191126-wa0016.jpg"
 title = "Optiker-Haus in Kyamulibwa"
