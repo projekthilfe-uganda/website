@@ -6,7 +6,7 @@ title = "Rundbrief Dezember 2020"
 type = ""
 
 +++
-[PDF Rundbrief Dez. 2020]()
+[PDF Rundbrief Dez. 2020](/uploads/rundbrief_2020-12.pdf "Rundbrief Dezember 2020")
 
 Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen.
 
