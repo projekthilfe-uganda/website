@@ -3,6 +3,10 @@ order = 20
 title = "Bildergalerie"
 type = "gallery"
 [[pictures]]
+alt = "Busch in Kyamulibwa in Uganda"
+picture = "/uploads/IMG_1373_bf.JPG"
+title = "Landschaft in der Region Kyamulibwa"
+[[pictures]]
 alt = "Gesundheitszentrum Kyamulibwa in Uganda"
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
 title = "Gesundheitszentrum: Gebäude mit 3 Stationen"
