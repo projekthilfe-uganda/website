@@ -23,7 +23,7 @@ fields:
 - name: picture
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Picture
 - name: price
   type: number
