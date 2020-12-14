@@ -1,0 +1,12 @@
+{{define "main"}}
+    {{range sort .Pages ".Params.order" "asc" }}
+        {{if ne .Type "news"}}
+            {{- partial "types.html" . -}}
+        {{end}}
+    {{end}}
+    {{range sort .Pages ".Params.date" "desc" }}
+        {{if eq .Type "news"}}
+            {{- partial "news.html" . -}}
+        {{end}}
+    {{end}}
+{{end}}
