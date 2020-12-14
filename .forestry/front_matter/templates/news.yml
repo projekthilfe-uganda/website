@@ -20,13 +20,6 @@ fields:
 - type: text
   name: subtitle
   label: Subtitle
-- type: number
-  name: order
-  label: order
-  description: Sort order on page
-  config:
-    step: '1'
-    required: true
 pages:
 - content/news/01-22-november-2016.md
 - content/news/1-header-aktuelles.md
