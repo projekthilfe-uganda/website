@@ -1,4 +1,5 @@
 +++
+draft = true
 h1 = ""
 h2 = "Sie fühlen sich motiviert ..."
 h3 = "Mitmachen oder spenden"
