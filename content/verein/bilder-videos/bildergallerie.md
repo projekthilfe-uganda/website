@@ -5,7 +5,7 @@ type = "gallery"
 [[pictures]]
 alt = "Gesundheitszentrum Kyamulibwa in Uganda"
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
-title = "Gesundheitszentrum mit 3 neuen Räumen"
+title = "Gesundheitszentrum: Gebäude mit 3 Stationen"
 [[pictures]]
 alt = "Projekthilfe Uganda Christel Henecka Patenschaften"
 picture = "/uploads/kinderbriefe-eintueten_20201212_111148-min.jpg"
