@@ -16,4 +16,4 @@ Nachhaltige Entwicklung für die Region Kyamulibwa durch ...
 
 Die Projekte werden alle so gestaltet, dass sie sich einmal selbst tragen und die Region eine nachhaltige Entwicklung erfährt. Das möchten wir langfristig erreichen – mit Ihrer Hilfe.
 
-[Spenden]()
+[Spenden](/spenden/)
