@@ -5,7 +5,7 @@ order = 1
 type = "picslider"
 [[slides]]
 picture = "/uploads/dscn3603_corona.JPG"
-text = ""
+text = "Corona-Hilfe Maismehl für die Ärmsten"
 [[slides]]
 picture = "/uploads/IMG_2301_bf.JPG"
 text = "Not erkennen und helfen"
