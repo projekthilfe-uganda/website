@@ -1,5 +1,5 @@
 +++
-date = 2020-05-14T22:00:00Z
+date = 2020-06-30T22:00:00Z
 subtitle = "Einsatz der Patengelder in den Zeiten der Schulschließungen durch Corona von April 2020 an."
 title = "Patengelder während Corona"
 
