@@ -1,7 +1,7 @@
 +++
 layout = "pic-left"
 order = 40
-picture = ""
+picture = "/uploads/vermarktung-von-maismehl.jpg"
 title = "40 Beispiele für Nothilfe"
 type = "picarticle"
 
