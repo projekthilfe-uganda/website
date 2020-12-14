@@ -3,6 +3,10 @@ order = 20
 title = "Bildergalerie"
 type = "gallery"
 [[pictures]]
+alt = "Corona-Hilfe Maismehl in Kyamulibwa Uganda"
+picture = "/uploads/dscn3704corona_hilfe-patenkinder.JPG"
+title = "Corona-Hilfe Maismehl"
+[[pictures]]
 alt = "Gesundheitszentrum Kyamulibwa in Uganda"
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
 title = "Gesundheitszentrum: Gebäude mit 3 Stationen"
