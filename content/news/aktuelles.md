@@ -12,4 +12,4 @@ In unseren Rundbriefen informieren wir mehrmals im Jahr über laufende Projekte 
 
 Gerne können Sie sich natürlich auch an uns wenden, falls Sie Fragen zu aktuellen Entwicklungen und Projekten in Uganda haben.
 
-[Kontakt](unser-verein/kontakt "Kontaktinformationen")
+[Kontakt](/verein/kontakt "Kontaktinformationen")
