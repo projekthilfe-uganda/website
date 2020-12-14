@@ -4,7 +4,7 @@ title = "3 Teaser-Galerie So können Sie helfen"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_0917_bf.JPG"
-text = "Anderen etwas abgeben - und mit einer Spende den Menschen in Uganda helfen. Auch für bestimmte Zwecke.\n\n[Zu den Spende-Möglichkeiten](./spenden \"Link Spenden\")"
+text = "Anderen etwas abgeben - und mit einer Spende den Menschen in Uganda helfen. Auch für bestimmte Zwecke.\n\n[Zu den Spende-Möglichkeiten](/spenden \"Link Spenden\")"
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/Tisch.jpg"
