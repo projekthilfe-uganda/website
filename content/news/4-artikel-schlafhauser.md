@@ -19,5 +19,3 @@ Und so weit sind wir:
 * Die Hl. Family Sec,- School braucht nur ein Mädchenschlafhaus, das finanziert ist und gerade begonnen wird.
 * Die St. Charles Prim.-School braucht noch Hilfe. Hier können alte Gebäude als Schlafhaus für Mädchen und Jungen renoviert und umgebaut werden. Es fehlen noch 10000.- €.
 * Auch die St. Kizito Prim.-School braucht noch ein Schlafhaus.
-
-![Mädchenschlafhaus der St. Leonard Prim.-Schule](/uploads/madchenschlafhaus-13-12-20.jpg "Mädchenschlafhaus der St. Leonard Prim.-Schule")
