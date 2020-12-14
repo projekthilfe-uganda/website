@@ -6,8 +6,8 @@ title = "Rundbrief Dezember 2020"
 type = ""
 
 +++
+Die Folgen von Corona treffen Uganda hart. Betriebe und Geschäfte waren einige Monate geschlossen, Arbeiter entlassen und öffentliche Verkehrsmittel still gelegt. Lebensmittel werden knapp, die Preise steigen: **"Wir haben keine Angst vor Corona aber große Angst vor dem Hunger!"**  
+  
 [PDF Rundbrief Dez. 2020](/uploads/rundbrief_2020-12.pdf "Rundbrief Dezember 2020")
 
-Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen.
-
-[Kontakt](verein/kontakt "Kontaktinformationen")
+Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen: [Kontakt](verein/kontakt "Kontaktinformationen")
