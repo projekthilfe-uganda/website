@@ -12,7 +12,7 @@ text = "Mehrfache Auszeichnungen belegen unsere wertvolle ehrenamtliche Arbeit f
 title = "Auszeichnungen"
 [[teaser]]
 picture = "/uploads/IMG_2312_bf.JPG"
-text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden.\n\n[Spenden-Möglichkeiten](spenden \"Spenden\")"
+text = "Helfen Sie den Menschen in Uganda mit einer Spende - zweckgebunden oder zweckungebunden.\n\n[Spenden-Möglichkeiten](/spenden \"Spenden\")"
 title = "Spenden"
 [[teaser]]
 picture = "/uploads/optikerhaus_constanze-mit-elektriker-george-bei-der-ausgestaltung-des-optikhauses.jpg"
