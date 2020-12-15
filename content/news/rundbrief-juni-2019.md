@@ -5,7 +5,7 @@ subtitle = ""
 title = "Rundbrief Juni 2019"
 
 +++
-Die Ärmsten der Alten freuen sich über ein Zuhause und es gibt Fortschritte in der Landwirtschaft die Mut machen.
+Die Ärmsten der Alten freuen sich über ein Zuhause, es gibt Fortschritte in der Landwirtschaft die Mut machen und das Agrarzentrum ist fast fertig gebaut. Dort gibt es Bauernläden, Hühneraufzucht, Maismühle, Schulungsraum und Tierfutterherstellung.
 
 [Rundbrief Juni 2019](/uploads/rundbrief_2019-06.pdf)
 
