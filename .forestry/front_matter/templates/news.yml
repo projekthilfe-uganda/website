@@ -8,6 +8,11 @@ fields:
   label: Type
   hidden: true
   default: news
+- name: internal_name
+  type: text
+  config:
+    required: false
+  label: Internal Name
 - type: text
   name: title
   label: Title
