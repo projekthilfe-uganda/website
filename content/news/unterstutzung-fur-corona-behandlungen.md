@@ -1,7 +1,9 @@
 +++
 date = 2020-07-14T22:00:00Z
+internal_name = "4 Unterstützung für Corona-Behandlungen"
 subtitle = "Unterstützung des Krankenhauses zur Behandlung der Ärmsten."
 title = "Unterstützung für Corona-Behandlungen"
+type = ""
 
 +++
 Das Krankenhaus bekam eine Summe von € 8000 überwiesen.
