@@ -1,6 +1,6 @@
 +++
 date = 2020-07-14T22:00:00Z
-internal_name = "0004 Unterstützung für Corona-Behandlungen"
+internal_name = "0011 Unterstützung für Corona-Behandlungen"
 subtitle = "Unterstützung des Krankenhauses zur Behandlung der Ärmsten."
 title = "Unterstützung für Corona-Behandlungen"
 type = ""
