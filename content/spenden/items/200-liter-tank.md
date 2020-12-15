@@ -1,7 +1,7 @@
 +++
 identifier = "tank200"
 order = 55
-picture = "/uploads/screenshot-2020-12-07-at-22-23-09.png"
+picture = "/uploads/ausgabe-grosse-tanks.jpg"
 price = 20
 title = "200 Liter Tank"
 type = "shopitem"

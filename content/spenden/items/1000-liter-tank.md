@@ -1,7 +1,7 @@
 +++
 identifier = "tank1000"
 order = 60
-picture = "/uploads/ausgabe-grosse-tanks.jpg"
+picture = "/uploads/1000l-tank.jpg"
 price = 80
 title = "1000 Liter Tank"
 type = "shopitem"
