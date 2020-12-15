@@ -1,7 +1,7 @@
 +++
 identifier = "schwein"
 order = -47
-picture = "/uploads/schwein.jpg"
+picture = "/uploads/schwein2.jpg"
 price = 30
 title = "Schwein"
 type = "shopitem"
