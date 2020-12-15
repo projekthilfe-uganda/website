@@ -1,7 +1,9 @@
 +++
 date = 2020-07-14T22:00:00Z
+internal_name = "0005 Corona Hilfe für die Ärmsten"
 subtitle = "Verteilung von Maismehl, Seife und Salz an die Ärmsten des Gebiets Kyamulibwa im Juli 2020."
 title = "Corona Hilfe für die Ärmsten"
+type = ""
 
 +++
 Als Antwort auf die auch Uganda betreffende Corona-Krise unternahmen wir im Juli dieses Jahres, nachdem wir Spenden dafür gesammelt hatten, eine große Hilfsaktion im Umfang von € 8000. Sie kam den Ärmsten in einem Gebiet von 20 x 30 km zugute. Da in Uganda viele Menschen seit April 2020 - infolge des strengen Lockdowns mit Arbeitsverboten und Ausgangssperren - nicht mehr genug zu essen hatten, verteilten wir Lieferungen von Maismehl, aber auch von Seife und Salz an die Bedürftigsten. Die Betriebe und Geschäfte waren über 4 Monate geschlossen, alle Arbeiter entlassen. Finanzielle Hilfen gab es für niemanden. Die Einstellung aller öffentlichen Verkehrsmittel hatte ein Übriges zur Verschärfung der Nahrungsknappheit getan und hatten steigende Lebensmittelpreise zur Folge. Auch das Fahren mit Motorradtaxis war verboten, sodass die Armen nicht mehr ins Krankenhaus kommen konnten und viele starben.
