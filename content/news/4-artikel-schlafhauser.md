@@ -1,6 +1,6 @@
 +++
 date = 2020-12-07T23:00:00Z
-internal_name = "0000 Schlafhäuser"
+internal_name = "0007 Schlafhäuser"
 order = 4
 subtitle = "Ein Projekt, das Kinder schützt und für gute Abschlüsse sorgt."
 title = "Schlafhäuser"
