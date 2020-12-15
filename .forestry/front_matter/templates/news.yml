@@ -1,7 +1,7 @@
 ---
 label: news
 hide_body: false
-display_field: title
+display_field: internal_name
 fields:
 - type: text
   name: type
