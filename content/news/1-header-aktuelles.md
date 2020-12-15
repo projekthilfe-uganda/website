@@ -1,5 +1,6 @@
 +++
 date = 2020-12-12T23:00:00Z
+internal_name = "0008 Rundbrief Dezember 2020"
 order = 3
 subtitle = ""
 title = "Rundbrief Dezember 2020"
