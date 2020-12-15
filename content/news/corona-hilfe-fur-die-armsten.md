@@ -1,6 +1,6 @@
 +++
 date = 2020-07-14T22:00:00Z
-internal_name = "0012 Corona Hilfe für die Ärmsten"
+internal_name = "0005 Corona Hilfe für die Ärmsten"
 subtitle = "Verteilung von Maismehl, Seife und Salz an die Ärmsten des Gebiets Kyamulibwa im Juli 2020."
 title = "Corona Hilfe für die Ärmsten"
 type = ""
