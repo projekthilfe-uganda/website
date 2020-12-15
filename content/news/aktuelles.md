@@ -2,6 +2,7 @@
 date = ""
 h1 = "Aktuelles"
 h3 = "Hier gibt es immer was Neues ..."
+internal_name = "Aktuelles Intro"
 order = -1
 subtitle = "... von der Projekthilfe Uganda e.V."
 title = "Aktuelles"
