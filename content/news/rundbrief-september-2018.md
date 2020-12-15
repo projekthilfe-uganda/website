@@ -1,6 +1,6 @@
 +++
 date = 2018-09-14T22:00:00Z
-internal_name = "0002 Rundbrief September 2018"
+internal_name = "0002a Rundbrief September 2018"
 subtitle = ""
 title = "Rundbrief September 2018"
 type = ""
