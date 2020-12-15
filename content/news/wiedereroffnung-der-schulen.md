@@ -1,6 +1,6 @@
 +++
 date = 2020-09-30T22:00:00Z
-internal_name = "6 Wiedereröffnung der Schulen"
+internal_name = "0006 Wiedereröffnung der Schulen"
 subtitle = ""
 title = "Wiedereröffnung der Schulen"
 type = ""
