@@ -4,7 +4,7 @@ title = "60 Teaser-Block Unser Verein"
 type = "teaserblock"
 [[teaser]]
 picture = "/uploads/IMG_2224_bf.JPG"
-text = "Wir freuen uns über Ihr Interesse. Nehmen Sie gerne mit unsem Verein Kontakt auf.\n\n[Zum Kontakt](verein/kontakt \"Kontakt\")"
+text = "Wir freuen uns über Ihr Interesse. Nehmen Sie gerne mit unsem Verein Kontakt auf.\n\n[Zum Kontakt](/verein/kontakt \"Kontakt\")"
 title = "Kontakt"
 [[teaser]]
 picture = "/uploads/Bundesverdienstkreuz 2009.jpg"

@@ -14,4 +14,4 @@ type = "article"
 
 [Wie Sie noch helfen können](/helfen)
 
-[Zum Kontakt](verein/kontakt "Kontakt")
+[Zum Kontakt](/verein/kontakt "Kontakt")

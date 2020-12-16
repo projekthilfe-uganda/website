@@ -11,4 +11,4 @@ Die Folgen von Corona treffen Uganda hart. Betriebe und Geschäfte waren einige 
 
 [PDF Rundbrief Dezember 2020](/uploads/rundbrief_2020-12.pdf)
 
-Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen: [Kontakt](verein/kontakt "Kontaktinformationen")
+Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie uns mit Ihrem Anliegen: [Kontakt](/verein/kontakt "Kontaktinformationen")
