@@ -15,7 +15,7 @@ E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject
 **Christel Henecka**  
 1\. Vorsitzende  
 Tel.: 07257 1482  
-E-Mail: ChristelHenecka@gmx.de
+E-Mail: [ChristelHenecka@gmx.de](mailto:ChristelHenecka@gmx.de)
 
 **Constanze Sweeney und Richard Bender**
 
