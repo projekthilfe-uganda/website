@@ -8,12 +8,13 @@ type = "picarticle"
 +++
 ## Ausbildungsberufe am KTI
 
-* Schreiner
-* Maurer
-* Schlosser
-* Schneiderinnen
-* Köchinnen
-* Frisörinnen
-* Elektriker
-* Buchhalter
-* Sekretärin
+* SchreinerIn
+* MaurerIn
+* SchlosserIn
+* SchneiderIn
+* Koch/Köchin
+* FrisörIn
+* ElektrikerIn
+* BuchhalterIn
+* SekretärIn
+* OptikerIn
