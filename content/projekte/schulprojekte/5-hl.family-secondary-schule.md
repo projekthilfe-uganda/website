@@ -12,4 +12,4 @@ Holy Family ist eine weiterführende Schule, in der Schüler von Klasse 8 bis 13
 
 Nach der 11. Klasse ist die Mittlere Reife (O-Level) möglich. Mit Abschluss der 13. Klasse erreichen die Schüler das Abitur (A-Level).
 
-Mit der mittleren Reife der Hl. Family Secondary School können Schüler eine gehobene Lehre in der Gewerbeschule beginnen die mit dem Craft Level endet. Nach dem Abitur bietet die Gewerbeschule die Optikerlehre an. Natürlich wäre mit dem Abitur auch ein Studium an einer Universität möglich, aber dafür fehlen in der Regel die finanziellen Mittel in den Familien.
+Nach der Mittleren Reife können Schüler eine gehobene Lehre in der Gewerbeschule beginnen die mit dem Craft Level endet. Nach dem Abitur bietet die Gewerbeschule die Optikerlehre an. Natürlich wäre mit dem Abitur auch ein Studium an einer Universität möglich, aber dafür fehlen in der Regel die finanziellen Mittel in den Familien.

@@ -13,4 +13,4 @@ Schulen im Busch verdienen oft ihren Namen nicht. Es gibt marode, viel zu kleine
 
 Der Staat finanziert einige Lehrer, aber bei weitem nicht so viele, wie gebraucht werden. Erwirtschaften kann man nichts, da man aus Geldmangel kein profitorientiertes Projekt anlegen kann. Die meisten Kinder schaffen hier keine Abschlussprüfung und können keinen Beruf erlernen. 
 
-Das Image vieler Schulen ist schlecht, weswegen Kinder auch nicht regelmäßig zum Unterricht geschickt werden. Eltern, die es sich leisten können, schickt ihre Kinder lieber weit weg in eine Heimschule und fallen als Spender für die arme Dorfschule aus. Die Schulen wie auch die Kinder können aus eigener Kraft den Teufelskreis der Armut nicht durchbrechen.
+Das Image vieler Schulen ist schlecht, weswegen Kinder auch nicht regelmäßig zum Unterricht geschickt werden. Eltern, die es sich leisten können, schicken ihre Kinder lieber weit weg in eine Heimschule und fallen als Spender für die arme Dorfschule aus. Die Schulen wie auch die Kinder können aus eigener Kraft den Teufelskreis der Armut nicht durchbrechen.
