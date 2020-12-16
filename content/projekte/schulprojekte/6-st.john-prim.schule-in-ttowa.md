@@ -9,3 +9,5 @@ type = "picarticle"
 ## St. John Prim.-Schule in Ttowa
 
 10 Kilometer entfernt in Teilpfarrei von Kyamulibwa liegt die St. John Primary School in Ttowa.
+
+Zusätzlich bietet die Schule 2 Vorschuljahre (baby-class und top-class) an.
