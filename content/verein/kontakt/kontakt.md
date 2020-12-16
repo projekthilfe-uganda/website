@@ -13,13 +13,13 @@ Albrecht-Dürer-Str. 4
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)
 
 **Christel Henecka**  
-1\. Vorsitzende  
+Erste Vorsitzende  
 Tel.: 07257 1482  
 E-Mail: [ChristelHenecka@gmx.de](mailto:ChristelHenecka@gmx.de)
 
 **Constanze Sweeney und Richard Bender**
 
-2. Vorsitzende
+Zweite Vorsitzende
 
 Tel. 07254 5850
 
