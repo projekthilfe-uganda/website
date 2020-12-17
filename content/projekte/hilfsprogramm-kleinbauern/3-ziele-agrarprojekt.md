@@ -13,4 +13,4 @@ Ziel ist die Erhöhung des Lebensstandards ...
 * durch Schulung der Bauern einzeln und in Gruppen
 * durch den Aufbau eines Agrarzentrums mit Maismühle, Hühneraufzucht und Tierfutterherstellung
 * durch Entwicklung eines Genossenschaftssystems mit Ankauf und Vermarktung der Ernte
-* durch erlernen des Sparens und Wirtschaften mit Krediten
+* durch Erlernen des Sparens und Wirtschaftens mit Krediten
