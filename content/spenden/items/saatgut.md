@@ -7,4 +7,4 @@ title = "Saatgut"
 type = "shopitem"
 
 +++
-TODO: Saatgut Beschreibung und Bild einfügen
+Das Saatgut ist nicht gepanscht und liefert gute Erträge.
