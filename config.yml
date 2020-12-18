@@ -16,6 +16,11 @@ outputs:
     - html
     - json
 
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 1.0
+
 menu:
   main:
     - identifier: home
