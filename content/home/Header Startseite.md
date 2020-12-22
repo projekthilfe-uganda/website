@@ -5,11 +5,11 @@ name = "01 Headerbilder Startseite"
 order = 1
 type = "picslider"
 [[slides]]
-picture = "/uploads/uganda-st-kizito.jpg"
-text = "Kinder aus der St. Kizito Primary School"
-[[slides]]
 picture = "/uploads/child-251920_1920.jpg"
 text = "Nachhaltige Entwicklung in Uganda"
+[[slides]]
+picture = "/uploads/uganda-st-kizito.jpg"
+text = "Kinder aus der St. Kizito Primary School"
 [[slides]]
 picture = "/uploads/IMG_1640_bf.JPG"
 text = "Nachhaltige Entwicklung in Uganda durch Schulprojekte"
