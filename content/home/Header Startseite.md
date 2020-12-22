@@ -6,7 +6,7 @@ order = 1
 type = "picslider"
 [[slides]]
 picture = "/uploads/uganda-st-kizito.jpg"
-text = ""
+text = "Kinder aus der St. Kizito Primary School"
 [[slides]]
 picture = "/uploads/child-251920_1920.jpg"
 text = "Nachhaltige Entwicklung in Uganda"
