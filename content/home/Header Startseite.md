@@ -1,7 +1,7 @@
 +++
 date = "2019-03-17T12:55:37+00:00"
 height = ""
-name = "1 Headerbilder Startseite"
+name = "01 Headerbilder Startseite"
 order = 1
 type = "picslider"
 [[slides]]

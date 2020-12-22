@@ -4,7 +4,7 @@ h1 = "Projekthilfe Uganda"
 h2 = "Langfristige Hilfe in der Region Kyambulibwa in Uganda"
 h3 = ""
 order = 2
-title = "2 Artikel Projekthilfe Uganda"
+title = "02 Artikel Projekthilfe Uganda"
 type = "article"
 
 +++
