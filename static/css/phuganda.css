@@ -756,12 +756,24 @@ ul.nav li:hover ul.dropdown-menu {
 *** shop
 ***************************/
 
+#shop {
+    width: 90%;
+}
+
 #shop .col-4 {
     min-width: 360px;
 }
 
 #shop img {
     max-width: 100%;
+}
+
+#shop .sum span {
+    width: 100px;
+}
+
+#shop .pay {
+    width: 100%;
 }
 
 /***************************

@@ -40,7 +40,7 @@
         }).render('#paypal-button-container');
     </script>
 
-    <div id="shop" class="container" style="width: 90%">
+    <div id="shop" class="container">
         <div class="row mt-5">
             <div class="col-8">
                 <div class="container">
@@ -72,9 +72,9 @@
                             </tbody>
                         </table>
                     </div>
-                    <div class="card-body text-right">
+                    <div class="sum card-body text-right">
                         <p class="mt-2">Summe:
-                            <span class="d-inline-block text-right" style="width: 100px">[[ cartSum ]]&nbsp;€</span>
+                            <span class="d-inline-block text-right">[[ cartSum ]]&nbsp;€</span>
                         </p>
                         <btn cls="w-45 float-left"
                              @click="clear">Leeren
@@ -83,7 +83,7 @@
                              @click="pay">Spenden
                         </btn>
                     </div>
-                    <div class="card-body" v-show="showPay" style="width:100%">
+                    <div class="pay card-body" v-show="showPay">
                         <div id="paypal-button-container"></div>
 
                         <br/>
