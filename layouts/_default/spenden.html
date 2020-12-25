@@ -1,45 +1,4 @@
 {{define "main"}}
-    <script src="https://www.paypal.com/sdk/js?client-id=AXtgHGiljcnrNzn1-Ck0YQHTS-3vHkUVl4EN1Jz06RS9uVVSvwxhSHYPghju87gPofMG_f5FuERnEkeM&currency=EUR&integration-date=2020-12-01"></script>
-    <script>
-        // This function displays Smart Payment Buttons on your web page.
-        paypal.Buttons({
-            style: {
-                layout:  'vertical',
-                color:   'blue',
-                shape:   'rect',
-            },
-            createOrder: function(data, actions) {
-                const cartItems = loadCartItems();
-                const shopItems = loadShopItems();
-                const sum = cartSum(cartItems, shopItems);
-                const items = paypalItems(cartItems, shopItems);
-
-                return actions.order.create({
-                    purchase_units: [{
-                        description: "Spende an Projekthilfe Uganda e.V.",
-                        amount: {
-                            value: sum,
-                            currency_code: "EUR",
-                            breakdown: {
-                                item_total: {
-                                    currency_code: "EUR",
-                                    value: sum,
-                                },
-                            }
-                        },
-                        items: items,
-                    }]
-                });
-            },
-            onApprove: function(data, actions) {
-                return actions.order.capture().then(function(details) {
-                    // details.payer.name.given_name
-                    alert('Vielen Dank für Ihre Spende!');
-                });
-            }
-        }).render('#paypal-button-container');
-    </script>
-
     <div class="container">
         <div class="content">
             <div class="row mt-5">
@@ -53,9 +12,9 @@
     </div>
 
     <div id="shop">
-        <div class="container">
+        <div class="container card">
             <div class="content">
-                <div class="row mt-5">
+                <div class="row">
                     {{ range sort .Pages "Params.order" }}
                         {{if eq .Type "shopitem"}}
                             {{- partial "types.html" . -}}
@@ -65,7 +24,7 @@
             </div>
         </div>
 
-        <div class="cart pt-5">
+        <div class="cart">
             <div class="col-4 p">
                 <div id="cart" class="card">
                     <div class="card-body">
@@ -91,18 +50,11 @@
                         <btn cls="w-45 float-left"
                              @click="clear">Leeren
                         </btn>
-                        <btn cls="w-45" primary
-                             @click="pay">Spenden
-                        </btn>
-                    </div>
-                    <div class="pay card-body" v-show="showPay">
-                        <div id="paypal-button-container"></div>
-
-                        <br/>
-                        oder überweisen Sie den ausgewählten Betrag auf das folgende Konto:<br/>
-                        <br/>
-                        IBAN:<br/><span class="text-primary">DE57 6606 1724 0023 0108 01</span><br/>
-                            BIC:<br/><span class="text-primary">GENODE61WGA</span>
+                        <form action="/cart/">
+                             <button class="btn btn-primary w-45" type="submit">
+                                 Spenden
+                             </button>
+                        </form>
                     </div>
                 </div>
             </div>

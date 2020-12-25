@@ -150,7 +150,6 @@ let shop = new Vue({
     data: {
         cartItems: {},
         shopItems: {},
-        showPay: false,
     },
     created: function () {
         this.cartItems = this.load();
@@ -177,11 +176,7 @@ let shop = new Vue({
         },
         clear: function () {
             this.cartItems = {};
-            this.showPay = false;
             this.save()
-        },
-        pay: function () {
-            this.showPay = true;
         },
 
         fillShopItems: function (data) {

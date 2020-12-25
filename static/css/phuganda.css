@@ -778,11 +778,22 @@ ul.nav li:hover ul.dropdown-menu {
     #shop > .container {
         overflow-y: scroll;
         height: 1000px;
+
     }
 
     #shop .cart {
         width: 350px;
     }
+    #shop.cartversion .cart {
+        width: 100%;
+    }
+    #shop.cartversion .col-4 {
+        min-width: 500px;
+    }
+}
+
+.payment {
+    min-width: 380px;
 }
 
 #shop .col-4 {
