@@ -757,7 +757,24 @@ ul.nav li:hover ul.dropdown-menu {
 ***************************/
 
 #shop {
-    width: 90%;
+    /*width: 90%;*/
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+@media (max-width: 575.98px) {
+    #shop {
+        flex-wrap: wrap;
+    }
+}
+
+#shop .cart {
+    width: 350px;
+}
+
+#shop > .container {
+    overflow-y: scroll;
+    height: 1000px;
 }
 
 #shop .col-4 {

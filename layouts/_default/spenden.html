@@ -40,20 +40,32 @@
         }).render('#paypal-button-container');
     </script>
 
-    <div id="shop" class="container">
-        <div class="row mt-5">
-            <div class="col-8">
-                <div class="container">
-                    <div class="row">
-                        {{ range sort .Pages "Params.order" }}
-                            {{if ne .Type "shopitem"}}
-                                {{- partial "types.html" . -}}
-                            {{end}}
+    <div class="container">
+        <div class="content">
+            <div class="row mt-5">
+                {{ range sort .Pages "Params.order" }}
+                    {{if ne .Type "shopitem"}}
+                        {{- partial "types.html" . -}}
+                    {{end}}
+                {{end}}
+            </div>
+        </div>
+    </div>
+
+    <div id="shop">
+        <div class="container">
+            <div class="content">
+                <div class="row mt-5">
+                    {{ range sort .Pages "Params.order" }}
+                        {{if eq .Type "shopitem"}}
+                            {{- partial "types.html" . -}}
                         {{end}}
-                    </div>
+                    {{end}}
                 </div>
             </div>
+        </div>
 
+        <div class="cart pt-5">
             <div class="col-4 p">
                 <div id="cart" class="card">
                     <div class="card-body">
@@ -95,15 +107,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="row mt-5">
-            {{ range sort .Pages "Params.order" }}
-                {{if eq .Type "shopitem"}}
-                    {{- partial "types.html" . -}}
-                {{end}}
-            {{end}}
-        </div>
-
     </div>
 
     <script type="text/x-template" id="btn">
