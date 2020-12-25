@@ -82,6 +82,10 @@ menu:
       url: /projekte/gesundheitsversorgung
       weight: 40
     - parent: projekte
+      name: Wasserversorgung
+      url: /projekte/wasserversorgung
+      weight: 45
+    - parent: projekte
       name: Agrar-Hilfsprogramm für Kleinbauern
       url: /projekte/hilfsprogramm-kleinbauern
       weight: 50
