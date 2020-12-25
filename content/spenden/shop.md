@@ -23,9 +23,9 @@ Projekthilfe Uganda e.V.
 
 Falls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit. Nachfolgend führen wir auf, wie Sie Gutes tun können. Wählen Sie hierzu die Spendenmöglichkeiten hier aus und spenden Sie den automatisch berechneten Endbetrag mittels Paypal an unseren gemeinnützigen Verein. Alternativ überweisen Sie den Betrag an uns per Überweisung mit Angabe der von Ihnen gewünschten Zwecke. 
 
-Falls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: info@projekthilfe-uganda.de
+Falls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spendenquittung&body=)
 
-Sie suchen ein größeres Spenden-Projekt oder würden gerne in Ihrem Umfeld eine Spendenaktion durchführen? Fragen Sie direkt bei uns an. info@projekthilfe-uganda.de
+Sie suchen ein größeres Spenden-Projekt oder würden gerne in Ihrem Umfeld eine Spendenaktion durchführen? Fragen Sie direkt bei uns an. [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spende&body=)
 
 Beispielsweise spendeten in der Vergangenheit Kommunionkinder damit Spielgeräte für Vorschulkinder angeschafft werden konnten.
 Jubilare und Firmen spendeten für Ausstattungen in den Schulen oder einzelne Gebäudeteile.
