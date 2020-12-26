@@ -70,6 +70,10 @@ sections:
   match: "**/*"
   templates:
   - news
+- type: document
+  path: content/spenden/shop.md
+  label: Shop Intro
+  match: "**/*"
 - type: directory
   path: content/spenden/items
   label: Shop Items
