@@ -14,14 +14,14 @@ Bankverbindungen:
 
 Projekthilfe Uganda e.V.
 
-- Sparkasse Kraichgau, IBAN: DE 36 6635 0036 0007 0487 48, BIC: BRUSDE 66 XXX
-- Volksbank Stutensee Hardt, IBAN: DE 57 6606 1724 0023 0108 01, BIC: GENODE 61 WGA
+* Sparkasse Kraichgau, IBAN: DE36 6635 0036 0007 0487 48, BIC: BRUSDE66XXX
+* Volksbank Bruchsal-Bretten, IBAN: DE66 6639 1200 0023 0108 01, BIC: GENODE61BTT
 
 ##### Spenden per Paypal
 
 **Spenden** setzen wir für nachhaltige Projekte ein, die am notwendigsten zu finanzieren sind sowie für vereinzelte Nothilfe-Aktionen in Afrika. Die Vereinsmitglieder arbeiten ehrenamtlich. [Unsere Projektarbeit](/projekte)
 
-Falls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit. Nachfolgend führen wir auf, wie Sie Gutes tun können. Wählen Sie hierzu die Spendenmöglichkeiten hier aus und spenden Sie den automatisch berechneten Endbetrag mittels Paypal an unseren gemeinnützigen Verein. Alternativ überweisen Sie den Betrag an uns per Überweisung mit Angabe der von Ihnen gewünschten Zwecke. 
+Falls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit. Nachfolgend führen wir auf, wie Sie Gutes tun können. Wählen Sie hierzu die Spendenmöglichkeiten hier aus und spenden Sie den automatisch berechneten Endbetrag mittels Paypal an unseren gemeinnützigen Verein. Alternativ überweisen Sie den Betrag an uns per Überweisung mit Angabe der von Ihnen gewünschten Zwecke.
 
 Falls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spendenquittung&body=)
 
