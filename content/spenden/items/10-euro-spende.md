@@ -1,5 +1,4 @@
 +++
-draft = true
 identifier = "10EuroSpende"
 order = -60
 picture = ""
