@@ -1,5 +1,6 @@
 +++
 date = ""
+draft = true
 internal_name = "009 Weihnachten Nov. 2021"
 subtitle = ""
 title = " Großer Erfolg auf dem Kunst- und Hobbymarkt in Bruchsal"
