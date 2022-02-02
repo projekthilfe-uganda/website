@@ -17,8 +17,7 @@ Erste Vorsitzende
 Tel.: 07257 1482  
 E-Mail: [ChristelHenecka@gmx.de](mailto:ChristelHenecka@gmx.de)
 
-**Constanze Sweeney und Richard Bender**  
-Zweite Vorsitzende  
-Tel. 07254 5850  
-E-Mail: [augenoptic.sweeney@gmx.de](mailto:augenoptic.sweeney@gmx.de)  
-E-Mail: [richardbender.19@gmail.com](mailto:richardbender.19@gmail.com)
+**Gerd Groß**  
+Zweiter Vorsitzender  
+Tel. 0171-5684547  
+E-Mail: [gerdgross6591@gmail.com]()
