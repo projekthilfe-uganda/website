@@ -5,7 +5,7 @@ subtitle = ""
 title = "Rundbrief Januar 2022"
 
 +++
-Unser Krankenhaus wächst ! Tolle Fortschritte konnten wir mit unserem Krankenhaus erreichen. Diese und vieles mehr können Sie in unserem aktuellen Rundbrief nachlesen.
+Unser Krankenhaus wächst! Tolle Fortschritte konnten wir mit unserem Krankenhaus erreichen. Dieses und vieles mehr können Sie in unserem aktuellen Rundbrief nachlesen.
 
 [pdf-rundbrief-januar-2022.pdf](/uploads/pdf-rundbrief-januar-2022.pdf "PDF Rundbrief Januar 2022")
 
