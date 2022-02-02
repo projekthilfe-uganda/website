@@ -7,7 +7,9 @@ title = "Kontakt"
 type = "article"
 
 +++
-**Projekthilfe Uganda e.V.**  
+**Projekthilfe Uganda e.V.**
+
+  
 Albrecht-Dürer-Str. 4  
 74464 Bruchsal  
 E-Mail: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Informationen&body=)
