@@ -19,5 +19,5 @@ E-Mail: [ChristelHenecka@gmx.de](mailto:ChristelHenecka@gmx.de)
 
 **Gerd Groß**  
 Zweiter Vorsitzender  
-Tel. 01715684547  
+Tel. 0171 5684547  
 E-Mail: [gerdgross6591@gmail.com](mailto:gerdgross6591@gmail.com)
