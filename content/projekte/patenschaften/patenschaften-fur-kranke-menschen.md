@@ -1,6 +1,6 @@
 +++
-order = 4
-title = "Patenschaften für kranke Menschen"
+order = 3
+title = ""
 type = "gallery"
 [[pictures]]
 alt = ""
