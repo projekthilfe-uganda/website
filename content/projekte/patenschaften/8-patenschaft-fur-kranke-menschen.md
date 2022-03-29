@@ -1,7 +1,7 @@
 +++
 layout = "pic-right"
 order = 3
-picture = "/uploads/jacky_neu.PNG"
+picture = ""
 title = "8 Patenschaft für kranke Menschen"
 type = "picarticle"
 
