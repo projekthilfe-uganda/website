@@ -7,7 +7,7 @@
 Projekthilfe Uganda e.V.  
 Christel Henecka (1. Vors.)  
 Albrecht-Dürer-Str. 4  
-74464 Bruchsal
+76646 Bruchsal
 
 **Kontakt**
 
