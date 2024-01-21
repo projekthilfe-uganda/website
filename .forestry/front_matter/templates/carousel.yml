@@ -22,8 +22,8 @@ fields:
   name: slides
   label: Slides
   config:
-    min: '1'
-    max: '20'
+    min: 1
+    max: 20
   fields:
   - type: file
     name: picture

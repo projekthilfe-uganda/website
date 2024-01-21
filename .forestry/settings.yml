@@ -17,7 +17,6 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - gallery
   - article
   - links
   - picture-teaser
@@ -30,7 +29,6 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - gallery
   - article
   - links
   - picture-teaser
@@ -43,7 +41,6 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - gallery
   - article
   - links
   - picture-teaser
@@ -56,7 +53,6 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - gallery
   - article
   - links
   - picture-teaser

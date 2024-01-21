@@ -32,7 +32,7 @@ fields:
   name: order
   description: Higher numbers for order will be shown after.
   config:
-    step: '1'
+    step: 1
     required: true
 pages:
 - content/helfen/Patenschaft/4-anfrage-patenschaft.md

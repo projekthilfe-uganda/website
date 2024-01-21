@@ -30,9 +30,9 @@ fields:
   description: ''
   default: 0
   config:
-    min: '0'
-    max: '10000'
-    step: ''
+    min: 0
+    max: 10000
+    step:
     required: true
   label: Price
 - name: order
