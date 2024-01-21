@@ -5,8 +5,9 @@ h3 = ""
 order = 2
 title = "2 Einleitung Mitarbeit"
 type = "article"
-
+_template = "article"
 +++
+
 Die Vereinsmitglieder von Projekthilfe Uganda arbeiten ehrenamtlich. Jeder nach seinen Fähigkeiten und Interessen. Ob Buchhaltung, die Erstellung von Rundbriefen, das Packen von Hilfslieferungen oder das Helfen bei Festen zugunsten der Projekthilfe Uganda. Und noch vieles mehr.
 
 Wir freuen uns, falls Sie Interesse haben, sich für die Menschen in Uganda zu engagieren und beim Verein Projekthilfe Uganda mitzumachen.

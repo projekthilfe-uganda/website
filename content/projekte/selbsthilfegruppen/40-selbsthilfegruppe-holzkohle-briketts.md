@@ -5,8 +5,9 @@ h3 = ""
 order = 40
 title = "40 Selbsthilfegruppe Holzkohle-Briketts"
 type = "article"
-
+_template = "article"
 +++
+
 Eine Frauengruppe hat sich zusammengeschlossen – inzwischen ist sie ein Verein – um aus dem Abfall der Köhler kleine Holzkohle-Briketts herzustellen. Zunächst drehten sie die Kohle-Würstchen mit Hand betriebenen kleinen Maschinen. 
 
 Als immer mehr Frauen mitmachen und auch aus Abfallblättern durch Pyrolyse das Ausgangsmaterial herstellen wollten, stellten wir das Projekt Der Stiftung Entwicklungs- Zusammenarbeit Baden Württemberg vor. Mit den bewilligten 5000.- € kauften die Frauen weitere Handmaschinen, einige Tonnen für die Pyrolyse und eine elektrisch betriebene Maschine. 

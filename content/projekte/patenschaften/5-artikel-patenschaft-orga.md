@@ -4,8 +4,9 @@ order = 5
 picture = "/uploads/freude-uber-die-schuhe-aus-dem-container-min.jpg"
 title = "5 Artikel Patenschaft Orga"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Organisation des Patenschaftsprogramms
 
 Wir prüfen vor Ort, ob die Kinder und Auszubildenden aus dem Patenschaftsprogramm in der Schule sind und ob die Daten korrekt erfasst sind - also ob die Kinder auch in die entsprechenden Klassenstufen gehen.

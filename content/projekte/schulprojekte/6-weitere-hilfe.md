@@ -4,8 +4,9 @@ order = 7
 picture = "/uploads/uganda-2014-056.jpg"
 title = "7 Auf Engagement folgt weitere Hilfe"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ### Auf Engagement folgt weitere Hilfe
 
 Sind eigene Aktionen da, werden wir weiter aktiv: bauen eventuell noch einen weiteren Klassenzimmerbau, finanzieren eigenes Land zum Anbau von Mais oder ein anderes gewünschtes Projekt wie z.B. Schweinehaltung. Wir beobachten, wie aktiv Lehrer, Eltern und Schüler eingebunden sind. Mit der Zeit helfen wir, Gewinn bringende Projekt zu erweitern und Schlafhäuser für die Kinder der Abschlussklassen zu bauen.

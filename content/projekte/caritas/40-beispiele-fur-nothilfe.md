@@ -4,8 +4,9 @@ order = 40
 picture = "/uploads/vermarktung-von-maismehl.jpg"
 title = "40 Beispiele für Nothilfe"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Beispiele für unsere Nothilfe
 
 Für beteiligte Kinder können wir hier Paten suchen, aber Selbsthilfeprojekte können von diesen Familien nicht bewerkstelligt werden. So haben wir einen Caritasbeauftragten ausgewählt, einen Mann, der schon jahrelang den Ärmsten hilft, und zwar mit Herzblut, da er selbst einmal als Waise zu dieser Gruppe gehörte. 

@@ -5,8 +5,9 @@ order = 70
 picture = "/uploads/patengeschenke-2018-bettwasche.jpg"
 title = "7 Picture left Patenschaften"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **Waisenkinder & Halbwaisen**
 
 ### **Wenn Großfamilien zerbrechen ...**

@@ -1,6 +1,7 @@
 +++
-
+_template = "page"
 +++
+
 # Impressum
 
 **Verantwortlich für Inhalt und Redaktion:**  

@@ -5,8 +5,9 @@ h3 = ""
 order = 7
 title = "7 Patenschaft übernehmen"
 type = "article"
-
+_template = "article"
 +++
+
 Haben Sie Interesse, ein Kind oder einen jungen Menschen in Uganda mit einer Patenschaft zu fördern?
 
 [So funktioniert das Patenschaftsprogramm](/helfen/patenschaft "Link Patenschaft")

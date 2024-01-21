@@ -5,8 +5,9 @@ order = 50
 picture = "/uploads/IMG_2296_bf.JPG"
 title = "5 Picture Left Armut begegnen"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **Armut begegnen**
 
 ### **Lebensumstände verbessern**

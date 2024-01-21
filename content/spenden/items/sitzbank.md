@@ -6,5 +6,6 @@ picture = "/uploads/Tisch.jpg"
 price = 25
 title = "Sitzbank"
 type = "shopitem"
-
+_template = "shop_item"
 +++
+

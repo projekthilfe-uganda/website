@@ -5,6 +5,7 @@ h3 = ""
 order = 2
 title = "Aktionen rund um Büchenau"
 type = "article"
-
+_template = "article"
 +++
+
 Bei vielen Gelegenheiten bringen wir uns in unserer Gemeinde und in der Umgebung ein und erzielen so Einnahmen, die wir dann für unsere Hilfsprojekte in Kyambulibwa / Uganda einsetzen können.

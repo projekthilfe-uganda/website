@@ -5,8 +5,9 @@ h3 = ""
 order = 1
 title = "Kontakt"
 type = "article"
-
+_template = "article"
 +++
+
 **Projekthilfe Uganda e.V.**
 
 Albrecht-Dürer-Str. 4  

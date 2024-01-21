@@ -4,8 +4,9 @@ order = 3
 picture = "/uploads/Verein_Stand 2015 Kunst & Hobbymarkt Bruchsal.jpg"
 title = "Aktionen Büchenau"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 **Uganda-Fest**  
 Im Oktober feiern wir im Pfarrzentrum Büchenau unser Uganda-Fest
 

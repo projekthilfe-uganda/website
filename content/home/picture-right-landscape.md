@@ -5,8 +5,9 @@ order = 80
 picture = "/uploads/schuler-im-lesesaal.jpg"
 title = "8 Picture Right Schulbildung"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **Schulbildung im Busch**
 
 ### **(K)Eine Chance auf Ausbildung ...**

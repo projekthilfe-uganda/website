@@ -5,8 +5,9 @@ h3 = ""
 order = 5
 title = "5 Artikel Weitere Infos"
 type = "article"
-
+_template = "article"
 +++
+
 Wünschen Sie weitere Informationen zum Patenschaftsprogramm der Projekthilfe?
 
 [Zum Patenschaftsprojekt](/projekte/patenschaften "Projekt Patenschaften")

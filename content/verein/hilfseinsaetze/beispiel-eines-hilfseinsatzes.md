@@ -4,8 +4,9 @@ order = 3
 picture = "/uploads/img_0816_bf-1.JPG"
 title = "3 Artikel Beispiel eines Hilfseinsatzes"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Beispiel-Agenda eines Aufenthaltes von Projekthilfe Uganda
 
 * Besuch der Patenkinder & Kontrolle, ob alle Patenkinder noch zur Schule kommen und die Daten stimmen

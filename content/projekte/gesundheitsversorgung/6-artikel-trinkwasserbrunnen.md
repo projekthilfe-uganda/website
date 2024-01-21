@@ -4,8 +4,9 @@ order = 7
 picture = "/uploads/brunnen_butatwa-namugera-spring-2-min.JPG"
 title = "7 Artikel Trinkwasserbrunnen"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Trinkwasserbrunnen für sauberes Wasser
 
 Noch vor Malaria und Aids stellt kontaminiertes Wasser die Todesursache Nr. 1 in Uganda dar. Auch in der Umgebung von Kyamulibwa beziehen mitunter immer noch Menschen ihr Trinkwasser aus kontaminierten Teichen.

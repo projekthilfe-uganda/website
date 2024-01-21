@@ -4,8 +4,9 @@ order = 12
 picture = "/uploads/teilansicht-min.jpg"
 title = "12  Hl. Family Secondary Schule"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Hl. Family Secondary School
 
 Holy Family ist eine weiterführende Schule, in der Schüler von Klasse 8 bis 13 unterrichtet werden.

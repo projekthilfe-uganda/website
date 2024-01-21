@@ -4,8 +4,9 @@ order = 8
 picture = "/uploads/IMG_2296_bf.JPG"
 title = "8 Artikel Gesundheitliche Aufklärung"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Gesundheitliche Aufklärung
 
 Es sind manchmal schon ganz einfache Dinge, durch die Krankheiten vermieden und Hygiene verbessert werden kann. Präventives Handeln und die Aufmerksamkeit für Ursachen von Krankheiten müssen jedoch erst vermittelt werden.

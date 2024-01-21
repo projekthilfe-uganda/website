@@ -1,12 +1,13 @@
 +++
-date = 2018-02-14T23:00:00Z
+date = 2018-02-14T23:00:00.000Z
 internal_name = "0001 Rundbrief Februar 2018"
 order = "0"
 subtitle = ""
 title = "Rundbrief Februar 2018"
 type = ""
-
+_template = "news"
 +++
+
 Das Weihnachtsfest 2017, Fortschritte beim Bau eines Hauses für arme, hilflose Alte und der jetzt versandfertige Glockenturm: Das und mehr gute Neuigkeiten, sowie jede Menge Möglichkeiten zu unterstützen gibt es im neuen Rundbrief:
 
 [Rundbrief Februar 2018](/uploads/rundbrief_2018-02.pdf)

@@ -4,8 +4,9 @@ order = 3
 picture = "/uploads/Tisch.jpg"
 title = "3 Artikel/Bild Verwaltung der Patenschaften"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Verwaltung der Patenschaften
 
 Der Leiter des Entwicklungsbüros stellt ein:

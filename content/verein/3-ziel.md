@@ -4,8 +4,9 @@ order = 40
 picture = "/uploads/krankenhaus_neues-gebaude-mit-3-stationen.jpg"
 title = "40 Ziele"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Unsere Ziele
 
 Nachhaltige Entwicklung für die Region Kyamulibwa durch ...

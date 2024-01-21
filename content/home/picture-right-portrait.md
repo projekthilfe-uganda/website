@@ -5,8 +5,9 @@ order = 60
 picture = "/uploads/IMG_2312_bf.JPG"
 title = "6 Picture Right Gesundheitsversorgung"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **Unterernährung & Krankheiten**
 
 ### **Gesundheitsversorgung verbessern**

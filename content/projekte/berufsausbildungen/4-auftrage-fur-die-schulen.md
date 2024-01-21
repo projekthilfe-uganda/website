@@ -4,8 +4,9 @@ order = 4
 picture = "/uploads/st-john_herstellung-der-bucherschranke-in-der-gewerbeschule.jpg"
 title = "4 Aufträge für die Schulen"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Aufträge für die Schulen
 
 Die Handwerker, die an der KTI Berufschule ausgebildet werden, können Ihr Fertigkeiten bei der Herstellung von Möbeln und beim Aufbau von neuen Gebäuden der Schulen anwenden.

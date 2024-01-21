@@ -4,8 +4,9 @@ order = 10
 picture = "/uploads/st-kizito_img_2688-min.JPG"
 title = "10 St. Kizito Primary Schule"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## St. Kizito Primary School
 
 St. Kizito ist eine Prim.-School mit Heim für die Klassen P1 - P7 mit Vorschule (1 Jahr Baby Class

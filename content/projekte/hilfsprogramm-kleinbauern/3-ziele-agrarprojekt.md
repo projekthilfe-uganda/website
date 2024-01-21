@@ -4,8 +4,9 @@ order = 3
 picture = "/uploads/IMG_1955_bf.JPG"
 title = "3 Ziele Agrarprojekt"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **Unser Ziel mit dem Agrarprojekt**
 
 Ziel ist die Erhöhung des Lebensstandards ...

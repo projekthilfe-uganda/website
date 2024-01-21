@@ -6,8 +6,9 @@ h3 = "Gefördert vom Land Baden-Württemberg durch die Stiftung Entwicklungs-Zus
 order = 10
 title = "10 Wasserversorgung Hauptartikel"
 type = "article"
-
+_template = "article"
 +++
+
 ![](/uploads/logo_staatsministerium_bw.jpg)![](/uploads/logo_sez_m.jpeg)
 
 Dieses Projekt ist ein von der Stiftung Entwicklungs-Zusammenarbeit des Landes Baden-Württemberg unterstütztes Projekt und wird mit 10000.- € gefördert. Wir sind äußerst dankbar, da wir sonst das dringende Projekt noch nicht hätten in Angriff nehmen können.

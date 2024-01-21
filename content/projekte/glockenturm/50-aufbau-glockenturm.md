@@ -4,8 +4,9 @@ order = 50
 picture = "/uploads/glockenturm_img_20190130_114216-min.jpg"
 title = "50 Aufbau Glockenturm"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Aufbau des Glockenturms in Kyamulibwa
 
 Zum Aufbau in Kyamulibwa flogen einige Mitarbeiter nach Uganda und unter der Mithilfe der einheimischen Firma Mutto war der Turm in abenteuerlichen 3 Wochen aufgebaut. Es gab viele glücklichen Gesichter, als der schöne Tedeum-Klang von der Anhöhe aus in einem großen Gebiet zu hören war.

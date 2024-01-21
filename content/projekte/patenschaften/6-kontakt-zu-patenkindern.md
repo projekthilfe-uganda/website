@@ -4,8 +4,9 @@ order = 6
 picture = "/uploads/schulsprecher-bedankt-sich-fur-patengeschenke-2018-min.jpg"
 title = "6 Kontakt zu Patenkindern"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Kontakt zu Patenkindern in Uganda
 
 Die Patenkinder schreiben Briefe an die Paten und es ist auch möglich, einem Patenkind einen Brief auf Englisch zukommen zu lassen.

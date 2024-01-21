@@ -5,8 +5,9 @@ h3 = "Viele marode Schulen im Busch"
 order = 3
 title = "3 Ausganssituation"
 type = "article"
-
+_template = "article"
 +++
+
 ## 
 
 Schulen im Busch verdienen oft ihren Namen nicht. Es gibt marode, viel zu kleine Gebäude ohne Boden, Decke und Putz. Die Kleinbauern sind so arm, dass sie das wenige Schulgeld gar nicht oder nur teilweise bringen. So kann es keine Schulspeisung geben und die Kinder haben Hunger. Man kann aus Geldmangel nicht genügend Lehrer einstellen und hat viel zu wenig Schulbücher. 

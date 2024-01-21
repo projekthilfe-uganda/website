@@ -4,8 +4,9 @@ order = 11
 picture = "/uploads/IMG_1272_bf.JPG"
 title = "11 St. Leonhard Primary Schule"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## St. Leonhard Primary Schule
 
 Die St. Leonard Prim.-Schule ist die einzige Tagesschule in der Gegend um Kyamalibwa, deren Abschlussschüler schon mehrere Jahre die Schule mit besten Ergebnissen verlassen und immer mehr Eltern schicken ihre Kinder deshalb in diese Schule. Durch die vielen Patenschaften für Aidswaisen mit den etwas erhöhten Monatsgebühren können mehr Lehrer finanziert werden, was wesentlich zu den guten Ergebnissen beiträgt. Der ugandische Staat zahlt nur für 300 Schüler einen Lehrer und tief im Busch gibt es anstatt eines Lehrers oft nur einen älteren Schüler als Lehrer, der die Secondary School abgebrochen hat.

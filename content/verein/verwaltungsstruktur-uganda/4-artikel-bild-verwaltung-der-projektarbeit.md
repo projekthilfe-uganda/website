@@ -4,8 +4,9 @@ order = 4
 picture = "/uploads/verein_sitzungen-mit-verwaltungsrat-der-schulen-1.JPG"
 title = "4 Artikel/Bild Verwaltung der Projektarbeit"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Verwaltung der Projektarbeit
 
 Die Verwaltungsstruktur wurde 2020 neu geregelt. Ziel war Förderung der Eigenverantwortlichkeit der Institutionen, Transparenz, keine Möglichkeit von Korruption sowie mehrere Kontrollen.

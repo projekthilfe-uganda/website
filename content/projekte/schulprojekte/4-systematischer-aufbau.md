@@ -4,8 +4,9 @@ order = 5
 picture = "/uploads/physikunterricht-min.jpg"
 title = "5 Systematischer Aufbau"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ### Systematisch Schulen aufbauen
 
 Schulen in Uganda bauen wir systematisch auf und führen sie langsam zur Selbständigkeit.

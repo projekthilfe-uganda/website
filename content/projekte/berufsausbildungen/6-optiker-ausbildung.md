@@ -4,8 +4,9 @@ order = 5
 picture = "/uploads/optikerhaus_ausbildung_img-20200102-wa0003.jpg"
 title = "5 Optiker-Ausbildung"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## Optiker-Ausbildung
 
 Ein gemeinsam mit dem ugandischen Gesundheitsministerium vereinbartes Pilotprojekt in Kyamulibwa sieht vor, dass der EDA (Entwicklungsdienst deutscher AugenoptikerInnen) in einem ersten Ausbildungszyklus 8 Optiker im Optikhaus in Kyamulibwa ausbildet.

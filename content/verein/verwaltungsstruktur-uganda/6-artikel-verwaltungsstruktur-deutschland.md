@@ -5,8 +5,9 @@ h3 = "Struktur von Projekthilfe Uganda e.V."
 order = 5
 title = "5 Artikel Verwaltungsstruktur Deutschland"
 type = "article"
-
+_template = "article"
 +++
+
 Enge Vorstandschaft:
 
 1. Vorsitzende/r

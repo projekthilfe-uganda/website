@@ -6,8 +6,9 @@ h3 = "Mitmachen oder spenden"
 order = 5
 title = "5 Artikel Motivation"
 type = "article"
-
+_template = "article"
 +++
+
 [Mitarbeit](/helfen/mitarbeit/ "mitarbeit")
 
 [Spenden](/spenden "Spendenshop")

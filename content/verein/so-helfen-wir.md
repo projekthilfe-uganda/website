@@ -4,8 +4,9 @@ order = 50
 picture = "/uploads/brunnen_00321_schnappschuss.jpg"
 title = "50 So helfen wir"
 type = "picarticle"
-
+_template = "article_with_picture"
 +++
+
 ## **So helfen wir**
 
 Wir reagieren auf die Bedürfnisse durch ...

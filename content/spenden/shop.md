@@ -6,8 +6,9 @@ h3 = ""
 order = 20
 title = "Shop Intro"
 type = "article"
-
+_template = "article"
 +++
+
 Für die Weiterentwicklung in Uganda und die Unterstützung der Ärmsten zählt jeder Cent. Spenden Sie an Projekthilfe Uganda per Banküberweisung oder per Paypal (1,5% des Spendenbetrags sowie 0,35 € pro Transaktion fallen bei Paypal als Gebühren für uns an).
 
 Bankverbindungen:
