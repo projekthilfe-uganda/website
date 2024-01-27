@@ -5,7 +5,7 @@ h3 = ""
 order = "2"
 title = "2 Einleitung Auszeichnungen"
 type = "article"
-
+_template = "article"
 +++
 Für die jahrzehntelange ehrenamtliche Arbeit wurden der gemeinnützige Verein Projekthilfe Uganda bereits mehrfach ausgezeichnet.
 
