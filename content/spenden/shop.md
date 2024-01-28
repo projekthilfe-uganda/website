@@ -16,7 +16,7 @@ Bankverbindungen:
 Projekthilfe Uganda e.V.
 
 * Sparkasse Kraichgau, IBAN: DE36 6635 0036 0007 0487 48, BIC: BRUSDE66XXX
-* Volksbank Bruchsal-Bretten, IBAN: DE66 6639 1200 0023 0108 01, BIC: GENODE61BTT
+* Volksbank Krauchgau eG, IBAN: DE63 6729 2200 0073 3705 07, BIC: GENODE61WIE
 
 ##### Spenden per Paypal
 
