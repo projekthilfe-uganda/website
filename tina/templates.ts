@@ -1,4 +1,24 @@
-import type { TinaField } from "tinacms";
+import type {Template, TinaField} from "tinacms";
+
+export function pageTemplates() {
+  return [
+    article(),
+    article_with_picture(),
+    linklist(),
+    teaser_block(),
+    gallery(),
+    picture_slider(),
+  ] as Template[];
+}
+
+export function article_with_picture() {
+  return {
+    name: 'article_with_picture',
+    label: 'Article with Picture',
+    fields: article_with_pictureFields(),
+  } as Template;
+}
+
 export function article_with_pictureFields() {
   return [
     {
@@ -31,6 +51,15 @@ export function article_with_pictureFields() {
     },
   ] as TinaField[];
 }
+
+export function article() {
+  return {
+    name: 'article',
+    label: 'Article',
+    fields: articleFields(),
+  } as Template;
+}
+
 export function articleFields() {
   return [
     {
@@ -67,6 +96,15 @@ export function articleFields() {
     },
   ] as TinaField[];
 }
+
+export function picture_slider() {
+  return {
+    name: 'picture_slider',
+    label: 'Picture Slider',
+    fields: picture_sliderFields(),
+  } as Template;
+}
+
 export function picture_sliderFields() {
   return [
     {
@@ -108,6 +146,15 @@ export function picture_sliderFields() {
     },
   ] as TinaField[];
 }
+
+export function linklist() {
+  return {
+    name: 'linklist',
+    label: 'Link List',
+    fields: linklistFields(),
+  } as Template;
+}
+
 export function linklistFields() {
   return [
     {
@@ -151,6 +198,15 @@ export function linklistFields() {
     },
   ] as TinaField[];
 }
+
+export function news() {
+  return {
+    name: 'news',
+    label: 'News',
+    fields: newsFields(),
+  } as Template;
+}
+
 export function newsFields() {
   return [
     {
@@ -180,9 +236,19 @@ export function newsFields() {
     },
   ] as TinaField[];
 }
+
 export function pageFields() {
   return [] as TinaField[];
 }
+
+export function gallery() {
+  return {
+    name: 'gallery',
+    label: 'Gallery',
+    fields: galleryFields(),
+  } as Template;
+}
+
 export function galleryFields() {
   return [
     {
@@ -227,6 +293,15 @@ export function galleryFields() {
     },
   ] as TinaField[];
 }
+
+export function teaser_block() {
+  return {
+    name: 'teaser_block',
+    label: 'Teaser Block',
+    fields: teaser_blockFields(),
+  } as Template;
+}
+
 export function teaser_blockFields() {
   return [
     {
@@ -274,6 +349,15 @@ export function teaser_blockFields() {
     },
   ] as TinaField[];
 }
+
+export function shop_item() {
+  return {
+    name: 'shop_item',
+    label: 'Shop Item',
+    fields: shop_itemFields(),
+  } as Template;
+}
+
 export function shop_itemFields() {
   return [
     {
@@ -312,6 +396,15 @@ export function shop_itemFields() {
     },
   ] as TinaField[];
 }
+
+export function shop_project() {
+  return {
+    name: 'shop_project',
+    label: 'Shop Project',
+    fields: shop_projectFields(),
+  } as Template;
+}
+
 export function shop_projectFields() {
   return [
     {

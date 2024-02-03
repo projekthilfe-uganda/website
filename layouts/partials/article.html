@@ -1,14 +1,14 @@
-<div  class="{{.Type}} container mt-5 mb-5">
-    {{if .Params.h1 }}
-        <h1>{{.Params.h1}}</h1>
-    {{end}}
-    {{if .Params.h2 }}
-        <h2>{{.Params.h2}}</h2>
-    {{end}}
-    {{if .Params.h3 }}
-        <h3>{{.Params.h3}}</h3>
-    {{end}}
+<div  class="{{._template}} container mt-5 mb-5">
+    {{ if .h1 }}
+        <h1>{{ .h1 }}</h1>
+    {{ end }}
+    {{ if .h2 }}
+        <h2>{{ .h2 }}</h2>
+    {{ end }}
+    {{ if .h3 }}
+        <h3>{{ .h3 }}</h3>
+    {{ end }}
     <div class="content">
-        {{.Content}}
+        {{ transform.Markdownify .body }}
     </div>
 </div>

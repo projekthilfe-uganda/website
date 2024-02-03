@@ -1,11 +1,11 @@
-<div class="{{.Type}} {{.Layout}} container mt-10">
-    <div class="row {{ if strings.HasSuffix .Layout "left" }}flex-row-reverse{{end}}">
+<div class="{{._template}} {{.layout}} container mt-10">
+    <div class="row {{ if strings.HasSuffix .layout "left" }}flex-row-reverse{{end}}">
         <div class="border-primary border"></div>
         <div class="col-5 content p-5">
-            {{.Content}}
+            {{ transform.Markdownify .body }}
         </div>
         <div class="col-7 picture p-0">
-            <img class="picture-cover w-100" src="{{ .Params.Picture }}" alt="{{ .Params.Picture }}"/>
+            <img class="picture-cover w-100" src="{{ .picture }}" alt="{{ .picture }}"/>
         </div>
     </div>
 </div>

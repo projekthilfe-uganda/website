@@ -1,9 +1,9 @@
-<div  class="{{.Type}} container mt-5 mb-5">
-    {{if .Params.header }}
-        <h2>{{.Params.header}}</h2>
+<div  class="{{._template}} container mt-5 mb-5">
+    {{if .title }}
+        <h2>{{.title}}</h2>
     {{end}}
     <div class="content">
-        {{ range sort .Params.links ".order" }}
+        {{ range sort .links ".order" }}
             <a href="{{ .link }}" {{if .open_in_new_tab}}target="blank"{{end}}>{{ .text }}</a>
         {{end}}
     </div>

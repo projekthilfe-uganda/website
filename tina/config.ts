@@ -1,5 +1,7 @@
 import { defineConfig } from "tinacms";
 
+import Pages from "./collections/pages";
+
 import { article_with_pictureFields } from "./templates";
 import { articleFields } from "./templates";
 import { picture_sliderFields } from "./templates";
@@ -9,7 +11,6 @@ import { pageFields } from "./templates";
 import { galleryFields } from "./templates";
 import { teaser_blockFields } from "./templates";
 import { shop_itemFields } from "./templates";
-import { shop_projectFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -19,8 +20,9 @@ const branch =
   "main";
 
 export default defineConfig({
-  branch,
+  branch: branch,
 
+  // TODO: setup env variables on production? Needed?
   // Get this from tina.io
   clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
   // Get this from tina.io
@@ -40,10 +42,11 @@ export default defineConfig({
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
+      Pages,
       {
         format: "md",
-        label: "Pages",
-        name: "pages",
+        label: "Pages Old",
+        name: "pages_old",
         path: "content",
         frontmatterFormat: "toml",
         frontmatterDelimiters: "+++",

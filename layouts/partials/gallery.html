@@ -1,9 +1,9 @@
-<div class="{{.Type}} container mt-5 mb-5">
-    <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">{{.Params.title}}</h1>
+<div class="{{._template}} container mt-5 mb-5">
+    <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">{{.title}}</h1>
     <hr class="mt-2 mb-5">
 
     <div class="row text-center text-lg-left">
-        {{ range $j, $_ := .Params.pictures }}
+        {{ range $j, $_ := .pictures }}
         <div class="col-lg-3 col-md-4 col-6 mb-4">
             <a href="#" class="gallery_link img-thumbnail d-block" data-toggle="modal" data-target="#gallery-modal">
                 <img class="gallery_img img-fluid picture-cover w-100"
