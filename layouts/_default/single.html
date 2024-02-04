@@ -1,26 +1,33 @@
 {{define "main"}}
-    {{range .Page.Params.Blocks }}
-        {{if eq ._template "article"}}
-            {{- partial "article.html" . -}}
+    {{if eq .Params._template "block_page"}}
+        {{range .Page.Params.Blocks }}
+            {{if eq ._template "article"}}
+                {{- partial "article.html" . -}}
+            {{end}}
+            {{if eq ._template "picarticle"}}
+                {{- partial "article-picture.html" . -}}
+            {{end}}
+            {{if eq ._template "teaserblock"}}
+                {{- partial "teaser-block.html" . -}}
+            {{end}}
+            {{if eq ._template "shopitem"}}
+                {{- partial "shopitem.html" . -}}
+            {{end}}
+            {{if eq ._template "gallery"}}
+                {{- partial "gallery.html" . -}}
+            {{end}}
+            {{if eq ._template "linklist"}}
+                {{- partial "linklist.html" . -}}
+            {{end}}
+            {{if eq ._template "shop"}}
+                {{- partial "spenden.html" . -}}
+            {{end}}
         {{end}}
-        {{if eq ._template "picarticle"}}
-            {{- partial "article-picture.html" . -}}
-        {{end}}
-        {{if eq ._template "teaserblock"}}
-            {{- partial "teaser-block.html" . -}}
-        {{end}}
-        {{if eq ._template "shopitem"}}
-            {{- partial "shopitem.html" . -}}
-        {{end}}
-        {{if eq ._template "gallery"}}
-            {{- partial "gallery.html" . -}}
-        {{end}}
-        {{if eq ._template "linklist"}}
-            {{- partial "linklist.html" . -}}
-        {{end}}
+    {{else if eq .Params._template "shop"}}
+        {{- partial "spenden.html" . -}}
+    {{else}}
+        <div class="page container mt-5 mb-5">
+            {{.Content}}
+        </div>
     {{end}}
-<!--     TODO: make this work again -->
-<!--     <div class="page container mt-5 mb-5"> -->
-<!--         {{.Content}} -->
-<!--     </div> -->
 {{end}}

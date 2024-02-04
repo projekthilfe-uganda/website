@@ -1,16 +1,14 @@
 <div class="{{._template}} col-xl-6">
-    <h3>{{.Title}}</h3>
+    <h3>{{.title}}</h3>
     <div class="content">
-        {{.Content}}
+        {{ transform.Markdownify .description}}
     </div>
     <div>
-        <img src="{{.Params.picture}}"/>
+        <img src="{{.picture}}"/>
     </div>
-    {{/*    <input class="amount" type="text" value="1"/>*/}}
-{{/*    <input class="price" type="hidden" value="{{.Params.price}}">*/}}
     <div class="text-right" style="max-width: 540px">
-        Spende:<span class="d-inline-block text-right" style="width: 75px">{{.Params.price}}&nbsp;€</span>
-        <button @click="add('{{.Params.identifier}}', '{{.Title}}', 1, {{.Params.price}});"
+        Spende:<span class="d-inline-block text-right" style="width: 75px">{{.price}}&nbsp;€</span>
+        <button @click="add('{{.identifier}}', '{{.title}}', 1, {{.price}});"
                 class="btn btn-secondary pl-4 pr-4 m-4">Auswählen
         </button>
     </div>

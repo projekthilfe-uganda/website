@@ -1,9 +1,8 @@
 import { defineConfig } from "tinacms";
 
 import Pages from "./collections/pages";
-
-import { shop_itemFields } from "./templates";
 import News from "./collections/news";
+import Shop from "./collections/shop";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -37,85 +36,7 @@ export default defineConfig({
     collections: [
       Pages,
       News,
-      {
-        format: "md",
-        label: "Shop Intro",
-        name: "shop_intro",
-        path: "content/spenden",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "shop",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          {
-            type: "string",
-            name: "type",
-            label: "Type",
-          },
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "h1",
-            label: "h1",
-          },
-          {
-            type: "string",
-            name: "h2",
-            label: "h2",
-          },
-          {
-            type: "string",
-            name: "h3",
-            label: "h3",
-          },
-          {
-            type: "number",
-            name: "order",
-            label: "order",
-            required: true,
-          },
-        ],
-      },
-      {
-        format: "md",
-        label: "Shop Items",
-        name: "shop_items",
-        path: "content/spenden/items",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        match: {
-          include: "*",
-        },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...shop_itemFields(),
-        ],
-      },
+      // Shop,
     ],
   },
 });

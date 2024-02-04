@@ -1,0 +1,75 @@
+<div class="container">
+    <div class="content">
+        <div class="row mt-5">
+            {{- partial "article.html" .Params -}}
+        </div>
+    </div>
+</div>
+
+<div id="shop">
+    <div class="container card">
+        <div class="content">
+            <div class="row">
+                {{ range .Params.shopitems }}
+                    {{- partial "shopitem.html" . -}}
+                {{end}}
+            </div>
+        </div>
+    </div>
+
+    <div class="cart">
+        <div class="col-4 p">
+            <div id="cart" class="card">
+                <div class="card-body">
+                    <h4 class="card-title text-right">Meine Auswahl</h4>
+                </div>
+                <div class="card-body">
+                    <table class="w-100">
+                        <tbody id="cart_content" class="align-text-top">
+                        <tr is="cart-item" v-for="(item, key) in cartItems" :key="item.type"
+                            :type="item.type"
+                            :caption="item.caption"
+                            :amount="item.amount"
+                            @amountchange="onAmountChange"
+                            @delete="onDelete">
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="sum card-body text-right">
+                    <p class="mt-2">Summe:
+                        <span class="d-inline-block text-right">[[ cartSum ]]&nbsp;€</span>
+                    </p>
+                    <btn cls="w-45 float-left"
+                         @click="clear">Leeren
+                    </btn>
+                    <form action="/cart/">
+                         <button class="btn btn-primary w-45" type="submit">
+                             Spenden
+                         </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/x-template" id="btn">
+    <button class="btn" :class="[primary ? 'btn-primary' : 'btn-secondary', cls]"
+            @click="e => $emit('click', e)">
+        <slot></slot>
+    </button>
+</script>
+<script type="text/x-template" id="cart-item">
+    <tr>
+        <td class="text-right pr-2 text-nowrap">
+            <input class="border-0 text-right" style="width: 40px"
+                   :value="amount"
+                   @keypress="onKeyPress"
+                   @keyup="onKeyUp"
+                   @change="onChange">x
+        </td>
+        <td>[[ caption ]]</td>
+        <td class="text-right">[[ total ]]&nbsp;€</td>
+    </tr>
+</script>

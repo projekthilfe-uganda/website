@@ -1,6 +1,6 @@
-+++
-_template = "page"
-+++
+---
+_template: simple_page
+---
 
 # Datenschutz
 
