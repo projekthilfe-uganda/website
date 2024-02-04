@@ -39,7 +39,6 @@ function articleTempl() {
       {
         type: "rich-text",
         name: "body",
-        isBody: true,
       }
     ] as TinaField[],
   } as Template;
@@ -270,84 +269,3 @@ function teaserBlockTempl() {
     ] as TinaField[],
   } as Template;
 }
-
-function newsTempl() {
-  return {
-    name: 'news',
-    label: 'News',
-    fields: [
-      {
-        type: "string",
-        name: "title",
-        label: "Title",
-      },
-      {
-        type: "datetime",
-        name: "date",
-        label: "Date",
-      },
-      {
-        type: "string",
-        name: "subtitle",
-        label: "Subtitle",
-      },
-    ] as TinaField[],
-  } as Template;
-}
-
-function shopItemTempl() {
-  return {
-    name: 'shop_item',
-    label: 'Shop Item',
-    fields: [
-      {
-        type: "string",
-        name: "title",
-        label: "Title",
-      },
-      {
-        type: "string",
-        name: "identifier",
-        label: "Identifier",
-        required: true,
-      },
-      {
-        type: "image",
-        name: "picture",
-        label: "Picture",
-      },
-      {
-        type: "number",
-        name: "price",
-        label: "Price",
-        required: true,
-      },
-    ] as TinaField[],
-  } as Template;
-}
-
-function shopProjectTempl() {
-  return {
-    name: 'shop_project',
-    label: 'Shop Project',
-    fields: [
-      {
-        type: "string",
-        name: "title",
-        label: "Title",
-      },
-      {
-        type: "string",
-        name: "identifier",
-        label: "Identifier",
-        required: true,
-      },
-      {
-        type: "image",
-        name: "picture",
-        label: "Picture",
-      },
-    ] as TinaField[],
-  } as Template;
-}
-

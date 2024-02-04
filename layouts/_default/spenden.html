@@ -4,7 +4,6 @@
             <div class="row mt-5">
                 {{ range sort .Pages "Params.order" }}
                     {{if ne .Type "shopitem"}}
-                        {{- partial "types.html" . -}}
                     {{end}}
                 {{end}}
             </div>
@@ -17,7 +16,6 @@
                 <div class="row">
                     {{ range sort .Pages "Params.order" }}
                         {{if eq .Type "shopitem"}}
-                            {{- partial "types.html" . -}}
                         {{end}}
                     {{end}}
                 </div>

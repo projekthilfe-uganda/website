@@ -1,16 +1,22 @@
 {{define "main"}}
-    {{$lastType := ""}}
-    <div class="overflow-hidden">
-        {{- range sort .Pages "Params.order" -}}
-            {{- if hasPrefix .Path "home/" -}}
-                {{- if and (ne .Type $lastType) (ne $lastType "") -}}
-                    </div>
-                    <div class="overflow-hidden">
-                {{- end -}}
-
-                {{- partial "types.html" . -}}
-                {{$lastType = .Type}}
-            {{- end -}}
-        {{- end -}}
-    </div>
+    {{range $block := .Page.Params.Blocks }}
+        {{if eq ._template "article"}}
+            {{- partial "article.html" . -}}
+        {{end}}
+        {{if eq ._template "picarticle"}}
+            {{- partial "article-picture.html" . -}}
+        {{end}}
+        {{if eq ._template "teaserblock"}}
+            {{- partial "teaser-block.html" . -}}
+        {{end}}
+        {{if eq ._template "shopitem"}}
+            {{- partial "shopitem.html" . -}}
+        {{end}}
+        {{if eq ._template "gallery"}}
+            {{- partial "gallery.html" . -}}
+        {{end}}
+        {{if eq ._template "linklist"}}
+            {{- partial "linklist.html" . -}}
+        {{end}}
+    {{end}}
 {{end}}

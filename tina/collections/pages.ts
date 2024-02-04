@@ -4,7 +4,10 @@ import { blockTemplates } from "../templates/templates";
 const Pages: Collection = {
   name: "page",
   label: "Pages",
-  path: "content/pages",
+  path: "content",
+  match: {
+    exclude: "(news/**|spenden/**)",
+  },
   templates: [
     {
       name: 'simple_page',

@@ -1,12 +1,12 @@
 {{define "main"}}
     {{range sort .Pages ".Params.order" "asc" }}
-        {{if ne .Type "news"}}
-            {{- partial "types.html" . -}}
+        {{if ne .Params._template "news"}}
+            {{- partial "types.html" .Params -}}
         {{end}}
     {{end}}
     {{range sort .Pages ".Params.date" "desc" }}
-        {{if eq .Type "news"}}
-            {{- partial "news.html" . -}}
+        {{if eq .Params._template "news"}}
+            {{- partial "news.html" .Params -}}
         {{end}}
     {{end}}
 {{end}}

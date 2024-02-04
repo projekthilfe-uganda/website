@@ -1,5 +1,5 @@
 {{define "main"}}
-    {{range $block := .Page.Params.Blocks }}
+    {{range .Page.Params.Blocks }}
         {{if eq ._template "article"}}
             {{- partial "article.html" . -}}
         {{end}}
