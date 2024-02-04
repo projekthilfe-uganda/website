@@ -2,22 +2,10 @@ import { defineConfig } from "tinacms";
 
 import Pages from "./collections/pages";
 import News from "./collections/news";
-import Shop from "./collections/shop";
-
-// Your hosting provider likely exposes this as an environment variable
-const branch =
-  process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
-  process.env.HEAD ||
-  "main";
 
 export default defineConfig({
-  branch: branch,
-
-  // TODO: setup env variables on production? Needed?
-  // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
-  // Get this from tina.io
+  branch: "master",
+  clientId: process.env.TINA_PUBLIC_CLIENT_ID,
   token: process.env.TINA_TOKEN,
 
   client: { skip: true },
@@ -36,7 +24,6 @@ export default defineConfig({
     collections: [
       Pages,
       News,
-      // Shop,
     ],
   },
 });

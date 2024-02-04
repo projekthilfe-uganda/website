@@ -20,8 +20,26 @@ jobs:
           hugo-version: '0.54.0'
           extended: true
 
+#      - name: Setup Node
+#        uses: actions/setup-node@v4
+#        with:
+#          node-version: "20"
+#          cache: yarn
+#
+#      - name: Install dependencies
+#        run: yarn install
+#
+#      - name: Build TinaCMS
+#        env:
+#          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+#          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+#        run: yarn build
+
       - name: Build
         run: hugo --minify
+
+      - name: Enable Admin Page
+        run: rm -f ./public/admin/.gitignore
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

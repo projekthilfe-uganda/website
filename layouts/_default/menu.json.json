@@ -1,5 +1,0 @@
-{{- define "response" -}}
-    {
-    "Menus": {{ .Site.Menus | jsonify }}
-    }
-{{- end -}}
