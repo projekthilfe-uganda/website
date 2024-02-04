@@ -68,7 +68,7 @@ blocks:
 
           ... durch Spenden für die Projekte in Uganda, durch Patenschaften für
           Schulkinder und Auszubildende, durch Ihr Engagement, Mitarbeit vor Ort
-          in Uganda und sogar einfach über amazon-smile.
+          in Uganda.
 
 
           [Mehr zum Thema Helfen](/helfen/ "So können Sie helfen")

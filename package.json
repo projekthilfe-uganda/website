@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo",
+    "build": "tinacms build && hugo && rm ./static/admin/.gitignore",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
