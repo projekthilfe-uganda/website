@@ -8,7 +8,7 @@ blocks:
       aktuellen Rundbrief nachlesen.
 
 
-      [Rundbrief Januar 2022](/uploads/pdf-rundbrief-januar-2022.pdf)
+      [PDF Rundbrief Januar 2022](/uploads/pdf-rundbrief-januar-2022.pdf)
 
 
       Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie
