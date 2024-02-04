@@ -1,0 +1,12 @@
+{{- define "response" -}}
+{{ if eq .Page.Path "spenden.md" }}
+  {
+    "Site": {{- partial "site.json.json" .Site -}},
+    "Page": {{- with .Page -}}
+      {{- partial "types.json.json" . -}}
+    {{- end -}}
+  }
+{{- else -}}
+  {}
+{{- end -}}
+{{- end -}}

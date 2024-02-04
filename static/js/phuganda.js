@@ -180,12 +180,11 @@ let shop = new Vue({
         },
 
         fillShopItems: function (data) {
+            console.log(data.data.Page.Params.shopitems)
             let items = {};
-            for (let i = 0; i < data.data.items.length; i++) {
-                const item = data.data.items[i];
-                if (!item.Params) continue;
-
-                if (item.Params.type === "shopitem") items[item.Params.identifier] = item.Params;
+            for (let i = 0; i < data.data.Page.Params.shopitems.length; i++) {
+                const item = data.data.Page.Params.shopitems[i];
+                items[item.identifier] = item;
             }
             this.shopItems = items;
             this.save()

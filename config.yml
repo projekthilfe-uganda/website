@@ -9,6 +9,7 @@ buildDrafts: false
 outputs:
   page:
     - html
+    - json
   home:
     - html
     - json

@@ -19,9 +19,6 @@
             {{if eq ._template "linklist"}}
                 {{- partial "linklist.html" . -}}
             {{end}}
-            {{if eq ._template "shop"}}
-                {{- partial "spenden.html" . -}}
-            {{end}}
         {{end}}
     {{else if eq .Params._template "shop"}}
         {{- partial "spenden.html" . -}}
