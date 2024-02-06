@@ -101,7 +101,7 @@ blocks:
         picture: /uploads/1. Preis 2007 Echt Gut.JPG
       - picture: /uploads/1000l-tank.jpg
       - picture: /uploads/IMG_0858_bf.jpg
-      - {}
+      - picture: /uploads/IMG_0882_bf.JPG
     _template: gallery
 _template: block_page
 ---
