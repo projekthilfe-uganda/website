@@ -95,6 +95,14 @@ blocks:
           takimata sanctus est Lorem ipsum dolor sit amet.
         picture: /uploads/75-a.JPG
     _template: teaserblock
+  - title: Bildergallerie
+    pictures:
+      - title: Bild 1
+        picture: /uploads/1. Preis 2007 Echt Gut.JPG
+      - {}
+      - {}
+      - {}
+    _template: gallery
 _template: block_page
 ---
 
