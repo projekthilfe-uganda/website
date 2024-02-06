@@ -62,6 +62,14 @@ blocks:
       Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
       sit amet.
     _template: picarticle
+  - title: Links
+    links:
+      - link: /helfen
+        text: Wie kann ich helfen?
+        open_in_new_tab: false
+      - {}
+      - {}
+    _template: linklist
 _template: block_page
 ---
 
