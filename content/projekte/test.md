@@ -70,7 +70,9 @@ blocks:
       - link: 'http://google.de'
         text: google
         open_in_new_tab: true
-      - {}
+      - link: 'http://youtube.com'
+        text: youtube
+        open_in_new_tab: true
     _template: linklist
 _template: block_page
 ---
