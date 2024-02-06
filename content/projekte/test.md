@@ -81,6 +81,7 @@ blocks:
           Lorem Ipsum
 
           [Link](/spenden "Spenden")
+        picture: /uploads/Echt Gut Preisverleihung im Stuttgarter Schloss.JPG
       - {}
     _template: teaserblock
 _template: block_page
