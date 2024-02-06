@@ -80,7 +80,7 @@ blocks:
         text: |
           Lorem Ipsum
 
-          [Link]()
+          [Link](/spenden "Spenden")
       - {}
     _template: teaserblock
 _template: block_page
