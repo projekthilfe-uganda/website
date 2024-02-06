@@ -99,7 +99,7 @@ blocks:
     pictures:
       - title: Bild 1
         picture: /uploads/1. Preis 2007 Echt Gut.JPG
-      - {}
+      - picture: /uploads/1000l-tank.jpg
       - {}
       - {}
     _template: gallery
