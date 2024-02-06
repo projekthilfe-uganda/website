@@ -9,7 +9,7 @@ blocks:
       unterstützen.
 
 
-      [PDF Rundbrief Januar 2024](</uploads/Rundbrief Januar 2024.pdf>
+      [PDF Rundbrief Februar 2023](</uploads/Rundbrief Januar 2024.pdf>
       "Rundbrief Januar 2024")
     _template: article
 _template: news
