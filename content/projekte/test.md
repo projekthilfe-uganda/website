@@ -67,7 +67,9 @@ blocks:
       - link: /helfen
         text: Wie kann ich helfen?
         open_in_new_tab: false
-      - {}
+      - link: 'http://google.de'
+        text: google
+        open_in_new_tab: true
       - {}
     _template: linklist
 _template: block_page
