@@ -74,6 +74,15 @@ blocks:
         text: youtube
         open_in_new_tab: true
     _template: linklist
+  - name: Teaser
+    teaser:
+      - name: Block 1
+        text: |
+          Lorem Ipsum
+
+          [Link]()
+      - {}
+    _template: teaserblock
 _template: block_page
 ---
 
