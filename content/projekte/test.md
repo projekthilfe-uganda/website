@@ -2,6 +2,9 @@
 blocks:
   - name: Header Pictures
     slides:
+      - name: Sonnenuntergang
+        picture: /uploads/IMG_1272_bf.JPG
+        text: Sonnenuntergang
       - name: Savanne
         picture: /uploads/IMG_0850_bf.JPG
         text: Bild aus der Savanne
