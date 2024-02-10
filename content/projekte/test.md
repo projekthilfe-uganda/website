@@ -63,7 +63,7 @@ blocks:
 
       Seine Familie hatte alles verloren, das kleine Haus und die
       Bananen-stauden. Zusammen mit weiteren 6 Familien bekam er den Höchst-satz
-      von 500.- € für Material und etwa 60 € für neue Pflanzen. Eini-ge Steine
+      von 500.- € für Material und etwa 60 € für neue Pflanzen. Einige Steine
       kann er noch verwenden und alles selbst aufbauen.
     _template: picarticle
   - title: Links
