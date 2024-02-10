@@ -5,9 +5,6 @@ blocks:
       - name: Savanne
         picture: /uploads/IMG_0850_bf.JPG
         text: Bild aus der Savanne
-      - name: Hühner
-        picture: /uploads/IMG_0875_bf.JPG
-        text: Hühner im Stall
       - name: Schweine
         picture: /uploads/IMG_0896_bf.JPG
         text: Schweine im Gehege
