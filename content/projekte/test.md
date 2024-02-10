@@ -2,6 +2,9 @@
 blocks:
   - name: Header Pictures
     slides:
+      - name: Savanne
+        picture: /uploads/IMG_0850_bf.JPG
+        text: Bild aus der Savanne
       - name: Hühner
         picture: /uploads/IMG_0875_bf.JPG
         text: Hühner im Stall
