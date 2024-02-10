@@ -2,6 +2,9 @@
 blocks:
   - name: Header Pictures
     slides:
+      - name: Hitze
+        picture: /uploads/schwitzen.png
+        text: Schweißtreibende Hitze
       - name: Sonnenuntergang
         picture: /uploads/IMG_1272_bf.JPG
         text: Sonnenuntergang
