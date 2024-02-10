@@ -15,18 +15,21 @@ blocks:
         picture: /uploads/IMG_0896_bf.JPG
         text: Schweine im Gehege
     _template: picture_slider
-  - h1: Test Seite
-    h2: Dies ist ein Untertitel
+  - h1: Im September schlug ein Tornado eine Schneise der Verwüstung!
+    h2: Im Distrikt Kalungu etliche Gemeinden betroffen.
     body: >
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-      diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-      sit amet.
+      Da im Distrikt Kalungu etliche Gemeinden betroffen waren und der Distrikt
+      nur wenige Mittel für die Betroffenen hatte, besuchte uns der Chief
+      Administrativ Officer und bat eindringlich um Hilfe. Zusammen mit unserem
+      ugandischen Vertreter und einem Ver-treter der Gemeinde besuchten wir alle
+      betroffenen Familien mit zerstörten Häusern, machten Fotos und schrieben
+      auf, was gebraucht wurde. Das reichte von Baumateria-lien bis zu Pflanzen
+      für die zerstörten Bananenfelder. Dabei beachteten wir, dass einige Leute
+      selbst etwas beisteuern, eventuell auch selbst reparieren konnten, einige
+      im völ-ligen Elend saßen und z. B. als alte Witwe nichts selbst tun
+      konnten. So machten wir für 35 mittellose Familien einen Plan und stellten
+      für die meisten, leider noch nicht für alle , eine Finanzierung bereit.
+      Ihre Spenden für Ärmste waren herzlich willkommen!
     _template: article
   - name: Preisverleihung
     picture: /uploads/Bundesverdienstkreuz 2009.jpg
