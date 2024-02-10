@@ -31,8 +31,8 @@ blocks:
       für die meisten, leider noch nicht für alle , eine Finanzierung bereit.
       Ihre Spenden für Ärmste waren herzlich willkommen!
     _template: article
-  - name: Preisverleihung
-    picture: /uploads/Bundesverdienstkreuz 2009.jpg
+  - name: Alles verloren!
+    picture: /uploads/alles verloren.jpg
     layout: pic-right
     body: >
       ### Title1
@@ -61,15 +61,10 @@ blocks:
       [Spenden](/spenden "Spenden")
 
 
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-      diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-      Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
-      sit amet.
+      Seine Familie hatte alles verloren, das kleine Haus und die
+      Bananen-stauden. Zusammen mit weiteren 6 Familien bekam er den Höchst-satz
+      von 500.- € für Material und etwa 60 € für neue Pflanzen. Eini-ge Steine
+      kann er noch verwenden und alles selbst aufbauen.
     _template: picarticle
   - title: Links
     links:
