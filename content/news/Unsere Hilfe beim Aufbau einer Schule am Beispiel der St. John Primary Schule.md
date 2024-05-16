@@ -29,8 +29,9 @@ blocks:
       Prüfung dort eh nicht möglich war.
 
 
-      [Unsere Initiativen](</uploads/Unsere Hilfe beim Aufbau.pdf> "Unsere Hilfe
-      beim Aufbau einer Schule")
+      [Unsere
+      Initiativen](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Unsere
+      Hilfe beim Aufbau.pdf> "Unsere Hilfe beim Aufbau einer Schule")
     _template: article
 _template: news
 ---
