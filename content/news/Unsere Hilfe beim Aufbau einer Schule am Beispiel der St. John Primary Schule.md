@@ -28,7 +28,8 @@ blocks:
       Prüfung dort eh nicht möglich war.
 
 
-      [Unsere Initiativen]()
+      [Unsere Initiativen](<> "/uploads/2024-04/Unsere Hilfe beim Aufbau einer
+      Schule am Beispiel der St. John Primary Schule.pdf")
     _template: article
 _template: news
 ---
