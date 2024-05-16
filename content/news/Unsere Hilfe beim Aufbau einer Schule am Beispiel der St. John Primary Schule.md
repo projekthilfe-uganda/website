@@ -29,7 +29,7 @@ blocks:
       Prüfung dort eh nicht möglich war.
 
 
-      [Unsere Initiativen](</uploads/Rundbrief Januar 2024.pdf> "Unsere Hilfe
+      [Unsere Initiativen](</uploads/Unsere Hilfe beim Aufbau.pdf> "Unsere Hilfe
       beim Aufbau einer Schule")
     _template: article
 _template: news
