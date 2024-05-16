@@ -2,10 +2,8 @@
 title: Unsere Hilfe beim Aufbau einer Schule am Beispiel der St. John Primary Schule
 date: 2024-05-15T22:00:00.000Z
 blocks:
-  - h1: >-
-      Unsere Hilfe beim Aufbau einer Schule am Beispiel der St. John Primary
-      Schule
-    h2: 'Ziel: Aufbau einer guten Primary Schule im Busch Ugandas'
+  - h1: ''
+    h2: ''
     body: >
       **Die Ausgangssituation: Ein Teufelskreis:**
 
