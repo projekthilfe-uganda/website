@@ -12,10 +12,7 @@ blocks:
 
 
       • Kinder wurden oft zu Hause gelassen, damit sie in Zeiten des Hungers auf
-      dem
-
-
-      Schulweg keine Kraft vergeuden.
+      dem Schulweg keine Kraft vergeuden.
 
 
       • Eine große Anzahl der Armen konnte das Schulgeld nicht aufbringen.
