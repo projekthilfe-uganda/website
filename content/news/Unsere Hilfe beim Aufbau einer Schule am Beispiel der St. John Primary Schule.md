@@ -28,7 +28,8 @@ blocks:
       Prüfung dort eh nicht möglich war.
 
 
-      [Unsere Initiativen](\upload/Unsere_Hilfe_beim_Aufbau.pdf.pdf)
+      [Unsere Initiativen](/uploads/Unsere_Hilfe_beim_Aufbau.pdf "Unsere Hilfe
+      beim Aufbau einer Schule")
     _template: article
 _template: news
 ---
