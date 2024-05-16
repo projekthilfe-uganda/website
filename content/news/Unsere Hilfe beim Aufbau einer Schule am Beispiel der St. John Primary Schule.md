@@ -20,8 +20,8 @@ blocks:
 
       • Die Lehrer sahen keine Entwicklungsmöglichkeiten für die Schule.
 
-      • Der in Ugandas guten Schulen übliche Früh u. Spätunterricht konnte wegen
-      fehlender Lichtquellen nicht durchgeführt werden.
+      • Der in Ugandas guten Schulen übliche Früh- u. Spätunterricht konnte
+      wegen fehlender Lichtquellen nicht durchgeführt werden.
 
       • Viele Kinder durften nach dem vierten Schuljahr nicht mehr zur Schule,
       weil die Eltern in der vollen Schulzeit keinen Sinn sahen, wenn eine gute
