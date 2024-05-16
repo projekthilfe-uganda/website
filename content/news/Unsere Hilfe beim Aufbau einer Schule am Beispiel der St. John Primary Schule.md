@@ -7,29 +7,21 @@ blocks:
     body: >
       **Die Ausgangssituation: Ein Teufelskreis:**
 
-
       • Ttowa in Kyamulibwa ist eine der ärmsten Buschregionen der Gegend.
-
 
       • Kinder wurden oft zu Hause gelassen, damit sie in Zeiten des Hungers auf
       dem Schulweg keine Kraft vergeuden.
 
-
       • Eine große Anzahl der Armen konnte das Schulgeld nicht aufbringen.
-
 
       • Die Schule besaß fast keine Schulbücher.
 
-
       • Ein Becher Porridge konnte selten als Schulessen angeboten werden.
-
 
       • Die Lehrer sahen keine Entwicklungsmöglichkeiten für die Schule.
 
-
       • Der in Ugandas guten Schulen übliche Früh u. Spätunterricht konnte wegen
       fehlender Lichtquellen nicht durchgeführt werden.
-
 
       • Viele Kinder durften nach dem vierten Schuljahr nicht mehr zur Schule,
       weil die Eltern in der vollen Schulzeit keinen Sinn sahen, wenn eine gute
