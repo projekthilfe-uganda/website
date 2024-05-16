@@ -28,7 +28,7 @@ blocks:
       Prüfung dort eh nicht möglich war.
 
 
-      Unsere Initiativen
+      [Unsere Initiativen](\upload/Unsere_Hilfe_beim_Aufbau.pdf.pdf)
     _template: article
 _template: news
 ---
