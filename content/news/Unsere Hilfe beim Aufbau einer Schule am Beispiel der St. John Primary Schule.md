@@ -16,7 +16,7 @@ blocks:
 
       • Die Schule besaß fast keine Schulbücher.
 
-      • Selbst ein Becher Porridge konnte selten als Schul-Essen angeboten
+      • Selbst ein Becher Porridge konnte nur selten als Schul-Essen angeboten
       werden.
 
       • Die Lehrer sahen keine Entwicklungsmöglichkeiten für die Schule.
