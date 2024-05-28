@@ -5,8 +5,6 @@ blocks:
   - h1: ''
     h2: ''
     body: >
-      **Die Ausgangssituation: Ein Teufelskreis:**
-
       • Ttowa in Kyamulibwa ist eine der ärmsten Buschregionen der Gegend.
 
       • Die Kinder wurden oft zu Hause gelassen, damit sie in Zeiten des Hungers
@@ -30,8 +28,8 @@ blocks:
 
 
       [Unsere
-      Initiativen](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Unsere
-      Hilfe beim Aufbau.pdf> "Unsere Hilfe beim Aufbau einer Schule")
+      Initiativen](https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Unsere%20Hilfe%20beim%20Aufbau.pdf
+      "Unsere Hilfe beim Aufbau einer Schule")
     _template: article
 _template: news
 ---
