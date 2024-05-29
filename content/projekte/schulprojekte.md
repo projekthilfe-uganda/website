@@ -1,10 +1,5 @@
 ---
 blocks:
-  - name: Leben der Patenkinder in der St. Kizito Prim.-School
-    slides:
-      - name: Auch Jungs waschen wöchentlich ihre Wäsche.
-        picture: /uploads/Auch Jungs waschen wöchentlich ihre Wäsche.jpg
-    _template: picture_slider
   - name: Header Pictures
     slides:
       - name: Klassenzimmer
