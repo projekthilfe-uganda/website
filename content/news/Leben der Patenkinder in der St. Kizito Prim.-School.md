@@ -12,8 +12,9 @@ blocks:
           /uploads/Beliebt, der Unterricht an PCs! Leider sind sie schon
           älter,.JPG
         text: ''
-      - picture: /uploads/Das Geschirr ist hygienisch untergebracht.JPG
-        text: Das Geschirr ist hygienisch untergebracht.
+      - name: Das Geschirr ist hygienisch untergebracht.
+        picture: /uploads/Das Geschirr ist hygienisch untergebracht.JPG
+        text: ''
     _template: picture_slider
 _template: news
 ---
