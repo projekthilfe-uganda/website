@@ -7,10 +7,11 @@ blocks:
       - name: Auch Jungs waschen wöchentlich ihre Wäsche.
         picture: /uploads/Auch Jungs waschen wöchentlich ihre Wäsche.jpg
         text: ''
-      - picture: >-
+      - name: 'Beliebt: Der Unterricht an PCs! Leider sind diese schon älter.'
+        picture: >-
           /uploads/Beliebt, der Unterricht an PCs! Leider sind sie schon
           älter,.JPG
-        text: 'Beliebt: Der Unterricht an PCs! Leider sind diese schon älter.'
+        text: ''
       - picture: /uploads/Das Geschirr ist hygienisch untergebracht.JPG
         text: Das Geschirr ist hygienisch untergebracht.
     _template: picture_slider
