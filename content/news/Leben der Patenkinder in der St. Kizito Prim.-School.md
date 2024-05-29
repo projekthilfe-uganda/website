@@ -2,6 +2,15 @@
 title: Leben der Patenkinder in der St. Kizito Prim.-School
 date: 2024-05-28T22:00:00.000Z
 blocks:
+  - name: >-
+      Bilder aus dem Alltag der Schülerinnen und Schüler in der St. Kizito
+      Prim.-School.
+    picture: '/uploads/Vorschulunterricht, in dem schon Englisch gelernt wird.jpg'
+    layout: pic-left
+    body: >
+      Bilder aus dem Alltag der Schülerinnen und Schüler in der St. Kizito
+      Prim.-School.
+    _template: picarticle
   - name: Leben der Patenkinder in der St. Kizito Prim.-School
     slides:
       - name: Im Technikunterricht wird auch das Arbeiten nach Plänen gelernt.
