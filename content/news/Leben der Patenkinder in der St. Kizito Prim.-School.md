@@ -6,7 +6,7 @@ blocks:
     body: >
       [Ein kleines Kaleidoskop mit
       Bildern](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Leben
-      der Patenkinder iVersion 2.pdf>) aus dem Schulalltag an der St. Kizito
+      der Patenkinder Version 2.pdf>) aus dem Schulalltag an der St. Kizito
       Prim.-School.
     _template: article
 _template: news
