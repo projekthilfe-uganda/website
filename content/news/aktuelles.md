@@ -1,6 +1,6 @@
 ---
-h1: Aktuelles
-h3: Hier gibt es immer was Neues ...
+h1: Aktuelles September 2024
+h3: Aktueller Bericht von unserem Aufenthalt in unserer Projekt-Region in Uganda
 body: >
   In unseren Rundbriefen informieren wir mehrmals im Jahr über laufende Projekte
   und neue Vorhaben. Über Baufortschritte, landwirtschafltiche Projekte, neue
