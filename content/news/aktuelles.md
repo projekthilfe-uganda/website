@@ -7,8 +7,8 @@ body: >
   Begegnungen, Projekte und Erfahrungen.
 
 
-  [Aktuelles](https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/September%202024.pdf
-  "Aufenthalt September - Oktober 2024")
+  [Aktuelles](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/September-Oktober
+  2024.pdf> "Aufenthalt September - Oktober 2024")
 _template: article
 ---
 
