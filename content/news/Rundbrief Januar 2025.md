@@ -14,8 +14,8 @@ blocks:
       die großzügige Unterstützung
 
 
-      [PDF Rundbrief Januar 2025](</uploads/Rundbrief Januar 2025.pdf>
-      "Rundbrief Januar 2025")
+      [PDF Rundbrief Januar 2025](/uploads/Rundbrief_Januar_2025.pdf "Rundbrief
+      Januar 2025")
     _template: article
 _template: news
 ---
