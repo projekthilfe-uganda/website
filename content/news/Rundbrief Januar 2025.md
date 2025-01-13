@@ -3,11 +3,15 @@ title: Rundbrief Januar 2025
 date: 2025-01-12T23:00:00.000Z
 blocks:
   - body: >
-      Neue Klassenzimmer, eine Aufstockung des Jungenschlafhauses und ein
-      schönes Mädchenschlafhaus für St. Kizito. Eine Wasserzufuhr für die
-      Landwirtschaft der St. John Primary School. Der Bau eines zweiten Hauses
-      für alte bedürftige Menschen. Maismehlspenden. Und mehr. Lesen Sie, was es
-      Neues gibt.
+      Die Ausbildung zum Optiker und Optik-Lehrer beginnt auf eigenen Füßen zu
+      stehen.
+
+
+      Das Krankenhaus benötigt dringend ein neues Anästhesie-Gerät.
+
+
+      Die verschiedenen Schulen sowie die Schreiner-Werkstatt bedanken sich für
+      die großzügige Unterstützung
 
 
       [PDF Rundbrief Januar 2024](</uploads/Rundbrief Januar 2024.pdf>
