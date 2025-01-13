@@ -14,8 +14,9 @@ blocks:
       die großzügige Unterstützung
 
 
-      [PDF Rundbrief Januar 2025](/uploads/Rundbrief_Januar_2025.pdf "Rundbrief
-      Januar 2025")
+      [PDF Rundbrief Januar
+      2025](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Rundbrief
+      Januar 2025_1.pdf> "Rundbrief Januar 2025")
     _template: article
 _template: news
 ---
