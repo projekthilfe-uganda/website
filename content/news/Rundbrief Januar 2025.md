@@ -14,7 +14,7 @@ blocks:
       die großzügige Unterstützung
 
 
-      [PDF Rundbrief Januar 2024](</uploads/Rundbrief Januar 2024.pdf>
+      [PDF Rundbrief Januar 2025](</uploads/Rundbrief Januar 2024.pdf>
       "Rundbrief Januar 2024")
     _template: article
 _template: news
