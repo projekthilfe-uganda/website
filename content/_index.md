@@ -28,7 +28,7 @@ blocks:
       Familien oft nicht bezahlbar. Hinzu kommen Probleme wie
       Nahrungsmittel-Knappheit und unsauberes Wasser.
 
-      Seit 1983 arbeiten wir für die Menschen in der Region Kyambulibwa, etwa 3
+      Seit 1983 arbeiten wir für die Menschen in der Region Kyamulibwa, etwa 3
       Autostunden entfernt von der Hauptstadt Kampala. Projekthilfe,
       Entwicklungshilfe, Hilfe zur Selbsthilfe – wie auch immer Sie es nennen –
       wir haben **schon viel erreicht**, aber es gibt trotzdem noch viel zu tun.
