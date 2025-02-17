@@ -19,7 +19,7 @@ blocks:
         text: Nachhaltige Enwicklung in Uganda durch Brunnenbau
     _template: picture_slider
   - h1: Projekthilfe Uganda
-    h2: Langfristige Hilfe in der Region Kyambulibwa in Uganda
+    h2: Langfristige Hilfe in der Region Kyamulibwa in Uganda
     body: >
       Uganda zählt zu den am wenigsten entwickelten Ländern der Welt, auch wenn
       es sogar ein Wirtschaftswachstum von 5 % aufweist. Viele Menschen in
