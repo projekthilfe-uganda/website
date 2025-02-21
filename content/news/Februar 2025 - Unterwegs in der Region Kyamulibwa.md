@@ -11,7 +11,7 @@ blocks:
 
 
       [Wasser ist Leben - Ein Beitrag zur Selbsthilfe.](<> "Wasser ist Leben.
-      Wir helfen in der Regin Kyamulibwa.")
+      Wir helfen in der Region Kyamulibwa.")
     _template: article
 _template: news
 ---
