@@ -10,9 +10,8 @@ blocks:
       Bericht nachlesen:
 
 
-      [Wasser ist Leben - Ein Beitrag zur
-      Selbsthilfe.](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Februar
-      2025.pdf> "Wasser ist Leben. Wir helfen in der Regin Kyamulibwa.")
+      [Wasser ist Leben - Ein Beitrag zur Selbsthilfe.](<> "Wasser ist Leben.
+      Wir helfen in der Regin Kyamulibwa.")
     _template: article
 _template: news
 ---
