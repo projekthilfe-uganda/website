@@ -11,8 +11,7 @@ blocks:
 
 
       ["Wasser ist Leben.": Unser Aufenthalt im Februar
-      2025.](https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Februar%202025.pdf
-      "Wasser ist Leben.")
+      2025.](/uploads/02-2025.pdf "Wasser ist Leben.")
     _template: article
 _template: news
 ---
