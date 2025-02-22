@@ -8,6 +8,11 @@ blocks:
       Kyamulibwa, einer der ärmsten Gegenden Ugandas. Was man dort erlebte und
       welche Hilfsprojekte umgesetzt werden konnten, können Sie in folgendem
       Bericht nachlesen:
+
+
+      ["Wasser ist Leben.": Unser Aufenthalt im Februar
+      2025.](<https://assets.tina.io/7b7e224c-438b-4614-8828-c5817138b3f8/Februar
+      2025.pdf> "Wasser ist Leben.")
     _template: article
 _template: news
 ---
