@@ -20,15 +20,6 @@ blocks:
       Tel.: 07257 1482\
 
       E-Mail: [ChristelHenecka@gmx.de](mailto\:ChristelHenecka@gmx.de)
-
-
-      **Gerd Groß**\
-
-      Zweiter Vorsitzender\
-
-      Tel. 0171 5684547\
-
-      E-Mail: [gerdgross6591@gmail.com](mailto\:gerdgross6591@gmail.com)
     _template: article
 _template: block_page
 ---
