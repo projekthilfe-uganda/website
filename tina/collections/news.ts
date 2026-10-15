@@ -12,6 +12,11 @@ const News: Collection = {
       label: 'Header Article',
       fields: [
         {
+          type: "boolean",
+          name: "draft",
+          label: "Hidden (draft)",
+        },
+        {
           type: "string",
           name: "h1",
           label: "H1",
@@ -36,6 +41,11 @@ const News: Collection = {
       name: 'news',
       label: 'News Article',
       fields: [
+        {
+          type: "boolean",
+          name: "draft",
+          label: "Hidden (draft)",
+        },
         {
           type: "string",
           name: "title",
