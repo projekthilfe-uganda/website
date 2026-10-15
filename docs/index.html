@@ -136,8 +136,15 @@
     .top { display: block; }
   }
   @media print {
-    header.hero, nav.toc, .top { display: none; }
+    body { background: #fff; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+    summary { list-style: none; }
+    summary::-webkit-details-marker { display: none; }
+    nav.toc, .top { display: none; }
     .layout { display: block; }
+    main { max-width: none; }
+    details::details-content { content-visibility: visible; } /* Hilfe-Antworten im Ausdruck aufklappen */
+    .box, .block, tr, details, ol.steps > li { break-inside: avoid; }
+    h2, h3 { break-after: avoid; }
     details { border: none; }
     a { color: inherit; }
   }
