@@ -2,7 +2,7 @@
     <div class="row {{ if strings.HasSuffix .layout "left" }}flex-row-reverse{{end}}">
         <div class="border-primary border"></div>
         <div class="col-5 content p-5">
-            {{ transform.Markdownify .body }}
+            {{ partial "uploads.html" (transform.Markdownify .body) }}
         </div>
         <div class="col-7 picture p-0">
             <img class="picture-cover w-100" src="{{ .picture }}" alt="{{ .picture }}"/>

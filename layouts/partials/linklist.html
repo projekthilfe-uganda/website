@@ -4,7 +4,7 @@
     {{end}}
     <div class="content">
         {{ range sort .links ".order" }}
-            <a href="{{ .link }}" {{if .open_in_new_tab}}target="blank"{{end}}>{{ .text }}</a>
+            <a href="{{ partial "uploads.html" .link }}" {{if .open_in_new_tab}}target="blank"{{end}}>{{ .text }}</a>
         {{end}}
     </div>
 </div>

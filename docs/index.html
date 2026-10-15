@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Redaktionshandbuch – Projekthilfe Uganda</title>
+<title>Website-Anleitung – Projekthilfe Uganda</title>
 <style>
   :root {
     --orange: #dd7628;
@@ -14,7 +14,6 @@
     --text: #332b21;
     --muted: #6f6258;
     --line: #eadfd2;
-    --code-bg: #f6efe6;
     --warn-bg: #fff3e0;
     --warn-line: #e09a3e;
     --info-bg: #eef5f1;
@@ -31,7 +30,6 @@
       --text: #efe7de;
       --muted: #b3a597;
       --line: #3d342d;
-      --code-bg: #2f2823;
       --warn-bg: #3a2c19;
       --warn-line: #d39a4c;
       --info-bg: #1d2e26;
@@ -46,17 +44,10 @@
     margin: 0;
     background: var(--bg);
     color: var(--text);
-    font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font: 18px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
   a { color: var(--orange); }
-  code, kbd {
-    font: 0.88em ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-    background: var(--code-bg);
-    padding: 0.1em 0.35em;
-    border-radius: 4px;
-  }
-  kbd { border: 1px solid var(--line); border-bottom-width: 2px; }
-  .ui { /* Beschriftungen aus der CMS-Oberfläche */
+  .ui { /* Knöpfe und Felder aus dem Editor */
     font-weight: 600;
     background: var(--orange-soft);
     border: 1px solid var(--line);
@@ -65,170 +56,89 @@
     white-space: nowrap;
   }
 
-  header.hero {
-    background: var(--orange);
-    color: #fff;
-    padding: 2.5rem 1rem 2rem;
-  }
-  header.hero .inner { max-width: 1180px; margin: 0 auto; }
-  header.hero h1 { margin: 0 0 0.3rem; font-size: clamp(1.7rem, 4vw, 2.4rem); line-height: 1.2; }
-  header.hero p { margin: 0; opacity: 0.95; max-width: 60ch; }
+  header.hero { background: var(--orange); color: #fff; padding: 2.5rem 1rem 2rem; }
+  header.hero .inner { max-width: 1100px; margin: 0 auto; }
+  header.hero h1 { margin: 0 0 0.3rem; font-size: clamp(1.8rem, 5vw, 2.4rem); line-height: 1.2; }
+  header.hero p { margin: 0; }
 
   .layout {
-    max-width: 1180px;
+    max-width: 1100px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 250px minmax(0, 1fr);
+    grid-template-columns: 230px minmax(0, 1fr);
     gap: 3rem;
     padding: 2rem 1rem 4rem;
   }
-  nav.toc {
-    position: sticky;
-    top: 1rem;
-    align-self: start;
-    max-height: calc(100vh - 2rem);
-    overflow: auto;
-    font-size: 0.93rem;
-  }
-  nav.toc h2 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 0.5rem; }
-  nav.toc ol { list-style: none; margin: 0; padding: 0; counter-reset: toc; }
-  nav.toc li { counter-increment: toc; }
+  nav.toc { position: sticky; top: 1rem; align-self: start; max-height: calc(100vh - 2rem); overflow: auto; }
+  nav.toc h2 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 0.5rem; }
+  nav.toc ul { list-style: none; margin: 0; padding: 0; }
   nav.toc a {
     display: block;
-    padding: 0.3rem 0.6rem;
-    border-left: 3px solid transparent;
+    padding: 0.45rem 0.7rem;
+    border-left: 4px solid transparent;
     color: var(--text);
     text-decoration: none;
   }
-  nav.toc a::before { content: counter(toc) ". "; color: var(--muted); }
   nav.toc a:hover { border-left-color: var(--orange); background: var(--orange-soft); }
 
-  main { min-width: 0; }
-  main > section { padding-top: 0.5rem; margin-bottom: 3rem; scroll-margin-top: 1rem; }
-  main h2 {
-    font-size: 1.6rem;
-    margin: 0 0 1rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 2px solid var(--orange);
-  }
+  main { min-width: 0; max-width: 760px; }
+  main > section { margin-bottom: 3.5rem; scroll-margin-top: 1rem; }
+  main h2 { font-size: 1.6rem; margin: 0 0 1rem; padding-bottom: 0.4rem; border-bottom: 2px solid var(--orange); }
   main h3 { font-size: 1.2rem; margin: 2rem 0 0.6rem; }
-  main p, main li { max-width: 72ch; }
 
-  .box {
-    border-left: 4px solid var(--info-line);
-    background: var(--info-bg);
-    padding: 0.8rem 1rem;
-    border-radius: 0 6px 6px 0;
-    margin: 1.2rem 0;
-  }
+  .box { border-left: 5px solid var(--info-line); background: var(--info-bg); padding: 0.9rem 1.1rem; border-radius: 0 8px 8px 0; margin: 1.2rem 0; }
   .box.warn { border-color: var(--warn-line); background: var(--warn-bg); }
   .box.danger { border-color: var(--danger-line); background: var(--danger-bg); }
   .box > :first-child { margin-top: 0; }
   .box > :last-child { margin-bottom: 0; }
-  .box strong:first-child { display: block; margin-bottom: 0.2rem; }
+  .box ul { padding-left: 1.2rem; }
 
   ol.steps { counter-reset: step; list-style: none; padding: 0; }
-  ol.steps > li {
-    counter-increment: step;
-    position: relative;
-    padding: 0 0 1rem 2.6rem;
-  }
+  ol.steps > li { counter-increment: step; position: relative; padding: 0.15rem 0 1rem 3rem; }
   ol.steps > li::before {
     content: counter(step);
-    position: absolute;
-    left: 0; top: 0;
-    width: 1.8rem; height: 1.8rem;
+    position: absolute; left: 0; top: 0;
+    width: 2.1rem; height: 2.1rem;
     border-radius: 50%;
-    background: var(--orange);
-    color: #fff;
+    background: var(--orange); color: #fff;
     font-weight: 700;
-    font-size: 0.9rem;
-    display: grid;
-    place-items: center;
+    display: grid; place-items: center;
   }
 
-  .flow {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 0.75rem;
-    margin: 1.5rem 0;
-    counter-reset: flow;
-  }
-  .flow div {
-    position: relative;
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-top: 4px solid var(--orange);
-    border-radius: 6px;
-    padding: 0.8rem;
-    font-size: 0.92rem;
-  }
-  .flow div b { display: block; margin-bottom: 0.2rem; }
-  .flow div:not(:last-child)::after {
-    content: "→";
-    position: absolute;
-    right: -0.7rem; top: 50%;
-    transform: translateY(-50%);
-    color: var(--orange);
-    font-weight: 700;
-    z-index: 1;
-  }
-
-  .table-wrap { overflow-x: auto; margin: 1rem 0; }
-  table { border-collapse: collapse; width: 100%; font-size: 0.93rem; }
+  table { border-collapse: collapse; width: 100%; margin: 0.5rem 0; }
   th, td { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); vertical-align: top; }
   th { background: var(--orange-soft); }
+  td.sub { padding-left: 2rem; }
 
-  .blocks {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-    gap: 1rem;
-    margin: 1rem 0;
-  }
-  .block {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    padding: 1rem;
-  }
+  .blocks { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; margin: 1rem 0; }
+  .block { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 1rem; }
   .block svg { width: 100%; height: auto; display: block; margin-bottom: 0.7rem; color: var(--muted); }
   .block svg .acc { fill: var(--orange); opacity: 0.85; }
   .block svg .pic { fill: var(--orange-soft); stroke: var(--orange); }
-  .block h4 { margin: 0 0 0.3rem; font-size: 1.05rem; }
-  .block p { margin: 0 0 0.5rem; font-size: 0.93rem; }
-  .block ul { margin: 0; padding-left: 1.1rem; font-size: 0.9rem; color: var(--muted); }
+  .block h3 { margin: 0 0 0.3rem; font-size: 1.1rem; }
+  .block p { margin: 0 0 0.5rem; }
+  .block ul { margin: 0; padding-left: 1.1rem; font-size: 0.95rem; color: var(--muted); }
 
-  details {
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    background: var(--surface);
-    margin: 0.6rem 0;
-  }
-  summary { cursor: pointer; padding: 0.7rem 1rem; font-weight: 600; }
+  details { border: 1px solid var(--line); border-radius: 8px; background: var(--surface); margin: 0.6rem 0; }
+  summary { cursor: pointer; padding: 0.8rem 1rem; font-weight: 600; }
   details > div { padding: 0 1rem 0.8rem; }
 
   ul.check { list-style: none; padding: 0; }
-  ul.check li { padding-left: 1.8rem; position: relative; margin-bottom: 0.4rem; }
-  ul.check li::before { content: "☐"; position: absolute; left: 0; color: var(--orange); font-size: 1.1em; line-height: 1.5; }
+  ul.check li { padding-left: 2rem; position: relative; margin-bottom: 0.5rem; }
+  ul.check li::before { content: "☐"; position: absolute; left: 0; color: var(--orange); font-size: 1.2em; line-height: 1.4; }
 
-  footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; padding: 1.5rem 1rem; text-align: center; }
+  .top { display: none; font-size: 0.9rem; } /* Menü links ist immer sichtbar, nur auf dem Handy nötig */
+  footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; padding: 1.5rem 1rem; text-align: center; }
 
   @media (max-width: 860px) {
     .layout { grid-template-columns: 1fr; gap: 1.5rem; }
     nav.toc { position: static; max-height: none; border: 1px solid var(--line); border-radius: 8px; padding: 1rem; background: var(--surface); }
-    .flow { grid-template-columns: 1fr 1fr; }
-    .flow div:nth-child(2)::after { content: none; }
-  }
-  @media (max-width: 480px) {
-    body { font-size: 16px; }
-    .flow { grid-template-columns: 1fr; }
-    .flow div::after { content: none !important; }
+    .top { display: block; }
   }
   @media print {
-    nav.toc, header.hero { display: none; }
+    header.hero, nav.toc, .top { display: none; }
     .layout { display: block; }
     details { border: none; }
-    details > div { padding: 0; }
     a { color: inherit; }
   }
 </style>
@@ -237,440 +147,435 @@
 
 <header class="hero">
   <div class="inner">
-    <h1>Redaktionshandbuch</h1>
-    <p>So pflegen Sie die Website von Projekthilfe Uganda e.&nbsp;V. mit dem Redaktionssystem TinaCMS – vom Login bis zum fertigen Rundbrief.</p>
+    <h1>Website-Anleitung</h1>
+    <p>So ändern Sie Texte und Bilder auf projekthilfe-uganda.de. Schritt für Schritt.</p>
   </div>
 </header>
 
 <div class="layout">
-  <nav class="toc" aria-label="Inhalt">
-    <h2>Inhalt</h2>
-    <ol>
-      <li><a href="#ueberblick">So funktioniert die Website</a></li>
-      <li><a href="#zugang">Zugang &amp; Anmeldung</a></li>
-      <li><a href="#oberflaeche">Die Oberfläche</a></li>
-      <li><a href="#bearbeiten">Eine Seite bearbeiten</a></li>
-      <li><a href="#entwurf">Entwürfe verstecken</a></li>
-      <li><a href="#seitentypen">Seitentypen</a></li>
-      <li><a href="#bausteine">Bausteine (Blocks)</a></li>
-      <li><a href="#text">Texte formatieren</a></li>
-      <li><a href="#news">Neuigkeit / Rundbrief</a></li>
-      <li><a href="#medien">Bilder &amp; PDFs</a></li>
+  <nav class="toc" id="inhalt" aria-label="Inhalt">
+    <h2>Was möchten Sie tun?</h2>
+    <ul>
+      <li><a href="#start">Das Wichtigste</a></li>
+      <li><a href="#anmelden">Anmelden</a></li>
+      <li><a href="#seiten">Wo finde ich was?</a></li>
+      <li><a href="#bausteine">Bausteine</a></li>
+      <li><a href="#text">Text ändern</a></li>
+      <li><a href="#bild">Bild einfügen</a></li>
+      <li><a href="#neuigkeit">Neuigkeit schreiben</a></li>
+      <li><a href="#verstecken">Seite verstecken</a></li>
       <li><a href="#neue-seite">Neue Seite anlegen</a></li>
-      <li><a href="#spenden">Spendenshop</a></li>
-      <li><a href="#veroeffentlichen">Veröffentlichung</a></li>
-      <li><a href="#probleme">Probleme &amp; Lösungen</a></li>
-      <li><a href="#checkliste">Checkliste</a></li>
-    </ol>
+      <li><a href="#spenden">Spenden ändern</a></li>
+      <li><a href="#medien">Mediathek</a></li>
+      <li><a href="#hilfe">Hilfe, es klappt nicht</a></li>
+      <li><a href="#checkliste">Vor dem Speichern</a></li>
+    </ul>
   </nav>
 
-  <main>
+<main>
 
-    <section id="ueberblick">
-      <h2>So funktioniert die Website</h2>
-      <p>Die Inhalte der Website liegen als Textdateien in einem Projektarchiv auf GitHub. TinaCMS ist ein Formular-Editor für genau diese Dateien. Sie brauchen also keine Programmierkenntnisse: Sie füllen Felder aus, klicken auf <span class="ui">Save</span>, und der Rest passiert automatisch.</p>
+  <section id="start">
+    <h2>Das Wichtigste zuerst</h2>
+    <div class="box warn">
+      <p><strong>Speichern heißt: für alle sichtbar.</strong><br>
+      Nach dem Klick auf <span class="ui">Save</span> steht Ihre Änderung nach etwa 5 Minuten im Internet.</p>
+    </div>
+    <div class="box">
+      <p><strong>Keine Angst vor Fehlern.</strong><br>
+      Jeder alte Stand wird aufbewahrt. Der technische Ansprechpartner kann alles zurückholen.</p>
+    </div>
+    <p>Die Knöpfe im Editor sind auf Englisch. In dieser Anleitung sehen sie so aus: <span class="ui">Save</span>.</p>
+  </section>
 
-      <div class="flow" role="list">
-        <div role="listitem"><b>1. Bearbeiten</b>Sie ändern Texte und Bilder unter <code>/admin</code>.</div>
-        <div role="listitem"><b>2. Speichern</b><span class="ui">Save</span> legt die Änderung im Archiv auf GitHub ab.</div>
-        <div role="listitem"><b>3. Bauen</b>GitHub erzeugt daraus automatisch die neue Website.</div>
-        <div role="listitem"><b>4. Online</b>Nach ca. 2–5 Minuten ist die Änderung sichtbar.</div>
-      </div>
+  <section id="anmelden">
+    <h2>Anmelden</h2>
+    <ol class="steps">
+      <li>Öffnen Sie <a href="https://projekthilfe-uganda.de/admin">projekthilfe-uganda.de/admin</a>.</li>
+      <li>Klicken Sie auf <span class="ui">Log in</span>.</li>
+      <li>Geben Sie Ihre E-Mail und Ihr Passwort ein.</li>
+    </ol>
+    <p>Noch kein Konto? Fragen Sie den technischen Ansprechpartner. Sie bekommen dann eine Einladung per E-Mail.</p>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
 
-      <div class="box warn">
-        <strong>Speichern heißt veröffentlichen</strong>
-        Es gibt keine Freigabe durch eine zweite Person. Alles, was Sie speichern, ist wenige Minuten später öffentlich – außer Sie haben vorher den Haken <span class="ui">Hidden (draft)</span> gesetzt (siehe <a href="#entwurf">Entwürfe verstecken</a>).
-      </div>
+  <section id="seiten">
+    <h2>Wo finde ich was?</h2>
+    <div class="box">
+      <p><strong>Zuerst das Menü öffnen.</strong><br>
+      Das Menü ist am Anfang zu. Klicken Sie oben links auf das Symbol <span class="ui">☰</span>.</p>
+    </div>
+    <p>Im Menü gibt es drei Bereiche:</p>
+    <table>
+      <tr><td><span class="ui">Pages</span></td><td>Alle Seiten der Website</td></tr>
+      <tr><td><span class="ui">Aktuelles</span></td><td>Neuigkeiten und Rundbriefe</td></tr>
+      <tr><td><span class="ui">Media Manager</span></td><td>Alle Bilder und PDFs (siehe <a href="#medien">Mediathek</a>)</td></tr>
+    </table>
 
-      <div class="box">
-        <strong>Nichts geht verloren</strong>
-        Jede gespeicherte Änderung wird mit Datum protokolliert. Haben Sie versehentlich etwas gelöscht, kann der technische Ansprechpartner den alten Stand wiederherstellen.
-      </div>
-    </section>
-
-    <section id="zugang">
-      <h2>Zugang &amp; Anmeldung</h2>
-      <h3>Zugang beantragen</h3>
-      <p>Sie benötigen ein Benutzerkonto bei <em>Tina Cloud</em>. Bitten Sie eine Person mit Administratorrechten, Sie mit Ihrer E-Mail-Adresse in das Projekt einzuladen. Sie erhalten dann eine Einladungs-E-Mail, über die Sie ein Passwort festlegen.</p>
-
-      <h3>Anmelden</h3>
-      <ol class="steps">
-        <li>Öffnen Sie <a href="https://projekthilfe-uganda.de/admin">projekthilfe-uganda.de/admin</a>.</li>
-        <li>Klicken Sie auf <span class="ui">Log in</span> bzw. <span class="ui">Enter Edit Mode</span>. Es öffnet sich ein Anmeldefenster – erlauben Sie ggf. Pop-ups für diese Seite.</li>
-        <li>Melden Sie sich mit Ihrem Tina-Cloud-Konto an. Danach sehen Sie die Redaktionsoberfläche.</li>
-      </ol>
-      <p>Zum Abmelden nutzen Sie <span class="ui">Log Out</span> im Menü der linken Leiste. Die Oberfläche ist auf Englisch; dieses Handbuch nennt die Schaltflächen daher mit ihrem englischen Namen.</p>
-    </section>
-
-    <section id="oberflaeche">
-      <h2>Die Oberfläche</h2>
-      <p>Links finden Sie unter <span class="ui">Collections</span> zwei Bereiche sowie den <span class="ui">Media Manager</span>:</p>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Bereich</th><th>Was steckt darin?</th></tr></thead>
-          <tbody>
-            <tr><td><span class="ui">Pages</span></td><td>Alle festen Seiten: Startseite, Verein, Projekte, Helfen, Spenden, Impressum, Datenschutz.</td></tr>
-            <tr><td><span class="ui">Aktuelles</span></td><td>Neuigkeiten und Rundbriefe für die Seite <a href="https://projekthilfe-uganda.de/news/">Aktuelles</a>.</td></tr>
-            <tr><td><span class="ui">Media Manager</span></td><td>Alle hochgeladenen Bilder und PDFs.</td></tr>
-          </tbody>
-        </table>
-      </div>
-
-      <h3>Welche Datei ist welche Seite?</h3>
-      <p>Die Dateinamen in der Liste entsprechen der Adresse der Seite:</p>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Datei in „Pages“</th><th>Seite auf der Website</th></tr></thead>
-          <tbody>
-            <tr><td><code>_index</code></td><td>Startseite</td></tr>
-            <tr><td><code>verein</code>, <code>projekte</code>, <code>helfen</code></td><td>Übersichtsseiten der Hauptmenüpunkte</td></tr>
-            <tr><td>Ordner <code>verein/</code></td><td>Unterseiten von „Unser Verein“ (z.&nbsp;B. <code>kontakt</code> → /verein/kontakt)</td></tr>
-            <tr><td>Ordner <code>projekte/</code></td><td>Unterseiten von „Unsere Projekte“ (z.&nbsp;B. <code>schulprojekte</code>)</td></tr>
-            <tr><td>Ordner <code>helfen/</code></td><td><code>patenschaft</code>, <code>mitarbeit</code></td></tr>
-            <tr><td><code>spenden</code></td><td>Spendenseite mit Spendenshop</td></tr>
-            <tr><td><code>impressum</code>, <code>datenschutz</code></td><td>Impressum und Datenschutzerklärung</td></tr>
-            <tr><td>Ordner <code>cart/</code></td><td>Technische Warenkorb-Seite – <strong>bitte nicht bearbeiten</strong></td></tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
-
-    <section id="bearbeiten">
-      <h2>Eine Seite bearbeiten</h2>
-      <ol class="steps">
-        <li>Wählen Sie links <span class="ui">Pages</span> oder <span class="ui">Aktuelles</span> und klicken Sie auf die gewünschte Datei.</li>
-        <li>Rechts erscheint ein Formular mit den Feldern der Seite. Bei Seiten aus Bausteinen sehen Sie eine Liste der Bausteine – klicken Sie auf einen, um ihn zu öffnen. Über den Pfeil oben kommen Sie zurück zur Liste.</li>
-        <li>Ändern Sie Texte, Bilder oder die Reihenfolge der Bausteine.</li>
-        <li>Klicken Sie auf <span class="ui">Save</span>. Solange noch nicht gespeichert ist, zeigt Tina den Hinweis <span class="ui">Unsaved changes</span>.</li>
-        <li>Prüfen Sie nach ca. 5 Minuten die Seite auf der Website (siehe <a href="#veroeffentlichen">Veröffentlichung</a>).</li>
-      </ol>
-      <div class="box">
-        <strong>Kein Live-Vorschaubild</strong>
-        Der Editor zeigt nur das Formular, keine Vorschau der fertigen Seite. Öffnen Sie die echte Seite am besten in einem zweiten Browser-Tab, um zu sehen, welcher Baustein wo erscheint.
-      </div>
-
-      <h3>Bausteine verwalten</h3>
+    <h3>Welche Seite heißt wie?</h3>
+    <div class="box warn">
+      <p><strong>Achtung: Manche Namen stehen zweimal in der Liste.</strong><br>
+      Zum Beispiel <b>verein</b>. Einmal ist es ein <b>Ordner</b>, einmal eine <b>Seite</b>.</p>
       <ul>
-        <li><strong>Hinzufügen:</strong> Mit dem <kbd>+</kbd> an der Bausteinliste einen neuen Baustein wählen. Er wird unten angefügt.</li>
-        <li><strong>Verschieben:</strong> Am Griff links neben dem Baustein ziehen und an der neuen Stelle loslassen.</li>
-        <li><strong>Löschen:</strong> Über das Papierkorb-Symbol des Bausteins. Erst <span class="ui">Save</span> macht das Löschen endgültig – bis dahin können Sie die Seite einfach neu laden, ohne zu speichern.</li>
+        <li>Sie wollen die Seite „Unser Verein“ ändern?<br>Klicken Sie auf die <b>Seite</b> verein.</li>
+        <li>Sie wollen eine Unterseite des Hauptmenüpunkts „Unser Verein“ ändern, z.&nbsp;B. „Kontakt“?<br>Öffnen Sie den <b>Ordner</b> verein. Darin finden Sie die Seite kontakt.</li>
       </ul>
-    </section>
+      <p>Ordner erkennen Sie am Ordner-Symbol. Genauso ist es bei <b>projekte</b> und <b>helfen</b>.</p>
+    </div>
+    <p>Links steht der Menüpunkt auf der Website. Rechts steht der Name in <span class="ui">Pages</span>.</p>
+    <p><b>verein › kontakt</b> heißt: erst den Ordner <b>verein</b> öffnen, dann <b>kontakt</b> anklicken.</p>
+    <table>
+      <thead><tr><th>Auf der Website</th><th>Im Editor</th></tr></thead>
+      <tbody>
+        <tr><td><b>Startseite</b></td><td>_index</td></tr>
 
-    <section id="entwurf">
-      <h2>Entwürfe verstecken (Hidden)</h2>
-      <p>Seiten (<span class="ui">Block Page</span>, <span class="ui">Simple Page</span>) und Neuigkeiten (<span class="ui">News Article</span>, <span class="ui">Header Article</span>) haben ganz oben im Formular das Kästchen <span class="ui">Hidden (draft)</span>. Ist der Haken gesetzt, bleibt der Inhalt im CMS gespeichert, erscheint aber nicht auf der Website.</p>
+        <tr><td><b>Unser Verein</b></td><td>verein</td></tr>
+        <tr><td class="sub">Kontakt</td><td>verein › kontakt</td></tr>
+        <tr><td class="sub">Hilfseinsätze vor Ort</td><td>verein › hilfseinsaetze</td></tr>
+        <tr><td class="sub">Verwaltungsstruktur Uganda</td><td>verein › verwaltungsstruktur-uganda</td></tr>
+        <tr><td class="sub">Bilder &amp; Videos</td><td>verein › bilder-videos</td></tr>
+        <tr><td class="sub">Aktionen in Büchenau</td><td>verein › aktionen-buechenau</td></tr>
+        <tr><td class="sub">Hof-Trödel in Bengelshagen</td><td>verein › hof-troedel-bengelshagen</td></tr>
+        <tr><td class="sub">Auszeichnungen</td><td>verein › auszeichnungen</td></tr>
 
-      <h3>Wofür?</h3>
+        <tr><td><b>Unsere Projekte</b></td><td>projekte</td></tr>
+        <tr><td class="sub">Schulprojekte</td><td>projekte › schulprojekte</td></tr>
+        <tr><td class="sub">Berufsausbildungen</td><td>projekte › berufsausbildungen</td></tr>
+        <tr><td class="sub">Patenschaften</td><td>projekte › patenschaften</td></tr>
+        <tr><td class="sub">Gesundheitsversorgung</td><td>projekte › gesundheitsversorgung</td></tr>
+        <tr><td class="sub">Wasserversorgung</td><td>projekte › wasserversorgung</td></tr>
+        <tr><td class="sub">Agrar-Hilfsprogramm für Kleinbauern</td><td>projekte › hilfsprogramm-kleinbauern</td></tr>
+        <tr><td class="sub">Selbsthilfegruppen</td><td>projekte › selbsthilfegruppen</td></tr>
+        <tr><td class="sub">Caritas für die Ärmsten</td><td>projekte › caritas</td></tr>
+        <tr><td class="sub">Glockenturm</td><td>projekte › glockenturm</td></tr>
+
+        <tr><td><b>So können Sie helfen</b></td><td>helfen</td></tr>
+        <tr><td class="sub">Patenschaft</td><td>helfen › patenschaft</td></tr>
+        <tr><td class="sub">Spendenshop</td><td>spenden</td></tr>
+        <tr><td class="sub">Mitarbeit</td><td>helfen › mitarbeit</td></tr>
+
+        <tr><td><b>Aktuelles</b></td><td>Bereich <span class="ui">Aktuelles</span>, nicht in Pages</td></tr>
+        <tr><td><b>Impressum</b></td><td>impressum</td></tr>
+        <tr><td><b>Datenschutz</b></td><td>datenschutz</td></tr>
+      </tbody>
+    </table>
+    <p>Im Bereich <span class="ui">Aktuelles</span> ist <b>aktuelles</b> der Text ganz oben auf der Seite. Alle anderen sind Neuigkeiten.</p>
+    <div class="box danger">
+      <p>Den Ordner <span class="ui">cart</span> bitte nie öffnen oder ändern. Er gehört zum Warenkorb.</p>
+    </div>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="bausteine">
+    <h2>Bausteine</h2>
+    <p>Jede Seite besteht aus <b>Bausteinen</b>. Ein Baustein ist ein Stück der Seite, zum Beispiel ein Text oder eine Bildergalerie.</p>
+    <p>Auf der Website stehen die Bausteine untereinander. Die Reihenfolge ist dieselbe wie im Editor.</p>
+    <div class="box">
+      <p><strong>Was kann ich mit Bausteinen machen?</strong></p>
       <ul>
-        <li>Eine neue Seite oder einen Rundbrief in mehreren Etappen vorbereiten und Zwischenstände speichern.</li>
-        <li>Einen Inhalt vorübergehend offline nehmen, ohne ihn zu löschen – z.&nbsp;B. eine abgeschlossene Aktion.</li>
+        <li><b>Hinzufügen:</b> Auf <b>+</b> klicken. Der neue Baustein kommt ganz nach unten.</li>
+        <li><b>Verschieben:</b> Links am Baustein festhalten und an die neue Stelle ziehen.</li>
+        <li><b>Löschen:</b> Auf den Papierkorb klicken. Erst mit <span class="ui">Save</span> ist er wirklich weg.</li>
       </ul>
+    </div>
 
-      <h3>So geht's</h3>
-      <ol class="steps">
-        <li>Haken bei <span class="ui">Hidden (draft)</span> setzen und <span class="ui">Save</span> klicken. Nach 2–5 Minuten ist der Inhalt von der Website verschwunden (bzw. erscheint bei einer neuen Seite gar nicht erst).</li>
-        <li>Weiter bearbeiten und beliebig oft speichern – solange der Haken gesetzt ist, bleibt alles unsichtbar.</li>
-        <li>Fertig? Haken entfernen und <span class="ui">Save</span> klicken. Nach 2–5 Minuten ist der Inhalt online.</li>
-      </ol>
-
-      <div class="box warn">
-        <strong>Was „Hidden“ nicht kann</strong>
+    <div class="blocks">
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <rect class="acc" x="20" y="14" width="140" height="12" rx="2"/>
+          <rect x="20" y="34" width="100" height="8" rx="2" fill="currentColor" opacity=".55"/>
+          <g fill="currentColor" opacity=".3"><rect x="20" y="54" width="200" height="6" rx="2"/><rect x="20" y="66" width="190" height="6" rx="2"/><rect x="20" y="78" width="200" height="6" rx="2"/><rect x="20" y="90" width="130" height="6" rx="2"/></g>
+        </svg>
+        <h3>Article</h3>
+        <p>Überschrift und Text. Der normale Baustein.</p>
         <ul>
-          <li><b>Keine Vorschau:</b> Versteckte Inhalte sehen auch Sie nur im Editor-Formular, nicht als fertige Seite.</li>
-          <li><b>Nicht geheim:</b> Die Dateien liegen in einem öffentlich einsehbaren GitHub-Archiv. Wer gezielt sucht, kann auch versteckte Entwürfe lesen. Vertrauliches gehört nicht in Entwürfe.</li>
-          <li><b>Nur ganze Seiten:</b> Einzelne Bausteine lassen sich nicht verstecken. Die Spendenseite (<span class="ui">Shop</span>) hat keinen Haken.</li>
-          <li><b>Links führen ins Leere:</b> Steht die Seite im Hauptmenü oder ist sie von einer anderen Seite verlinkt, landen Besucher dort auf „Seite nicht gefunden“. Bei Menüseiten vorher den technischen Ansprechpartner fragen.</li>
+          <li><b>h1</b> große, <b>h2</b> mittlere, <b>h3</b> kleine Überschrift. Alle sind freiwillig.</li>
+          <li><b>Body</b>: der Text</li>
         </ul>
       </div>
 
-      <div class="box danger">
-        <strong>Niemals verstecken</strong>
-        Startseite (<code>_index</code>), <code>impressum</code> und <code>datenschutz</code>. Impressum und Datenschutzerklärung sind gesetzlich vorgeschrieben und müssen immer erreichbar sein.
-      </div>
-    </section>
-
-    <section id="seitentypen">
-      <h2>Seitentypen</h2>
-      <p>Beim Anlegen einer Datei wählen Sie einen Seitentyp (in Tina „Template“). Er bestimmt, welche Felder es gibt. Den Typ einer bestehenden Seite ändern Sie nicht nachträglich.</p>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Typ</th><th>Wofür</th><th>Felder</th></tr></thead>
-          <tbody>
-            <tr><td><span class="ui">Block Page</span></td><td>Fast alle Seiten. Die Seite wird aus <a href="#bausteine">Bausteinen</a> zusammengesetzt.</td><td>Hidden (draft), Page Blocks</td></tr>
-            <tr><td><span class="ui">Simple Page</span></td><td>Reine Textseiten wie Impressum und Datenschutz.</td><td>Hidden (draft), Body (ein Textfeld)</td></tr>
-            <tr><td><span class="ui">Shop</span></td><td>Nur die Spendenseite.</td><td>H1–H3, Body, Shop Items (siehe <a href="#spenden">Spendenshop</a>)</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <p>Im Bereich <span class="ui">Aktuelles</span> gibt es <span class="ui">News Article</span> (eine Neuigkeit) und <span class="ui">Header Article</span> (der feste Einleitungstext oben auf der Seite „Aktuelles“, Datei <code>aktuelles</code>).</p>
-    </section>
-
-    <section id="bausteine">
-      <h2>Bausteine (Blocks)</h2>
-      <p>Seiten vom Typ <span class="ui">Block Page</span> und Neuigkeiten bestehen aus diesen Bausteinen. Sie erscheinen auf der Website untereinander in der Reihenfolge der Liste – mit einer Ausnahme: dem Bilder-Slider.</p>
-
-      <div class="blocks">
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <rect class="acc" x="20" y="14" width="140" height="12" rx="2"/>
-            <rect x="20" y="34" width="100" height="8" rx="2" fill="currentColor" opacity=".55"/>
-            <g fill="currentColor" opacity=".3"><rect x="20" y="54" width="200" height="6" rx="2"/><rect x="20" y="66" width="190" height="6" rx="2"/><rect x="20" y="78" width="200" height="6" rx="2"/><rect x="20" y="90" width="130" height="6" rx="2"/></g>
-          </svg>
-          <h4>Article</h4>
-          <p>Überschriften und Fließtext – der Standard-Baustein.</p>
-          <ul>
-            <li><b>h1</b> große, <b>h2</b> mittlere, <b>h3</b> kleine Überschrift – alle optional</li>
-            <li><b>Body</b>: formatierter Text, Links, Listen</li>
-          </ul>
-        </div>
-
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <g fill="currentColor" opacity=".3"><rect x="14" y="30" width="80" height="6" rx="2"/><rect x="14" y="42" width="72" height="6" rx="2"/><rect x="14" y="54" width="80" height="6" rx="2"/><rect x="14" y="66" width="60" height="6" rx="2"/></g>
-            <rect class="pic" x="108" y="10" width="120" height="90" rx="4"/>
-            <path d="M118 90l30-34 22 22 14-14 34 26z" class="acc"/>
-          </svg>
-          <h4>Article with Picture</h4>
-          <p>Text neben einem großen Bild.</p>
-          <ul>
-            <li><b>Title</b>: nur zur Orientierung im Editor</li>
-            <li><b>Picture</b>: das Bild</li>
-            <li><b>Layout</b>: <code>pic-right</code> (Bild rechts) oder <code>pic-left</code> (Bild links) – Pflichtfeld</li>
-          </ul>
-        </div>
-
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <rect class="pic" x="8" y="10" width="224" height="90" rx="4"/>
-            <path d="M8 100l60-50 40 34 30-24 94 40z" class="acc"/>
-            <circle cx="104" cy="92" r="3" class="acc"/><circle cx="116" cy="92" r="3" fill="currentColor" opacity=".4"/><circle cx="128" cy="92" r="3" fill="currentColor" opacity=".4"/>
-            <path d="M22 55l-8-0" stroke="currentColor"/><path d="M18 48l-6 7 6 7M222 48l6 7-6 7" stroke="currentColor" stroke-width="2" fill="none"/>
-          </svg>
-          <h4>Picture Slider</h4>
-          <p>Wechselnde Großbilder ganz oben auf der Seite, direkt unter dem Menü.</p>
-          <ul>
-            <li>Erscheint <b>immer oben</b>, egal an welcher Stelle der Liste er steht</li>
-            <li>Pro Seite nur <b>einen</b> Slider verwenden</li>
-            <li>Je Slide: <b>Name</b>, <b>Picture</b>, <b>Text</b> (Text wird derzeit nicht angezeigt)</li>
-            <li>Querformat-Bilder verwenden</li>
-          </ul>
-        </div>
-
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <rect class="pic" x="10" y="10" width="50" height="42" rx="3"/><rect class="acc" x="60" y="10" width="50" height="42" rx="3" opacity=".35"/>
-            <rect class="acc" x="130" y="10" width="50" height="42" rx="3" opacity=".6"/><rect class="pic" x="180" y="10" width="50" height="42" rx="3"/>
-            <rect class="acc" x="10" y="58" width="50" height="42" rx="3" opacity=".9"/><rect class="pic" x="60" y="58" width="50" height="42" rx="3"/>
-            <rect class="pic" x="130" y="58" width="50" height="42" rx="3"/><rect class="acc" x="180" y="58" width="50" height="42" rx="3" opacity=".35"/>
-          </svg>
-          <h4>Teaser Block</h4>
-          <p>Kacheln aus Bild + kurzem Text, z.&nbsp;B. als Einstieg zu Unterseiten.</p>
-          <ul>
-            <li><b>Name</b>: nur zur Orientierung im Editor</li>
-            <li>Je Teaser: <b>Name</b>, <b>Text</b> (mit Link zur Unterseite), <b>Picture</b></li>
-            <li>Farben und Bild-links/rechts wechseln automatisch</li>
-          </ul>
-        </div>
-
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <rect class="acc" x="12" y="8" width="90" height="10" rx="2"/>
-            <rect x="12" y="24" width="216" height="1.5" fill="currentColor" opacity=".4"/>
-            <g class="pic"><rect x="12" y="34" width="48" height="32" rx="3"/><rect x="68" y="34" width="48" height="32" rx="3"/><rect x="124" y="34" width="48" height="32" rx="3"/><rect x="180" y="34" width="48" height="32" rx="3"/><rect x="12" y="72" width="48" height="32" rx="3"/><rect x="68" y="72" width="48" height="32" rx="3"/></g>
-          </svg>
-          <h4>Gallery</h4>
-          <p>Bildergalerie mit Vorschaubildern; ein Klick vergrößert das Bild.</p>
-          <ul>
-            <li><b>Gallery Title</b>: Überschrift über der Galerie</li>
-            <li>Je Bild: <b>Title</b>, <b>Picture</b>, <b>Alt Tag</b> (kurze Bildbeschreibung für blinde Nutzer – bitte ausfüllen)</li>
-          </ul>
-        </div>
-
-        <div class="block">
-          <svg viewBox="0 0 240 110" aria-hidden="true">
-            <rect class="acc" x="20" y="14" width="110" height="12" rx="2"/>
-            <g fill="var(--orange)"><rect x="20" y="42" width="120" height="7" rx="2"/><rect x="20" y="58" width="150" height="7" rx="2"/><rect x="20" y="74" width="95" height="7" rx="2"/><rect x="20" y="90" width="135" height="7" rx="2"/></g>
-          </svg>
-          <h4>Link List</h4>
-          <p>Eine Liste von Links, z.&nbsp;B. zu Videos oder Partnerseiten.</p>
-          <ul>
-            <li><b>Title</b>: Überschrift (optional)</li>
-            <li>Je Link: <b>Link</b> (Adresse), <b>Text</b>, <b>open in new tab</b></li>
-            <li>Externe Links: vollständige Adresse mit <code>https://</code></li>
-          </ul>
-        </div>
-      </div>
-    </section>
-
-    <section id="text">
-      <h2>Texte formatieren</h2>
-      <p>Textfelder wie <b>Body</b> haben eine Werkzeugleiste ähnlich wie in Word. Nutzen Sie bitte nur diese Formatierungen – die Website kümmert sich um Schrift und Farben.</p>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Was</th><th>Wie</th><th>Hinweis</th></tr></thead>
-          <tbody>
-            <tr><td>Fett / kursiv</td><td>Werkzeugleiste oder <kbd>Strg</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> / <kbd>I</kbd></td><td>Sparsam einsetzen.</td></tr>
-            <tr><td>Zwischenüberschrift</td><td>Überschriften-Menü der Werkzeugleiste</td><td>Für Überschriften innerhalb eines Textes. Die Hauptüberschrift gehört ins Feld h1/h2/h3.</td></tr>
-            <tr><td>Aufzählung</td><td>Listen-Symbol</td><td>Statt Spiegelstriche oder „•“ von Hand zu tippen.</td></tr>
-            <tr><td>Link</td><td>Text markieren → Link-Symbol</td><td>Intern: <code>/projekte/schulprojekte</code><br>Extern: <code>https://…</code><br>E-Mail: <code>mailto:info@projekthilfe-uganda.de</code></td></tr>
-            <tr><td>PDF verlinken</td><td>Link auf <code>/uploads/dateiname.pdf</code></td><td>PDF vorher hochladen, siehe <a href="#medien">Bilder &amp; PDFs</a>.</td></tr>
-            <tr><td>Absatz</td><td><kbd>Enter</kbd></td><td>Neuer Absatz mit Abstand.</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <div class="box warn">
-        <strong>Text aus Word oder E-Mails einfügen</strong>
-        Kopierter Text bringt oft unsichtbare Formatierungen mit. Fügen Sie ihn mit <kbd>Strg</kbd>/<kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> als reinen Text ein und formatieren Sie danach im Editor.
-      </div>
-    </section>
-
-    <section id="news">
-      <h2>Neuigkeit oder Rundbrief veröffentlichen</h2>
-      <p>Neuigkeiten erscheinen auf der Seite <a href="https://projekthilfe-uganda.de/news/">Aktuelles</a> vollständig untereinander, die neueste oben. Sortiert wird nach dem Feld <b>Date</b>.</p>
-      <ol class="steps">
-        <li>Links <span class="ui">Aktuelles</span> öffnen, oben rechts <span class="ui">Create New</span> klicken und <span class="ui">News Article</span> wählen.</li>
-        <li><b>Filename</b> vergeben – am besten Datum und Thema ohne Leer- und Sonderzeichen, z.&nbsp;B. <code>2025-11-rundbrief</code>.</li>
-        <li><b>Title</b> (Überschrift), <b>Date</b> (Datum) und optional <b>Subtitle</b> (Unterzeile) ausfüllen. Soll der Beitrag erst später erscheinen, den Haken <span class="ui">Hidden (draft)</span> setzen (siehe <a href="#entwurf">Entwürfe</a>).</li>
-        <li>Unter <b>News Blocks</b> mit <kbd>+</kbd> einen Baustein hinzufügen – meist <span class="ui">Article</span> für Text oder <span class="ui">Gallery</span> für Bilder. Die Überschrift kommt schon aus <b>Title</b>; die Felder h1–h3 im Baustein bleiben meist leer.</li>
-        <li>Für einen Rundbrief als PDF: PDF im <span class="ui">Media Manager</span> hochladen und im Text verlinken, z.&nbsp;B. „<a>PDF Rundbrief November 2025</a>“ → <code>/uploads/rundbrief-2025-11.pdf</code>.</li>
-        <li><span class="ui">Save</span> klicken.</li>
-      </ol>
-      <div class="box warn">
-        <strong>Datum wird evtl. einen Tag früher angezeigt</strong>
-        Durch die Zeitzonen-Umrechnung erscheint z.&nbsp;B. der 13. Januar auf der Website als „12. Jan“. Prüfen Sie das Datum nach dem Veröffentlichen und wählen Sie ggf. einen Tag später.
-      </div>
-      <p>Den Einleitungstext ganz oben auf „Aktuelles“ ändern Sie in der Datei <code>aktuelles</code> (Typ <span class="ui">Header Article</span>).</p>
-    </section>
-
-    <section id="medien">
-      <h2>Bilder &amp; PDFs</h2>
-      <h3>Hochladen und auswählen</h3>
-      <ol class="steps">
-        <li>Bei einem Bildfeld (<b>Picture</b>) auf das Feld klicken – der <span class="ui">Media Manager</span> öffnet sich.</li>
-        <li>Datei per Drag &amp; Drop in das Fenster ziehen („<span class="ui">Drag and drop assets here</span>“) oder über <span class="ui">Upload</span> auswählen.</li>
-        <li>Die hochgeladene Datei anklicken und mit <span class="ui">Insert</span> übernehmen.</li>
-      </ol>
-      <p>PDFs laden Sie genauso hoch (direkt über <span class="ui">Media Manager</span> in der linken Leiste) und verlinken sie dann im Text mit <code>/uploads/dateiname.pdf</code>.</p>
-
-      <div class="box danger">
-        <strong>Bilder vor dem Hochladen verkleinern!</strong>
-        Handyfotos haben oft 4–6&nbsp;MB. Das macht die Seite langsam, besonders für Besucher mit mobiler Verbindung, und bläht das Archiv auf. Bitte vorher verkleinern:
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <g fill="currentColor" opacity=".3"><rect x="14" y="30" width="80" height="6" rx="2"/><rect x="14" y="42" width="72" height="6" rx="2"/><rect x="14" y="54" width="80" height="6" rx="2"/><rect x="14" y="66" width="60" height="6" rx="2"/></g>
+          <rect class="pic" x="108" y="10" width="120" height="90" rx="4"/>
+          <path d="M118 90l30-34 22 22 14-14 34 26z" class="acc"/>
+        </svg>
+        <h3>Article with Picture</h3>
+        <p>Text mit einem großen Bild daneben.</p>
         <ul>
-          <li>Breite maximal <b>1920 Pixel</b> (Slider) bzw. <b>1200 Pixel</b> (alle anderen Bilder)</li>
-          <li>Format <b>JPG</b>, Dateigröße möglichst <b>unter 500 KB</b></li>
-          <li>Kostenlose Werkzeuge: <a href="https://squoosh.app">squoosh.app</a> (im Browser), am PC „Fotos“-App bzw. Vorschau → „Größenkorrektur“</li>
+          <li><b>Picture</b>: das Bild</li>
+          <li><b>Layout</b>: <b>pic-right</b> = Bild rechts, <b>pic-left</b> = Bild links. Muss ausgefüllt sein.</li>
         </ul>
       </div>
 
-      <h3>Dateinamen</h3>
-      <p>Verwenden Sie kurze Namen <b>ohne Leerzeichen, Umlaute und Sonderzeichen</b>, z.&nbsp;B. <code>schule-kizito-2025.jpg</code> statt <code>Unsere Schüler (neu) 2025.JPG</code>. Das vermeidet kaputte Links.</p>
-
-      <div class="box warn">
-        <strong>Vorsicht beim Löschen von Medien</strong>
-        Ein Bild kann auf mehreren Seiten verwendet werden. Wird es im Media Manager gelöscht, fehlt es überall. Löschen Sie Bilder nur, wenn Sie sicher sind, dass sie nirgends mehr gebraucht werden.
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <rect class="pic" x="8" y="10" width="224" height="90" rx="4"/>
+          <path d="M8 100l60-50 40 34 30-24 94 40z" class="acc"/>
+          <circle cx="104" cy="92" r="3" class="acc"/><circle cx="116" cy="92" r="3" fill="currentColor" opacity=".4"/><circle cx="128" cy="92" r="3" fill="currentColor" opacity=".4"/>
+          <path d="M18 48l-6 7 6 7M222 48l6 7-6 7" stroke="currentColor" stroke-width="2" fill="none"/>
+        </svg>
+        <h3>Picture Slider</h3>
+        <p>Große, wechselnde Bilder ganz oben auf der Seite.</p>
+        <ul>
+          <li>Steht <b>immer ganz oben</b>, egal wo er in der Liste steht.</li>
+          <li>Nur <b>einen</b> pro Seite.</li>
+          <li>Breite Bilder (Querformat) nehmen.</li>
+        </ul>
       </div>
-    </section>
 
-    <section id="neue-seite">
-      <h2>Neue Seite anlegen</h2>
-      <ol class="steps">
-        <li>Links <span class="ui">Pages</span> öffnen und in den passenden Ordner wechseln (z.&nbsp;B. <code>projekte</code>).</li>
-        <li><span class="ui">Create New</span> → <span class="ui">Block Page</span> wählen.</li>
-        <li><b>Filename</b> vergeben. Er wird Teil der Adresse: <code>brunnenbau</code> im Ordner <code>projekte</code> ergibt <code>projekthilfe-uganda.de/projekte/brunnenbau</code>. Nur Kleinbuchstaben, Ziffern und Bindestriche.</li>
-        <li>Haken bei <span class="ui">Hidden (draft)</span> setzen, solange die Seite im Aufbau ist (siehe <a href="#entwurf">Entwürfe</a>).</li>
-        <li>Bausteine hinzufügen – üblich ist oben ein <span class="ui">Picture Slider</span>, danach <span class="ui">Article</span> und <span class="ui">Article with Picture</span>. Eine bestehende Projektseite ist eine gute Vorlage.</li>
-        <li><span class="ui">Save</span> klicken. Ist die Seite fertig: Haken bei <span class="ui">Hidden (draft)</span> entfernen und erneut speichern.</li>
-      </ol>
-      <div class="box warn">
-        <strong>Neue Seiten erscheinen nicht automatisch im Menü</strong>
-        Das Hauptmenü lässt sich nicht im CMS bearbeiten. Die neue Seite ist unter ihrer Adresse erreichbar, aber erst im Menü sichtbar, wenn der technische Ansprechpartner sie einträgt. Teilen Sie ihm dazu Adresse, Menütext und gewünschte Position mit. Alternativ verlinken Sie die Seite aus einer bestehenden Seite, z.&nbsp;B. über einen Teaser.
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <rect class="pic" x="10" y="10" width="50" height="42" rx="3"/><rect class="acc" x="60" y="10" width="50" height="42" rx="3" opacity=".35"/>
+          <rect class="acc" x="130" y="10" width="50" height="42" rx="3" opacity=".6"/><rect class="pic" x="180" y="10" width="50" height="42" rx="3"/>
+          <rect class="acc" x="10" y="58" width="50" height="42" rx="3" opacity=".9"/><rect class="pic" x="60" y="58" width="50" height="42" rx="3"/>
+          <rect class="pic" x="130" y="58" width="50" height="42" rx="3"/><rect class="acc" x="180" y="58" width="50" height="42" rx="3" opacity=".35"/>
+        </svg>
+        <h3>Teaser Block</h3>
+        <p>Kacheln mit Bild und kurzem Text. Sie führen zu anderen Seiten.</p>
+        <ul>
+          <li>Jede Kachel: <b>Text</b> mit Link und ein <b>Picture</b></li>
+          <li>Farben wechseln von allein.</li>
+        </ul>
       </div>
-      <p>Seiten umbenennen oder löschen: In der Dateiliste über das Menü der Datei (<span class="ui">Rename</span>, <span class="ui">Delete</span>). Achtung: Beim Umbenennen ändert sich die Adresse, alte Links und Menüeinträge funktionieren dann nicht mehr. <span class="ui">Duplicate</span> legt eine Kopie an – praktisch als Vorlage für eine ähnliche Seite.</p>
-    </section>
 
-    <section id="spenden">
-      <h2>Spendenshop</h2>
-      <p>Die Datei <code>spenden</code> enthält den Einleitungstext (mit Bankverbindungen) und unter <b>Shop Items</b> die einzelnen Spendenmöglichkeiten, die Besucher in den Warenkorb legen und per PayPal bezahlen.</p>
-      <div class="table-wrap">
-        <table>
-          <thead><tr><th>Feld</th><th>Bedeutung</th></tr></thead>
-          <tbody>
-            <tr><td><b>Title</b></td><td>Name der Spende, z.&nbsp;B. „Kinderschuhe“</td></tr>
-            <tr><td><b>Identifier</b></td><td>Technische Kennung, <b>eindeutig</b>, ohne Leer- und Sonderzeichen, z.&nbsp;B. <code>kinderschuhe</code>. Pflichtfeld. Bei bestehenden Einträgen <b>nicht ändern</b>.</td></tr>
-            <tr><td><b>Picture</b></td><td>Bild zur Spende</td></tr>
-            <tr><td><b>Price</b></td><td>Betrag in Euro, nur die Zahl (z.&nbsp;B. <code>25</code>). Pflichtfeld.</td></tr>
-            <tr><td><b>Description</b></td><td>Kurze Beschreibung, wofür das Geld verwendet wird</td></tr>
-          </tbody>
-        </table>
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <rect class="acc" x="12" y="8" width="90" height="10" rx="2"/>
+          <rect x="12" y="24" width="216" height="1.5" fill="currentColor" opacity=".4"/>
+          <g class="pic"><rect x="12" y="34" width="48" height="32" rx="3"/><rect x="68" y="34" width="48" height="32" rx="3"/><rect x="124" y="34" width="48" height="32" rx="3"/><rect x="180" y="34" width="48" height="32" rx="3"/><rect x="12" y="72" width="48" height="32" rx="3"/><rect x="68" y="72" width="48" height="32" rx="3"/></g>
+        </svg>
+        <h3>Gallery</h3>
+        <p>Viele kleine Bilder. Ein Klick macht sie groß.</p>
+        <ul>
+          <li><b>Gallery Title</b>: Überschrift</li>
+          <li><b>Alt Tag</b>: kurz beschreiben, was auf dem Bild ist. Wichtig für blinde Menschen.</li>
+        </ul>
       </div>
-      <div class="box danger">
-        <strong>Hier geht es um echtes Geld</strong>
-        Bankverbindung und Preise sorgfältig prüfen. Kontrollieren Sie nach dem Speichern auf der Website, ob die Spende in den Warenkorb gelegt werden kann und der Betrag stimmt. Die IBAN im Seitenkopf ist fest eingebaut – soll sie sich ändern, bitte den technischen Ansprechpartner informieren.
+
+      <div class="block">
+        <svg viewBox="0 0 240 110" aria-hidden="true">
+          <rect class="acc" x="20" y="14" width="110" height="12" rx="2"/>
+          <g class="acc"><rect x="20" y="42" width="120" height="7" rx="2"/><rect x="20" y="58" width="150" height="7" rx="2"/><rect x="20" y="74" width="95" height="7" rx="2"/><rect x="20" y="90" width="135" height="7" rx="2"/></g>
+        </svg>
+        <h3>Link List</h3>
+        <p>Eine Liste mit Links, z.&nbsp;B. zu Videos.</p>
+        <ul>
+          <li><b>Link</b>: die Adresse, mit <b>https://</b></li>
+          <li><b>Text</b>: was man auf der Website liest</li>
+          <li><b>open in new tab</b>: Link öffnet sich in einem neuen Fenster</li>
+        </ul>
       </div>
-    </section>
+    </div>
 
-    <section id="veroeffentlichen">
-      <h2>Veröffentlichung &amp; Kontrolle</h2>
-      <ol class="steps">
-        <li>Nach <span class="ui">Save</span> etwa <b>2–5 Minuten</b> warten.</li>
-        <li>Die Seite auf <a href="https://projekthilfe-uganda.de">projekthilfe-uganda.de</a> öffnen und neu laden. Sieht sie noch alt aus: <kbd>Strg</kbd> + <kbd>F5</kbd> (Windows) bzw. <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (Mac), damit der Browser keine alte Kopie zeigt.</li>
-        <li>Auch auf dem Handy prüfen – viele Besucher kommen mobil.</li>
-      </ol>
-      <p>Mehrere Personen können gleichzeitig arbeiten, aber nicht an derselben Seite: Wer zuletzt speichert, überschreibt die Änderungen des anderen. Sprechen Sie sich bei größeren Änderungen kurz ab.</p>
-    </section>
+    <p>Impressum und Datenschutz haben keine Bausteine. Dort gibt es nur ein großes Textfeld (<span class="ui">Body</span>).</p>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
 
-    <section id="probleme">
-      <h2>Probleme &amp; Lösungen</h2>
-      <details>
-        <summary>Meine Änderung ist nach 10 Minuten immer noch nicht zu sehen</summary>
-        <div><p>Zuerst den Browser-Cache umgehen (siehe oben) oder die Seite in einem privaten Fenster öffnen. Wenn es dann immer noch nicht klappt, ist vermutlich der automatische Aufbau der Website fehlgeschlagen – bitte den technischen Ansprechpartner informieren und sagen, welche Seite Sie wann geändert haben.</p></div>
-      </details>
-      <details>
-        <summary>Ich habe versehentlich etwas gelöscht</summary>
-        <div><p>Noch nicht gespeichert? Seite einfach neu laden, ohne zu speichern – nichts ist passiert. Schon gespeichert? Kein Problem: Jeder Stand ist archiviert. Den technischen Ansprechpartner informieren, er stellt ihn wieder her.</p></div>
-      </details>
-      <details>
-        <summary>Ein Bild wird auf der Website nicht angezeigt</summary>
-        <div><p>Meist liegt es am Dateinamen (Leerzeichen, Umlaute, Klammern) oder das Bild wurde im Media Manager gelöscht. Bild mit einfachem Namen erneut hochladen und neu auswählen.</p></div>
-      </details>
-      <details>
-        <summary>Das Datum einer Neuigkeit stimmt nicht</summary>
-        <div><p>Siehe Hinweis bei <a href="#news">Neuigkeit veröffentlichen</a>: Das Datum kann einen Tag früher erscheinen. Einen Tag später wählen und erneut speichern.</p></div>
-      </details>
-      <details>
-        <summary>Eine Seite oder Neuigkeit ist von der Website verschwunden</summary>
-        <div><p>Prüfen Sie, ob der Haken <span class="ui">Hidden (draft)</span> gesetzt ist. Falls ja: Haken entfernen, speichern, 2–5 Minuten warten. Siehe <a href="#entwurf">Entwürfe verstecken</a>.</p></div>
-      </details>
-      <details>
-        <summary>Die neue Seite fehlt im Menü</summary>
-        <div><p>Das Menü wird nicht im CMS gepflegt. Siehe <a href="#neue-seite">Neue Seite anlegen</a>.</p></div>
-      </details>
-      <details>
-        <summary>Das Anmeldefenster öffnet sich nicht</summary>
-        <div><p>Der Browser blockiert vermutlich das Pop-up. In der Adressleiste Pop-ups für projekthilfe-uganda.de erlauben und erneut klicken.</p></div>
-      </details>
-    </section>
-
-    <section id="checkliste">
-      <h2>Checkliste vor dem Speichern</h2>
-      <ul class="check">
-        <li>Rechtschreibung geprüft, Namen und Zahlen stimmen</li>
-        <li>Bilder verkleinert (unter 500 KB) und mit einfachen Dateinamen</li>
-        <li>Bei Galerien: Alt-Text ausgefüllt</li>
-        <li>Links geprüft (intern mit <code>/…</code>, extern mit <code>https://…</code>)</li>
-        <li>Bei Neuigkeiten: Titel und Datum gesetzt</li>
-        <li>Keine personenbezogenen Daten ohne Einwilligung (z.&nbsp;B. Fotos von Kindern mit vollem Namen)</li>
-        <li>Haken <span class="ui">Hidden (draft)</span> richtig gesetzt – nur Entwürfe sind versteckt</li>
-        <li>Nach dem Speichern: Seite auf der Website und auf dem Handy kontrolliert</li>
+  <section id="text">
+    <h2>Text ändern</h2>
+    <ol class="steps">
+      <li>Öffnen Sie das Menü <span class="ui">☰</span> und klicken Sie auf <span class="ui">Pages</span>.</li>
+      <li>Klicken Sie auf die Seite, die Sie ändern möchten. Welche Seite wie heißt, steht unter <a href="#seiten">Wo finde ich was?</a></li>
+      <li>Rechts sehen Sie die <a href="#bausteine">Bausteine</a> der Seite. Klicken Sie auf einen Baustein, um ihn zu öffnen.</li>
+      <li>Ändern Sie den Text.</li>
+      <li>Klicken Sie auf <span class="ui">Save</span>.</li>
+      <li>Warten Sie 5 Minuten. Schauen Sie dann auf der Website nach.</li>
+    </ol>
+    <div class="box">
+      <p><strong>Tipps</strong></p>
+      <ul>
+        <li>Öffnen Sie die Website in einem zweiten Fenster. Dann sehen Sie, welcher Text wo steht.</li>
+        <li>Text aus Word kopiert? Fügen Sie ihn so ein: <b>Strg + Shift + V</b> (Mac: <b>⌘ + Shift + V</b>).</li>
+        <li>Link setzen: Wort markieren, auf das Ketten-Symbol klicken, Adresse einfügen.</li>
       </ul>
-    </section>
+    </div>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
 
-  </main>
+  <section id="bild">
+    <h2>Bild einfügen</h2>
+    <div class="box danger">
+      <p><strong>Zuerst: Bild kleiner machen!</strong><br>
+      Handyfotos sind zu groß. Die Website wird sonst langsam.</p>
+      <ul>
+        <li>Gehen Sie auf <a href="https://squoosh.app">squoosh.app</a> und ziehen Sie das Bild hinein.</li>
+        <li>Breite: <b>1200 Pixel</b> (Bilder ganz oben: 1920).</li>
+        <li>Ziel: <b>unter 500 KB</b>.</li>
+      </ul>
+    </div>
+    <p><strong>Einfacher Dateiname:</strong> keine Leerzeichen, keine Umlaute.<br>
+    Gut: <b>schule-2025.jpg</b> · Schlecht: <b>Unsere Schüler (neu).JPG</b></p>
+    <div class="box">
+      <p><strong>Tipp:</strong> Laden Sie Bilder vorher in der <a href="#medien">Mediathek</a> hoch. Dort können Sie sie in Ordner legen. So bleibt alles ordentlich.</p>
+    </div>
+    <ol class="steps">
+      <li>Klicken Sie auf das Bildfeld <span class="ui">Picture</span>. Die Mediathek geht auf.</li>
+      <li>Öffnen Sie den Ordner mit Ihrem Bild.<br>Neues Bild? Ziehen Sie es in das Fenster. Oder klicken Sie auf <span class="ui">Upload</span>.</li>
+      <li>Klicken Sie das Bild an. Dann auf <span class="ui">Insert</span>.</li>
+      <li>Klicken Sie auf <span class="ui">Save</span>.</li>
+    </ol>
+    <p><strong>PDF einfügen?</strong> Siehe <a href="#medien">Mediathek</a>.</p>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="neuigkeit">
+    <h2>Neuigkeit schreiben</h2>
+    <ol class="steps">
+      <li>Öffnen Sie das Menü <span class="ui">☰</span> und klicken Sie auf <span class="ui">Aktuelles</span>.</li>
+      <li>Klicken Sie oben rechts auf <span class="ui">Create New</span> und dann auf <span class="ui">News Article</span>.</li>
+      <li><span class="ui">Filename</span>: Datum und Thema, ohne Leerzeichen. Zum Beispiel <b>2025-11-rundbrief</b>.</li>
+      <li>Füllen Sie <span class="ui">Title</span> (Überschrift) und <span class="ui">Date</span> (Datum) aus.</li>
+      <li>Bei <span class="ui">News Blocks</span> auf <b>+</b> klicken und <span class="ui">Article</span> wählen. Schreiben Sie Ihren Text.</li>
+      <li>Klicken Sie auf <span class="ui">Save</span>.</li>
+    </ol>
+    <p>Die neueste Neuigkeit steht automatisch ganz oben.</p>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="verstecken">
+    <h2>Seite verstecken</h2>
+    <p>Ganz oben im Formular gibt es das Kästchen <span class="ui">Hidden (draft)</span>.</p>
+    <table>
+      <tr><td><b>Haken an</b></td><td>Seite ist auf der Website <b>unsichtbar</b>.</td></tr>
+      <tr><td><b>Haken aus</b></td><td>Seite ist auf der Website <b>sichtbar</b>.</td></tr>
+    </table>
+    <p>Danach immer <span class="ui">Save</span> klicken.</p>
+    <p>Praktisch für: einen Text, der noch nicht fertig ist. Oder eine alte Aktion, die Sie nicht löschen wollen.</p>
+    <div class="box danger">
+      <p><strong>Bitte beachten</strong></p>
+      <ul>
+        <li>Startseite, Impressum und Datenschutz <b>nie</b> verstecken. Das ist Pflicht per Gesetz.</li>
+        <li>Versteckt heißt nicht geheim. Schreiben Sie nichts Vertrauliches hinein.</li>
+        <li>Seiten aus dem Menü nicht verstecken. Fragen Sie vorher den technischen Ansprechpartner.</li>
+      </ul>
+    </div>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="neue-seite">
+    <h2>Neue Seite anlegen</h2>
+    <div class="box">
+      <p><strong>Am einfachsten:</strong> Kopieren Sie eine ähnliche Seite. Klicken Sie dazu in der Liste neben der Seite auf <span class="ui">Duplicate</span>.</p>
+    </div>
+    <ol class="steps">
+      <li>Öffnen Sie das Menü <span class="ui">☰</span>, klicken Sie auf <span class="ui">Pages</span> und öffnen Sie den passenden Ordner, z.&nbsp;B. <b>projekte</b>.</li>
+      <li>Klicken Sie auf <span class="ui">Create New</span> und dann auf <span class="ui">Block Page</span>.</li>
+      <li><span class="ui">Filename</span>: ein kurzes Wort, klein, ohne Leerzeichen. Zum Beispiel <b>brunnenbau</b>.</li>
+      <li>Setzen Sie den Haken bei <span class="ui">Hidden (draft)</span>, solange die Seite nicht fertig ist.</li>
+      <li>Fügen Sie mit <b>+</b> <a href="#bausteine">Bausteine</a> hinzu, z.&nbsp;B. <span class="ui">Article</span>.</li>
+      <li>Fertig? Haken weg und <span class="ui">Save</span> klicken.</li>
+    </ol>
+    <div class="box warn">
+      <p>Die neue Seite steht <b>nicht von allein im Menü</b>. Bitte sagen Sie dem technischen Ansprechpartner Bescheid.</p>
+    </div>
+    <p>Seiten bitte nicht umbenennen. Sonst funktionieren alte Links nicht mehr.</p>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="spenden">
+    <h2>Spenden ändern</h2>
+    <p>Öffnen Sie in <span class="ui">Pages</span> die Seite <span class="ui">spenden</span>. Die Spenden stehen unten bei <span class="ui">Shop Items</span>.</p>
+    <table>
+      <tr><td><span class="ui">Title</span></td><td>Name der Spende, z.&nbsp;B. „Kinderschuhe“</td></tr>
+      <tr><td><span class="ui">Price</span></td><td>Betrag in Euro. Nur die Zahl, z.&nbsp;B. <b>25</b></td></tr>
+      <tr><td><span class="ui">Picture</span></td><td>Bild</td></tr>
+      <tr><td><span class="ui">Description</span></td><td>Wofür das Geld ist</td></tr>
+      <tr><td><span class="ui">Identifier</span></td><td>Bei alten Spenden <b>nie ändern</b>.<br>Bei neuen Spenden: ein Wort, klein, ohne Leerzeichen, z.&nbsp;B. <b>kinderschuhe</b>.</td></tr>
+    </table>
+    <div class="box danger">
+      <p><strong>Hier geht es um echtes Geld.</strong><br>
+      Prüfen Sie nach dem Speichern auf der Website: Kann man die Spende in den Warenkorb legen? Stimmt der Betrag?<br>
+      Die Bankverbindung ganz oben auf der Website kann nur der technische Ansprechpartner ändern.</p>
+    </div>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="medien">
+    <h2>Mediathek</h2>
+    <p>In der Mediathek liegen alle Bilder und PDFs der Website. Im Editor heißt sie <span class="ui">Media Manager</span>.</p>
+    <ol class="steps">
+      <li>Öffnen Sie das Menü <span class="ui">☰</span> und klicken Sie auf <span class="ui">Media Manager</span>.</li>
+      <li>Sie sehen Ordner und Dateien. Klicken Sie auf einen Ordner, um ihn zu öffnen.</li>
+    </ol>
+
+    <h3>Bilder hochladen und ordnen</h3>
+    <div class="box">
+      <p><strong>Am besten hier hochladen, nicht im Bildfeld.</strong><br>
+      Dann legen Sie Bilder gleich in den richtigen Ordner. So finden Sie sie später schnell wieder.</p>
+    </div>
+    <ol class="steps">
+      <li>Öffnen Sie den passenden Ordner.<br>Noch kein Ordner da? Klicken Sie auf <span class="ui">New Folder</span> und geben Sie einen Namen ein, z.&nbsp;B. <b>2025-rundbrief</b>.</li>
+      <li>Ziehen Sie die Bilder in das Fenster. Oder klicken Sie auf <span class="ui">Upload</span>.</li>
+      <li>Fertig. Jetzt können Sie die Bilder im Bildfeld auswählen (siehe <a href="#bild">Bild einfügen</a>).</li>
+    </ol>
+    <p>Ordnernamen wie Dateinamen: einfach, ohne Leerzeichen und Umlaute.</p>
+
+    <h3>PDF hochladen</h3>
+    <p>Genauso wie Bilder. Dann im Text einen Link auf die PDF setzen:</p>
+    <table>
+      <thead><tr><th>Wo liegt die PDF?</th><th>Link</th></tr></thead>
+      <tbody>
+        <tr><td>Direkt in der Mediathek</td><td><b>/uploads/dateiname.pdf</b></td></tr>
+        <tr><td>In einem Ordner der Mediathek</td><td><b>/uploads/ordnername/dateiname.pdf</b></td></tr>
+      </tbody>
+    </table>
+
+    <div class="box warn">
+      <p>Bilder und Ordner bitte <b>nicht löschen</b>. Sie werden vielleicht noch auf anderen Seiten gebraucht.</p>
+    </div>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="hilfe">
+    <h2>Hilfe, es klappt nicht</h2>
+    <details>
+      <summary>Meine Änderung ist nicht zu sehen</summary>
+      <div><p>Warten Sie 10 Minuten. Laden Sie die Seite dann neu: <b>Strg + F5</b> (Mac: <b>⌘ + Shift + R</b>).<br>
+      Immer noch nicht? Sagen Sie dem technischen Ansprechpartner, welche Seite Sie wann geändert haben.</p></div>
+    </details>
+    <details>
+      <summary>Ich habe aus Versehen etwas gelöscht</summary>
+      <div><p>Noch nicht gespeichert? Laden Sie die Seite einfach neu. Nichts ist passiert.<br>
+      Schon gespeichert? Der technische Ansprechpartner holt es zurück.</p></div>
+    </details>
+    <details>
+      <summary>Ein Bild fehlt auf der Website</summary>
+      <div><p>Meist ist der Dateiname schuld. Geben Sie dem Bild einen einfachen Namen und laden Sie es neu hoch.</p></div>
+    </details>
+    <details>
+      <summary>Das Datum ist einen Tag zu früh</summary>
+      <div><p>Das ist ein bekannter Fehler. Wählen Sie einfach einen Tag später und speichern Sie.</p></div>
+    </details>
+    <details>
+      <summary>Eine Seite ist verschwunden</summary>
+      <div><p>Ist der Haken bei <span class="ui">Hidden (draft)</span> gesetzt? Dann Haken weg und <span class="ui">Save</span> klicken.</p></div>
+    </details>
+    <details>
+      <summary>Das Anmeldefenster geht nicht auf</summary>
+      <div><p>Ihr Browser blockiert das Fenster. Oben in der Adresszeile erscheint ein Hinweis. Klicken Sie auf „Pop-ups erlauben“.</p></div>
+    </details>
+    <details>
+      <summary>Jemand anderes arbeitet an derselben Seite</summary>
+      <div><p>Wer zuletzt speichert, überschreibt die Änderungen der anderen Person. Bitte sprechen Sie sich ab.</p></div>
+    </details>
+    <p class="top"><a href="#inhalt">↑ Zur Übersicht</a></p>
+  </section>
+
+  <section id="checkliste">
+    <h2>Vor dem Speichern</h2>
+    <ul class="check">
+      <li>Rechtschreibung, Namen und Zahlen richtig?</li>
+      <li>Bilder klein gemacht (unter 500 KB)?</li>
+      <li>Fotos von Kindern: Erlaubnis da? Keine vollen Namen.</li>
+      <li>Nach dem Speichern: Website angeschaut, auch auf dem Handy?</li>
+    </ul>
+  </section>
+
+</main>
 </div>
 
 <footer>
-  Projekthilfe Uganda e.&nbsp;V. · Redaktionshandbuch für TinaCMS · Fragen zum System an den technischen Ansprechpartner
+  Projekthilfe Uganda e.&nbsp;V. · Fragen? Wenden Sie sich an den technischen Ansprechpartner.
 </footer>
 
 </body>
