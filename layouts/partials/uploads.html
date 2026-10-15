@@ -1,0 +1,2 @@
+{{- /* Strip Tina CDN / own domain before uploaded files so links stay relative: https://assets.tina.io/<id>/x.pdf -> /uploads/x.pdf */ -}}
+{{- . | replaceRE `https?://(?:assets\.tina\.io/[0-9a-f-]+|(?:www\.)?projekthilfe-uganda\.de/uploads)/` "/uploads/" | safeHTML -}}

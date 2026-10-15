@@ -1,7 +1,18 @@
-import { defineConfig } from "tinacms";
+import { defineConfig, TinaMediaStore } from "tinacms";
 
 import Pages from "./collections/pages";
 import News from "./collections/news";
+
+// Tina Cloud lists media with CDN urls as src, which the media manager shows as copy link.
+// Point them at the site's /uploads path instead (thumbnails stay on the CDN).
+const list = TinaMediaStore.prototype.list;
+TinaMediaStore.prototype.list = async function (options) {
+  const res = await list.call(this, options);
+  for (const item of res.items) {
+    if (item.src) item.src = item.src.replace(/^https:\/\/assets\.tina\.io\/[^/]+\//, "/uploads/");
+  }
+  return res;
+};
 
 export default defineConfig({
   branch: "master",
