@@ -14,6 +14,11 @@ const Pages: Collection = {
       label: 'Simple Page',
       fields: [
         {
+          type: "boolean",
+          name: "draft",
+          label: "Hidden (draft)",
+        },
+        {
           type: "rich-text",
           name: "body",
           label: "Body",
@@ -24,6 +29,11 @@ const Pages: Collection = {
       name: 'block_page',
       label: 'Block Page',
       fields: [
+        {
+          type: "boolean",
+          name: "draft",
+          label: "Hidden (draft)",
+        },
         {
           type: "object",
           name: "blocks",
@@ -37,6 +47,11 @@ const Pages: Collection = {
       name: 'shop',
       label: 'Shop',
       fields: [
+        {
+          type: "boolean",
+          name: "draft",
+          label: "Hidden (draft)",
+        },
         {
           type: "string",
           name: "h1",

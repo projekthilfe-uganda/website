@@ -15,10 +15,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tinacms": "^1.5.28"
+    "tinacms": "^3.14.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.5.39",
+    "@tinacms/cli": "^4.0.2",
     "@types/node": "^20.11.16"
   }
 }
