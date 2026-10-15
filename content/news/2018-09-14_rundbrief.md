@@ -14,7 +14,7 @@ blocks:
 
 
       Wollen Sie sich für künftige Rundbriefe anmelden? Dann kontaktieren Sie
-      uns mit Ihrem Anliegen: [Kontakt](/kontakt)
+      uns mit Ihrem Anliegen: [Kontakt](/verein/kontakt)
     _template: article
 _template: news
 ---
