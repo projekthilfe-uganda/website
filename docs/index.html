@@ -250,6 +250,7 @@
       <li><a href="#zugang">Zugang &amp; Anmeldung</a></li>
       <li><a href="#oberflaeche">Die Oberfläche</a></li>
       <li><a href="#bearbeiten">Eine Seite bearbeiten</a></li>
+      <li><a href="#entwurf">Entwürfe verstecken</a></li>
       <li><a href="#seitentypen">Seitentypen</a></li>
       <li><a href="#bausteine">Bausteine (Blocks)</a></li>
       <li><a href="#text">Texte formatieren</a></li>
@@ -278,7 +279,7 @@
 
       <div class="box warn">
         <strong>Speichern heißt veröffentlichen</strong>
-        Es gibt keinen Entwurfsmodus und keine Freigabe. Alles, was Sie speichern, ist wenige Minuten später öffentlich. Arbeiten Sie deshalb lieber in Ruhe und speichern Sie erst, wenn der Inhalt fertig ist.
+        Es gibt keine Freigabe durch eine zweite Person. Alles, was Sie speichern, ist wenige Minuten später öffentlich – außer Sie haben vorher den Haken <span class="ui">Hidden (draft)</span> gesetzt (siehe <a href="#entwurf">Entwürfe verstecken</a>).
       </div>
 
       <div class="box">
@@ -295,7 +296,7 @@
       <h3>Anmelden</h3>
       <ol class="steps">
         <li>Öffnen Sie <a href="https://projekthilfe-uganda.de/admin">projekthilfe-uganda.de/admin</a>.</li>
-        <li>Klicken Sie auf <span class="ui">Enter Edit Mode</span> bzw. <span class="ui">Continue to Tina Cloud</span>. Es öffnet sich ein Anmeldefenster – erlauben Sie ggf. Pop-ups für diese Seite.</li>
+        <li>Klicken Sie auf <span class="ui">Log in</span> bzw. <span class="ui">Enter Edit Mode</span>. Es öffnet sich ein Anmeldefenster – erlauben Sie ggf. Pop-ups für diese Seite.</li>
         <li>Melden Sie sich mit Ihrem Tina-Cloud-Konto an. Danach sehen Sie die Redaktionsoberfläche.</li>
       </ol>
       <p>Zum Abmelden nutzen Sie <span class="ui">Log Out</span> im Menü der linken Leiste. Die Oberfläche ist auf Englisch; dieses Handbuch nennt die Schaltflächen daher mit ihrem englischen Namen.</p>
@@ -340,7 +341,7 @@
         <li>Wählen Sie links <span class="ui">Pages</span> oder <span class="ui">Aktuelles</span> und klicken Sie auf die gewünschte Datei.</li>
         <li>Rechts erscheint ein Formular mit den Feldern der Seite. Bei Seiten aus Bausteinen sehen Sie eine Liste der Bausteine – klicken Sie auf einen, um ihn zu öffnen. Über den Pfeil oben kommen Sie zurück zur Liste.</li>
         <li>Ändern Sie Texte, Bilder oder die Reihenfolge der Bausteine.</li>
-        <li>Klicken Sie auf <span class="ui">Save</span>. Solange noch nicht gespeichert ist, zeigt Tina den Hinweis <span class="ui">Unsaved Changes</span>.</li>
+        <li>Klicken Sie auf <span class="ui">Save</span>. Solange noch nicht gespeichert ist, zeigt Tina den Hinweis <span class="ui">Unsaved changes</span>.</li>
         <li>Prüfen Sie nach ca. 5 Minuten die Seite auf der Website (siehe <a href="#veroeffentlichen">Veröffentlichung</a>).</li>
       </ol>
       <div class="box">
@@ -356,6 +357,39 @@
       </ul>
     </section>
 
+    <section id="entwurf">
+      <h2>Entwürfe verstecken (Hidden)</h2>
+      <p>Seiten (<span class="ui">Block Page</span>, <span class="ui">Simple Page</span>) und Neuigkeiten (<span class="ui">News Article</span>, <span class="ui">Header Article</span>) haben ganz oben im Formular das Kästchen <span class="ui">Hidden (draft)</span>. Ist der Haken gesetzt, bleibt der Inhalt im CMS gespeichert, erscheint aber nicht auf der Website.</p>
+
+      <h3>Wofür?</h3>
+      <ul>
+        <li>Eine neue Seite oder einen Rundbrief in mehreren Etappen vorbereiten und Zwischenstände speichern.</li>
+        <li>Einen Inhalt vorübergehend offline nehmen, ohne ihn zu löschen – z.&nbsp;B. eine abgeschlossene Aktion.</li>
+      </ul>
+
+      <h3>So geht's</h3>
+      <ol class="steps">
+        <li>Haken bei <span class="ui">Hidden (draft)</span> setzen und <span class="ui">Save</span> klicken. Nach 2–5 Minuten ist der Inhalt von der Website verschwunden (bzw. erscheint bei einer neuen Seite gar nicht erst).</li>
+        <li>Weiter bearbeiten und beliebig oft speichern – solange der Haken gesetzt ist, bleibt alles unsichtbar.</li>
+        <li>Fertig? Haken entfernen und <span class="ui">Save</span> klicken. Nach 2–5 Minuten ist der Inhalt online.</li>
+      </ol>
+
+      <div class="box warn">
+        <strong>Was „Hidden“ nicht kann</strong>
+        <ul>
+          <li><b>Keine Vorschau:</b> Versteckte Inhalte sehen auch Sie nur im Editor-Formular, nicht als fertige Seite.</li>
+          <li><b>Nicht geheim:</b> Die Dateien liegen in einem öffentlich einsehbaren GitHub-Archiv. Wer gezielt sucht, kann auch versteckte Entwürfe lesen. Vertrauliches gehört nicht in Entwürfe.</li>
+          <li><b>Nur ganze Seiten:</b> Einzelne Bausteine lassen sich nicht verstecken. Die Spendenseite (<span class="ui">Shop</span>) hat keinen Haken.</li>
+          <li><b>Links führen ins Leere:</b> Steht die Seite im Hauptmenü oder ist sie von einer anderen Seite verlinkt, landen Besucher dort auf „Seite nicht gefunden“. Bei Menüseiten vorher den technischen Ansprechpartner fragen.</li>
+        </ul>
+      </div>
+
+      <div class="box danger">
+        <strong>Niemals verstecken</strong>
+        Startseite (<code>_index</code>), <code>impressum</code> und <code>datenschutz</code>. Impressum und Datenschutzerklärung sind gesetzlich vorgeschrieben und müssen immer erreichbar sein.
+      </div>
+    </section>
+
     <section id="seitentypen">
       <h2>Seitentypen</h2>
       <p>Beim Anlegen einer Datei wählen Sie einen Seitentyp (in Tina „Template“). Er bestimmt, welche Felder es gibt. Den Typ einer bestehenden Seite ändern Sie nicht nachträglich.</p>
@@ -363,8 +397,8 @@
         <table>
           <thead><tr><th>Typ</th><th>Wofür</th><th>Felder</th></tr></thead>
           <tbody>
-            <tr><td><span class="ui">Block Page</span></td><td>Fast alle Seiten. Die Seite wird aus <a href="#bausteine">Bausteinen</a> zusammengesetzt.</td><td>Page Blocks</td></tr>
-            <tr><td><span class="ui">Simple Page</span></td><td>Reine Textseiten wie Impressum und Datenschutz.</td><td>Body (ein Textfeld)</td></tr>
+            <tr><td><span class="ui">Block Page</span></td><td>Fast alle Seiten. Die Seite wird aus <a href="#bausteine">Bausteinen</a> zusammengesetzt.</td><td>Hidden (draft), Page Blocks</td></tr>
+            <tr><td><span class="ui">Simple Page</span></td><td>Reine Textseiten wie Impressum und Datenschutz.</td><td>Hidden (draft), Body (ein Textfeld)</td></tr>
             <tr><td><span class="ui">Shop</span></td><td>Nur die Spendenseite.</td><td>H1–H3, Body, Shop Items (siehe <a href="#spenden">Spendenshop</a>)</td></tr>
           </tbody>
         </table>
@@ -497,7 +531,7 @@
       <ol class="steps">
         <li>Links <span class="ui">Aktuelles</span> öffnen, oben rechts <span class="ui">Create New</span> klicken und <span class="ui">News Article</span> wählen.</li>
         <li><b>Filename</b> vergeben – am besten Datum und Thema ohne Leer- und Sonderzeichen, z.&nbsp;B. <code>2025-11-rundbrief</code>.</li>
-        <li><b>Title</b> (Überschrift), <b>Date</b> (Datum) und optional <b>Subtitle</b> (Unterzeile) ausfüllen.</li>
+        <li><b>Title</b> (Überschrift), <b>Date</b> (Datum) und optional <b>Subtitle</b> (Unterzeile) ausfüllen. Soll der Beitrag erst später erscheinen, den Haken <span class="ui">Hidden (draft)</span> setzen (siehe <a href="#entwurf">Entwürfe</a>).</li>
         <li>Unter <b>News Blocks</b> mit <kbd>+</kbd> einen Baustein hinzufügen – meist <span class="ui">Article</span> für Text oder <span class="ui">Gallery</span> für Bilder. Die Überschrift kommt schon aus <b>Title</b>; die Felder h1–h3 im Baustein bleiben meist leer.</li>
         <li>Für einen Rundbrief als PDF: PDF im <span class="ui">Media Manager</span> hochladen und im Text verlinken, z.&nbsp;B. „<a>PDF Rundbrief November 2025</a>“ → <code>/uploads/rundbrief-2025-11.pdf</code>.</li>
         <li><span class="ui">Save</span> klicken.</li>
@@ -544,8 +578,9 @@
         <li>Links <span class="ui">Pages</span> öffnen und in den passenden Ordner wechseln (z.&nbsp;B. <code>projekte</code>).</li>
         <li><span class="ui">Create New</span> → <span class="ui">Block Page</span> wählen.</li>
         <li><b>Filename</b> vergeben. Er wird Teil der Adresse: <code>brunnenbau</code> im Ordner <code>projekte</code> ergibt <code>projekthilfe-uganda.de/projekte/brunnenbau</code>. Nur Kleinbuchstaben, Ziffern und Bindestriche.</li>
+        <li>Haken bei <span class="ui">Hidden (draft)</span> setzen, solange die Seite im Aufbau ist (siehe <a href="#entwurf">Entwürfe</a>).</li>
         <li>Bausteine hinzufügen – üblich ist oben ein <span class="ui">Picture Slider</span>, danach <span class="ui">Article</span> und <span class="ui">Article with Picture</span>. Eine bestehende Projektseite ist eine gute Vorlage.</li>
-        <li><span class="ui">Save</span> klicken.</li>
+        <li><span class="ui">Save</span> klicken. Ist die Seite fertig: Haken bei <span class="ui">Hidden (draft)</span> entfernen und erneut speichern.</li>
       </ol>
       <div class="box warn">
         <strong>Neue Seiten erscheinen nicht automatisch im Menü</strong>
@@ -604,6 +639,10 @@
         <div><p>Siehe Hinweis bei <a href="#news">Neuigkeit veröffentlichen</a>: Das Datum kann einen Tag früher erscheinen. Einen Tag später wählen und erneut speichern.</p></div>
       </details>
       <details>
+        <summary>Eine Seite oder Neuigkeit ist von der Website verschwunden</summary>
+        <div><p>Prüfen Sie, ob der Haken <span class="ui">Hidden (draft)</span> gesetzt ist. Falls ja: Haken entfernen, speichern, 2–5 Minuten warten. Siehe <a href="#entwurf">Entwürfe verstecken</a>.</p></div>
+      </details>
+      <details>
         <summary>Die neue Seite fehlt im Menü</summary>
         <div><p>Das Menü wird nicht im CMS gepflegt. Siehe <a href="#neue-seite">Neue Seite anlegen</a>.</p></div>
       </details>
@@ -622,6 +661,7 @@
         <li>Links geprüft (intern mit <code>/…</code>, extern mit <code>https://…</code>)</li>
         <li>Bei Neuigkeiten: Titel und Datum gesetzt</li>
         <li>Keine personenbezogenen Daten ohne Einwilligung (z.&nbsp;B. Fotos von Kindern mit vollem Namen)</li>
+        <li>Haken <span class="ui">Hidden (draft)</span> richtig gesetzt – nur Entwürfe sind versteckt</li>
         <li>Nach dem Speichern: Seite auf der Website und auf dem Handy kontrolliert</li>
       </ul>
     </section>
