@@ -92,7 +92,7 @@ blocks:
       Sie können über die Projektehilfe Uganda nicht nur Patenschaften für Schulkinder, sondern auch für junge Menschen übernehmen, die gerne eine berufliche Ausbildung machen möchten.
 
 
-      [Helfen mit Patenschaften ](/helfen/patenschaften "Patenschaften")
+      [Helfen mit Patenschaften ](/helfen/patenschaft "Patenschaften")
     _template: article
   - title: Unterstützen Sie unsere Projekte
     links:

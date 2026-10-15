@@ -53,7 +53,7 @@ blocks:
           wenden Sie sich gerne für weitere Informationen an uns.
 
 
-          <a target="_blank" href="/mitarbeit">Vor Ort helfen</a>
+          <a target="_blank" href="/helfen/mitarbeit">Vor Ort helfen</a>
         picture: /uploads/IMG_1855_bf.JPG
     _template: teaserblock
 _template: block_page
