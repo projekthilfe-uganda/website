@@ -1,4 +1,5 @@
 ---
+draft: true
 blocks:
   - name: Header Pictures
     slides:
@@ -17,54 +18,30 @@ blocks:
     _template: picture_slider
   - h1: Im September schlug ein Tornado eine Schneise der Verwüstung!
     h2: Im Distrikt Kalungu etliche Gemeinden betroffen.
-    body: >
-      Da im Distrikt Kalungu etliche Gemeinden betroffen waren und der Distrikt
-      nur wenige Mittel für die Betroffenen hatte, besuchte uns der Chief
-      Administrativ Officer und bat eindringlich um Hilfe. Zusammen mit unserem
-      ugandischen Vertreter und einem Ver-treter der Gemeinde besuchten wir alle
-      betroffenen Familien mit zerstörten Häusern, machten Fotos und schrieben
-      auf, was gebraucht wurde. Das reichte von Baumateria-lien bis zu Pflanzen
-      für die zerstörten Bananenfelder. Dabei beachteten wir, dass einige Leute
-      selbst etwas beisteuern, eventuell auch selbst reparieren konnten, einige
-      im völ-ligen Elend saßen und z. B. als alte Witwe nichts selbst tun
-      konnten. So machten wir für 35 mittellose Familien einen Plan und stellten
-      für die meisten, leider noch nicht für alle , eine Finanzierung bereit.
-      Ihre Spenden für Ärmste waren herzlich willkommen!
+    body: |
+      Da im Distrikt Kalungu etliche Gemeinden betroffen waren und der Distrikt nur wenige Mittel für die Betroffenen hatte, besuchte uns der Chief Administrativ Officer und bat eindringlich um Hilfe. Zusammen mit unserem ugandischen Vertreter und einem Ver-treter der Gemeinde besuchten wir alle betroffenen Familien mit zerstörten Häusern, machten Fotos und schrieben auf, was gebraucht wurde. Das reichte von Baumateria-lien bis zu Pflanzen für die zerstörten Bananenfelder. Dabei beachteten wir, dass einige Leute selbst etwas beisteuern, eventuell auch selbst reparieren konnten, einige im völ-ligen Elend saßen und z. B. als alte Witwe nichts selbst tun konnten. So machten wir für 35 mittellose Familien einen Plan und stellten für die meisten, leider noch nicht für alle , eine Finanzierung bereit. Ihre Spenden für Ärmste waren herzlich willkommen!
     _template: article
   - name: Alles verloren!
     picture: /uploads/alles verloren.jpg
     layout: pic-right
-    body: >
+    body: |
       ### Title1
-
 
       #### Title 2
 
-
       > Quote
 
-
       * Punkt 1
-
       * Punkt 2
-
       * Punkt 3
 
-
       1. Punkt 1
-
       2. Punkt 2
-
       3. Punkt 3
-
 
       [Spenden](/spenden "Spenden")
 
-
-      Seine Familie hatte alles verloren, das kleine Haus und die
-      Bananen-stauden. Zusammen mit weiteren 6 Familien bekam er den Höchst-satz
-      von 500.- € für Material und etwa 60 € für neue Pflanzen. Einige Steine
-      kann er noch verwenden und alles selbst aufbauen.
+      Seine Familie hatte alles verloren, das kleine Haus und die Bananen-stauden. Zusammen mit weiteren 6 Familien bekam er den Höchst-satz von 500.- € für Material und etwa 60 € für neue Pflanzen. Einige Steine kann er noch verwenden und alles selbst aufbauen.
     _template: picarticle
   - title: Links
     links:
@@ -87,16 +64,8 @@ blocks:
           [Link](/spenden "Spenden")
         picture: /uploads/Echt Gut Preisverleihung im Stuttgarter Schloss.JPG
       - name: Block 2
-        text: >
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-          nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-          sed diam voluptua. At vero eos et accusam et justo duo dolores et ea
-          rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem
-          ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
-          sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-          et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-          takimata sanctus est Lorem ipsum dolor sit amet.
+        text: |
+          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
         picture: /uploads/75-a.JPG
     _template: teaserblock
   - title: Bildergallerie
