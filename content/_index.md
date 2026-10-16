@@ -30,6 +30,8 @@ blocks:
       **Seit 1983 aktiv · 1.275 Patenkinder · über 100 Ausbildungsabschlüsse pro Jahr · 100 % ehrenamtlich**
 
       **[Jetzt spenden](/spenden)**
+
+      Als gemeinnütziger Verein stellen wir Ihnen gerne eine Spendenquittung aus.
     _template: article
   - name: Teaser Block
     teaser:
