@@ -1,6 +1,6 @@
 ---
 h1: Spenden an Projekthilfe Uganda e.V.
-body: "Für die Weiterentwicklung in Uganda und die Unterstützung der Ärmsten zählt jeder Cent. Spenden Sie an Projekthilfe Uganda per Banküberweisung oder per Paypal (1,5% des Spendenbetrags sowie 0,35 € pro Transaktion fallen bei Paypal als Gebühren für uns an).\n\nBankverbindungen:\n\nProjekthilfe Uganda e.V.\n\n* Sparkasse Kraichgau, IBAN:\_DE36 6635 0036 0007 0487 48, BIC: BRUSDE66XXX\n* Volksbank Krauchgau eG, IBAN:\_DE63 6729 2200 0073 3705 07, BIC: GENODE61WIE\n\n##### Spendenquittung\n\nFalls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spendenquittung\\&body=)\n\n##### Für nachhaltige Projekte & Nothilfe\n\n**Spenden** setzen wir für nachhaltige Projekte ein, die am notwendigsten zu finanzieren sind sowie für vereinzelte Nothilfe-Aktionen in Afrika. Die Vereinsmitglieder arbeiten ehrenamtlich. [Unsere Projektarbeit](/projekte)\n\n##### Spenden-Aktionen\n\nSie suchen ein größeres Spenden-Projekt oder würden gerne in Ihrem Umfeld eine Spendenaktion durchführen? Fragen Sie direkt bei uns an. [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spende\\&body=)\n\nBeispielsweise spendeten in der Vergangenheit Kommunionkinder damit Spielgeräte für Vorschulkinder angeschafft werden konnten.\nJubilare und Firmen spendeten für Ausstattungen in den Schulen oder einzelne Gebäudeteile.\n\nSie können uns auch bei Bestattungen, runden Geburtstagen oder in ihrem Testament berücksichtigen.\n\n### Zweckgebundene Spenden: auswählen & direkt online spenden\n\nFalls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit. Nachfolgend führen wir auf, wie Sie Gutes tun können. Wählen Sie hierzu die Spendenmöglichkeiten hier aus und spenden Sie den automatisch berechneten Endbetrag mittels Paypal an unseren gemeinnützigen Verein. Alternativ überweisen Sie den Betrag an uns per Überweisung mit Angabe der von Ihnen gewünschten Zwecke.\n\n##### So funktioniert der Spenden-Shop\n\nDurch einen Klick auf \"Auswählen\" legen Sie ein Produkt in den Spenden-Warenkorb. Durch mehrfache Auswahl eines Produktes erhöhen Sie die Anzahl im Warenkorb. Der Warenkorb \"Meine Auswahl\" ist auf dieser Seite einsehbar. Im Warenkorb können Sie durch Klick auf die jeweilige Anzahl diese ändern. Durch Klick auf \"Leeren\" wird der komplette Warenkorb geleert. Durch Klick auf \"Spenden\" gelangen Sie weiter zur Bezahlübersicht. Auch die Bezahlung per Lastschrift oder Kreditkarte ist über Paypal möglich.\n\nWir danken Ihnen bereits im Voraus für Ihre Spendenbereitschaft. \n"
+body: "Für die Weiterentwicklung in Uganda und die Unterstützung der Ärmsten zählt jeder Cent. Spenden Sie an Projekthilfe Uganda per Banküberweisung oder per Paypal (1,5% des Spendenbetrags sowie 0,35 € pro Transaktion fallen bei Paypal als Gebühren für uns an).\n\nBankverbindungen:\n\nProjekthilfe Uganda e.V.\n\n* Sparkasse Kraichgau, IBAN:\_DE36 6635 0036 0007 0487 48, BIC: BRUSDE66XXX\n* Volksbank Kraichgau eG, IBAN:\_DE63 6729 2200 0073 3705 07, BIC: GENODE61WIE\n\n##### Spendenquittung\n\nFalls Sie eine **Spendenquittung** wünschen, die Sie bei ihrer Steuererklärung geltend machen können, lassen Sie uns bitte Ihre Anschrift zukommen: [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spendenquittung\\&body=)\n\n##### Für nachhaltige Projekte & Nothilfe\n\n**Spenden** setzen wir für nachhaltige Projekte ein, die am notwendigsten zu finanzieren sind sowie für vereinzelte Nothilfe-Aktionen in Afrika. Die Vereinsmitglieder arbeiten ehrenamtlich. [Unsere Projektarbeit](/projekte)\n\n##### Spenden-Aktionen\n\nSie suchen ein größeres Spenden-Projekt oder würden gerne in Ihrem Umfeld eine Spendenaktion durchführen? Fragen Sie direkt bei uns an. [info@projekthilfe-uganda.de](mailto:info@projekthilfe-uganda.de?subject=Spende\\&body=)\n\nBeispielsweise spendeten in der Vergangenheit Kommunionkinder damit Spielgeräte für Vorschulkinder angeschafft werden konnten.\nJubilare und Firmen spendeten für Ausstattungen in den Schulen oder einzelne Gebäudeteile.\n\nSie können uns auch bei Bestattungen, runden Geburtstagen oder in ihrem Testament berücksichtigen.\n\n### Zweckgebundene Spenden: auswählen & direkt online spenden\n\nFalls Sie **zweckgebunden spenden** möchten, bieten wir auch diese Möglichkeit. Nachfolgend führen wir auf, wie Sie Gutes tun können. Wählen Sie hierzu die Spendenmöglichkeiten hier aus und spenden Sie den automatisch berechneten Endbetrag mittels Paypal an unseren gemeinnützigen Verein. Alternativ überweisen Sie den Betrag an uns per Überweisung mit Angabe der von Ihnen gewünschten Zwecke.\n\n##### So funktioniert der Spenden-Shop\n\nDurch einen Klick auf \"Auswählen\" legen Sie ein Produkt in den Spenden-Warenkorb. Durch mehrfache Auswahl eines Produktes erhöhen Sie die Anzahl im Warenkorb. Der Warenkorb \"Meine Auswahl\" ist auf dieser Seite einsehbar. Im Warenkorb können Sie durch Klick auf die jeweilige Anzahl diese ändern. Durch Klick auf \"Leeren\" wird der komplette Warenkorb geleert. Durch Klick auf \"Spenden\" gelangen Sie weiter zur Bezahlübersicht. Auch die Bezahlung per Lastschrift oder Kreditkarte ist über Paypal möglich.\n\nWir danken Ihnen bereits im Voraus für Ihre Spendenbereitschaft.\n"
 shopitems:
   - title: 5 Euro Spende
     identifier: 5EuroSpende
@@ -40,9 +40,8 @@ shopitems:
     identifier: junghuener
     picture: /uploads/huhnerausgabe.jpg
     price: 15
-    description: >
-      Fünf Junghühner sind ein guter Anfang. Hühner legen auch in trockenen
-      Monaten Eier.
+    description: |
+      Fünf Junghühner sind ein guter Anfang. Hühner legen auch in trockenen Monaten Eier.
   - title: Schwein
     identifier: schwein
     picture: /uploads/schwein2.jpg
@@ -59,23 +58,20 @@ shopitems:
     identifier: kuh
     picture: /uploads/kuh.jpg
     price: 280
-    description: >
-      Mit der Kuh, einer neuen Züchtung, hat man die Morgenmilch zum
-      Eigenverbrauch und die Abendmilch zum Verkaufen.
+    description: |
+      Mit der Kuh, einer neuen Züchtung, hat man die Morgenmilch zum Eigenverbrauch und die Abendmilch zum Verkaufen.
   - title: Teichfolie
     identifier: teichfolie
     picture: /uploads/folie.jpg
     price: 80
-    description: >
-      Die Teichfolie für ein Wasserreservoir ist die Voraussetzung für
-      landwirtschaftliche Erfolge.
+    description: |
+      Die Teichfolie für ein Wasserreservoir ist die Voraussetzung für landwirtschaftliche Erfolge.
   - title: Abdeckung
     identifier: abdeckung
     picture: /uploads/abdeckung-fur-wasserreservoir-1.jpg
     price: 45
-    description: >
-      Die Abdeckung schützt u.a. die Folie vor dem UV-Licht und bietet
-      Sicherheit.
+    description: |
+      Die Abdeckung schützt u.a. die Folie vor dem UV-Licht und bietet Sicherheit.
   - title: Saatgut
     identifier: saatgut
     picture: /uploads/saatgut.jpg
@@ -92,32 +88,26 @@ shopitems:
     identifier: redbeans
     picture: /uploads/beans-4425376_1280.jpg
     price: 50
-    description: >
-      Saatgut für 1/2 acre Land. Gehört zur Haupternährung als Eiweißlieferant
-      und Fleischersatz! Jährlicher Verdienst: 500 €
+    description: |
+      Saatgut für 1/2 acre Land. Gehört zur Haupternährung als Eiweißlieferant und Fleischersatz! Jährlicher Verdienst: 500 €
   - title: Mais-Saat
     identifier: mais-saatgut
     picture: /uploads/corn-1690387_1280.jpg
     price: 38
-    description: >
-      Mais-Saat für 1/4 acre und Spritzmittel. Dient als Hauptnahrungsmittel und
-      bringt 2x jährlich 95 €
+    description: |
+      Mais-Saat für 1/4 acre und Spritzmittel. Dient als Hauptnahrungsmittel und bringt 2x jährlich 95 €
   - title: 50 Kaffeepflanzen
     identifier: kaffeepflanzen
     picture: /uploads/coffee-grains-1474601_1280.jpg
     price: 125
-    description: >
-      Bei guter Pflege sind die Büsche nach 1 Jahr 1 m groß und tragen schon die
-      ersten Kaffeebeeren. Nach 3 Jahren kann man mit 50 Büschen jährlich 500 €
-      verdienen -- eine gute Lebensgrundlage! In Uganda wächst der
-      Robusta-Kaffee besonders gut!
+    description: |
+      Bei guter Pflege sind die Büsche nach 1 Jahr 1 m groß und tragen schon die ersten Kaffeebeeren. Nach 3 Jahren kann man mit 50 Büschen jährlich 500 € verdienen -- eine gute Lebensgrundlage! In Uganda wächst der Robusta-Kaffee besonders gut!
   - title: 5 Macadamia Setzlinge
     identifier: macadamia
     picture: /uploads/fruits-2690052_1280.jpg
     price: 20
-    description: >
-      Die nährstoffreichen Nüsse haben viele Mineralien und Vitamine. Die
-      Baumsetzlinge bringen nach 6 Jahren 600 € jährlich ein.
+    description: |
+      Die nährstoffreichen Nüsse haben viele Mineralien und Vitamine. Die Baumsetzlinge bringen nach 6 Jahren 600 € jährlich ein.
   - title: Lastenfahrrad
     identifier: lastenfahrrad
     picture: /uploads/lastenfahrrad.jpg
@@ -128,11 +118,8 @@ shopitems:
     identifier: solarlicht
     picture: /uploads/solar power light.png
     price: 30
-    description: >
-      Zu den meisten Häusern liegt kein Strom. So ist ein Solarlicht von vielen
-      Menschen ein sehr großer Wunsch. Es bedeutet Licht am Abend und Sicherheit
-      (ab 19:30 Uhr ist es immer dunkel). Das Solargerät reicht für 3 Lichter
-      und Handy-Aufladung.
+    description: |
+      Zu den meisten Häusern liegt kein Strom. So ist ein Solarlicht von vielen Menschen ein sehr großer Wunsch. Es bedeutet Licht am Abend und Sicherheit (ab 19:30 Uhr ist es immer dunkel). Das Solargerät reicht für 3 Lichter und Handy-Aufladung.
   - title: Gemauerter Ofen
     identifier: ofen-gemauert
     picture: /uploads/gemauerter ofen.png
@@ -143,9 +130,8 @@ shopitems:
     identifier: ofen-tragbar
     picture: /uploads/tragbarer ofen.png
     price: 23
-    description: >
-      Der tragbare Ofen ist so konstruiert, dass damit viel Brennholz eingespart
-      wird.
+    description: |
+      Der tragbare Ofen ist so konstruiert, dass damit viel Brennholz eingespart wird.
   - title: Dachrinne
     identifier: dachrinne
     picture: /uploads/ausgabe-von-dachrinnen.jpg
@@ -162,9 +148,8 @@ shopitems:
     identifier: tank1000
     picture: /uploads/1000l-tank.jpg
     price: 80
-    description: >
-      Der 1000-Liter-Tank für das Dachwasser rettet die Omas, die kein Wasser
-      mehr holen können.
+    description: |
+      Der 1000-Liter-Tank für das Dachwasser rettet die Omas, die kein Wasser mehr holen können.
 _template: shop
 ---
 
