@@ -42,7 +42,7 @@ blocks:
           Wir sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt – und das seit über 40 Jahren.
 
           [Mehr über den Verein](/verein "Unser Verein")
-        picture: /uploads/IMG_2301_bf.JPG
+        picture: /uploads/2add3029-856c-417c-a74d-489f5d3b57d5.jpg
       - name: Unsere Projekte
         text: |
           #### Unsere Projekte
