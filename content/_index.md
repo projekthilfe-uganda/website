@@ -73,8 +73,8 @@ blocks:
       [Wie wir konkret helfen](/projekte)
     _template: picarticle
   - name: Unterernährung & Krankheiten
-    picture: /uploads/IMG_2312_bf.JPG
-    layout: pic-right
+    picture: /uploads/IMG_6888.JPG
+    layout: pic-left
     body: |
       ## **Unterernährung & Krankheiten**
 
