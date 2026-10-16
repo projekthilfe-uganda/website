@@ -2,7 +2,7 @@
 title: 'Oktober 2026: Ein Jahr voller Fortschritte in Kyamulibwa'
 subtitle: Projektbericht 2025/2026 mit zwei Einsätzen vor Ort
 blocks:
-  - h1: 'Oktober 2026: Projektbericht aus Kyamulibwa'
+  - h1: ''
     h2: 'Zwei Einsätze, neue Felder für unsere Schulen und 1.275 Patenkinder'
     body: |
       Zweimal waren Mitglieder unseres Vereins in diesem Jahr in der Region Kyamulibwa: vom 31. Januar bis 14. Februar und vom 24. September bis 7. Oktober 2026. Neben vielen Gesprächen mit Rektoren, Verwaltungsräten, Krankenhaus und Diözese standen Besuche in allen Projekten und die Übergabe der Geschenke an die Patenkinder auf dem Programm.
@@ -49,6 +49,4 @@ blocks:
     _template: article
 _template: news
 ---
-
-
 
