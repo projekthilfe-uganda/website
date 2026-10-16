@@ -2,6 +2,7 @@ import { defineConfig, TinaMediaStore } from "tinacms";
 
 import Pages from "./collections/pages";
 import News from "./collections/news";
+import Menu from "./collections/menu";
 
 // Tina Cloud lists media with CDN urls as src, which the media manager shows as copy link.
 // Point them at the site's /uploads path instead (thumbnails stay on the CDN).
@@ -35,6 +36,7 @@ export default defineConfig({
     collections: [
       Pages,
       News,
+      Menu,
     ],
   },
 });
