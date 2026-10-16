@@ -76,7 +76,9 @@ blocks:
 
       ### **Lebensumstände verbessern**
 
-      84 % der Ugander leben im Buschland und 40 % in bitterer Armut. In unserer Gegend haben fast ein Viertel der Jugendlichen Aids. Man lebt in sehr kleinen Häuschen, die mit alten Wellblechstücken oder Gras belegt sind. Fenster gibt es keine oder sie sind zugenagelt. Vielleicht gibt es 1-2 Bettgestelle, oft gibt es nichts, nicht einmal Wolldecken.
+      Die meisten Familien in Kyamulibwa leben von dem, was auf ihrem kleinen Feld wächst. Oft fehlt es an Decken, Betten, Licht und sauberem Wasser.
+
+      Wir setzen auf Hilfe zur Selbsthilfe: Saatgut, Tiere, Wassertanks und Schulungen in Landwirtschaft helfen Familien, ihr eigenes Einkommen zu sichern. Für die Ärmsten verteilen wir bei jedem Einsatz Maismehl, Schuhe und Hilfe für ärztliche Behandlungen.
 
       [Wie wir konkret helfen](/projekte)
     _template: picarticle
