@@ -31,7 +31,7 @@ blocks:
         text: |
           #### Unser Verein
 
-          Wir sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt – und das seit über 35 Jahren.
+          Wir sind eine Gruppe engagierter Menschen, die sich ehrenamtlich für die Menschen in Uganda einsetzt – und das seit über 40 Jahren.
 
           [Mehr über den Verein](/verein "Unser Verein")
         picture: /uploads/IMG_2301_bf.JPG
