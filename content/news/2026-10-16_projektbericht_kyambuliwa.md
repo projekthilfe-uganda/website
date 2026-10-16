@@ -1,5 +1,6 @@
 ---
 title: 'Oktober 2026: Ein Jahr voller Fortschritte in Kyamulibwa'
+date: 2026-10-14T14:19:46.999Z
 subtitle: Projektbericht 2025/2026 mit zwei Einsätzen vor Ort
 blocks:
   - h1: ''
