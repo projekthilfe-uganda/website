@@ -120,7 +120,7 @@ blocks:
 
       [Schulprojekte der Projekthilfe Uganda](/projekte/schulprojekte)
     _template: picarticle
-  - title: Wir freuen uns über Ihre Hilfe
+  - title: Helfen Sie mit!
     links:
       - link: /helfen
         text: Wie Sie noch helfen können
