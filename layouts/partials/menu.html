@@ -1,18 +1,18 @@
 <ul class="nav justify-content-end">
-    {{range .Site.Menus.main}}
+    {{range .Site.Data.menu.items}}
         <li class="nav-item">
-            <a class="nav-link active" href="{{.URL}}">
-                {{if .Pre}}
-                    <i class="fa {{.Pre}}">&nbsp;</i>
+            <a class="nav-link active" href="{{.url}}">
+                {{if .icon}}
+                    <i class="fa {{.icon}}">&nbsp;</i>
                 {{- end -}}
-                {{.Name -}}
+                {{.name -}}
             </a>
-            {{- if .HasChildren -}}
+            {{- if .children -}}
                 <ul class="dropdown-menu">
-                    {{ range .Children }}
+                    {{ range .children }}
                         <li class="">
-                            <a class="nav-link active" href="{{ .URL }}">
-                                {{ .Name }}
+                            <a class="nav-link active" href="{{ .url }}">
+                                {{ .name }}
                             </a>
                         </li>
                     {{ end }}

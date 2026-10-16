@@ -1,0 +1,52 @@
+items:
+  - icon: fa-home
+    url: /
+  - name: Unser Verein
+    url: /verein/
+    children:
+      - name: Kontakt
+        url: /verein/kontakt
+      - name: Hilfseinsätze vor Ort
+        url: /verein/hilfseinsaetze
+      - name: Verwaltungsstruktur Uganda
+        url: /verein/verwaltungsstruktur-uganda
+      - name: Bilder & Videos
+        url: /verein/bilder-videos
+      - name: Aktionen in Büchenau
+        url: /verein/aktionen-buechenau
+      - name: Hof-Trödel in Bengelshagen
+        url: /verein/hof-troedel-bengelshagen
+      - name: Auszeichnungen
+        url: /verein/auszeichnungen
+  - name: Unsere Projekte
+    url: /projekte/
+    children:
+      - name: Schulprojekte
+        url: /projekte/schulprojekte
+      - name: Berufsausbildungen
+        url: /projekte/berufsausbildungen
+      - name: Patenschaften
+        url: /projekte/patenschaften
+      - name: Gesundheitsversorgung
+        url: /projekte/gesundheitsversorgung
+      - name: Wasserversorgung
+        url: /projekte/wasserversorgung
+      - name: Agrar-Hilfsprogramm für Kleinbauern
+        url: /projekte/hilfsprogramm-kleinbauern
+      - name: Selbsthilfegruppen
+        url: /projekte/selbsthilfegruppen
+      - name: Caritas für die Ärmsten
+        url: /projekte/caritas
+      - name: Glockenturm
+        url: /projekte/glockenturm
+  - name: So können Sie helfen
+    url: /helfen/
+    children:
+      - name: Patenschaft
+        url: /helfen/patenschaft
+      - name: Spendenshop
+        url: /spenden
+      - name: Mitarbeit
+        url: /helfen/mitarbeit
+  - name: Aktuelles
+    url: /news/
