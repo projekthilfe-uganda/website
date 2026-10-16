@@ -106,13 +106,13 @@ blocks:
 
       [Durch Patenschaften unterstützen](/helfen/patenschaft)
     _template: picarticle
-  - name: Schulbildung im Busch
+  - name: Bildung & Ausbildung
     picture: /uploads/St-Leonard-tailor.JPG
     layout: pic-right
     body: |
-      ## **Schulbildung im Busch**
+      ## **Bildung & Ausbildung**
 
-      ### **Eine Chance auf Ausbildung ...**
+      ### **Schulen, die auf eigenen Beinen stehen**
 
       Tief im Busch fehlen gute Schulen und bezahlte Lehrer. Viele Kinder verlassen die Schule nach wenigen Jahren, viele Jugendliche ziehen ohne Perspektive in die Slums der Städte.
 
