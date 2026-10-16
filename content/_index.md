@@ -72,9 +72,9 @@ blocks:
     picture: /uploads/IMG_2296_bf.JPG
     layout: pic-left
     body: |
-      ## **Armut begegnen**
+      ## **Hilfe zur Selbsthilfe**
 
-      ### **Lebensumstände verbessern**
+      ### **Damit Familien von ihrer Arbeit leben können**
 
       Die meisten Familien in Kyamulibwa leben von dem, was auf ihrem kleinen Feld wächst. Oft fehlt es an Decken, Betten, Licht und sauberem Wasser.
 
