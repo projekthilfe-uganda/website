@@ -21,9 +21,15 @@ blocks:
   - h1: Projekthilfe Uganda
     h2: Langfristige Hilfe in der Region Kyamulibwa in Uganda
     body: |
-      Uganda zählt zu den am wenigsten entwickelten Ländern der Welt, auch wenn es sogar ein Wirtschaftswachstum von 5 % aufweist. Viele Menschen in Uganda leben in großer Armut und sind auf Hilfe angewiesen. Kosten für Schulbildung, berufliche Ausbildung und Krankenversorgung sind für arme Familien oft nicht bezahlbar. Hinzu kommen Probleme wie Nahrungsmittel-Knappheit und unsauberes Wasser.
-      Seit 1983 arbeiten wir für die Menschen in der Region Kyamulibwa, etwa 3 Autostunden entfernt von der Hauptstadt Kampala. Projekthilfe, Entwicklungshilfe, Hilfe zur Selbsthilfe – wie auch immer Sie es nennen – wir haben **schon viel erreicht**, aber es gibt trotzdem noch viel zu tun.
-      Der Verein Projekthilfe Uganda wurde für seine Arbeit schon **mehrfach ausgezeichnet**.
+      Viele Familien in Uganda leben in großer Armut. Schulgeld, Ausbildung oder ein Arztbesuch sind für sie kaum bezahlbar, dazu kommen Hunger und unsauberes Wasser.
+
+      Seit 1983 unterstützen wir ehrenamtlich die Menschen in der Region Kyamulibwa, rund drei Autostunden von Kampala. Gemeinsam mit unseren Partnern vor Ort fördern wir Schulen, Ausbildung, Gesundheit, Wasser und Landwirtschaft. Unser Ziel ist, dass Schulen und Projekte eines Tages auf eigenen Beinen stehen. Zweimal im Jahr sind wir selbst vor Ort und sehen, wo jeder Euro ankommt.
+
+      Der Verein Projekthilfe Uganda wurde für seine Arbeit schon mehrfach ausgezeichnet.
+
+      **Seit 1983 aktiv · 1.275 Patenkinder · über 100 Ausbildungsabschlüsse pro Jahr · 100 % ehrenamtlich**
+
+      **[Jetzt spenden](/spenden)**
     _template: article
   - name: Teaser Block
     teaser:
