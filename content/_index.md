@@ -107,7 +107,7 @@ blocks:
       [Durch Patenschaften unterstützen](/helfen/patenschaft)
     _template: picarticle
   - name: Schulbildung im Busch
-    picture: /uploads/schuler-im-lesesaal.jpg
+    picture: /uploads/St-Leonard-tailor.JPG
     layout: pic-right
     body: |
       ## **Schulbildung im Busch**
