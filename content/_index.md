@@ -112,11 +112,11 @@ blocks:
     body: |
       ## **Schulbildung im Busch**
 
-      ### **(K)Eine Chance auf Ausbildung ...**
+      ### **Eine Chance auf Ausbildung ...**
 
-      Tief im Busch gibt es keine richtigen Schulen, sodass kein ausgebildeter Lehrer dort hingeht. Oft werden sie nicht bezahlt, weswegen sie nur ab und zu unterrichten. So bleiben viele Kinder nach 4 Jahren zu Hause und können kaum schreiben.
+      Tief im Busch fehlen gute Schulen und bezahlte Lehrer. Viele Kinder verlassen die Schule nach wenigen Jahren, viele Jugendliche ziehen ohne Perspektive in die Slums der Städte.
 
-      Die Jugendlichen sehen keine Chance und wandern ab in die Slums der Städte. Die Mädchen landen dann oft als Prostituierte und die Jungen in Diebesbanden.
+      Wir fördern fünf Grundschulen und eine weiterführende Schule mit Klassenzimmern, Schlafhäusern und eigener Landwirtschaft. Die Schulen werden so Schritt für Schritt selbstständig und können ihre Kinder selbst versorgen. Jedes Jahr schließen über 100 unserer Patenkinder eine Ausbildung ab.
 
       [Schulprojekte der Projekthilfe Uganda](/projekte/schulprojekte)
     _template: picarticle
