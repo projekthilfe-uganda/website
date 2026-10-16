@@ -58,7 +58,7 @@ blocks:
           Immer wieder informieren wir in unseren News über aktuelle Entwicklungen unserer Projekte in Uganda und über Veranstaltungen & Initiativen in Deutschland.
 
           [Zu den News](/news)
-        picture: /uploads/dscn3603_corona.JPG
+        picture: /uploads/IMG_7179.JPG
     _template: teaserblock
   - name: Armut begegnen
     picture: /uploads/IMG_2296_bf.JPG
