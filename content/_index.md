@@ -2,8 +2,8 @@
 blocks:
   - name: Header Pictures
     slides:
-      - name: Termine
-        picture: /uploads/Uganda-Ausstellungsbanner.png
+      - name: nächste Termine
+        picture: /uploads/Uganda-Ausstellungsbanner-(1).png
       - name: kind
         picture: /uploads/child-251920_1920.jpg
         text: Nachhaltige Entwicklung in Uganda
