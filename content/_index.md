@@ -2,6 +2,8 @@
 blocks:
   - name: Header Pictures
     slides:
+      - name: nächste Termine
+        picture: /uploads/Uganda-Ausstellungsbanner-(1).png
       - name: kind
         picture: /uploads/child-251920_1920.jpg
         text: Nachhaltige Entwicklung in Uganda
@@ -17,8 +19,6 @@ blocks:
       - name: brunnen
         picture: /uploads/brunnen_butatwa-namugera-spring-2-min.JPG
         text: Nachhaltige Enwicklung in Uganda durch Brunnenbau
-      - name: nächste Termine
-        picture: /uploads/Uganda-Ausstellungsbanner-(1).png
     _template: picture_slider
   - h1: Projekthilfe Uganda
     h2: Langfristige Hilfe in der Region Kyamulibwa in Uganda
