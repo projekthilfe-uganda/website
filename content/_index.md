@@ -31,7 +31,7 @@ blocks:
 
       **Seit 1983 aktiv · 1.275 Patenkinder · über 100 Ausbildungsabschlüsse pro Jahr · 100 % ehrenamtlich**
 
-      **[Jetzt spenden](/spenden)**
+      <a href="/spenden" style="display:inline-block;background:#e07b2a;color:#fff;padding:10px 26px;border-radius:4px;font-size:1.1em;text-decoration:none;">Jetzt spenden</a>
 
       Als gemeinnütziger Verein stellen wir Ihnen gerne eine Spendenquittung aus.
     _template: article
