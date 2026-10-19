@@ -17,6 +17,8 @@ blocks:
       - name: brunnen
         picture: /uploads/brunnen_butatwa-namugera-spring-2-min.JPG
         text: Nachhaltige Enwicklung in Uganda durch Brunnenbau
+      - name: Termine
+        picture: /uploads/Uganda-Ausstellungsbanner.png
     _template: picture_slider
   - h1: Projekthilfe Uganda
     h2: Langfristige Hilfe in der Region Kyamulibwa in Uganda
