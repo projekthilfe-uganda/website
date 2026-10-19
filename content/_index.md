@@ -110,7 +110,7 @@ blocks:
     _template: picarticle
   - name: Bildung & Ausbildung
     picture: /uploads/St-Leonard-tailor.JPG
-    layout: pic-right
+    layout: pic-left
     body: |
       ## **Bildung & Ausbildung**
 
