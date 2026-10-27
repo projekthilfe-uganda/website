@@ -1685,12 +1685,12 @@
     readable-stream "^4.7.0"
     yup "^1.6.1"
 
-"@tinacms/mdx@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.npmjs.org/@tinacms/mdx/-/mdx-2.3.0.tgz"
-  integrity sha512-5k+I8tPZzJwybmg1NBvn4bOoWsciuoRGtJdXelfdKx2/I5d60WIviSijsSrNJdHTFzT6wjZgyOkRWup0HqbI4Q==
+"@tinacms/mdx@^2.3.0", "@tinacms/mdx@^2.4.0":
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/@tinacms/mdx/-/mdx-2.4.1.tgz#112e9b0bfc8619d6595247ea3ed9d5e7086a6f95"
+  integrity sha512-226ff8+KSD+ulty+bxEDmOwErBtUOqZtLOaOwqij9xqKvJ6NVSeQ7gymcaDRcOUk9cweQueV5CCf0GWJssBcVw==
   dependencies:
-    "@tinacms/schema-tools" "^2.10.1"
+    "@tinacms/schema-tools" "^2.11.0"
     acorn "^8.16.0"
     ccount "2.0.1"
     emoji-regex "9.2.2"
@@ -1724,10 +1724,10 @@
   resolved "https://registry.npmjs.org/@tinacms/metrics/-/metrics-2.1.4.tgz"
   integrity sha512-Q9J4skaueRCTS5Tf2LFGzMdRDmOlDrA11y6EMd8u2/jrzQZw4XMXVhTq9aAbJ6ICmQ5PAzzSdPzMkne/XgJD6w==
 
-"@tinacms/schema-tools@^2.10.1":
-  version "2.10.1"
-  resolved "https://registry.npmjs.org/@tinacms/schema-tools/-/schema-tools-2.10.1.tgz"
-  integrity sha512-jhLOC6r2OMjKp/2jpdFPbVyXPL1Vjbc+cFXASa/hM/FvFIkgFYWqxSbklsjP/26IEa5qXwZbMJ+nZExHoTUncg==
+"@tinacms/schema-tools@^2.10.1", "@tinacms/schema-tools@^2.11.0":
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/@tinacms/schema-tools/-/schema-tools-2.11.0.tgz#23a7a86fe3ad0675191c2d089b4db4b4069a8d56"
+  integrity sha512-bj1f2IYso/atMtTIUzEPvf3VhgMYwRU0tSH+/UW/it/O1RJgKIZeXFCCoGYqHHP9+x3uaEOn1PGppFn4h40qyg==
   dependencies:
     picomatch-browser "2.2.6"
     url-pattern "^1.0.3"
@@ -2893,6 +2893,11 @@ cookie-signature@~1.0.6:
   version "1.0.7"
   resolved "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.7.tgz"
   integrity sha512-NXdYc3dLr47pBkpUCHtKSwIOQXLVn8dZEuywboCOJY/osA0wFSLlSawr3KN8qXJEyX66FcONTH8EIlVuK0yyFA==
+
+cookie@^1.0.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/cookie/-/cookie-1.1.1.tgz#3bb9bdfc82369db9c2f69c93c9c3ceb310c88b3c"
+  integrity sha512-ei8Aos7ja0weRpFzJnEA9UHJ/7XQmqglbRwnf2ATjcB9Wq874VKH9kfjjirM6UhU2/E5fFYadylyhFldcqSidQ==
 
 cookie@~0.7.1:
   version "0.7.2"
@@ -6003,12 +6008,27 @@ react-router-dom@^6.30.3:
     "@remix-run/router" "1.23.4"
     react-router "6.30.6"
 
+react-router-dom@^7.18.4:
+  version "7.18.4"
+  resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-7.18.4.tgz#07b72b8aab2d80af847425107f966f1688c703d0"
+  integrity sha512-yrfmJHIpDG7taCpqKjT1G5B6q3O2K+RN8/fgNf0lTjCwiPbQ0ei6vXX9ZjQR+7ld8Tr7Z5xmyMnZ8YJrphWQUw==
+  dependencies:
+    react-router "7.18.4"
+
 react-router@6.30.6:
   version "6.30.6"
   resolved "https://registry.npmjs.org/react-router/-/react-router-6.30.6.tgz"
   integrity sha512-5HfK7k5im7LTOB0EqCQmfvy4C13G92Ssj1VTmouTK3AJvyjKTnFuCV0vcMAD/JS+JC4DvDIBRrlAeJIFjh5VWg==
   dependencies:
     "@remix-run/router" "1.23.4"
+
+react-router@7.18.4:
+  version "7.18.4"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-7.18.4.tgz#dc30cbb27e936f06d9e1d75ab648b317deb698a4"
+  integrity sha512-PUPQcMhMGRAslLcvtlPz/kmzBEWPhLdgLFrL7pLNepBL6dX0lWj4WD2cUYVgYCuT3jxvghYFg81cDTj44DhetQ==
+  dependencies:
+    cookie "^1.0.1"
+    set-cookie-parser "^2.6.0"
 
 react-stately@3.51.0:
   version "3.51.0"
@@ -6364,6 +6384,11 @@ serve-static@~1.16.2:
     escape-html "~1.0.3"
     parseurl "~1.3.3"
     send "~0.19.1"
+
+set-cookie-parser@^2.6.0:
+  version "2.7.3"
+  resolved "https://registry.yarnpkg.com/set-cookie-parser/-/set-cookie-parser-2.7.3.tgz#ded8e573414ceb6f5752f610dc9751f4eda0295d"
+  integrity sha512-irZHtTqurLna57KQG/s+fzOwv/J6XSH4cs8M/vsrY3uCaQ3S6+QJguAH0WdN47SXlk82voMZ4naWMQf8fdEoIg==
 
 set-function-length@^1.2.2:
   version "1.2.2"
@@ -6821,10 +6846,10 @@ throttle-debounce@^3.0.1:
   resolved "https://registry.npmjs.org/throttle-debounce/-/throttle-debounce-3.0.1.tgz"
   integrity sha512-dTEWWNu6JmeVXY0ZYoPuH5cRIwc0MeGbJwah9KUNYSJwommQpCzTySTpEe8Gs1J23aeWEuAobe4Ag7EHVt/LOg==
 
-tinacms@^3.14.4:
-  version "3.14.4"
-  resolved "https://registry.npmjs.org/tinacms/-/tinacms-3.14.4.tgz"
-  integrity sha512-I21cDWToIgy25EMnOFfUGxl8hdeBMmKzxfXM3HHnNafWToI4DC7DXrm69syyBO6ZVSaZjOC8hP2rLbiapXuqLg==
+tinacms@^3.14.4, tinacms@^3.15.0:
+  version "3.15.0"
+  resolved "https://registry.yarnpkg.com/tinacms/-/tinacms-3.15.0.tgz#a9320e56672aadecac250ca9ca921c17364edd10"
+  integrity sha512-lpuvBl3R86ts2H9nfE0dXkzy/l24s8z9oJtZSt9Ycmyh78K+fQc2dvuFDyIXON8NltviezoPJ6LWsh41CNFzQA==
   dependencies:
     "@ariakit/react" "^0.4.15"
     "@dnd-kit/core" "^6.1.0"
@@ -6844,8 +6869,8 @@ tinacms@^3.14.4:
     "@react-hook/window-size" "^3.1.1"
     "@tanstack/react-table" "^8.21.3"
     "@tinacms/bridge" "^0.3.1"
-    "@tinacms/mdx" "^2.3.0"
-    "@tinacms/schema-tools" "^2.10.1"
+    "@tinacms/mdx" "^2.4.0"
+    "@tinacms/schema-tools" "^2.11.0"
     "@tinacms/search" "^1.2.26"
     "@udecode/cmdk" "^0.2.1"
     "@udecode/cn" "^48.0.3"
@@ -6894,7 +6919,7 @@ tinacms@^3.14.4:
     react-dnd-html5-backend "^16.0.1"
     react-dropzone "14.2.3"
     react-final-form "^6.5.9"
-    react-router-dom "^6.30.3"
+    react-router-dom "^7.18.4"
     react-use "^17.6.0"
     tailwind-merge "^2.6.0"
     webfontloader "1.6.28"
